@@ -35,7 +35,7 @@ conquistador_new_toledo_scripted_country_name = {
 		}
 	}
 }
-conquistador_new_andalucia_scripted_country_name = {
+conquistador_new_andalusia_scripted_country_name = {
 	country_trigger = {
 		has_reform = government_reform:conquistador_country
 	}
