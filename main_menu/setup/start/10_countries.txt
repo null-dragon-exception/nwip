@@ -45539,7 +45539,10 @@ countries = {
 		own_control_core = {
 			magorix yaqui moca cotui
 		}
-		include = "caribbean_tribe"
+		include = "taino_tribe"
+        government = {
+            ruler = random
+        }
 		capital = yaqui
         currency_data = {
             gold = 100
@@ -45555,7 +45558,10 @@ countries = {
 		own_control_core = {
 			marien iguamuco
 		}
-		include = "caribbean_tribe"
+		include = "taino_tribe"
+        government = {
+            ruler = random
+        }
         capital = marien
         currency_data = {
             gold = 100
@@ -45571,7 +45577,10 @@ countries = {
 		own_control_core = {
 			cibao jarabacoa maguana banique
 		}
-		include = "caribbean_tribe"
+		include = "taino_tribe"
+        government = {
+            ruler = random
+        }
         capital = maguana
         currency_data = {
             gold = 100
@@ -45587,7 +45596,10 @@ countries = {
 		own_control_core = {
 			jaragua cahay yaguana
 		}
-		include = "caribbean_tribe"
+		include = "taino_tribe"
+        government = {
+            ruler = random
+        }
         capital = jaragua
         currency_data = {
             gold = 100
@@ -45603,7 +45615,10 @@ countries = {
 		own_control_core = {
 			yuma hicayagua cayacoa yamasa
 		}
-		include = "caribbean_tribe"
+		include = "taino_tribe"
+        government = {
+            ruler = random
+        }
         capital = yuma
         currency_data = {
             gold = 100
@@ -45619,7 +45634,10 @@ countries = {
 		own_control_core = {
 			guaynia guama
 		}
-		include = "caribbean_tribe"
+		include = "taino_tribe"
+        government = {
+            ruler = random
+        }
         capital = yuma
         currency_data = {
             gold = 100
