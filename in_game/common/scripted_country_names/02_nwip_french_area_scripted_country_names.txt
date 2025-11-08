@@ -2,9 +2,10 @@
 french_greenland_area_scripted_country_name = { #Terre Verte
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -32,9 +33,10 @@ french_greenland_area_scripted_country_name = { #Terre Verte
 french_quebec_area_scripted_country_name = { #Québec, historical
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -62,9 +64,10 @@ french_quebec_area_scripted_country_name = { #Québec, historical
 french_laurentian_area_scripted_country_name = { #Laurentides, historical
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -92,9 +95,10 @@ french_laurentian_area_scripted_country_name = { #Laurentides, historical
 french_lower_canada_area_scripted_country_name = { #Archipel d'Hochelaga, historical
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -122,9 +126,10 @@ french_lower_canada_area_scripted_country_name = { #Archipel d'Hochelaga, histor
 french_jamesie_area_scripted_country_name = { #Baie-James, translation
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -152,9 +157,10 @@ french_jamesie_area_scripted_country_name = { #Baie-James, translation
 french_nunavik_area_scripted_country_name = { #Nouveau-Québec, historical
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -182,9 +188,10 @@ french_nunavik_area_scripted_country_name = { #Nouveau-Québec, historical
 french_labrador_area_scripted_country_name = { #Nouvelle-Bretagne, historical
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -212,9 +219,10 @@ french_labrador_area_scripted_country_name = { #Nouvelle-Bretagne, historical
 french_newfoundland_area_scripted_country_name = { #Terre-Neuve, historical
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -242,9 +250,10 @@ french_newfoundland_area_scripted_country_name = { #Terre-Neuve, historical
 french_prince_edward_island_area_scripted_country_name = { #Île Saint-Jean, historical
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -272,9 +281,10 @@ french_prince_edward_island_area_scripted_country_name = { #Île Saint-Jean, his
 french_acadia_area_scripted_country_name = { #Acadie Péninsulaire, historical, or Cap-Breton, or Île-Royale 
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -302,9 +312,10 @@ french_acadia_area_scripted_country_name = { #Acadie Péninsulaire, historical, 
 french_new_brunswick_area_scripted_country_name = { #Acadie Continentale, historical
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -332,9 +343,10 @@ french_new_brunswick_area_scripted_country_name = { #Acadie Continentale, histor
 french_eastern_ontario_area_scripted_country_name = { #Grand-Rivière des Outaouais , historical
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -362,9 +374,10 @@ french_eastern_ontario_area_scripted_country_name = { #Grand-Rivière des Outaou
 french_western_ontario_area_scripted_country_name = { #Huronie, historical
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -392,9 +405,10 @@ french_western_ontario_area_scripted_country_name = { #Huronie, historical
 french_northern_ontario_area_scripted_country_name = { #Pays des Nipissing, historical
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -422,9 +436,10 @@ french_northern_ontario_area_scripted_country_name = { #Pays des Nipissing, hist
 french_northwestern_ontario_area_scripted_country_name = { #Baie du Tonnerre, historical
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -452,9 +467,10 @@ french_northwestern_ontario_area_scripted_country_name = { #Baie du Tonnerre, hi
 french_greenstone_belt_area_scripted_country_name = { #Abitibi
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -482,9 +498,10 @@ french_greenstone_belt_area_scripted_country_name = { #Abitibi
 french_keewatin_area_scripted_country_name = { #Baie du Nord, historical
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -512,9 +529,10 @@ french_keewatin_area_scripted_country_name = { #Baie du Nord, historical
 french_cuba_area_scripted_country_name = { #Cuba
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -542,9 +560,10 @@ french_cuba_area_scripted_country_name = { #Cuba
 french_hispaniola_area_scripted_country_name = { #Saint-Domingue, historical, also Haïti
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -572,9 +591,10 @@ french_hispaniola_area_scripted_country_name = { #Saint-Domingue, historical, al
 french_lesser_antilles_area_scripted_country_name = { #Petites Antilles
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -602,9 +622,10 @@ french_lesser_antilles_area_scripted_country_name = { #Petites Antilles
 french_panama_area_scripted_country_name = { #Panama
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -632,9 +653,10 @@ french_panama_area_scripted_country_name = { #Panama
 french_massachusetts_area_scripted_country_name = { #Almouchiquie, see dutch
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -662,9 +684,10 @@ french_massachusetts_area_scripted_country_name = { #Almouchiquie, see dutch
 french_southern_new_england_area_scripted_country_name = { #Champlainie
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -692,9 +715,10 @@ french_southern_new_england_area_scripted_country_name = { #Champlainie
 french_vermont_area_scripted_country_name = { #Vermont
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -722,9 +746,10 @@ french_vermont_area_scripted_country_name = { #Vermont
 french_new_hampshire_area_scripted_country_name = { #Blancmont
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -752,9 +777,10 @@ french_new_hampshire_area_scripted_country_name = { #Blancmont
 french_maine_area_scripted_country_name = { #Norembègue, historical
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -782,9 +808,10 @@ french_maine_area_scripted_country_name = { #Norembègue, historical
 french_hudson_area_scripted_country_name = { #Nouvelle-Angoulême, It's the same, and I don't care 
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -812,9 +839,10 @@ french_hudson_area_scripted_country_name = { #Nouvelle-Angoulême, It's the same
 french_haudenosaunee_area_scripted_country_name = { #Iroquoisie, historical
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -842,9 +870,10 @@ french_haudenosaunee_area_scripted_country_name = { #Iroquoisie, historical
 french_new_jersey_area_scripted_country_name = { #Nouvelle-Oléron
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -872,9 +901,10 @@ french_new_jersey_area_scripted_country_name = { #Nouvelle-Oléron
 french_pennsylvania_area_scripted_country_name = { #Andastiane, Andastes 
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -902,9 +932,10 @@ french_pennsylvania_area_scripted_country_name = { #Andastiane, Andastes
 french_westsylvania_area_scripted_country_name = { #Alleghenie, historical
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -932,9 +963,10 @@ french_westsylvania_area_scripted_country_name = { #Alleghenie, historical
 french_maryland_area_scripted_country_name = { #Terre de Marie
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -962,9 +994,10 @@ french_maryland_area_scripted_country_name = { #Terre de Marie
 french_virginia_area_scripted_country_name = { #Notre-Dame de l'Amorce des Terres
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -992,9 +1025,10 @@ french_virginia_area_scripted_country_name = { #Notre-Dame de l'Amorce des Terre
 french_west_virginia_area_scripted_country_name = { #Chavanonie, Historical spelling of Chaouanons 
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -1022,9 +1056,10 @@ french_west_virginia_area_scripted_country_name = { #Chavanonie, Historical spel
 french_north_carolina_area_scripted_country_name = { #Nouvelle-Aumale, Reference Albemarle
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -1052,9 +1087,10 @@ french_north_carolina_area_scripted_country_name = { #Nouvelle-Aumale, Reference
 french_south_carolina_area_scripted_country_name = { #Haute-Caroline, OG french settlement named Charlesfort
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -1082,9 +1118,10 @@ french_south_carolina_area_scripted_country_name = { #Haute-Caroline, OG french 
 french_georgia_us_area_scripted_country_name = { #Basse-Caroline
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -1112,9 +1149,10 @@ french_georgia_us_area_scripted_country_name = { #Basse-Caroline
 french_florida_area_scripted_country_name = { #La Floride, Historical
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -1142,9 +1180,10 @@ french_florida_area_scripted_country_name = { #La Floride, Historical
 french_tennessee_area_scripted_country_name = { #Rivière à Margot, Historical
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -1172,9 +1211,10 @@ french_tennessee_area_scripted_country_name = { #Rivière à Margot, Historical
 french_kentucky_area_scripted_country_name = { #Belle Rivière, Historical name for Ohio River
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -1202,9 +1242,10 @@ french_kentucky_area_scripted_country_name = { #Belle Rivière, Historical name 
 french_ohio_area_scripted_country_name = { #Vallée de l'Ohio, Historical
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -1232,9 +1273,10 @@ french_ohio_area_scripted_country_name = { #Vallée de l'Ohio, Historical
 french_indiana_area_scripted_country_name = { #Potéouatamie, Or Pays des Miamis
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -1262,9 +1304,10 @@ french_indiana_area_scripted_country_name = { #Potéouatamie, Or Pays des Miamis
 french_michigan_area_scripted_country_name = { #Pays-d'en-Haut, Historical
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -1292,9 +1335,10 @@ french_michigan_area_scripted_country_name = { #Pays-d'en-Haut, Historical
 french_illinois_area_scripted_country_name = { #Pays des Illinois, Historical
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -1322,9 +1366,10 @@ french_illinois_area_scripted_country_name = { #Pays des Illinois, Historical
 french_wisconsin_area_scripted_country_name = { #Pays des Mascoutens, Historical
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -1352,9 +1397,10 @@ french_wisconsin_area_scripted_country_name = { #Pays des Mascoutens, Historical
 french_alabama_area_scripted_country_name = { #Alibamonie, Based on french historical name for Alabama tribe
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -1382,9 +1428,10 @@ french_alabama_area_scripted_country_name = { #Alibamonie, Based on french histo
 french_mississippi_area_scripted_country_name = { #Messipi , Older spelling
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -1412,9 +1459,10 @@ french_mississippi_area_scripted_country_name = { #Messipi , Older spelling
 french_louisiana_area_scripted_country_name = { #Basse-Louisiane, Historical
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -1442,9 +1490,10 @@ french_louisiana_area_scripted_country_name = { #Basse-Louisiane, Historical
 french_arkansas_area_scripted_country_name = { #Les Arcs, Historical
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -1472,9 +1521,10 @@ french_arkansas_area_scripted_country_name = { #Les Arcs, Historical
 french_missouri_area_scripted_country_name = { #Haute-Louisiane, Historical
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -1502,9 +1552,10 @@ french_missouri_area_scripted_country_name = { #Haute-Louisiane, Historical
 french_iowa_area_scripted_country_name = { #Le Moingona, Historical
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -1532,9 +1583,10 @@ french_iowa_area_scripted_country_name = { #Le Moingona, Historical
 french_minnesota_area_scripted_country_name = { #L'étoile du Nord
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -1562,9 +1614,10 @@ french_minnesota_area_scripted_country_name = { #L'étoile du Nord
 french_superior_area_scripted_country_name = { #Pays des Renards, Historical
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -1592,9 +1645,10 @@ french_superior_area_scripted_country_name = { #Pays des Renards, Historical
 french_north_dakota_area_scripted_country_name = { #Sioux du Nord
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -1622,9 +1676,10 @@ french_north_dakota_area_scripted_country_name = { #Sioux du Nord
 french_south_dakota_area_scripted_country_name = { #Sioux du Sud
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -1652,9 +1707,10 @@ french_south_dakota_area_scripted_country_name = { #Sioux du Sud
 french_central_plains_area_scripted_country_name = { #Grandes Plaines
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -1682,9 +1738,10 @@ french_central_plains_area_scripted_country_name = { #Grandes Plaines
 french_natahende_area_scripted_country_name = { #Nouveau-Méxique
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -1712,9 +1769,10 @@ french_natahende_area_scripted_country_name = { #Nouveau-Méxique
 french_high_plains_area_scripted_country_name = { #Pays des Apaches 
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -1742,9 +1800,10 @@ french_high_plains_area_scripted_country_name = { #Pays des Apaches
 french_badlands_area_scripted_country_name = { #Pays des Cheyennes
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -1772,9 +1831,10 @@ french_badlands_area_scripted_country_name = { #Pays des Cheyennes
 french_upper_missouri_area_scripted_country_name = { #Haut-Missouri, Historical
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -1802,9 +1862,10 @@ french_upper_missouri_area_scripted_country_name = { #Haut-Missouri, Historical
 french_athabasca_area_scripted_country_name = { #Athabasca
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -1832,9 +1893,10 @@ french_athabasca_area_scripted_country_name = { #Athabasca
 french_saskatchewan_area_scripted_country_name = { #Pembina
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -1862,9 +1924,10 @@ french_saskatchewan_area_scripted_country_name = { #Pembina
 french_keewatin_n_area_scripted_country_name = { #Nord-Ouest
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -1892,9 +1955,10 @@ french_keewatin_n_area_scripted_country_name = { #Nord-Ouest
 french_red_river_area_scripted_country_name = { #Assiniboia, Historical
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -1922,9 +1986,10 @@ french_red_river_area_scripted_country_name = { #Assiniboia, Historical
 french_mexihko_area_scripted_country_name = { #Méksique
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -1952,9 +2017,10 @@ french_mexihko_area_scripted_country_name = { #Méksique
 french_tlaxcala_area_scripted_country_name = { #Tlakskala
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -1982,9 +2048,10 @@ french_tlaxcala_area_scripted_country_name = { #Tlakskala
 french_huaxyacac_area_scripted_country_name = { #Ouaraca 
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -2012,9 +2079,10 @@ french_huaxyacac_area_scripted_country_name = { #Ouaraca
 french_tochtepec_area_scripted_country_name = { #Sainte Croix
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -2042,9 +2110,10 @@ french_tochtepec_area_scripted_country_name = { #Sainte Croix
 french_michoacan_area_scripted_country_name = { #Nouvelle-Artois
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -2072,9 +2141,10 @@ french_michoacan_area_scripted_country_name = { #Nouvelle-Artois
 french_xilotepec_area_scripted_country_name = { #Montagnes d'Argent
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -2102,9 +2172,10 @@ french_xilotepec_area_scripted_country_name = { #Montagnes d'Argent
 french_xalisco_area_scripted_country_name = { #Nouvelle-Aquitaine
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -2132,9 +2203,10 @@ french_xalisco_area_scripted_country_name = { #Nouvelle-Aquitaine
 french_peten_area_scripted_country_name = { #Bellix
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -2162,9 +2234,10 @@ french_peten_area_scripted_country_name = { #Bellix
 french_tezulutlan_area_scripted_country_name = { #Goathemala
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -2192,9 +2265,10 @@ french_tezulutlan_area_scripted_country_name = { #Goathemala
 french_kuskatan_area_scripted_country_name = { #Les Profondeurs
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -2222,9 +2296,10 @@ french_kuskatan_area_scripted_country_name = { #Les Profondeurs
 french_imabite_area_scripted_country_name = { #Nicaragua
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -2252,9 +2327,10 @@ french_imabite_area_scripted_country_name = { #Nicaragua
 french_nekokiaw_area_scripted_country_name = { #Côte d'Or
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -2282,9 +2358,10 @@ french_nekokiaw_area_scripted_country_name = { #Côte d'Or
 french_zacatecas_area_scripted_country_name = { #Sacateque
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -2312,9 +2389,10 @@ french_zacatecas_area_scripted_country_name = { #Sacateque
 french_baja_area_scripted_country_name = { #Basse-Californie
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -2342,9 +2420,10 @@ french_baja_area_scripted_country_name = { #Basse-Californie
 french_tahejoc_area_scripted_country_name = { #Nouvelle-Navarre
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -2372,9 +2451,10 @@ french_tahejoc_area_scripted_country_name = { #Nouvelle-Navarre
 french_culiacan_area_scripted_country_name = { #Côte Vermeille 
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -2402,9 +2482,10 @@ french_culiacan_area_scripted_country_name = { #Côte Vermeille
 french_tamaulipeco_area_scripted_country_name = { #Terre de Tenec
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -2432,9 +2513,10 @@ french_tamaulipeco_area_scripted_country_name = { #Terre de Tenec
 french_guachichil_area_scripted_country_name = { #Nouvelle-Biscaye
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -2462,9 +2544,10 @@ french_guachichil_area_scripted_country_name = { #Nouvelle-Biscaye
 french_texas_area_scripted_country_name = { #Carancaquaca, Karankawas
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -2492,9 +2575,10 @@ french_texas_area_scripted_country_name = { #Carancaquaca, Karankawas
 french_shiewhibak_area_scripted_country_name = { #Beauchêne 
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -2522,9 +2606,10 @@ french_shiewhibak_area_scripted_country_name = { #Beauchêne
 french_alaxsxaq_area_scripted_country_name = { #Pay de Aléoute
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -2552,9 +2637,10 @@ french_alaxsxaq_area_scripted_country_name = { #Pay de Aléoute
 french_yukon_area_scripted_country_name = { #Liardie
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -2582,9 +2668,10 @@ french_yukon_area_scripted_country_name = { #Liardie
 french_columbia_interior_area_scripted_country_name = { #Rivière de Broche, Historical peace river
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -2612,9 +2699,10 @@ french_columbia_interior_area_scripted_country_name = { #Rivière de Broche, His
 french_california_area_scripted_country_name = { #Haute-Californie
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -2642,9 +2730,10 @@ french_california_area_scripted_country_name = { #Haute-Californie
 french_great_basin_area_scripted_country_name = { #Bassin de Bonneville
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -2672,9 +2761,10 @@ french_great_basin_area_scripted_country_name = { #Bassin de Bonneville
 french_rockies_area_scripted_country_name = { #Les Rocheuses
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -2702,9 +2792,10 @@ french_rockies_area_scripted_country_name = { #Les Rocheuses
 french_hawaii_area_scripted_country_name = { #Îles Pérouse
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -2732,9 +2823,10 @@ french_hawaii_area_scripted_country_name = { #Îles Pérouse
 french_cascadia_area_scripted_country_name = { #Terre de Charbonneau
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -2762,9 +2854,10 @@ french_cascadia_area_scripted_country_name = { #Terre de Charbonneau
 french_amazon_area_scripted_country_name = { #Amazonie
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -2792,9 +2885,10 @@ french_amazon_area_scripted_country_name = { #Amazonie
 french_tocantins_area_scripted_country_name = { #Toucantine
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -2822,9 +2916,10 @@ french_tocantins_area_scripted_country_name = { #Toucantine
 french_para_area_scripted_country_name = { #Bas Amazonie
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -2852,9 +2947,10 @@ french_para_area_scripted_country_name = { #Bas Amazonie
 french_maranhao_area_scripted_country_name = { #France Équinoxiale , historical
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -2882,9 +2978,10 @@ french_maranhao_area_scripted_country_name = { #France Équinoxiale , historical
 french_piaui_area_scripted_country_name = { #Piauhy 
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -2912,9 +3009,10 @@ french_piaui_area_scripted_country_name = { #Piauhy
 french_ceara_area_scripted_country_name = { #Cèaras
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -2942,9 +3040,10 @@ french_ceara_area_scripted_country_name = { #Cèaras
 french_paraiba_area_scripted_country_name = { #Parahybas
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -2972,9 +3071,10 @@ french_paraiba_area_scripted_country_name = { #Parahybas
 french_pernambuco_area_scripted_country_name = { #Pèrnambuque
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -3002,9 +3102,10 @@ french_pernambuco_area_scripted_country_name = { #Pèrnambuque
 french_bahia_area_scripted_country_name = { #Baie de Tous les Saints
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -3032,9 +3133,10 @@ french_bahia_area_scripted_country_name = { #Baie de Tous les Saints
 french_espirito_santo_area_scripted_country_name = { #Saint Esprit
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -3062,9 +3164,10 @@ french_espirito_santo_area_scripted_country_name = { #Saint Esprit
 french_rio_de_janeiro_area_scripted_country_name = { #France Antartique, historical name
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -3092,9 +3195,10 @@ french_rio_de_janeiro_area_scripted_country_name = { #France Antartique, histori
 french_minas_gerais_area_scripted_country_name = { #Emboabas
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -3122,9 +3226,10 @@ french_minas_gerais_area_scripted_country_name = { #Emboabas
 french_sao_paulo_area_scripted_country_name = { #Saint-Paul
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -3152,9 +3257,10 @@ french_sao_paulo_area_scripted_country_name = { #Saint-Paul
 french_santa_catarina_area_scripted_country_name = { #Sainte-Catherine
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -3182,9 +3288,10 @@ french_santa_catarina_area_scripted_country_name = { #Sainte-Catherine
 french_la_plata_area_scripted_country_name = { #Argentine
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -3212,9 +3319,10 @@ french_la_plata_area_scripted_country_name = { #Argentine
 french_ngulumapu_area_scripted_country_name = { #Araucanie 
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -3242,9 +3350,10 @@ french_ngulumapu_area_scripted_country_name = { #Araucanie
 french_patagonia_area_scripted_country_name = { #Patagonie
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -3272,9 +3381,10 @@ french_patagonia_area_scripted_country_name = { #Patagonie
 french_falklands_area_scripted_country_name = { #Îles Malouines, historical
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -3302,9 +3412,10 @@ french_falklands_area_scripted_country_name = { #Îles Malouines, historical
 french_south_georgia_area_scripted_country_name = { #Île Roché, historical
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -3332,9 +3443,10 @@ french_south_georgia_area_scripted_country_name = { #Île Roché, historical
 french_sinu_area_scripted_country_name = { #La Rochelle D'Ouest
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language
@@ -3362,9 +3474,10 @@ french_sinu_area_scripted_country_name = { #La Rochelle D'Ouest
 french_guayana_area_scripted_country_name = { #Guyane
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:french_language

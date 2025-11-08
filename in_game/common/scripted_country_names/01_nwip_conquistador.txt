@@ -1,44 +1,47 @@
 ﻿conquistador_new_castile_scripted_country_name = {
 	country_trigger = {
 		has_reform = government_reform:conquistador_country
-	}
-	overlord ?= {
-		OR = {
-			tag = ESP
-			tag = CAS
-			culture.language = language:spanish_language
+		overlord ?= {
+			OR = {
+				tag = ESP
+				tag = CAS
+				culture.language = language:spanish_language
+			}
 		}
 	}
+	
 }
 conquistador_new_leon_scripted_country_name = {
 	country_trigger = {
 		has_reform = government_reform:conquistador_country
-	}
-	overlord ?= {
-		OR = {
-			tag = ESP
-			tag = CAS
-			tag = LEO
-			culture.language = language:spanish_language
+		overlord ?= {
+			OR = {
+				tag = ESP
+				tag = CAS
+				tag = LEO
+				culture.language = language:spanish_language
+			}
 		}
 	}
+	
 }
 conquistador_new_toledo_scripted_country_name = {
 	country_trigger = {
 		has_reform = government_reform:conquistador_country
-	}
-	overlord ?= {
-		OR = {
-			tag = ESP
-			tag = CAS
-			culture.language = language:spanish_language
+		overlord ?= {
+			OR = {
+				tag = ESP
+				tag = CAS
+				culture.language = language:spanish_language
+			}
 		}
 	}
+	
 }
 conquistador_new_andalusia_scripted_country_name = {
 	country_trigger = {
 		has_reform = government_reform:conquistador_country
-			overlord ?= {
+		overlord ?= {
 			OR = {
 				tag = ESP
 				tag = CAS

@@ -2,9 +2,10 @@
 german_greenland_area_scripted_country_name = { #Grönland, historical
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -32,9 +33,10 @@ german_greenland_area_scripted_country_name = { #Grönland, historical
 german_quebec_area_scripted_country_name = { #Kebeck, transliteration
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -62,9 +64,10 @@ german_quebec_area_scripted_country_name = { #Kebeck, transliteration
 german_laurentian_area_scripted_country_name = { #Lorenzberge, germanized
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -92,9 +95,10 @@ german_laurentian_area_scripted_country_name = { #Lorenzberge, germanized
 german_lower_canada_area_scripted_country_name = { #Niederkanada, translation
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -122,9 +126,10 @@ german_lower_canada_area_scripted_country_name = { #Niederkanada, translation
 german_jamesie_area_scripted_country_name = { #Jakobsbucht, germanized
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -152,9 +157,10 @@ german_jamesie_area_scripted_country_name = { #Jakobsbucht, germanized
 german_nunavik_area_scripted_country_name = { #Eisland,  'Land of Ice'
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -182,9 +188,10 @@ german_nunavik_area_scripted_country_name = { #Eisland,  'Land of Ice'
 german_labrador_area_scripted_country_name = { #Dorschküste,  'Cod Coast'
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -212,9 +219,10 @@ german_labrador_area_scripted_country_name = { #Dorschküste,  'Cod Coast'
 german_newfoundland_area_scripted_country_name = { #Neufundland, translation
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -242,9 +250,10 @@ german_newfoundland_area_scripted_country_name = { #Neufundland, translation
 german_prince_edward_island_area_scripted_country_name = { #Sankt-Heinrich-Insel, Named after German-born, Saint Heinrich ( Henry II ), canonized before 1337
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -272,9 +281,10 @@ german_prince_edward_island_area_scripted_country_name = { #Sankt-Heinrich-Insel
 german_acadia_area_scripted_country_name = { #Akadien, transliteration
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -302,9 +312,10 @@ german_acadia_area_scripted_country_name = { #Akadien, transliteration
 german_new_brunswick_area_scripted_country_name = { #Neubraunschweig, translation
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -332,9 +343,10 @@ german_new_brunswick_area_scripted_country_name = { #Neubraunschweig, translatio
 german_eastern_ontario_area_scripted_country_name = { #Neulüneburg, Based on actual names used by the german monarchs of the UK
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -362,9 +374,10 @@ german_eastern_ontario_area_scripted_country_name = { #Neulüneburg, Based on ac
 german_western_ontario_area_scripted_country_name = { #Neuhessen
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -392,9 +405,10 @@ german_western_ontario_area_scripted_country_name = { #Neuhessen
 german_northern_ontario_area_scripted_country_name = { #Georgsbucht
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -422,9 +436,10 @@ german_northern_ontario_area_scripted_country_name = { #Georgsbucht
 german_northwestern_ontario_area_scripted_country_name = { #Donnerbucht
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -452,9 +467,10 @@ german_northwestern_ontario_area_scripted_country_name = { #Donnerbucht
 german_greenstone_belt_area_scripted_country_name = { #Grünsteingürtel, translation
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -482,9 +498,10 @@ german_greenstone_belt_area_scripted_country_name = { #Grünsteingürtel, transl
 german_keewatin_area_scripted_country_name = { #Ruprechtsland, Prince Rupert Land
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -512,9 +529,10 @@ german_keewatin_area_scripted_country_name = { #Ruprechtsland, Prince Rupert Lan
 german_cuba_area_scripted_country_name = { #Koabana, transliteration
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -542,9 +560,10 @@ german_cuba_area_scripted_country_name = { #Koabana, transliteration
 german_hispaniola_area_scripted_country_name = { #Sankt Dominikien
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -572,9 +591,10 @@ german_hispaniola_area_scripted_country_name = { #Sankt Dominikien
 german_lesser_antilles_area_scripted_country_name = { #Inseln des Wind, Based on historical names of Leeward & Windward Islands
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -602,9 +622,10 @@ german_lesser_antilles_area_scripted_country_name = { #Inseln des Wind, Based on
 german_panama_area_scripted_country_name = { #Bannabien, Based on Guna name 'Bannaba'
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -632,9 +653,10 @@ german_panama_area_scripted_country_name = { #Bannabien, Based on Guna name 'Ban
 german_massachusetts_area_scripted_country_name = { #Algonkinien, see dutch
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -662,9 +684,10 @@ german_massachusetts_area_scripted_country_name = { #Algonkinien, see dutch
 german_southern_new_england_area_scripted_country_name = { #Rotberg, see dutch
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -692,9 +715,10 @@ german_southern_new_england_area_scripted_country_name = { #Rotberg, see dutch
 german_vermont_area_scripted_country_name = { #Grünberg, lit. translation
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -722,9 +746,10 @@ german_vermont_area_scripted_country_name = { #Grünberg, lit. translation
 german_new_hampshire_area_scripted_country_name = { #Weißberg,  'White Mountain'
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -752,9 +777,10 @@ german_new_hampshire_area_scripted_country_name = { #Weißberg,  'White Mountain
 german_maine_area_scripted_country_name = { #Aberginien, Historical name for Abenaki people
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -782,9 +808,10 @@ german_maine_area_scripted_country_name = { #Aberginien, Historical name for Abe
 german_hudson_area_scripted_country_name = { #Neumähren, References local moravian conversion efforts
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -812,9 +839,10 @@ german_hudson_area_scripted_country_name = { #Neumähren, References local morav
 german_haudenosaunee_area_scripted_country_name = { #Irokesien, translation
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -842,9 +870,10 @@ german_haudenosaunee_area_scripted_country_name = { #Irokesien, translation
 german_new_jersey_area_scripted_country_name = { #Neurügen
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -872,9 +901,10 @@ german_new_jersey_area_scripted_country_name = { #Neurügen
 german_pennsylvania_area_scripted_country_name = { #Silvanien,  'Woodland'
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -902,9 +932,10 @@ german_pennsylvania_area_scripted_country_name = { #Silvanien,  'Woodland'
 german_westsylvania_area_scripted_country_name = { #Zeisbergien
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -932,9 +963,10 @@ german_westsylvania_area_scripted_country_name = { #Zeisbergien
 german_maryland_area_scripted_country_name = { #Marienland, See Terra Mariana
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -962,9 +994,10 @@ german_maryland_area_scripted_country_name = { #Marienland, See Terra Mariana
 german_virginia_area_scripted_country_name = { #Rolandien, Sir Roland is a heroic figure in german myth
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -992,9 +1025,10 @@ german_virginia_area_scripted_country_name = { #Rolandien, Sir Roland is a heroi
 german_west_virginia_area_scripted_country_name = { #Wandalien, Reference to the Vandalia planned colony
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -1022,9 +1056,10 @@ german_west_virginia_area_scripted_country_name = { #Wandalien, Reference to the
 german_north_carolina_area_scripted_country_name = { #Nordkarolinien
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -1052,9 +1087,10 @@ german_north_carolina_area_scripted_country_name = { #Nordkarolinien
 german_south_carolina_area_scripted_country_name = { #Südkarolinien, Semi-transliterated, reinterpreted naming for Carolina, in reference to Emperor Charlemagne & Karlings, of the Holy Roman Empire.
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -1082,9 +1118,10 @@ german_south_carolina_area_scripted_country_name = { #Südkarolinien, Semi-trans
 german_georgia_us_area_scripted_country_name = { #Friedrichsfelden, Named after Friedrich I & Friedrich II, former Holy Roman Emperors + feld (field in german) since Georgia is renowned for it's fields & agricultural potential.
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -1112,9 +1149,10 @@ german_georgia_us_area_scripted_country_name = { #Friedrichsfelden, Named after 
 german_florida_area_scripted_country_name = { #Osterland, Named for Easter- as Florida is a named after that.
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -1142,9 +1180,10 @@ german_florida_area_scripted_country_name = { #Osterland, Named for Easter- as F
 german_tennessee_area_scripted_country_name = { #Tänasi, transliteration
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -1172,9 +1211,10 @@ german_tennessee_area_scripted_country_name = { #Tänasi, transliteration
 german_kentucky_area_scripted_country_name = { #Auland,  'Meadow Land'
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -1202,9 +1242,10 @@ german_kentucky_area_scripted_country_name = { #Auland,  'Meadow Land'
 german_ohio_area_scripted_country_name = { #Schawanesien, Shawnee
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -1232,9 +1273,10 @@ german_ohio_area_scripted_country_name = { #Schawanesien, Shawnee
 german_indiana_area_scripted_country_name = { #Maiamiland, Miami
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -1262,9 +1304,10 @@ german_indiana_area_scripted_country_name = { #Maiamiland, Miami
 german_michigan_area_scripted_country_name = { #Mischigen, transliteration
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -1292,9 +1335,10 @@ german_michigan_area_scripted_country_name = { #Mischigen, transliteration
 german_illinois_area_scripted_country_name = { #Inokenland, Inoca
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -1322,9 +1366,10 @@ german_illinois_area_scripted_country_name = { #Inokenland, Inoca
 german_wisconsin_area_scripted_country_name = { #Meskonien, see dutch
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -1352,9 +1397,10 @@ german_wisconsin_area_scripted_country_name = { #Meskonien, see dutch
 german_alabama_area_scripted_country_name = { #Alabamien, transliteration - old name was...a choice
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -1382,9 +1428,10 @@ german_alabama_area_scripted_country_name = { #Alabamien, transliteration - old 
 german_mississippi_area_scripted_country_name = { #Groß-Laufen, Renamed to reference the german word for rapids
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -1412,9 +1459,10 @@ german_mississippi_area_scripted_country_name = { #Groß-Laufen, Renamed to refe
 german_louisiana_area_scripted_country_name = { #Ludwigien, literal translation - Ludwig is popular among german nobles anyways
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -1442,9 +1490,10 @@ german_louisiana_area_scripted_country_name = { #Ludwigien, literal translation 
 german_arkansas_area_scripted_country_name = { #Waschitaland, Ouachita 
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -1472,9 +1521,10 @@ german_arkansas_area_scripted_country_name = { #Waschitaland, Ouachita
 german_missouri_area_scripted_country_name = { #Missurien, After local Missouri tribe
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -1502,9 +1552,10 @@ german_missouri_area_scripted_country_name = { #Missurien, After local Missouri 
 german_iowa_area_scripted_country_name = { #Freimark,  'Free Boundary'
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -1532,9 +1583,10 @@ german_iowa_area_scripted_country_name = { #Freimark,  'Free Boundary'
 german_minnesota_area_scripted_country_name = { #Hundertseenland, references the many lakes of the region
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -1562,9 +1614,10 @@ german_minnesota_area_scripted_country_name = { #Hundertseenland, references the
 german_superior_area_scripted_country_name = { #Oberland, translation of "upper land"
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -1592,9 +1645,10 @@ german_superior_area_scripted_country_name = { #Oberland, translation of "upper 
 german_north_dakota_area_scripted_country_name = { #Nadowessien, Historical name of Sioux- used by Schiller for example
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -1622,9 +1676,10 @@ german_north_dakota_area_scripted_country_name = { #Nadowessien, Historical name
 german_south_dakota_area_scripted_country_name = { #Schwarzberg, References 'Black Hills'
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -1652,9 +1707,10 @@ german_south_dakota_area_scripted_country_name = { #Schwarzberg, References 'Bla
 german_central_plains_area_scripted_country_name = { #Windland, Kansa are known as 'People of the Winds'
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -1682,9 +1738,10 @@ german_central_plains_area_scripted_country_name = { #Windland, Kansa are known 
 german_natahende_area_scripted_country_name = { #Zibola, Cibola
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -1712,9 +1769,10 @@ german_natahende_area_scripted_country_name = { #Zibola, Cibola
 german_high_plains_area_scripted_country_name = { #Hohes Land
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -1742,9 +1800,10 @@ german_high_plains_area_scripted_country_name = { #Hohes Land
 german_badlands_area_scripted_country_name = { #Ödland, translation for "barren lands"
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -1772,9 +1831,10 @@ german_badlands_area_scripted_country_name = { #Ödland, translation for "barren
 german_upper_missouri_area_scripted_country_name = { #Obermissurien
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -1802,9 +1862,10 @@ german_upper_missouri_area_scripted_country_name = { #Obermissurien
 german_athabasca_area_scripted_country_name = { #Athapaskien
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -1832,9 +1893,10 @@ german_athabasca_area_scripted_country_name = { #Athapaskien
 german_saskatchewan_area_scripted_country_name = { #Saskätschewan, transliteration
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -1862,9 +1924,10 @@ german_saskatchewan_area_scripted_country_name = { #Saskätschewan, transliterat
 german_keewatin_n_area_scripted_country_name = { #Frostweiten
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -1892,9 +1955,10 @@ german_keewatin_n_area_scripted_country_name = { #Frostweiten
 german_red_river_area_scripted_country_name = { #Blutwässer,  'Blood Water'
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -1922,9 +1986,10 @@ german_red_river_area_scripted_country_name = { #Blutwässer,  'Blood Water'
 german_mexihko_area_scripted_country_name = { #Aztekenland
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -1952,9 +2017,10 @@ german_mexihko_area_scripted_country_name = { #Aztekenland
 german_tlaxcala_area_scripted_country_name = { #Tlaskalenland,  'Tlaxcala land'
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -1982,9 +2048,10 @@ german_tlaxcala_area_scripted_country_name = { #Tlaskalenland,  'Tlaxcala land'
 german_huaxyacac_area_scripted_country_name = { #Wahakien, transliteration
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -2012,9 +2079,10 @@ german_huaxyacac_area_scripted_country_name = { #Wahakien, transliteration
 german_tochtepec_area_scripted_country_name = { #Segenkreuz
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -2042,9 +2110,10 @@ german_tochtepec_area_scripted_country_name = { #Segenkreuz
 german_michoacan_area_scripted_country_name = { #Mitschoakanien, transliteration, Historical - Tarascan actually used but considered offensive by locals
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -2072,9 +2141,10 @@ german_michoacan_area_scripted_country_name = { #Mitschoakanien, transliteration
 german_xilotepec_area_scripted_country_name = { #Silberhöhen, references silver mining
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -2102,9 +2172,10 @@ german_xilotepec_area_scripted_country_name = { #Silberhöhen, references silver
 german_xalisco_area_scripted_country_name = { #Schalisko, transliteration, important older spanish x = sh
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -2132,9 +2203,10 @@ german_xalisco_area_scripted_country_name = { #Schalisko, transliteration, impor
 german_mayaab_area_scripted_country_name = { #Yukatanien
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -2162,9 +2234,10 @@ german_mayaab_area_scripted_country_name = { #Yukatanien
 german_chilapan_area_scripted_country_name = { #Tschilapan
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -2192,9 +2265,10 @@ german_chilapan_area_scripted_country_name = { #Tschilapan
 german_puuk_area_scripted_country_name = { #Kampetsche
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -2222,9 +2296,10 @@ german_puuk_area_scripted_country_name = { #Kampetsche
 german_chactemal_area_scripted_country_name = { #Schaktemal 
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -2252,9 +2327,10 @@ german_chactemal_area_scripted_country_name = { #Schaktemal
 german_peten_area_scripted_country_name = { #Monpanland, Mopan river
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -2282,9 +2358,10 @@ german_peten_area_scripted_country_name = { #Monpanland, Mopan river
 german_tezulutlan_area_scripted_country_name = { #Goathemalien
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -2312,9 +2389,10 @@ german_tezulutlan_area_scripted_country_name = { #Goathemalien
 german_kuskatan_area_scripted_country_name = { #Tiefenblau,  'Deep See' -> OG Spanish name 'depths'
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -2342,9 +2420,10 @@ german_kuskatan_area_scripted_country_name = { #Tiefenblau,  'Deep See' -> OG Sp
 german_imabite_area_scripted_country_name = { #Nikaragua
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -2372,9 +2451,10 @@ german_imabite_area_scripted_country_name = { #Nikaragua
 german_nekokiaw_area_scripted_country_name = { #Mimosien, reference to local 'Guanacaste' tree
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -2402,9 +2482,10 @@ german_nekokiaw_area_scripted_country_name = { #Mimosien, reference to local 'Gu
 german_zacatecas_area_scripted_country_name = { #Sakatekas, transliteration
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -2432,9 +2513,10 @@ german_zacatecas_area_scripted_country_name = { #Sakatekas, transliteration
 german_baja_area_scripted_country_name = { #Niederkalifornien
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -2462,9 +2544,10 @@ german_baja_area_scripted_country_name = { #Niederkalifornien
 german_tahejoc_area_scripted_country_name = { #Opataland
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -2492,9 +2575,10 @@ german_tahejoc_area_scripted_country_name = { #Opataland
 german_texas_area_scripted_country_name = { #Taischaland, transliteraion of táy:shaʼ
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -2522,9 +2606,10 @@ german_texas_area_scripted_country_name = { #Taischaland, transliteraion of táy
 german_shiewhibak_area_scripted_country_name = { #Pimaland
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -2552,9 +2637,10 @@ german_shiewhibak_area_scripted_country_name = { #Pimaland
 german_alaxsxaq_area_scripted_country_name = { #Beringien
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -2582,9 +2668,10 @@ german_alaxsxaq_area_scripted_country_name = { #Beringien
 german_yukon_area_scripted_country_name = { #Jukonaland, based on local native origin of Yukon river
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -2612,9 +2699,10 @@ german_yukon_area_scripted_country_name = { #Jukonaland, based on local native o
 german_columbia_interior_area_scripted_country_name = { #Inneres Land
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -2642,9 +2730,10 @@ german_columbia_interior_area_scripted_country_name = { #Inneres Land
 german_california_area_scripted_country_name = { #Kalifornien
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -2672,9 +2761,10 @@ german_california_area_scripted_country_name = { #Kalifornien
 german_great_basin_area_scripted_country_name = { #Salzlakenlande
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -2702,9 +2792,10 @@ german_great_basin_area_scripted_country_name = { #Salzlakenlande
 german_rockies_area_scripted_country_name = { #Felsengebirge
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -2732,9 +2823,10 @@ german_rockies_area_scripted_country_name = { #Felsengebirge
 german_hawaii_area_scripted_country_name = { #Haweihi
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -2762,9 +2854,10 @@ german_hawaii_area_scripted_country_name = { #Haweihi
 german_cascadia_area_scripted_country_name = { #Kaskadenland
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -2792,9 +2885,10 @@ german_cascadia_area_scripted_country_name = { #Kaskadenland
 german_amazon_area_scripted_country_name = { #Regenwald
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -2822,9 +2916,10 @@ german_amazon_area_scripted_country_name = { #Regenwald
 german_tocantins_area_scripted_country_name = { #Tukantinien, translation
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -2852,9 +2947,10 @@ german_tocantins_area_scripted_country_name = { #Tukantinien, translation
 german_uruguay_area_scripted_country_name = { #Gartental, Historical settlement & colony, of North-German & Dutch origin.
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -2882,9 +2978,10 @@ german_uruguay_area_scripted_country_name = { #Gartental, Historical settlement 
 german_mato_grosso_area_scripted_country_name = { #Dichtwald,  'Thick Forest'
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -2912,9 +3009,10 @@ german_mato_grosso_area_scripted_country_name = { #Dichtwald,  'Thick Forest'
 german_goias_area_scripted_country_name = { #Goldbergen, translation of Serra Dourada
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -2942,9 +3040,10 @@ german_goias_area_scripted_country_name = { #Goldbergen, translation of Serra Do
 german_maranhao_area_scripted_country_name = { #Sankt-Markus-Land, Based on Baía de São Marcos
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -2972,9 +3071,10 @@ german_maranhao_area_scripted_country_name = { #Sankt-Markus-Land, Based on Baí
 german_piaui_area_scripted_country_name = { #Theresienland, Based on name of capital
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -3002,9 +3102,10 @@ german_piaui_area_scripted_country_name = { #Theresienland, Based on name of cap
 german_ceara_area_scripted_country_name = { #Schönburg, see dutch
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -3032,9 +3133,10 @@ german_ceara_area_scripted_country_name = { #Schönburg, see dutch
 german_paraiba_area_scripted_country_name = { #Friedrichsland, see dutch
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -3062,9 +3164,10 @@ german_paraiba_area_scripted_country_name = { #Friedrichsland, see dutch
 german_pernambuco_area_scripted_country_name = { #Neusiegen, see dutch
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -3092,9 +3195,10 @@ german_pernambuco_area_scripted_country_name = { #Neusiegen, see dutch
 german_bahia_area_scripted_country_name = { #Neunassau, see dutch
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -3122,9 +3226,10 @@ german_bahia_area_scripted_country_name = { #Neunassau, see dutch
 german_espirito_santo_area_scripted_country_name = { #Neupommern, references local diaspora 
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -3152,9 +3257,10 @@ german_espirito_santo_area_scripted_country_name = { #Neupommern, references loc
 german_rio_de_janeiro_area_scripted_country_name = { #Jännermünd,  'January Delta'
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -3182,9 +3288,10 @@ german_rio_de_janeiro_area_scripted_country_name = { #Jännermünd,  'January De
 german_minas_gerais_area_scripted_country_name = { #Reichböden, Rich Ground' -> translation of OG name
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -3212,9 +3319,10 @@ german_minas_gerais_area_scripted_country_name = { #Reichböden, Rich Ground' ->
 german_sao_paulo_area_scripted_country_name = { #Sankt Paulus, translation
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -3242,9 +3350,10 @@ german_sao_paulo_area_scripted_country_name = { #Sankt Paulus, translation
 german_santa_catarina_area_scripted_country_name = { #Sankt Katharinen , translation
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -3272,9 +3381,10 @@ german_santa_catarina_area_scripted_country_name = { #Sankt Katharinen , transla
 german_rio_grande_do_sul_area_scripted_country_name = { #Neuhunsrück , References local diaspora 
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -3302,9 +3412,10 @@ german_rio_grande_do_sul_area_scripted_country_name = { #Neuhunsrück , Referenc
 german_bogota_area_scripted_country_name = { #Kazikenland,  'Land of Caciques' Bogota capital of Muisca 
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -3332,9 +3443,10 @@ german_bogota_area_scripted_country_name = { #Kazikenland,  'Land of Caciques' B
 german_andes_area_scripted_country_name = { #Anden, Historical
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -3362,9 +3474,10 @@ german_andes_area_scripted_country_name = { #Anden, Historical
 german_quitu_area_scripted_country_name = { #Kitu
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -3392,9 +3505,10 @@ german_quitu_area_scripted_country_name = { #Kitu
 german_chala_area_scripted_country_name = { #Niederpiru
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -3422,9 +3536,10 @@ german_chala_area_scripted_country_name = { #Niederpiru
 german_atacama_area_scripted_country_name = { #Wüstenrot
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -3452,9 +3567,10 @@ german_atacama_area_scripted_country_name = { #Wüstenrot
 german_cuyo_area_scripted_country_name = { #Kujoland
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -3482,9 +3598,10 @@ german_cuyo_area_scripted_country_name = { #Kujoland
 german_yunga_area_scripted_country_name = { #Schwitzwald
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -3512,9 +3629,10 @@ german_yunga_area_scripted_country_name = { #Schwitzwald
 german_puna_area_scripted_country_name = { #Salzlande
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -3542,9 +3660,10 @@ german_puna_area_scripted_country_name = { #Salzlande
 german_qullaw_area_scripted_country_name = { #Oberpiru
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -3572,9 +3691,10 @@ german_qullaw_area_scripted_country_name = { #Oberpiru
 german_galapagos_area_scripted_country_name = { #Schildkröteninseln
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -3602,9 +3722,10 @@ german_galapagos_area_scripted_country_name = { #Schildkröteninseln
 german_chaco_area_scripted_country_name = { #Großschaku,  'Gran Chaco'
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -3632,9 +3753,10 @@ german_chaco_area_scripted_country_name = { #Großschaku,  'Gran Chaco'
 german_la_plata_area_scripted_country_name = { #Silberfluss, Historical German name for the Rio de la Plata.
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -3662,9 +3784,10 @@ german_la_plata_area_scripted_country_name = { #Silberfluss, Historical German n
 german_ngulumapu_area_scripted_country_name = { #Araukanien, Historical 
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -3692,9 +3815,10 @@ german_ngulumapu_area_scripted_country_name = { #Araukanien, Historical
 german_pampa_area_scripted_country_name = { #Die Pampa, Historical
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -3722,9 +3846,10 @@ german_pampa_area_scripted_country_name = { #Die Pampa, Historical
 german_puelmapu_area_scripted_country_name = { #Schwarzfluss
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -3752,9 +3877,10 @@ german_puelmapu_area_scripted_country_name = { #Schwarzfluss
 german_patagonia_area_scripted_country_name = { #Patagonien, Historical
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -3782,9 +3908,10 @@ german_patagonia_area_scripted_country_name = { #Patagonien, Historical
 german_falklands_area_scripted_country_name = { #Malwinen , Historical
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -3812,9 +3939,10 @@ german_falklands_area_scripted_country_name = { #Malwinen , Historical
 german_south_georgia_area_scripted_country_name = { #Klutschak-Inseln, Named for Austrian explorer of South Georgia
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -3842,9 +3970,10 @@ german_south_georgia_area_scripted_country_name = { #Klutschak-Inseln, Named for
 german_rapa_nui_area_scripted_country_name = { #Osterinseln, Historical
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -3872,9 +4001,10 @@ german_rapa_nui_area_scripted_country_name = { #Osterinseln, Historical
 german_charcas_area_scripted_country_name = { #Silberberg,  'Silver Mountain'
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -3902,9 +4032,10 @@ german_charcas_area_scripted_country_name = { #Silberberg,  'Silver Mountain'
 german_salta_de_tucuman_area_scripted_country_name = { #Sankt-Michaelis-Land,  'San Miguel'
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -3932,9 +4063,10 @@ german_salta_de_tucuman_area_scripted_country_name = { #Sankt-Michaelis-Land,  '
 german_cordoba_de_tucuman_area_scripted_country_name = { #Sankt-Martins-Land,  'San Martín'
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -3962,9 +4094,10 @@ german_cordoba_de_tucuman_area_scripted_country_name = { #Sankt-Martins-Land,  '
 german_sinu_area_scripted_country_name = { #Magdalenien, Based on Rio Magdalena
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -3992,9 +4125,10 @@ german_sinu_area_scripted_country_name = { #Magdalenien, Based on Rio Magdalena
 german_suchiimma_area_scripted_country_name = { #Neu-Nürnberg, Historical failed settlement
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -4022,9 +4156,10 @@ german_suchiimma_area_scripted_country_name = { #Neu-Nürnberg, Historical faile
 german_caracas_area_scripted_country_name = { #Welserland, Failed, but real, german colony intended to be established (or Klein-Venedig)
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -4052,9 +4187,10 @@ german_caracas_area_scripted_country_name = { #Welserland, Failed, but real, ger
 german_orinucu_area_scripted_country_name = { #Orinoko 
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -4082,9 +4218,10 @@ german_orinucu_area_scripted_country_name = { #Orinoko
 german_guayana_area_scripted_country_name = { #Neuhanau, Failed colonial scheme
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -4112,9 +4249,10 @@ german_guayana_area_scripted_country_name = { #Neuhanau, Failed colonial scheme
 german_northwest_coast_area_scripted_country_name = { #Koulischenküste
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -4142,9 +4280,10 @@ german_northwest_coast_area_scripted_country_name = { #Koulischenküste
 german_south_island_area_scripted_country_name = { #Neumünster
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language
@@ -4172,9 +4311,10 @@ german_south_island_area_scripted_country_name = { #Neumünster
 german_north_island_area_scripted_country_name = { #Maorien
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:german_language

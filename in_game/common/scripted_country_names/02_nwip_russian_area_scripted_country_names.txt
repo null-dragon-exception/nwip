@@ -2,9 +2,10 @@
 russian_greenland_area_scripted_country_name = { #Grumant, historical
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:russian_language
@@ -32,9 +33,10 @@ russian_greenland_area_scripted_country_name = { #Grumant, historical
 russian_quebec_area_scripted_country_name = { #Kvebek, current name
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:russian_language
@@ -62,9 +64,10 @@ russian_quebec_area_scripted_country_name = { #Kvebek, current name
 russian_laurentian_area_scripted_country_name = { #Lavrentiya, translation based off of the English name
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:russian_language
@@ -92,9 +95,10 @@ russian_laurentian_area_scripted_country_name = { #Lavrentiya, translation based
 russian_lower_canada_area_scripted_country_name = { #Nizhnyaya Kanada, translation
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:russian_language
@@ -122,9 +126,10 @@ russian_lower_canada_area_scripted_country_name = { #Nizhnyaya Kanada, translati
 russian_labrador_area_scripted_country_name = { #Estoty
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:russian_language
@@ -152,9 +157,10 @@ russian_labrador_area_scripted_country_name = { #Estoty
 russian_newfoundland_area_scripted_country_name = { #Novaya Zemlya, transliteration
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:russian_language
@@ -182,9 +188,10 @@ russian_newfoundland_area_scripted_country_name = { #Novaya Zemlya, transliterat
 russian_acadia_area_scripted_country_name = { #Akadiya, name
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:russian_language
@@ -212,9 +219,10 @@ russian_acadia_area_scripted_country_name = { #Akadiya, name
 russian_keewatin_area_scripted_country_name = { #Kivatin, name
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:russian_language
@@ -242,9 +250,10 @@ russian_keewatin_area_scripted_country_name = { #Kivatin, name
 russian_cuba_area_scripted_country_name = { #Kuba, name
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:russian_language
@@ -272,9 +281,10 @@ russian_cuba_area_scripted_country_name = { #Kuba, name
 russian_hispaniola_area_scripted_country_name = { #Gaiti , name
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:russian_language
@@ -302,9 +312,10 @@ russian_hispaniola_area_scripted_country_name = { #Gaiti , name
 russian_hudson_area_scripted_country_name = { #Gudzon, transliteration
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:russian_language
@@ -332,9 +343,10 @@ russian_hudson_area_scripted_country_name = { #Gudzon, transliteration
 russian_natahende_area_scripted_country_name = { #Novaya Meksika, mangled this one together
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:russian_language
@@ -362,9 +374,10 @@ russian_natahende_area_scripted_country_name = { #Novaya Meksika, mangled this o
 russian_saskatchewan_area_scripted_country_name = { #Saskachevan , current name
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:russian_language
@@ -392,9 +405,10 @@ russian_saskatchewan_area_scripted_country_name = { #Saskachevan , current name
 russian_mexihko_area_scripted_country_name = { #Meksika, name of the country
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:russian_language
@@ -422,9 +436,10 @@ russian_mexihko_area_scripted_country_name = { #Meksika, name of the country
 russian_tlaxcala_area_scripted_country_name = { #Tlaskala , current name
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:russian_language
@@ -452,9 +467,10 @@ russian_tlaxcala_area_scripted_country_name = { #Tlaskala , current name
 russian_alaxsxaq_area_scripted_country_name = { #Alyaska , name
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:russian_language
@@ -482,9 +498,10 @@ russian_alaxsxaq_area_scripted_country_name = { #Alyaska , name
 russian_hawaii_area_scripted_country_name = { #Gavayi, name
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:russian_language

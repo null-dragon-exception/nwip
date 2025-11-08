@@ -2,9 +2,10 @@
 scandinavian_greenland_area_scripted_country_name = { #Grǿnland
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:scandinavian_language
@@ -32,9 +33,10 @@ scandinavian_greenland_area_scripted_country_name = { #Grǿnland
 scandinavian_nunavik_area_scripted_country_name = { #Helluland
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:scandinavian_language
@@ -62,9 +64,10 @@ scandinavian_nunavik_area_scripted_country_name = { #Helluland
 scandinavian_labrador_area_scripted_country_name = { #Markland
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:scandinavian_language
@@ -92,9 +95,10 @@ scandinavian_labrador_area_scripted_country_name = { #Markland
 scandinavian_newfoundland_area_scripted_country_name = { #Vinland
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:scandinavian_language
@@ -122,9 +126,10 @@ scandinavian_newfoundland_area_scripted_country_name = { #Vinland
 scandinavian_new_jersey_area_scripted_country_name = { #Nya Sverige
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:scandinavian_language
@@ -152,9 +157,10 @@ scandinavian_new_jersey_area_scripted_country_name = { #Nya Sverige
 scandinavian_pennsylvania_area_scripted_country_name = { #Minquasland
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:scandinavian_language
@@ -182,9 +188,10 @@ scandinavian_pennsylvania_area_scripted_country_name = { #Minquasland
 scandinavian_keewatin_n_area_scripted_country_name = { #Skrælingland
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:scandinavian_language
@@ -212,9 +219,10 @@ scandinavian_keewatin_n_area_scripted_country_name = { #Skrælingland
 scandinavian_south_georgia_area_scripted_country_name = { #Grytvik, Historical name for local bay
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:scandinavian_language

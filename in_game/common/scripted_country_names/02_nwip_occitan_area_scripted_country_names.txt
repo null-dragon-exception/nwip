@@ -2,9 +2,10 @@
 occitan_laurentian_area_scripted_country_name = { #Llorençan
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -32,9 +33,10 @@ occitan_laurentian_area_scripted_country_name = { #Llorençan
 occitan_jamesie_area_scripted_country_name = { #Sant Jaume
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -62,9 +64,10 @@ occitan_jamesie_area_scripted_country_name = { #Sant Jaume
 occitan_nunavik_area_scripted_country_name = { #Nunavic
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -92,9 +95,10 @@ occitan_nunavik_area_scripted_country_name = { #Nunavic
 occitan_newfoundland_area_scripted_country_name = { #Terranova
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -122,9 +126,10 @@ occitan_newfoundland_area_scripted_country_name = { #Terranova
 occitan_prince_edward_island_area_scripted_country_name = { #Illa de Príncep
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -152,9 +157,10 @@ occitan_prince_edward_island_area_scripted_country_name = { #Illa de Príncep
 occitan_new_brunswick_area_scripted_country_name = { #Sant Joan
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -182,9 +188,10 @@ occitan_new_brunswick_area_scripted_country_name = { #Sant Joan
 occitan_keewatin_area_scripted_country_name = { #Quevatin
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -212,9 +219,10 @@ occitan_keewatin_area_scripted_country_name = { #Quevatin
 occitan_hispaniola_area_scripted_country_name = { #Sant Domènec
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -242,9 +250,10 @@ occitan_hispaniola_area_scripted_country_name = { #Sant Domènec
 occitan_massachusetts_area_scripted_country_name = { #Masasusets
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -272,9 +281,10 @@ occitan_massachusetts_area_scripted_country_name = { #Masasusets
 occitan_vermont_area_scripted_country_name = { #Monvert
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -302,9 +312,10 @@ occitan_vermont_area_scripted_country_name = { #Monvert
 occitan_new_hampshire_area_scripted_country_name = { #Merimac
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -332,9 +343,10 @@ occitan_new_hampshire_area_scripted_country_name = { #Merimac
 occitan_maine_area_scripted_country_name = { #Vabanac
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -362,9 +374,10 @@ occitan_maine_area_scripted_country_name = { #Vabanac
 occitan_haudenosaunee_area_scripted_country_name = { #Rodenosauni
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -392,9 +405,10 @@ occitan_haudenosaunee_area_scripted_country_name = { #Rodenosauni
 occitan_new_jersey_area_scripted_country_name = { #Novas Balears
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -422,9 +436,10 @@ occitan_new_jersey_area_scripted_country_name = { #Novas Balears
 occitan_pennsylvania_area_scripted_country_name = { #Susqueran
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -452,9 +467,10 @@ occitan_pennsylvania_area_scripted_country_name = { #Susqueran
 occitan_westsylvania_area_scripted_country_name = { #Allegen
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -482,9 +498,10 @@ occitan_westsylvania_area_scripted_country_name = { #Allegen
 occitan_maryland_area_scripted_country_name = { #Santa Maria
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -512,9 +529,10 @@ occitan_maryland_area_scripted_country_name = { #Santa Maria
 occitan_west_virginia_area_scripted_country_name = { #Monogarrel
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -542,9 +560,10 @@ occitan_west_virginia_area_scripted_country_name = { #Monogarrel
 occitan_north_carolina_area_scripted_country_name = { #Sant Carles Nord
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -572,9 +591,10 @@ occitan_north_carolina_area_scripted_country_name = { #Sant Carles Nord
 occitan_south_carolina_area_scripted_country_name = { #Sant Carles Sud
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -602,9 +622,10 @@ occitan_south_carolina_area_scripted_country_name = { #Sant Carles Sud
 occitan_tennessee_area_scripted_country_name = { #Tenesi
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -632,9 +653,10 @@ occitan_tennessee_area_scripted_country_name = { #Tenesi
 occitan_kentucky_area_scripted_country_name = { #Guentac
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -662,9 +684,10 @@ occitan_kentucky_area_scripted_country_name = { #Guentac
 occitan_ohio_area_scripted_country_name = { #Orio
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -692,9 +715,10 @@ occitan_ohio_area_scripted_country_name = { #Orio
 occitan_illinois_area_scripted_country_name = { #Illina
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -722,9 +746,10 @@ occitan_illinois_area_scripted_country_name = { #Illina
 occitan_wisconsin_area_scripted_country_name = { #Visconsin
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -752,9 +777,10 @@ occitan_wisconsin_area_scripted_country_name = { #Visconsin
 occitan_mississippi_area_scripted_country_name = { #Misisip
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -782,9 +808,10 @@ occitan_mississippi_area_scripted_country_name = { #Misisip
 occitan_louisiana_area_scripted_country_name = { #Loisian
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -812,9 +839,10 @@ occitan_louisiana_area_scripted_country_name = { #Loisian
 occitan_arkansas_area_scripted_country_name = { #Arcansa
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -842,9 +870,10 @@ occitan_arkansas_area_scripted_country_name = { #Arcansa
 occitan_missouri_area_scripted_country_name = { #Misuri
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -872,9 +901,10 @@ occitan_missouri_area_scripted_country_name = { #Misuri
 occitan_iowa_area_scripted_country_name = { #Ayoa
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -902,9 +932,10 @@ occitan_iowa_area_scripted_country_name = { #Ayoa
 occitan_central_plains_area_scripted_country_name = { #Cansas
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -932,9 +963,10 @@ occitan_central_plains_area_scripted_country_name = { #Cansas
 occitan_minas_gerais_area_scripted_country_name = { #Mines Generals
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -962,9 +994,10 @@ occitan_minas_gerais_area_scripted_country_name = { #Mines Generals
 occitan_nekokiaw_area_scripted_country_name = { #Necocal
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -992,9 +1025,10 @@ occitan_nekokiaw_area_scripted_country_name = { #Necocal
 occitan_baja_area_scripted_country_name = { #Baixa Califòrnia
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -1022,9 +1056,10 @@ occitan_baja_area_scripted_country_name = { #Baixa Califòrnia
 occitan_alaxsxaq_area_scripted_country_name = { #Alasc
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -1052,9 +1087,10 @@ occitan_alaxsxaq_area_scripted_country_name = { #Alasc
 occitan_california_area_scripted_country_name = { #Califòrnia
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -1082,9 +1118,10 @@ occitan_california_area_scripted_country_name = { #Califòrnia
 occitan_para_area_scripted_country_name = { #Pará
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -1112,9 +1149,10 @@ occitan_para_area_scripted_country_name = { #Pará
 occitan_maranhao_area_scripted_country_name = { #Maranyan
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -1142,9 +1180,10 @@ occitan_maranhao_area_scripted_country_name = { #Maranyan
 occitan_piaui_area_scripted_country_name = { #Pyaui
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -1172,9 +1211,10 @@ occitan_piaui_area_scripted_country_name = { #Pyaui
 occitan_ceara_area_scripted_country_name = { #Cearà
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -1202,9 +1242,10 @@ occitan_ceara_area_scripted_country_name = { #Cearà
 occitan_paraiba_area_scripted_country_name = { #Paraib
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -1232,9 +1273,10 @@ occitan_paraiba_area_scripted_country_name = { #Paraib
 occitan_pernambuco_area_scripted_country_name = { #Pernabuc
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -1262,9 +1304,10 @@ occitan_pernambuco_area_scripted_country_name = { #Pernabuc
 occitan_bahia_area_scripted_country_name = { #Badia de Tots Sants
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -1292,9 +1335,10 @@ occitan_bahia_area_scripted_country_name = { #Badia de Tots Sants
 occitan_espirito_santo_area_scripted_country_name = { #Esperit Sant
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -1322,9 +1366,10 @@ occitan_espirito_santo_area_scripted_country_name = { #Esperit Sant
 occitan_rio_de_janeiro_area_scripted_country_name = { #Riu de Gener
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -1352,9 +1397,10 @@ occitan_rio_de_janeiro_area_scripted_country_name = { #Riu de Gener
 occitan_minas_gerais_area_scripted_country_name = { #Mines Generals
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -1382,9 +1428,10 @@ occitan_minas_gerais_area_scripted_country_name = { #Mines Generals
 occitan_sao_paulo_area_scripted_country_name = { #Sant Pau
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -1412,9 +1459,10 @@ occitan_sao_paulo_area_scripted_country_name = { #Sant Pau
 occitan_santa_catarina_area_scripted_country_name = { #Santa Catarina
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -1442,9 +1490,10 @@ occitan_santa_catarina_area_scripted_country_name = { #Santa Catarina
 occitan_rio_grande_do_sul_area_scripted_country_name = { #Riu Grand del Sud
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
@@ -1472,9 +1521,10 @@ occitan_rio_grande_do_sul_area_scripted_country_name = { #Riu Grand del Sud
 occitan_la_plata_area_scripted_country_name = { #Riu Argent
     	# regular old country trigger
     	country_trigger = {
-            NOT = {
-    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
-    		}
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
     		OR = {
     			
 					court_language = language:occitan_language
