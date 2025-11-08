@@ -136,7 +136,8 @@ market_manager = {
     add_market = maguana
 	
 	# Central america
-	add_market = kuskatan
+	add_market = patzcuaro
+	add_market = pismachi
 
 	#Colombia
 	add_market = teyuna
