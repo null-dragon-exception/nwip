@@ -35,106 +35,115 @@ conquistador_new_toledo_scripted_country_name = {
 		}
 	}
 }
-conquistador_new_andalucia_scripted_country_name = {
+conquistador_new_andalusia_scripted_country_name = {
 	country_trigger = {
 		has_reform = government_reform:conquistador_country
-	}
-	overlord ?= {
-		OR = {
-			tag = ESP
-			tag = CAS
-			culture.language = language:spanish_language
+			overlord ?= {
+			OR = {
+				tag = ESP
+				tag = CAS
+				culture.language = language:spanish_language
+			}
 		}
 	}
+	
 }
 conquistador_new_murcia_scripted_country_name = {
 	country_trigger = {
 		has_reform = government_reform:conquistador_country
-	}
-	overlord ?= {
-		OR = {
-			tag = ESP
-			tag = CAS
-			culture.language = language:spanish_language
+		overlord ?= {
+			OR = {
+				tag = ESP
+				tag = CAS
+				culture.language = language:spanish_language
+			}
 		}
 	}
+	
 }
 conquistador_new_navarra_scripted_country_name = {
 	country_trigger = {
 		has_reform = government_reform:conquistador_country
-	}
-	overlord ?= {
-		OR = {
-			tag = ESP
-			tag = CAS
-			culture.language = language:spanish_language
+		overlord ?= {
+			OR = {
+				tag = ESP
+				tag = CAS
+				culture.language = language:spanish_language
+			}
 		}
 	}
+	
 }
 conquistador_new_galicia_scripted_country_name = {
 	country_trigger = {
 		has_reform = government_reform:conquistador_country
-	}
-	overlord ?= {
-		OR = {
-			tag = ESP
-			tag = GAL
-			culture.language = language:spanish_language
+		overlord ?= {
+			OR = {
+				tag = ESP
+				tag = GAL
+				culture.language = language:spanish_language
+			}
 		}
 	}
+	
 }
 conquistador_new_estremadura_scripted_country_name = {
 	country_trigger = {
 		has_reform = government_reform:conquistador_country
-	}
-	overlord ?= {
-		OR = {
-			tag = POR
-			culture.language = language:portuguese_language
+		overlord ?= {
+			OR = {
+				tag = POR
+				culture.language = language:portuguese_language
+			}
 		}
 	}
+	
 }
 conquistador_new_alentejo_scripted_country_name = {
 	country_trigger = {
 		has_reform = government_reform:conquistador_country
-	}
-	overlord ?= {
-		OR = {
-			tag = POR
-			culture.language = language:portuguese_language
+		overlord ?= {
+			OR = {
+				tag = POR
+				culture.language = language:portuguese_language
+			}
 		}
 	}
+	
 }
 conquistador_new_minho_scripted_country_name = {
 	country_trigger = {
 		has_reform = government_reform:conquistador_country
-	}
-	overlord ?= {
-		OR = {
-			tag = POR
-			culture.language = language:portuguese_language
+		overlord ?= {
+			OR = {
+				tag = POR
+				culture.language = language:portuguese_language
+			}
 		}
 	}
+	
 }
 conquistador_new_beira_scripted_country_name = {
 	country_trigger = {
 		has_reform = government_reform:conquistador_country
-	}
-	overlord ?= {
-		OR = {
-			tag = POR
-			culture.language = language:portuguese_language
+		overlord ?= {
+			OR = {
+				tag = POR
+				culture.language = language:portuguese_language
+			}
 		}
 	}
+	
 }
 conquistador_new_algarve_scripted_country_name = {
 	country_trigger = {
 		has_reform = government_reform:conquistador_country
-	}
-	overlord ?= {
-		OR = {
-			tag = POR
-			culture.language = language:portuguese_language
+		overlord ?= {
+			OR = {
+				tag = POR
+				culture.language = language:portuguese_language
+			}
 		}
 	}
+	
 }
