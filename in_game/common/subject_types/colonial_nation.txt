@@ -2,16 +2,24 @@
 	subject_pays = subject_pays_colonial
 	color = subject_colonial_nation
 	level = 1
+
+	#Old NWIP solution
+	#join_offensive_wars_always = {
+	#	scope:target ?= {
+	#		#always = yes
+	#		#only joins if it's colonial-related 
+	#		OR = {
+	#			is_colonial_subject = yes
+	#			is_colonial_overlord = yes
+	#			capital.sub_continent = scope:recipient.capital.sub_continent
+	#		}
+	#	}
+	#}
 	join_offensive_wars_always = {
-		scope:target ?= {
-			#always = yes
-			#only joins if it's colonial-related 
-			OR = {
-				is_colonial_subject = yes
-				is_colonial_overlord = yes
-				capital.sub_continent = scope:recipient.capital.sub_continent
-			}
-		}
+		NOT = { scope:actor ?= { is_subject_of = scope:recipient } }
+	}
+	join_offensive_wars_can_call = {
+		always = yes
 	}
 	join_defensive_wars_always = {
 		always = yes
@@ -32,18 +40,19 @@
 	}
 	
 	#colonial nations can attack other colonial nations, colonizers or natives in their region
-	can_attack = {
-		OR = {
-			scope:attacker = scope:overlord
-			scope:defender = {
-				OR = {
-					is_colonial_subject = yes
-					is_colonial_overlord = yes
-					capital.continent = scope:attacker.capital.continent
-				}
-			}
-		}
-	}
+	#NWIP old solution - we should try to re-enable it at some point
+	#can_attack = {
+	#	OR = {
+	#		scope:attacker = scope:overlord
+	#		scope:defender = {
+	#			OR = {
+	#				is_colonial_subject = yes
+	#				is_colonial_overlord = yes
+	#				capital.continent = scope:attacker.capital.continent
+	#			}
+	#		}
+	#	}
+	#}
 	
 	has_overlords_ruler = no
 	annexation_speed = 0
@@ -57,9 +66,14 @@
 	subject_can_cancel = no
 	overlord_can_cancel = no
 	
-	allow_declaring_wars = yes
+	has_limited_diplomacy = yes
+	allow_declaring_wars = { 
+		colonial_nation_can_declare_wars_trigger = yes
+	}
+	#Old NWIP implementation
+	#allow_declaring_wars = yes
 	#has_limited_diplomacy = yes
-	has_limited_diplomacy = no #let's test this
+	#has_limited_diplomacy = no #let's test this
 	food_access = yes
 	
 	fleet_basing_rights = yes
