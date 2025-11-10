@@ -1,3 +1,4 @@
+@ -1,60580 +0,0 @@
 current_age = age_1_traditions
 
 # own_control_core
@@ -174,7 +175,7 @@ countries = {
 
 			# own_control_integrated, but culture accepted
 			tallinn narva padise rakvere rapla toolse vasknarva
-			
+
 			#still owned in skane
 			laholm asbo
 		}
@@ -183,7 +184,7 @@ countries = {
 		our_cores_conquered_by_others = {
 			varberg halmstad kungsbacka
 			ronneby bregne solvesborg
-			gladsax osby 
+			gladsax osby
 			helsingborg lund malmo
 		}
 
@@ -292,13 +293,13 @@ countries = {
 		tolerated_cultures = {
 			estonian
 		}
-		
+
 		# severly in debt, and a regency and such..
 		currency_data = {
 			gold = -500
 			government_power = 25
 		}
-		
+
 	}
 
 	SKE = {
@@ -308,7 +309,7 @@ countries = {
 			gladsax osby
 			helsingborg lund malmo
 		}
-		
+
 		our_cores_conquered_by_others = {
 			laholm asbo
 		}
@@ -361,16 +362,16 @@ countries = {
 			bergen fana kvinnherad ullensvang moster eidfjord nordhordland eid stryn sunnfjord sogndal aurland voss vik laerdal
 			vardal lillehammer valdres otta alvdal imsdalen hedmarksvidda
 			hamar kongsvinger elverum glommadal trysil amot tynset
-			troms trondenes senja bardodalen 
+			troms trondenes senja bardodalen
 			bodo birndal alstahaug gildeskal steigen langenes lofotr hamaroy ofoti
-			raisa vardo deatnu porsanger hammerfest lebesby 
-			
+			raisa vardo deatnu porsanger hammerfest lebesby
+
 
 			# Northern Isles
-			#shetland orkney 
+			#shetland orkney
 			torshavn
 		}
-		
+
 		own_control_integrated = {
 			varanger  alta
 			kirkenes
@@ -379,7 +380,7 @@ countries = {
 		accepted_cultures = {
 			norn_culture
 		}
-		
+
 		capital = oslo
 
 		country_rank = rank_kingdom
@@ -701,11 +702,11 @@ countries = {
 			ragnit tilsit mergentheim gumbinnen barten wegorzewo
 			gerdauen insterburg wehlau
 			labiau memel windenburg
-			elk nibork ryn_poland szczytno 
+			elk nibork ryn_poland szczytno
 			malbork
 			konigsberg brandenburg_prussia
 		}
-		
+
 		own_control_conquered = {
 			#Chełmno Land
 			brodnica grudziadz torun
@@ -776,7 +777,7 @@ countries = {
 	LIV = { #Livonian Order
 		own_control_core = {
 		}
-		
+
 		own_control_integrated = {
 			parnu  valmiera viljandi kaina valjala
 			karksi poltsamaa  kandava dobele bauska sigulda cesis aluksne
@@ -785,7 +786,7 @@ countries = {
 			paide
 			ventspils grobina kuldiga durbe
 		}
-		
+
 		include = "catholic_military_order"
 		include = "expl_northern_europe"
 
@@ -1211,7 +1212,7 @@ countries = {
 				character = bra_otto_iii_askanier start_date = 1266.6.3 end_date = 1267.10.9 regnal_number = 3
 				character = bra_johann_ii_askanier start_date = 1266.6.3 end_date = 1267.10.9 regnal_number = 2
 				character = bra_otto_iv_askanier start_date = 1266.6.3 end_date = 1267.10.9 regnal_number = 4
-				character = bra_konrad_i_askanier start_date = 1266.6.3 end_date = 1267.10.9 regnal_number = 1 
+				character = bra_konrad_i_askanier start_date = 1266.6.3 end_date = 1267.10.9 regnal_number = 1
 			}
 
 			ruler_term = {
@@ -1772,7 +1773,7 @@ countries = {
 			ruler_term = {	character = dan_canute_henriksen start_date = 1157.1.1 end_date = 1162.3.12 regnal_number = 2 }
 			ruler_term = {	character = dan_boris_henriksen start_date = 1162.3.12 end_date = 1167.1.1 regnal_number = 1 }
 			ruler_term = {	character = dan_christopher_valdemarsen start_date = 1167.1.1 end_date = 1173.6.15 regnal_number = 1 }
-			
+
 			ruler_term = { character = dan_valdemar_ii start_date = 1173.6.15 end_date = 1209.1.1 regnal_number = 2 }
 			ruler_term = {
 				character = dan_valdemar_ii start_date = 1209.1.1 end_date = 1218.1.1 regnal_number = 2
@@ -2045,11 +2046,11 @@ countries = {
 			ruler_term = { character = kie_iziaslav_rurikovich start_date = 1052.10.4 end_date = 1054.2.20 regnal_number = 1 }
 			ruler_term = { character = nov_mstislav_izyaslavich_rurikovich start_date = 1054.2.20 end_date = 1069.1.1 regnal_number = 1 }
 			ruler_term = { character = kie_sviatopolk_ii_rurikovich start_date = 1078.5.30 end_date = 1087.11.22 regnal_number = 2 }
-			
+
 			#ruler_term = {	character = kie_rostislav_rurikovich start_date = 1154.1.1 end_date = 1154.1.1 regnal_number = 1	}
 			#ruler_term = { character = nov_svyatoslav_iii_vsevolodovich_rurikovich start_date = 1200.1.1 end_date = 1205.1.1 regnal_number = 1 }
 			#ruler_term = { character = nov_konstantin_vsevolodovich_rurikovich start_date = 1205.1.1 end_date = 1208.1.1 regnal_number = 1 }
-			
+
 			#ruler_term = { character = kie_mikhail_ii_vsevolodovich_rurikovich start_date = 1224.1.1 end_date = 1225.1.1  regnal_number = 1 }
 
 			#ruler_term = { character = psk_aleksandr_mikhailovich_rurikovich start_date = 1325.1.1 end_date = 1327.1.1 regnal_number = 1 }
@@ -2167,7 +2168,7 @@ countries = {
 			type = monarchy
 			heir_selection = cognatic_primogeniture
 			ruler = blo_roman_mikhailovich_rurikovich
-			
+
 			ruler_term = { character = rso_gleb_vasilkovich_rurikovich start_date = 1238.1.1 end_date = 1278.12.13 regnal_number = 1 }
 			ruler_term = { character = blo_mikhail_glebovich_rurikovich start_date = 1278.12.13 end_date = 1279.1.1 regnal_number = 1 }
 			ruler_term = { character = rso_dmitry_borisovich_rurikovich start_date = 1279.1.1 end_date = 1286.1.1 regnal_number = 1 }
@@ -2234,11 +2235,11 @@ countries = {
 			start_regency_date = 1331.1.1
 			end_regency_date = 1346.1.1
 			heir = rso_andrei_fedorovich_rostovsky_rurikovich
-			
+
 			ruler_term = { character = kie_yaroslav_the_wise_rurikovich start_date = 978.1.1 end_date = 1010.1.1 regnal_number = 1 }
 			ruler_term = { character = rso_boris_vladimirovich_rurikovich start_date = 1010.1.1 end_date = 1015.1.1 regnal_number = 1 }
 			ruler_term = { character = vol_rostislav_vladimirovich_rurikovich start_date = 1052.10.4 end_date = 1056.1.1 regnal_number = 1 }
-			
+
 			ruler_term = { character = nov_konstantin_vsevolodovich_rurikovich start_date = 1208.1.1 end_date = 1218.2.2 regnal_number = 1 }
 			ruler_term = { character = rso_vasilko_konstantinovich_rurikovich start_date = 1218.2.2 end_date = 1238.3.4 regnal_number = 1 }
 			ruler_term = { character = rso_boris_vasilkovich_rurikovich start_date = 1238.3.4 end_date = 1277.9.16 regnal_number = 1 }
@@ -2392,7 +2393,7 @@ countries = {
 		}
 
 		own_control_integrated = {
-			kologriv kunozh kuzhbal manturovo nikolo_dor pyshchug 
+			kologriv kunozh kuzhbal manturovo nikolo_dor pyshchug
 		}
 
 		starting_technology_level = 3
@@ -2572,7 +2573,7 @@ countries = {
 			chernihiv liubech horodnia snovsk
 			rechytsa streshyn
 			gomel chachersk dobrush tereshkovichy volosovichy
-			bakhmach sosnytsia nizhyn 
+			bakhmach sosnytsia nizhyn
 		}
 
 		starting_technology_level = 3
@@ -2583,7 +2584,7 @@ countries = {
 			heir_selection = cognatic_primogeniture
 			ruler = bry_gleb_svyatoslavich_rurikovich
 
-			
+
 			ruler_term = { character = mrm_yaroslav_svyatoslavich_rurikovich start_date = 1123.1.1 end_date = 1127.1.1  regnal_number = 1 }
 
 			ruler_term = { character = kie_mikhail_ii_vsevolodovich_rurikovich start_date = 1223.1.1 end_date = 1246.1.1  regnal_number = 1 }
@@ -3024,7 +3025,7 @@ countries = {
 	#Principality of Murom
 	MRM = {
 		own_control_core = {
-			murom gorbatovo melenki tuma starodub_votsky shatur 
+			murom gorbatovo melenki tuma starodub_votsky shatur
 		}
 
 		own_control_integrated = {
@@ -3174,7 +3175,7 @@ countries = {
 	#Personal Union under Moscovy
 	VLR = {
 		own_control_core = {
-			vladimir moshok muromtsevo_murom osovets sudogda vlasovo yaropolch 
+			vladimir moshok muromtsevo_murom osovets sudogda vlasovo yaropolch
 		}
 
 		own_control_integrated = {
@@ -3188,9 +3189,9 @@ countries = {
 			type = monarchy
 			heir_selection = cognatic_primogeniture
 			ruler = mos_ivan_i_danilovich_kalita_rurikovich
-			
+
 			#ruler_term = {	character = kie_vsevolod_iii_rurikovich start_date = 1176.6.20 end_date = 1212.4.15 regnal_number = 1	}
-			#ruler_term = { character = nov_konstantin_vsevolodovich_rurikovich start_date = 1216.1.1 end_date = 1218.1.1 regnal_number = 1 }	
+			#ruler_term = { character = nov_konstantin_vsevolodovich_rurikovich start_date = 1216.1.1 end_date = 1218.1.1 regnal_number = 1 }
 			#ruler_term = { character = nov_svyatoslav_iii_vsevolodovich_rurikovich start_date = 1246.1.1 end_date = 1248.1.1 regnal_number = 1 }
 			#ruler_term = { character = vlr_andrey_yaroslavich_rurikovich start_date = 1248.1.1 end_date = 1252.1.1 regnal_number = 1 }
 			#ruler_term = { character = kie_alexander_nevsky_rurikovich start_date = 1252.1.1 end_date = 1263.1.1 regnal_number = 1 }
@@ -3313,7 +3314,7 @@ countries = {
 			ruler_term = {	 character = psk_aleksandr_mikhailovich_rurikovich start_date = 1327.1.1 end_date = 1330.1.1 regnal_number = 1	}
 
 			ruler_term = {	 character = psk_aleksandr_mikhailovich_rurikovich start_date = 1331.1.1 regnal_number = 1	}
-		
+
 			centralization_vs_decentralization = 65
 			aristocracy_vs_plutocracy = 30
 			serfdom_vs_free_subjects = -20
@@ -3385,7 +3386,7 @@ countries = {
 		}
 
 		own_control_integrated = {
-			nikolsky koksharov bolshaya_yakshanga 
+			nikolsky koksharov bolshaya_yakshanga
 		}
 
 		starting_technology_level = 3
@@ -3399,7 +3400,7 @@ countries = {
 				parliament_type = estate_parliament
 			}
 			ruler = random
-			
+
 			centralization_vs_decentralization = 65
 			aristocracy_vs_plutocracy = 30
 			serfdom_vs_free_subjects = -20
@@ -3466,16 +3467,16 @@ countries = {
 	PRM = {
 		own_control_core = {
 			cherdyn nyrob ust_kulom lupya chernaya troitsko_pechorsk vukyl ukhta kortkeros ust_vym zheshart
-			ust_sysola vizinga koygorodok kirs afanasyevo siva karagay nytva perm kungur 
+			ust_sysola vizinga koygorodok kirs afanasyevo siva karagay nytva perm kungur
 			beryozovka lysva kizel gubakha dobryanka solikamsk
-			usolye yusva chyormoz kudymkar kelich kosa_perm gayny 
+			usolye yusva chyormoz kudymkar kelich kosa_perm gayny
 			ochyor okhannoye chastye debyosy stepanenki
 			igra dondykar yakshur_bodya votkings sarapul mozhga yelabuga izhevsk vavozh_mozhga vyatskiye_polyany
 			kilmez stelty falenki uni ural_nema
 		}
 
 		own_control_integrated = {
-			aspa suksun ust_kishert orda kasevo yanaul tatyshly saygatsky yelovo osa 
+			aspa suksun ust_kishert orda kasevo yanaul tatyshly saygatsky yelovo osa
 		}
 
 		starting_technology_level = 3
@@ -3923,7 +3924,7 @@ countries = {
 
 		add_pops_from_locations = {
 			gebergeyel khaiylmysh khaqmar shikashin yuldibay namjan atach ishkul kumak suyunduk tanalyk yaik meleuz
-			tabynsky ishimbay kapova_pesera zhetykol shoptikol kartaly uyskoye 
+			tabynsky ishimbay kapova_pesera zhetykol shoptikol kartaly uyskoye
 			bolshoy_ik ust_katav mesyagutovo zlatoust
 		}
 
@@ -4008,32 +4009,32 @@ countries = {
 			sighnaq asanas barchkend jand kamyskala sozak aksumbe gulshara kyzylkorgan ran tasty
 		}
 		own_control_integrated = {
-			usivka petrove kodak myshuryn_rih samarchyk pavlohrad oril ternivka adalaga berestyn 
-			karlivka izium barvinkove donets_kharkiv zmiiv chuhuiv vovchansk nyzhnia_duvanka 
-			bol_shaya_martynovka cheplak bolshoy_gashun dubovskoye ust_tsimla konstantinovsk 
-			tatsinskaya tormosin kremenskaya kletskaya ust_medveditskaya nizhny_chir anna_russia 
-			novaya_pokrovka semidesyatnoye zemlyansk rossosh borisoglebsk bannoye sadovoye 
-			bolshaya_gribanovka buturlinovka verkhny_mamon zimnyatsky malodelskaya ilovlya 
-			atkarsk lysye_gory yekaterinovka balanda rtishchevo balashov turki arkadak 
-			sosnovy_ostrov malykovka novye_burasy tereshka petrovsk mechet stepanevka 
-			sarai_al_jadid beljamen zenzevatka nagavskaya aksay rudnya_pontic danilovka 
-			kotovo kamyshin goly_karamysh pologoye_zaymishche srednyaya_akhtuba bykovo 
+			usivka petrove kodak myshuryn_rih samarchyk pavlohrad oril ternivka adalaga berestyn
+			karlivka izium barvinkove donets_kharkiv zmiiv chuhuiv vovchansk nyzhnia_duvanka
+			bol_shaya_martynovka cheplak bolshoy_gashun dubovskoye ust_tsimla konstantinovsk
+			tatsinskaya tormosin kremenskaya kletskaya ust_medveditskaya nizhny_chir anna_russia
+			novaya_pokrovka semidesyatnoye zemlyansk rossosh borisoglebsk bannoye sadovoye
+			bolshaya_gribanovka buturlinovka verkhny_mamon zimnyatsky malodelskaya ilovlya
+			atkarsk lysye_gory yekaterinovka balanda rtishchevo balashov turki arkadak
+			sosnovy_ostrov malykovka novye_burasy tereshka petrovsk mechet stepanevka
+			sarai_al_jadid beljamen zenzevatka nagavskaya aksay rudnya_pontic danilovka
+			kotovo kamyshin goly_karamysh pologoye_zaymishche srednyaya_akhtuba bykovo
 			elton zolotari berezhnovka kalmyk karatobe shyngyrlau aksay_pointic zhympity
-			terekti oral ryn saryadyn ushtagan sarayjuk kisikkamys kulagin talowski 
-			astrakhan khosheutovo krasny_yar ganyushkino zamyany yenotayevka sapara 
-			chernyye_zemli ikryanoye chyorny_yar nikolskoye_pontic malye_derbety 
-			sadovoye_kalmykia ded_khulsun zavetnoye bolkhuny mikhaylovka_pontic 
-			rechnoye bokey botkul zhanybek piterka krasny_kut_pontic mokrous 
-			savinka rovnoye pokrovsk baronsk taskala dergachi chertanla alexandrov_gay 
-			ozinki mechetnaya perelyub ivanteyevka balakovo dukhovnitskoye 
-			sakminskoye_vodokhranilishche yershov dardeling mekletin kok_usn yashkul 
-			iki_burul priyutnoye elista remontnoye gorodovikovsk raguli majar zelenokumsk arzgir levokumskoye 
-			naurskaya kara_bazaar terekli_mekteb kurskaya kamysh_burun baytak ilek 
-			kargaly_aktobe kobda irek tas_kichu kaynar shagiz tenteksor mavliberda 
+			terekti oral ryn saryadyn ushtagan sarayjuk kisikkamys kulagin talowski
+			astrakhan khosheutovo krasny_yar ganyushkino zamyany yenotayevka sapara
+			chernyye_zemli ikryanoye chyorny_yar nikolskoye_pontic malye_derbety
+			sadovoye_kalmykia ded_khulsun zavetnoye bolkhuny mikhaylovka_pontic
+			rechnoye bokey botkul zhanybek piterka krasny_kut_pontic mokrous
+			savinka rovnoye pokrovsk baronsk taskala dergachi chertanla alexandrov_gay
+			ozinki mechetnaya perelyub ivanteyevka balakovo dukhovnitskoye
+			sakminskoye_vodokhranilishche yershov dardeling mekletin kok_usn yashkul
+			iki_burul priyutnoye elista remontnoye gorodovikovsk raguli majar zelenokumsk arzgir levokumskoye
+			naurskaya kara_bazaar terekli_mekteb kurskaya kamysh_burun baytak ilek
+			kargaly_aktobe kobda irek tas_kichu kaynar shagiz tenteksor mavliberda
 			kiyl koptam uil emba atzhaksy shatyrlysay temir or_aktobe
 
 			chilia cetatea_alba gura_galbenei sarata tighina chatyun kutarka sernur morki urzhum
-			lusta soldaia 
+			lusta soldaia
 			zainsk syun verkhneyarkeyevo
 			menzelinsk lower_aktanyshbash chalninsky_pochinok chekmagush chishmy
 			ulukulevo davlekanovo bizhbulyak turkmenevo sterlibashevo
@@ -4057,14 +4058,14 @@ countries = {
 			alkhan_kala nazran dzhulat tatartup
 			promsa alatyr batyrevo
 			atrat altyshevo bolshoye_boldino shatki arzamas sarov lukoyanov krasnoslobodsk ruzayevka
-			insar temnikov tarbeevka zubova_polyana mokhcha nizhny_lomov zemetchino bondari 
-			sergach chamzinka saransk lunino 
+			insar temnikov tarbeevka zubova_polyana mokhcha nizhny_lomov zemetchino bondari
+			sergach chamzinka saransk lunino
 			pokrovskoye simbirsk cherdakly staraya_mayna melekess tetyushi sviyazhsk
 			atishchevo tsivilsk sharanga uren tonshayevo
 			bolshoye_murashkino kurmysh lyskovo perevoz sechenovo spasskoye_lyskovo
 			cheboksary kozmodemyansk alikovo vasilsursk pavlovo
 			vetluga semyonov khakhaly kovernino krasnye_baki raznezhye voskresenskoye varnavino
-			kadom ardatov 
+			kadom ardatov
 			ushkan koskuduk manysai shagan zhaksy_karasay
 			ketik_kala kabakty karatobe_mangyshlak kyzylkala
 			masat_ata beket_ata beki kenderli_kayasan koshkar_ata temir_baba
@@ -4073,23 +4074,23 @@ countries = {
 			vezir urgench
 			kazan laish calli mamadysh bogatye_saby oli_baraza dobyaz
 			yaransk kiknur kabachischi yoshkar_ola
-			bolghar cukataw bilyar almetyevsk 
-			tabynsky ishimbay beloretsk 
+			bolghar cukataw bilyar almetyevsk
+			tabynsky ishimbay beloretsk
 			buguruslan sergiyevsk
 			koshki kamyshla bolshoy_cheremshan staryi_amanak
 			samara shigony morkvash chebarkul miass
-			krasnaya_gorka belekes 
+			krasnaya_gorka belekes
 
 			ismail
 			tula_russia bogoroditsk arkhangelskoye kurkino donkov yelets talitsa_yelets gogol teshevka voronezh ukek
 			lipetsk usman mordovo zherdevka uvarovo kirsanov rasskazovo izberdey tambov ust_stanovykh_ryas
 			kozlov ust_livny terbuny kastornoye chernyanka alexeyevka opalkova
 			rovenki valuyki korocha belgorod rakitnoye muzhech sudzha oboyan
-			staroyuryevo morsha sasovo nikolskoye bazarny_syzgan karsun 
+			staroyuryevo morsha sasovo nikolskoye bazarny_syzgan karsun
 			mokshan chembar
 			serdobinskaya malaya_serdoba shemysheyka
 			penza gorodishche russky_kameshkir staraya_kulatka solovtsovo
-			troitskoye_kuroedovo 
+			troitskoye_kuroedovo
 			kasimov azeevo
 
 			meleuz kapova_pesera
@@ -4102,7 +4103,7 @@ countries = {
 			arykbalyk kak kokshetau shoindykol atbasar
 			kulykol zhetykol shoptikol siberia_tenteksor konildi
 			zharkol sasykkol kartaly alakol almenevo safkul shchuchye kargapolye kurtamysh
-			yetkul troitsk uyskoye 
+			yetkul troitsk uyskoye
 			bolshoy_ik ust_katav mesyagutovo zlatoust
 			chimgi_tura tugulym yalutorovsk shadrinsk
 			tsaryovo_gorodishche burayevo
@@ -4111,7 +4112,7 @@ countries = {
 			bratslav balta bershad drahushiv karabul savran
 			torhovytsia teplyk tsybuliv uman zavallia
 			vinnytsia buzhskyi pohrebyshche sokilets
-			armavir 
+			armavir
 
 			#Principality of Kursk
 			kursk fatezh kosozhichi olgov
@@ -4157,7 +4158,7 @@ countries = {
 		capital = sarai_al_jadid
 		religious_school = hanafi_school
 		government = { mysticism_vs_jurisprudence = -15 }
-		
+
 		court_language = kipchak_language
 
 
@@ -4189,23 +4190,23 @@ countries = {
 	CRI = {
 		type = location
 		our_cores_conquered_by_others = {
-			qirq_yer qarasuvbazar seyitler solkhat kalay kezlev aqmecit jurchi or_qapi mapa susaco shanjir copa siba_circassia akhtar kalininskaya bryukhovetskaya 
-			bzhedygu_kal ust_labinsk pavlovskaya tbilisskaya romanovsky_khutor qalancaq aslan_horod ordu_bazar rohat_kermen enice velyka_lepetykha hryshyne sloviansk 
-			melitopol kyrylivka tokmak konski_vody kuchugur berdiansk taganrog velyka_novosilka domakha huliaipole shyrokyne vasylivka bakhmut lysychansk kreminna 
-			oleksandrivka posad azok bagayevskaya shcherbinovka balzimachi kanevskaya starominskaya yegorlykskaya tana krasny_sulin shakhty rovenky kalmius 
+			qirq_yer qarasuvbazar seyitler solkhat kalay kezlev aqmecit jurchi or_qapi mapa susaco shanjir copa siba_circassia akhtar kalininskaya bryukhovetskaya
+			bzhedygu_kal ust_labinsk pavlovskaya tbilisskaya romanovsky_khutor qalancaq aslan_horod ordu_bazar rohat_kermen enice velyka_lepetykha hryshyne sloviansk
+			melitopol kyrylivka tokmak konski_vody kuchugur berdiansk taganrog velyka_novosilka domakha huliaipole shyrokyne vasylivka bakhmut lysychansk kreminna
+			oleksandrivka posad azok bagayevskaya shcherbinovka balzimachi kanevskaya starominskaya yegorlykskaya tana krasny_sulin shakhty rovenky kalmius
 			kamenskaya semikarakorsk yundin gorodovikovsk raguli privolnoye belaya_glina peschanokopskoye novo_alexandrovskoye bezopasnoye ipatovo
 		}
-		
+
 		starting_technology_level = 3
 		include = "expl_mongols"
 		include = "eurasian_horde_not_present"
 		country_rank = rank_duchy
 
 		capital = tana
-		
+
 		religious_school = hanafi_school
-		government = { 
-			mysticism_vs_jurisprudence = -15 
+		government = {
+			mysticism_vs_jurisprudence = -15
 			laws = {
 				legal_code_law = sharia_law_policy
 				sharia_law = hanafi_policy
@@ -4218,22 +4219,22 @@ countries = {
 	NOG = {
 		type = location
 		our_cores_conquered_by_others = {
-			bokey zhanybek kalmyk karatobe shyngyrlau aksay_pointic zhympity terekti oral ryn ushtagan sarayjuk kisikkamys kulagin saryadyn talowski piterka 
-			taskala dergachi chertanla alexandrov_gay ozinki sakminskoye_vodokhranilishche yershov baytak ilek kargaly_aktobe kobda irek ushkan koskuduk 
-			manysai shagan zhaksy_karasay tas_kichu kaynar shagiz tenteksor mavliberda kiyl koptam uil emba atzhaksy shatyrlysay temir or_aktobe kath 
-			khurgancha pulzhai qonirat shimbay xojeli khiva urgench kyat_kala nyzvar vezir masat_ata beket_ata beki kenderli_kayasan koshkar_ata temir_baba 
-			ketik_kala kabakty karatobe_mangyshlak kyzylkala beleuli kyushe sam shuruk sisem_ata uchkuduk 
+			bokey zhanybek kalmyk karatobe shyngyrlau aksay_pointic zhympity terekti oral ryn ushtagan sarayjuk kisikkamys kulagin saryadyn talowski piterka
+			taskala dergachi chertanla alexandrov_gay ozinki sakminskoye_vodokhranilishche yershov baytak ilek kargaly_aktobe kobda irek ushkan koskuduk
+			manysai shagan zhaksy_karasay tas_kichu kaynar shagiz tenteksor mavliberda kiyl koptam uil emba atzhaksy shatyrlysay temir or_aktobe kath
+			khurgancha pulzhai qonirat shimbay xojeli khiva urgench kyat_kala nyzvar vezir masat_ata beket_ata beki kenderli_kayasan koshkar_ata temir_baba
+			ketik_kala kabakty karatobe_mangyshlak kyzylkala beleuli kyushe sam shuruk sisem_ata uchkuduk
 		}
-		
+
 		capital = sarayjuk
-		
+
 		starting_technology_level = 3
 		include = "expl_mongols"
 		include = "eurasian_horde_not_present"
 		country_rank = rank_duchy
 		religious_school = hanafi_school
-		government = { 
-			mysticism_vs_jurisprudence = -15 
+		government = {
+			mysticism_vs_jurisprudence = -15
 			laws = {
 				legal_code_law = sharia_law_policy
 				sharia_law = hanafi_policy
@@ -4242,26 +4243,26 @@ countries = {
 			}
 		}
 	}
-	
+
 	ATR = {
 		type = location
 		our_cores_conquered_by_others = {
-			bol_shaya_martynovka cheplak bolshoy_gashun dubovskoye ust_tsimla konstantinovsk tatsinskaya tormosin kremenskaya kletskaya ust_medveditskaya 
-			oblivskaya nizhny_chir zimnyatsky malodelskaya ilovlya mechet stepanevka sarai_al_jadid beljamen zenzevatka nagavskaya aksay rudnya_pontic 
-			danilovka kotovo kamyshin goly_karamysh astrakhan khosheutovo krasny_yar ganyushkino pologoye_zaymishche srednyaya_akhtuba bykovo elton 
-			zolotari berezhnovka zamyany yenotayevka sapara chernyye_zemli ikryanoye chyorny_yar nikolskoye_pontic malye_derbety sadovoye_kalmykia 
-			ded_khulsun zavetnoye bolkhuny mikhaylovka_pontic rechnoye botkul dardeling mekletin kok_usn yashkul iki_burul priyutnoye elista remontnoye savinka rovnoye 
+			bol_shaya_martynovka cheplak bolshoy_gashun dubovskoye ust_tsimla konstantinovsk tatsinskaya tormosin kremenskaya kletskaya ust_medveditskaya
+			oblivskaya nizhny_chir zimnyatsky malodelskaya ilovlya mechet stepanevka sarai_al_jadid beljamen zenzevatka nagavskaya aksay rudnya_pontic
+			danilovka kotovo kamyshin goly_karamysh astrakhan khosheutovo krasny_yar ganyushkino pologoye_zaymishche srednyaya_akhtuba bykovo elton
+			zolotari berezhnovka zamyany yenotayevka sapara chernyye_zemli ikryanoye chyorny_yar nikolskoye_pontic malye_derbety sadovoye_kalmykia
+			ded_khulsun zavetnoye bolkhuny mikhaylovka_pontic rechnoye botkul dardeling mekletin kok_usn yashkul iki_burul priyutnoye elista remontnoye savinka rovnoye
 		}
 		starting_technology_level = 3
 		include = "expl_mongols"
 		include = "eurasian_horde_not_present"
 		country_rank = rank_duchy
 		religious_school = hanafi_school
-		
+
 		capital = astrakhan
-		
-		government = { 
-			mysticism_vs_jurisprudence = -15 
+
+		government = {
+			mysticism_vs_jurisprudence = -15
 			laws = {
 				legal_code_law = sharia_law_policy
 				sharia_law = hanafi_policy
@@ -4301,7 +4302,7 @@ countries = {
 		}
 
 		own_control_integrated = {
-			tana 
+			tana
 		}
 
 		starting_technology_level = 3
@@ -4340,7 +4341,7 @@ countries = {
 			launceston truro bodmin
 			# channel
 			jersey
-			# france			
+			# france
 			abbeville montreuil #Ponthieu
 		}
 		own_control_conquered = {
@@ -4519,11 +4520,11 @@ countries = {
 		}
 		capital = wigmore
 		government = {
-			ruler_term = { character = eng_roger_mortimer_1st_earl_of_march start_date = 1330.11.29 end_date = 1330.11.29 regnal_number = 1 }			
+			ruler_term = { character = eng_roger_mortimer_1st_earl_of_march start_date = 1330.11.29 end_date = 1330.11.29 regnal_number = 1 }
 
 			regency = overlord_regency
 			active_regent = eng_edward_iii
-			start_regency_date = 1330.11.29 
+			start_regency_date = 1330.11.29
 			end_regency_date = 1350.3.5
 			heir = eng_roger_mortimer_2nd_earl_of_march
 		}
@@ -4568,7 +4569,7 @@ countries = {
 		capital = machynlleth
 
 		government = {
-			ruler_term = { character = eng_john_de_charlton_1st_baron_charlton start_date = 1309.1.1 regnal_number = 1 }	
+			ruler_term = { character = eng_john_de_charlton_1st_baron_charlton start_date = 1309.1.1 regnal_number = 1 }
 			ruler = eng_john_de_charlton_1st_baron_charlton
 		}
 		tolerated_cultures = { welsh }
@@ -4609,7 +4610,7 @@ countries = {
 		}
 		capital = pembroke
 
-		government = {		
+		government = {
 
 			regency = overlord_regency
 			active_regent = eng_edward_iii
@@ -4657,7 +4658,7 @@ countries = {
 
 
 	LAN = { #Palatinate of Lancaster
-		own_control_core = {			
+		own_control_core = {
 			lancaster blackburn liverpool preston manchester
 		}
 
@@ -4807,8 +4808,8 @@ countries = {
 	}
 
 	GWT = { # Gwent
-		our_cores_conquered_by_others = { 
-			monmouth newport 
+		our_cores_conquered_by_others = {
+			monmouth newport
 		}
 		include = "catholic_monarchy_welsh_releasable"
 		capital = monmouth
@@ -4901,7 +4902,7 @@ countries = {
 			type = monarchy
 			heir_selection = cognatic_primogeniture
 			ruler = random
-			
+
 			laws = {
 				legal_code_law = civil_law_policy
 			}
@@ -4933,8 +4934,8 @@ countries = {
 		own_control_core = {
 			glasgow paisley dumbarton aberdeen dunbar banff dunfermline st_andrews dundee buchan mar inverurie stonehaven clackmannan aberfeldy irvine
 			oban inverary cowal forfar arbroath arran selkirk scone
-			dornoch durness tongue	
-		}	
+			dornoch durness tongue
+		}
 		own_control_conquered = {
 			thurso
 		}
@@ -5076,7 +5077,7 @@ countries = {
 			oban inverary cowal forfar arbroath arran selkirk scone
 
 			#Ross
-			dingwall gairloch ullapool 
+			dingwall gairloch ullapool
 		}
 
 		include = "expl_northern_europe"
@@ -5186,7 +5187,7 @@ countries = {
 			reforms = {
 				celtic_traditions_reform
 			}
-			
+
 			land_vs_naval = 100
 		}
 		capital = islay
@@ -5274,8 +5275,8 @@ countries = {
 		own_control_core = {
 			# the pale proper
 			dublin navan fingal drogheda dundalk
-			
-			waterford wexford new_ross  
+
+			waterford wexford new_ross
 		}
 		own_control_integrated = {
 			limerick cork
@@ -5995,7 +5996,7 @@ countries = {
 			}
 
 			reforms = {
-				
+
 			}
 
 			#Societal Values
@@ -6256,7 +6257,7 @@ countries = {
 			ruler = kli_arjun_pal_jadon
 
 			reforms = {
-				
+
 			}
 		}
 	}
@@ -6278,7 +6279,7 @@ countries = {
 			ruler = drw_motay_rao_chauhan
 
 			reforms = {
-				
+
 			}
 		}
 		tolerated_cultures = { shekhawati }
@@ -6323,7 +6324,7 @@ countries = {
 			ruler = random #Ruler unknown in 1337
 
 			reforms = {
-				
+
 			}
 		}
 		tolerated_cultures = {
@@ -6376,7 +6377,7 @@ countries = {
 			ruler = bha_bhairu_bhatti
 
 			reforms = {
-				
+
 			}
 		}
 
@@ -6397,10 +6398,10 @@ countries = {
 		include = "expl_india_hindu"
 		include = "indian_hindu_monarchy_no_coast"
 		government = {
-			ruler = random 
+			ruler = random
 
 			reforms = {
-				
+
 			}
 		}
 
@@ -6419,7 +6420,7 @@ countries = {
 		capital = rajouri
 		religious_school = hanafi_school
 		government = { mysticism_vs_jurisprudence = -15 }
-		
+
 		#Ruler: Sirdar Khan / Ratan Singh
 
 		include = "indian_muslim_monarchy_no_coast"
@@ -6462,7 +6463,7 @@ countries = {
 			ruler = random
 			#Ruler: Unknown, was still independent when Mughals arrive in the area
 			reforms = {
-				
+
 			}
 		}
 
@@ -6491,7 +6492,7 @@ countries = {
 			}
 
 			reforms = {
-				
+
 			}
 		}
 	}
@@ -6513,7 +6514,7 @@ countries = {
 			ruler = cbh_siripat_thakial
 
 			reforms = {
-				
+
 			}
 		}
 		tolerated_cultures = {
@@ -6538,7 +6539,7 @@ countries = {
 			ruler = skt_ban_sen
 
 			reforms = {
-				
+
 			}
 		}
 
@@ -6582,7 +6583,7 @@ countries = {
 			ruler = bsp_sampurn_chandel
 
 			reforms = {
-				
+
 			}
 		}
 
@@ -6604,7 +6605,7 @@ countries = {
 			ruler = nrp_jas_pal_tanwar
 
 			reforms = {
-				
+
 			}
 		}
 
@@ -6622,10 +6623,10 @@ countries = {
 		include = "expl_india_hindu"
 		include = "indian_hindu_monarchy_no_coast"
 		government = {
-			ruler = random 
+			ruler = random
 
 			reforms = {
-				
+
 			}
 		}
 
@@ -6646,7 +6647,7 @@ countries = {
 			ruler = random #Unknown ruler in 1337
 
 			reforms = {
-				
+
 			}
 		}
 
@@ -6673,7 +6674,7 @@ countries = {
 			#Before 1540 individual rulers are not known, though some names are.
 
 			reforms = {
-				
+
 			}
 		}
 
@@ -6709,7 +6710,7 @@ countries = {
 			ruler = cab_madana_varman_mushana
 
 			reforms = {
-				
+
 			}
 		}
 	}
@@ -6732,7 +6733,7 @@ countries = {
 			ruler = random
 
 			reforms = {
-				
+
 			}
 		}
 	}
@@ -6760,7 +6761,7 @@ countries = {
 		tolerated_cultures = { chitrali }
 		religious_school = hanafi_school
 		government = { mysticism_vs_jurisprudence = -15 }
-		
+
 	}
 
 	#SWT - Swat kingdom of Bajaur
@@ -6784,7 +6785,7 @@ countries = {
 		include = "indian_muslim_monarchy_no_coast_no_censor"
 		government = {
 
-			ruler = random 
+			ruler = random
 
 
 			laws = {
@@ -6798,7 +6799,7 @@ countries = {
 		 }
 		religious_school = hanafi_school
 		government = { mysticism_vs_jurisprudence = -15 }
-		
+
 	}
 
 	#CRL - Urtsun
@@ -6970,7 +6971,7 @@ countries = {
 			heir = ksh_haidar_khan_lohara
 
 			reforms = {
-				
+
 			}
 		}
 
@@ -7034,7 +7035,7 @@ countries = {
 			ruler = jlw_nagji_jhala
 
 			reforms = {
-				
+
 			}
 		}
 	}
@@ -7054,7 +7055,7 @@ countries = {
 			ruler = ghl_mokhdaji_ranoji_guhila
 
 			reforms = {
-				
+
 			}
 
 			#Societal Values
@@ -7077,7 +7078,7 @@ countries = {
 			ruler = plt_nonghanji_arjanji_guhila
 
 			reforms = {
-				
+
 			}
 
 			#Societal Values
@@ -7102,7 +7103,7 @@ countries = {
 			ruler = jng_khengara_chudasama
 
 			reforms = {
-				
+
 			}
 
 			#Societal Values
@@ -7126,7 +7127,7 @@ countries = {
 			ruler = bhd_bhanji_jethwa
 
 			reforms = {
-				
+
 			}
 		}
 	}
@@ -7144,7 +7145,7 @@ countries = {
 			ruler = bhd_bhanji_jethwa
 
 			reforms = {
-				
+
 			}
 		}
 	}
@@ -7163,7 +7164,7 @@ countries = {
 			ruler = kut_mulvaji_jadeja
 
 			reforms = {
-				
+
 			}
 			#Societal Values
 			land_vs_naval = 50
@@ -7188,7 +7189,7 @@ countries = {
 
 		religious_school = hanafi_school
 		government = { mysticism_vs_jurisprudence = -15 }
-		
+
 		include = "indian_muslim_monarchy_no_dharmic_dhimmi_no_coast_no_censor"
 		capital = sehwan
 
@@ -7224,7 +7225,7 @@ countries = {
 		capital = umarkot
 
 		government = {
-			ruler = random 
+			ruler = random
 
 			reforms = {
 				taluqdar_nobility
@@ -7274,7 +7275,7 @@ countries = {
 			}
 
 			reforms = {
-				
+
 			}
 		}
 	}
@@ -7293,7 +7294,7 @@ countries = {
 			ruler = bnd_prithviraj_singh_bundela
 
 			reforms = {
-				
+
 			}
 		}
 
@@ -7315,7 +7316,7 @@ countries = {
 			ruler = bgk_sohagdeva_baghela
 
 			reforms = {
-				
+
 			}
 		}
 
@@ -7335,10 +7336,10 @@ countries = {
 		include = "indian_hindu_monarchy_no_coast"
 		capital = mauganj
 		government = {
-			ruler = random 
+			ruler = random
 
 			reforms = {
-				
+
 			}
 		}
 	}
@@ -7378,7 +7379,7 @@ countries = {
 		include = "india_limited_monarchy"
 		capital = bonaigarh
 		government = {
-			ruler = random 
+			ruler = random
 
 			laws = {
 				administrative_system = feudal_administration
@@ -7403,7 +7404,7 @@ countries = {
 		include = "india_limited_monarchy"
 		capital = pal_lahara
 		government = {
-			ruler = random 
+			ruler = random
 
 			laws = {
 				administrative_system = feudal_administration
@@ -7423,13 +7424,13 @@ countries = {
 
 		own_control_integrated = {
 			sundergarh
-		} 
+		}
 
 		include = "expl_india_hindu"
 		include = "india_limited_monarchy"
 		capital = sarangarh
 		government = {
-			ruler = random 
+			ruler = random
 			laws = {
 				censorship = limited_censorship
 				education_masses_law = basic_religious_education
@@ -7538,7 +7539,7 @@ countries = {
 			ruler = jlr_kanhadadeva_chauhan
 
 			reforms = {
-				
+
 			}
 		}
 
@@ -7566,7 +7567,7 @@ countries = {
 			ruler = idr_kehar_rathore
 
 			reforms = {
-				
+
 			}
 		}
 	}
@@ -7593,7 +7594,7 @@ countries = {
 			ruler = dgr_dungar_singh_sisodia
 
 			reforms = {
-				
+
 			}
 		}
 	}
@@ -7611,7 +7612,7 @@ countries = {
 			ruler = cmn_rao_palansang_chauhan
 
 			reforms = {
-				
+
 			}
 		}
 
@@ -7660,7 +7661,7 @@ countries = {
 			ruler = mrw_chhadaji_rathore
 
 			reforms = {
-				
+
 			}
 		}
 	}
@@ -7678,7 +7679,7 @@ countries = {
 			ruler = mew_hammir_singh_sisodia
 
 			reforms = {
-				
+
 			}
 		}
 
@@ -7699,7 +7700,7 @@ countries = {
 			#In 1342 Mewar helped install the Hada Dynasty here.
 
 			reforms = {
-				
+
 			}
 		}
 
@@ -7723,7 +7724,7 @@ countries = {
 			ruler = dhu_jansi_deo_kachhwaha
 
 			reforms = {
-				
+
 			}
 		}
 
@@ -7771,7 +7772,7 @@ countries = {
 			ruler = gwa_kunwar_pal_tomara
 
 			reforms = {
-				
+
 			}
 		}
 	}
@@ -7869,7 +7870,7 @@ countries = {
 			ruler = goa_suriyadeva_kadamba
 
 			reforms = {
-				
+
 			}
 
 			#Societal Values
@@ -8033,7 +8034,7 @@ countries = {
 			ruler = random #Unknown in 1337
 
 			reforms = {
-				
+
 			}
 		}
 	}
@@ -8115,7 +8116,7 @@ countries = {
 				name_bhanu = 2
 			}
 			reforms = {
-				
+
 			}
 			laws = {
 				administrative_system = feudal_administration
@@ -8142,7 +8143,7 @@ countries = {
 		include = "india_limited_monarchy"
 		capital = keonjhar
 		government = {
-			ruler = random 
+			ruler = random
 
 			laws = {
 				administrative_system = feudal_administration
@@ -8167,7 +8168,7 @@ countries = {
 		include = "india_limited_monarchy"
 		capital = baripada
 		government = {
-			ruler = random 
+			ruler = random
 			#There are supposed to have been 31 rulers before 1660, but their names are unknown.
 
 			laws = {
@@ -8220,7 +8221,7 @@ countries = {
 		include = "india_limited_monarchy"
 		capital = nandapur
 		government = {
-			ruler = random 
+			ruler = random
 
 			laws = {
 				administrative_system = feudal_administration
@@ -8245,7 +8246,7 @@ countries = {
 		include = "india_limited_monarchy"
 		capital = kanker
 		government = {
-			ruler = random 
+			ruler = random
 			laws = {
 				censorship = limited_censorship
 				education_masses_law = basic_religious_education
@@ -8270,7 +8271,7 @@ countries = {
 			ruler = smv_rajanarayana_sambuvarayar
 
 			reforms = {
-				
+
 			}
 			laws = {
 				administrative_system = poligar_system_policy
@@ -8428,11 +8429,11 @@ countries = {
 		include = "indian_hindu_monarchy"
 		capital = kozhikode
 		government = {
-			ruler = random 
+			ruler = random
 
 
 			reforms = {
-				
+
 			}
 
 			#Societal Values
@@ -8450,11 +8451,11 @@ countries = {
 		include = "indian_hindu_monarchy"
 		capital = kannur
 		government = {
-			ruler = random 
+			ruler = random
 
 
 			reforms = {
-				
+
 			}
 
 			#Societal Values
@@ -8472,11 +8473,11 @@ countries = {
 		include = "indian_hindu_monarchy"
 		capital = kochi
 		government = {
-			ruler = random 
+			ruler = random
 
 
 			reforms = {
-				
+
 			}
 
 			#Societal Values
@@ -8494,10 +8495,10 @@ countries = {
 		include = "indian_hindu_monarchy"
 		capital = kollam
 		government = {
-			ruler = random 
+			ruler = random
 
 			reforms = {
-				
+
 			}
 
 			#Societal Values
@@ -8520,7 +8521,7 @@ countries = {
 			ruler = random #Unknown
 
 			reforms = {
-				
+
 			}
 
 			#Societal Values
@@ -8541,7 +8542,7 @@ countries = {
 			ruler = random #Unknown
 
 			reforms = {
-				
+
 			}
 
 			#Societal Values
@@ -8559,10 +8560,10 @@ countries = {
 		include = "indian_hindu_monarchy_no_coast"
 		capital = wayanad
 		government = {
-			ruler = random 
+			ruler = random
 
 			reforms = {
-				
+
 			}
 		}
 	}
@@ -8577,10 +8578,10 @@ countries = {
 		include = "indian_hindu_monarchy_no_coast"
 		capital = palghat
 		government = {
-			ruler = random 
+			ruler = random
 
 			reforms = {
-				
+
 			}
 		}
 
@@ -8600,10 +8601,10 @@ countries = {
 		include = "indian_hindu_monarchy_no_coast"
 		capital = kottarakkara
 		government = {
-			ruler = random 
+			ruler = random
 
 			reforms = {
-				
+
 			}
 		}
 	}
@@ -8621,7 +8622,7 @@ countries = {
 			ruler = tku_kumaran_iyakan_manikandan
 
 			reforms = {
-				
+
 			}
 
 			#Societal Values
@@ -8642,7 +8643,7 @@ countries = {
 			ruler = random #Unknown
 
 			reforms = {
-				
+
 			}
 		}
 	}
@@ -8658,10 +8659,10 @@ countries = {
 		include = "indian_hindu_monarchy_jain"
 		capital = kasaragod
 		government = {
-			ruler = random 
+			ruler = random
 
 			reforms = {
-				
+
 			}
 
 			laws = {
@@ -8687,10 +8688,10 @@ countries = {
 		include = "indian_hindu_monarchy_no_coast"
 		capital = karkala
 		government = {
-			ruler = random 
+			ruler = random
 
 			reforms = {
-				
+
 			}
 
 			laws = {
@@ -8726,7 +8727,7 @@ countries = {
 			ruler = jfn_martanda_cinkaiariyan_aryacakravarti
 
 			reforms = {
-				
+
 			}
 
 			#Societal Values
@@ -9656,7 +9657,7 @@ countries = {
 			ruler_term = {
 				character = fab_tommaso_i_chiavelli start_date = 1317.1.1 end_date = 1325.1.1 regnal_number = 1
 				character = fab_alberghetto_ii_chiavelli start_date = 1317.1.1 end_date = 1325.1.1 regnal_number = 2
-				
+
 			}
 			ruler_term = { character = fab_alberghetto_ii_chiavelli start_date = 1325.1.1 end_date = 1327.1.1 regnal_number = 2 }
 		}
@@ -9720,7 +9721,7 @@ countries = {
 
 	FER = {
 		own_control_core = {
-			comacchio ferrara ficarolo rovigo argenta 
+			comacchio ferrara ficarolo rovigo argenta
 		}
 
 		own_control_conquered = {
@@ -10055,7 +10056,7 @@ countries = {
 				character = gen_opizzino_spinola start_date = 1306.1.7 end_date = 1310.1.1 regnal_number = 0
 			}
 			ruler_term = { character = gen_opizzino_spinola start_date = 1310.1.1 end_date = 1311.1.1 regnal_number = 0 }
-			
+
 			ruler_term = { # Fieschi-Grimaldi Diarchy
 				character = gen_carlo_fieschi start_date = 1317.12.10 end_date = 1318.7.27 regnal_number = 0
 				character = gen_gaspare_grimaldi start_date = 1317.12.10 end_date = 1318.7.27 regnal_number = 0
@@ -11204,7 +11205,7 @@ countries = {
 		}
 
 		our_cores_conquered_by_others = {
-			argenta 
+			argenta
 		}
 
 		starting_technology_level = 3
@@ -11379,7 +11380,7 @@ countries = {
 			bourg_en_bresse belley chambery gex saint_jean_de_maurienne
 			moutiers evian
 			bage thoire
-			vienne 
+			vienne
 		}
 
 		starting_technology_level = 3
@@ -11500,7 +11501,7 @@ countries = {
 			heir_selection = cognatic_primogeniture
 			ruler = gnv_amedee_iii_geneve
 
-			
+
 			ruler_term = { character = gnv_amedee_ii_geneve start_date = 1280.1.1 end_date = 1308.5.22 regnal_number = 3 }
 			ruler_term = { character = gnv_guillaume_iii_geneve start_date = 1308.5.22 end_date = 1320.1.1 regnal_number = 3 }
 			ruler_term = { character = gnv_amedee_iii_geneve start_date = 1320.1.1 regnal_number = 3 }
@@ -11587,9 +11588,9 @@ countries = {
 				character = nap_charles_i_anjou start_date = 1266.1.6 end_date = 1266.2.26 regnal_number = 1
 				character = sic_manfredi_i_sicilia start_date = 1266.1.6 end_date = 1266.2.26 regnal_number = 1
 			}
-			
+
 			ruler_term = { character = nap_charles_i_anjou start_date = 1266.2.26 end_date = 1282.9.26 regnal_number = 1 }
-			
+
 			ruler_term = {
 				character = nap_charles_i_anjou start_date = 1282.9.26 end_date = 1282.11.26 regnal_number = 1
 				character = sic_costanza_ii_sicilia start_date = 1282.9.26 end_date = 1282.11.26 regnal_number = 2
@@ -11753,7 +11754,7 @@ countries = {
 		}
 
 		own_control_integrated = {
-			riva 
+			riva
 		}
 
 		government = {
@@ -12420,7 +12421,7 @@ countries = {
 				name_robert = 1
 			}
 		}
-		
+
 		tolerated_cultures = {
 			greek_culture
 		}
@@ -12703,8 +12704,8 @@ countries = {
 			#Mugla Province - lost in late 1270
 			gokabat marmaris bodrum mugla
 
- 			dospat bansko krupnik melnik nevrokop 
-			tsepina 
+ 			dospat bansko krupnik melnik nevrokop
+			tsepina
 			beden haskovo perperek smolyan stanimaka
 		}
 
@@ -13283,12 +13284,12 @@ countries = {
 			tulcea harsova
 			archar lom gigen dobrolak svoge kostenets strelcha ruse kladentsi lyaskovets veliki_preslav ktenia constantia_bul elhovo
 			babadag cernavoda constanta enisala isaccea
-			visesav kozelj svrljig pirot tsaribrod  
+			visesav kozelj svrljig pirot tsaribrod
 			zemlungrad dupnitsa
 		}
 		own_control_conquered = {
- 			dospat bansko krupnik melnik nevrokop 
-			tsepina 
+ 			dospat bansko krupnik melnik nevrokop
+			tsepina
 			beden haskovo perperek smolyan stanimaka
 		}
 		own_control_integrated = {
@@ -13339,7 +13340,7 @@ countries = {
 
 	VID = {
 		our_cores_conquered_by_others = {
-			vidin archar kozelj kutlovitsa lom svrljig visesav vratsa 
+			vidin archar kozelj kutlovitsa lom svrljig visesav vratsa
 		}
 
 		starting_technology_level = 3
@@ -13724,15 +13725,15 @@ countries = {
 			exploration = 5
 		}
 
-		accepted_cultures = { 
+		accepted_cultures = {
 			leonese
-			galician			
+			galician
 			basque
 		}
-		tolerated_cultures = { 
+		tolerated_cultures = {
 			sephardi
 		}
-		
+
 	}
 
 	POR = {
@@ -14099,7 +14100,7 @@ countries = {
 		accepted_cultures = {
 			aragonese
 		}
-		
+
 		tolerated_cultures = {
 			gascon
 			sephardi
@@ -15111,7 +15112,7 @@ countries = {
 			type = monarchy
 			heir_selection = cognatic_primogeniture
 			ruler = foi_gaston_ii_foix
-			
+
 			ruler_term = { character = foi_roger_bernard_iii_foix start_date = 1240.4.26 end_date = 1302.3.3 regnal_number = 1 }
 			ruler_term = { character = foi_gaston_i_foix start_date = 1302.3.3 end_date = 1315.12.13 regnal_number = 8 }
 			ruler_term = { character = foi_gaston_ii_foix start_date = 1315.12.13 regnal_number = 9 }
@@ -15653,15 +15654,15 @@ countries = {
 			ruler_term = { character = com_arnaud_i_comminges start_date = 949.1.1 end_date = 957.1.1 regnal_number = 1 }
 			ruler_term = { character = com_roger_i_comminges start_date = 957.1.1 end_date = 979.1.1 regnal_number = 1 }
 			ruler_term = {
-				character = com_roger_i_comminges start_date = 979.1.1 end_date = 988.1.1 regnal_number = 1 
+				character = com_roger_i_comminges start_date = 979.1.1 end_date = 988.1.1 regnal_number = 1
 				character = com_arnaud_ii_comminges start_date = 979.1.1 end_date = 988.1.1 regnal_number = 2
 			}
 			ruler_term = {
-				character = com_roger_i_comminges start_date = 988.1.1 end_date = 1003.1.1 regnal_number = 1 
+				character = com_roger_i_comminges start_date = 988.1.1 end_date = 1003.1.1 regnal_number = 1
 				character = com_eudes_comminges start_date = 988.1.1 end_date = 1003.1.1 regnal_number = 1
 			}
 			ruler_term = {
-				character = com_roger_i_comminges start_date = 1003.1.1 end_date = 1012.1.1 regnal_number = 1 
+				character = com_roger_i_comminges start_date = 1003.1.1 end_date = 1012.1.1 regnal_number = 1
 				character = com_eudes_comminges start_date = 1003.1.1 end_date = 1012.1.1 regnal_number = 1
 				character = com_roger_ii_comminges start_date = 1003.1.1 end_date = 1012.1.1 regnal_number = 2
 			}
@@ -15796,14 +15797,14 @@ countries = {
 			type = monarchy
 			heir_selection = cognatic_primogeniture
 			ruler = per_roger_bernard_perigord
-			
+
 			ruler_term = {
 				character = per_boson_i_perigord start_date = 975.1.1 end_date = 979.1.1 regnal_number = 1
 				character = per_helie_i_perigord start_date = 975.1.1 end_date = 979.1.1 regnal_number = 1
 				character = per_adalbert_i_perigord start_date = 975.1.1 end_date = 979.1.1 regnal_number = 1
 			}
 			ruler_term = {
-				character = per_boson_i_perigord start_date = 979.1.1 end_date = 988.1.1 regnal_number = 1			
+				character = per_boson_i_perigord start_date = 979.1.1 end_date = 988.1.1 regnal_number = 1
 				character = per_adalbert_i_perigord start_date = 979.1.1 end_date = 988.1.1 regnal_number = 1
 			}
 			ruler_term = { character = per_adalbert_i_perigord start_date = 988.1.1 end_date = 997.1.1 regnal_number = 1 }
@@ -16969,7 +16970,7 @@ countries = {
 			toulouse lisle_jourdain narbonne lavaur castelnaudary saint_pons beziers agde lodeve melgueil
 			nimes uzes ales castres rodez villefranche figeac cahors agen peyrusse entraigues peyre mende
 			lectoure montauban albi villemur lautrec verdun_sur_garonne montflanquin gourdon pamiers foix
-			mirepoix limoux carcassonne fenouillet montpellier chateauneuf_de_randon st_affrique millau 
+			mirepoix limoux carcassonne fenouillet montpellier chateauneuf_de_randon st_affrique millau
 			florac ales st_ambroix
 		}
 
@@ -17056,9 +17057,9 @@ countries = {
 	DAU = {
 		own_control_core = {
 			grenoble gap briancon pragelato
-			romans la_mure saint_marceilin 
-			mevouillon villars 
-			la_tour_du_pin 
+			romans la_mure saint_marceilin
+			mevouillon villars
+			la_tour_du_pin
 			faucigny sallanches #Barony of 	Faucigny
 		}
 
@@ -17773,7 +17774,7 @@ countries = {
 			type = monarchy
 			heir_selection = cognatic_primogeniture
 			ruler = random
-		}		
+		}
 		liturgical_language = church_slavonic_language
 		capital = suceava
 	}
@@ -17789,7 +17790,7 @@ countries = {
 			type = monarchy
 			heir_selection = cognatic_primogeniture
 			ruler = random
-		}		
+		}
 		liturgical_language = church_slavonic_language
 		capital = barlad
 	}
@@ -17805,7 +17806,7 @@ countries = {
 			type = monarchy
 			heir_selection = cognatic_primogeniture
 			ruler = random
-		}		
+		}
 		liturgical_language = church_slavonic_language
 		capital = chisinau
 	}
@@ -17821,7 +17822,7 @@ countries = {
 			type = monarchy
 			heir_selection = cognatic_primogeniture
 			ruler = random
-		}		
+		}
 		liturgical_language = church_slavonic_language
 		capital = hotin
 	}
@@ -17837,7 +17838,7 @@ countries = {
 			type = monarchy
 			heir_selection = cognatic_primogeniture
 			ruler = random
-		}		
+		}
 		liturgical_language = church_slavonic_language
 		capital = iasi
 	}
@@ -17853,7 +17854,7 @@ countries = {
 			type = monarchy
 			heir_selection = cognatic_primogeniture
 			ruler = random
-		}		
+		}
 		liturgical_language = church_slavonic_language
 		capital = soroca
 	}
@@ -17869,7 +17870,7 @@ countries = {
 			type = monarchy
 			heir_selection = cognatic_primogeniture
 			ruler = random
-		}		
+		}
 		liturgical_language = church_slavonic_language
 		capital = storozhynets
 	}
@@ -18209,7 +18210,7 @@ countries = {
 		capital = salona
 	}
 
-	TRO = { #Travunija		
+	TRO = { #Travunija
 		our_cores_conquered_by_others = {
 			trebinje
 		}
@@ -18882,8 +18883,8 @@ countries = {
 		}
 
 		own_control_integrated = {
-			gabes ajim medenine 
-			zuwarah tataouine zarzis 
+			gabes ajim medenine
+			zuwarah tataouine zarzis
 		}
 
 		our_cores_conquered_by_others = {
@@ -19579,13 +19580,13 @@ countries = {
 	KAB = {
 		own_control_core = {
 			kaabu salemata iwol bafata farim
-			marsassoum geregia 
+			marsassoum geregia
 		}
 
 		own_control_integrated = {
 			gambia bintang diaboudior casamance tankular
 			bissau cacheu
-			wassu kabakama 
+			wassu kabakama
 		}
 
 		starting_technology_level = 3
@@ -19612,7 +19613,7 @@ countries = {
 		}
 		own_control_integrated = {
 			tichit aoudaghost tidjikja
-			banamba narena tabou_m 
+			banamba narena tabou_m
 		}
 
 		starting_technology_level = 3
@@ -19642,17 +19643,17 @@ countries = {
 		own_control_core = {
 			koumbi_saleh timbedra nema balle
 			sosso sagala mourdiah guire goumbou
-			sokolo timbuktu kare 
+			sokolo timbuktu kare
 		}
 		own_control_integrated = {
-			walata 
+			walata
 			taghaza taoudenni araouane
 		}
 		our_cores_conquered_by_others = {
 			diara
 			tichit aoudaghost tidjikja
 			nioro tourougoumbe diangounte_camara dioumara kolokani kourouninkoto
-			sandare banamba 
+			sandare banamba
 			kita narena tabou_m
 		}
 
@@ -19685,13 +19686,13 @@ countries = {
 
 	BMR = {
 		own_control_core = {
-			djenne san sanekuy bai 
+			djenne san sanekuy bai
 			segou bla koulikoro nyamina sansanding dioila
-			niono tenenkou 
-			arlal bambara_maounde ngouma 
-			dogo gargando korientze ras_el_ma safare soumpi 
-			tindirma kabara goundam 
-			kanibonzon sanga douentza bore 
+			niono tenenkou
+			arlal bambara_maounde ngouma
+			dogo gargando korientze ras_el_ma safare soumpi
+			tindirma kabara goundam
+			kanibonzon sanga douentza bore
 		}
 		own_control_integrated = {
 			koutiala
@@ -19742,7 +19743,7 @@ countries = {
 		religious_school = maliki_school
 		government = { mysticism_vs_jurisprudence = -5 }
 	}
-	
+
 	ZGH = {
 		own_control_core = {
 			dia
@@ -19770,7 +19771,7 @@ countries = {
 		own_control_core = {
 			kayes diamou
 			diawara ballou saraya
-			bafoulabe diakha 
+			bafoulabe diakha
 		}
 
 		own_control_integrated = {
@@ -19798,7 +19799,7 @@ countries = {
 		religious_school = maliki_school
 		government = { mysticism_vs_jurisprudence = -5 }
 	}
-	
+
 	TFK = {
 		own_control_core = {
 			borenta bourem bamba gossi
@@ -19833,14 +19834,14 @@ countries = {
 	MAL = {
 		own_control_core = {
 			niani dakadjalan kirina bamako dieribakoro siguiri kaba
-			niagassola 
+			niagassola
 			tengrela niena garalo massigui niantjila
 			nounkonkan kankan kouroussa tabon
-			kerouane mandiana			
+			kerouane mandiana
 		}
 
 		own_control_integrated = {
-			seydougou odienne 
+			seydougou odienne
 		}
 
 		starting_technology_level = 3
@@ -19980,7 +19981,7 @@ countries = {
 		own_control_core = {
 			podor walalde sioure golere salde agnam_civol silla
 			nguidjilone thilogne kanel waounde moudery kaedi matam
-			maghana bakel 
+			maghana bakel
 		}
 		our_cores_conquered_by_others = {
 		}
@@ -20085,13 +20086,13 @@ countries = {
 
 	SON = {
 		own_control_core = {
-			gao tondibi ansongo kukiya 
-			hombori dorey 
+			gao tondibi ansongo kukiya
+			hombori dorey
 			deou tessit kissi_loc gorouol mondoro aribinda
 		}
 		our_cores_conquered_by_others = {
 			borenta bourem bamba gossi
-			tadmekka 			
+			tadmekka
 			ayerou anzourou dargol gotheye namaro sikieye
 		}
 
@@ -20937,7 +20938,7 @@ countries = {
 		}
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 
 		capital = dahlak
 	}
@@ -21030,7 +21031,7 @@ countries = {
 		}
 		religious_school = hanafi_school
 		government = { mysticism_vs_jurisprudence = -15 }
-		
+
 
 		capital = seru
 	}
@@ -21532,7 +21533,7 @@ countries = {
 		}
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 
 		tolerated_cultures = {
 			sudanese_arab
@@ -21605,8 +21606,8 @@ countries = {
 
 		own_control_integrated = {
 			malha
-			el_obeid barah dilling kadugli teqali 
-			ed_daein shakka 
+			el_obeid barah dilling kadugli teqali
+			ed_daein shakka
 		}
 
 		starting_technology_level = 3
@@ -21799,7 +21800,7 @@ countries = {
 		}
 		religious_school = shafii_school #While Egypt today is mostly Hanafi, the $mamluks$ favored Shaafi over the rest
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 
 		tolerated_cultures = {
 			upper_egyptian_culture
@@ -21997,7 +21998,7 @@ countries = {
 		}
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 
 		tolerated_cultures = {
 			yao_culture
@@ -22036,7 +22037,7 @@ countries = {
 		}
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 
 		tolerated_cultures = {
 			swahili_culture
@@ -22067,7 +22068,7 @@ countries = {
 		}
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 
 		tolerated_cultures = {
 			swahili_culture
@@ -22115,7 +22116,7 @@ countries = {
 		}
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 
 		tolerated_cultures = {
 			shona_culture
@@ -22145,7 +22146,7 @@ countries = {
 		}
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 
 		capital = mombasa
 	}
@@ -22171,7 +22172,7 @@ countries = {
 		}
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 
 		capital = gedi
 	}
@@ -22196,7 +22197,7 @@ countries = {
 		}
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 
 		capital = ungwana
 	}
@@ -22221,7 +22222,7 @@ countries = {
 		}
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 
 		capital = lamu
 	}
@@ -22246,7 +22247,7 @@ countries = {
 		}
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 
 		capital = ras_mkumbuu
 	}
@@ -22272,7 +22273,7 @@ countries = {
 		}
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 
 		capital = zanzibar
 	}
@@ -22297,7 +22298,7 @@ countries = {
 		}
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 
 		capital = ngazidja
 	}
@@ -22325,7 +22326,7 @@ countries = {
 		}
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 
 		capital = angoche
 	}
@@ -22353,7 +22354,7 @@ countries = {
 		}
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 
 		capital = quelimane
 	}
@@ -22378,7 +22379,7 @@ countries = {
 		}
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 
 		tolerated_cultures = {
 			makhuwa_culture
@@ -22877,7 +22878,7 @@ countries = {
 		}
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 
 		capital = ambilobe
 	}
@@ -23120,7 +23121,7 @@ countries = {
 		capital = kibiro
 	}
 
-	#Buganda - BUG 
+	#Buganda - BUG
 	BUG = {
 		own_control_core = {
 			buganda buddu rubaga
@@ -23268,7 +23269,7 @@ countries = {
 			heir_selection = tribal_oldest_male
 			ruler = random
 		}
-		
+
 		capital = maasai
 	}
 
@@ -23543,7 +23544,7 @@ countries = {
 						type = boolean
 						identity = 1
 					}
-				} 
+				}
 			}
 		}
 
@@ -23681,7 +23682,7 @@ countries = {
 						type = boolean
 						identity = 1
 					}
-				} 
+				}
 			}
 		}
 		flag = "JAP_monarchy"
@@ -31218,7 +31219,7 @@ countries = {
 		capital = mardin
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 	}
 
 	#Aydinids - AYD https://en.wikipedia.org/wiki/Aydinids
@@ -32153,7 +32154,7 @@ countries = {
 		}
 
 		tolerated_cultures = {
-			syriac_culture			
+			syriac_culture
 		}
 
 		capital = duhok
@@ -32493,7 +32494,7 @@ countries = {
 	TRE = {
 		own_control_core = {
 			trebizond giresun gorele gumushane surmene
-			bayramlu unye  
+			bayramlu unye
 		}
 
 		own_control_integrated = {
@@ -32502,7 +32503,7 @@ countries = {
 
 		our_cores_conquered_by_others = {
 			khupati rize
-			akkus mesudiye terme 
+			akkus mesudiye terme
 		}
 
 		starting_technology_level = 3
@@ -32826,7 +32827,7 @@ countries = {
 		capital = sanandaj
 		religious_school = hanafi_school
 		government = { mysticism_vs_jurisprudence = -15 }
-		
+
 	}
 
 	#Domboli - DML
@@ -32882,7 +32883,7 @@ countries = {
 		capital = ujan
 		religious_school = hanafi_school
 		government = { mysticism_vs_jurisprudence = -15 }
-		
+
 	}
 
 	#Hadhur - HDR
@@ -32908,7 +32909,7 @@ countries = {
 		capital = sulaymaniyah
 		religious_school = hanafi_school
 		government = { mysticism_vs_jurisprudence = -15 }
-		
+
 	}
 
 	#Hasnuya - HNY
@@ -32934,7 +32935,7 @@ countries = {
 		capital = sahrazur
 		religious_school = hanafi_school
 		government = { mysticism_vs_jurisprudence = -15 }
-		
+
 	}
 
 	#Kalhor - KLR
@@ -32964,7 +32965,7 @@ countries = {
 		capital = gilan_gharb
 		religious_school = hanafi_school
 		government = { mysticism_vs_jurisprudence = -15 }
-		
+
 	}
 
 	#Kartawi - KTW
@@ -32990,7 +32991,7 @@ countries = {
 		capital = barza
 		religious_school = hanafi_school
 		government = { mysticism_vs_jurisprudence = -15 }
-		
+
 	}
 
 	#Kelali - KEL
@@ -33020,7 +33021,7 @@ countries = {
 		capital = nahavand
 		religious_school = hanafi_school
 		government = { mysticism_vs_jurisprudence = -15 }
-		
+
 	}
 
 	#Kurani - KRI
@@ -33046,7 +33047,7 @@ countries = {
 		capital = qasr_shirin
 		religious_school = hanafi_school
 		government = { mysticism_vs_jurisprudence = -15 }
-		
+
 	}
 
 	#Merkewan - MKW
@@ -33072,7 +33073,7 @@ countries = {
 		capital = osnavieh
 		religious_school = hanafi_school
 		government = { mysticism_vs_jurisprudence = -15 }
-		
+
 	}
 
 	#Rankali - RKL
@@ -33102,7 +33103,7 @@ countries = {
 		capital = kermanshah
 		religious_school = hanafi_school
 		government = { mysticism_vs_jurisprudence = -15 }
-		
+
 	}
 
 	#Sabuli - SLI
@@ -33128,7 +33129,7 @@ countries = {
 		capital = mahabad
 		religious_school = hanafi_school
 		government = { mysticism_vs_jurisprudence = -15 }
-		
+
 	}
 
 	#Saqiyya - SYY
@@ -33154,7 +33155,7 @@ countries = {
 		capital = kirkuk
 		religious_school = hanafi_school
 		government = { mysticism_vs_jurisprudence = -15 }
-		
+
 	}
 
 	#Zebari - ZBR
@@ -33180,7 +33181,7 @@ countries = {
 		capital = qaladiza
 		religious_school = hanafi_school
 		government = { mysticism_vs_jurisprudence = -15 }
-		
+
 	}
 
 	#Al 'Alī - AAL
@@ -33209,7 +33210,7 @@ countries = {
 		}
 		religious_school = hanafi_school
 		government = { mysticism_vs_jurisprudence = -15 }
-		
+
 	}
 
 	#Al Mira - AMR
@@ -33239,7 +33240,7 @@ countries = {
 		}
 		religious_school = hanafi_school
 		government = { mysticism_vs_jurisprudence = -15 }
-		
+
 	}
 
 	#Al Fadl - FDL
@@ -33287,7 +33288,7 @@ countries = {
 		}
 		religious_school = hanafi_school
 		government = { mysticism_vs_jurisprudence = -15 }
-		
+
 	}
 
 	#Döger - DGE
@@ -33315,7 +33316,7 @@ countries = {
 		}
 		religious_school = hanafi_school
 		government = { mysticism_vs_jurisprudence = -15 }
-		
+
 	}
 	#-------------------------- Holy Roman Empire ----------------------------
 
@@ -34958,7 +34959,7 @@ countries = {
 		capital = siegen
 	}
 
-	NSD = {  # Nassau Dillenburg (North Germany)		
+	NSD = {  # Nassau Dillenburg (North Germany)
 		our_cores_conquered_by_others = {
 			dillenburg
 		}
@@ -35540,7 +35541,7 @@ countries = {
 			}
 		}
 
-		
+
 		country_rank = rank_county
 		capital = balingen
 	}
@@ -36818,7 +36819,7 @@ countries = {
 		include = "expl_northern_europe"
 		include = "german_principality"
 		government = {
-		
+
 			ruler = gsw_johann_ii_the_bald
 
 			regnal_numbers = {
@@ -36920,7 +36921,7 @@ countries = {
 				character = gsw_nikolaus_ii_werle start_date = 1298.1.1 end_date = 1308.1.1 regnal_number = 2
 				character = gsw_heinrich_ii_werle start_date = 1298.1.1 end_date = 1308.1.1 regnal_number = 2
 			}
-			ruler_term = { character = gsw_nikolaus_ii_werle start_date = 1308.1.1 end_date = 1316.2.18 regnal_number = 2 }			
+			ruler_term = { character = gsw_nikolaus_ii_werle start_date = 1308.1.1 end_date = 1316.2.18 regnal_number = 2 }
 			ruler_term = {
 				character = gsw_johann_ii_the_bald start_date = 1316.2.18 regnal_number = 2
 				#character = gsw_johann_iii_werle_goldberg start_date = 1316.2.18 regnal_number = 3 # As Co-Ruler
@@ -38328,7 +38329,7 @@ countries = {
 			ruler = mdn_ludwig_von_braunschweig_luneburg
 
 			ruler_term = { character = mdn_ludwig_von_braunschweig_luneburg start_date = 1324.5.14 regnal_number = 1 }
-			
+
 			reforms = {
 				prince_bishopric_reform
 			}
@@ -38476,7 +38477,7 @@ countries = {
 			ruler_term = { character = lun_johann_i_braunschweig_luneburg start_date = 1269.1.1 end_date = 1277.12.13 regnal_number = 1 }
 			ruler_term = { character = lun_otto_ii_luneburg start_date = 1277.12.13 end_date = 1330.4.10 regnal_number = 2 }
 			ruler_term = {
-				character = lun_otto_iii_luneburg start_date = 1330.4.10 regnal_number = 3 
+				character = lun_otto_iii_luneburg start_date = 1330.4.10 regnal_number = 3
 				#character = lun_wilhelm_ii_luneburg start_date = 1330.4.10 regnal_number = 2 # As Co-Ruler
 			}
 
@@ -38556,7 +38557,7 @@ countries = {
 
 			ruler = gbh_heinrich_ii_braunschweig_grubenhagen
 
-			ruler_term = {				
+			ruler_term = {
 				character = gbh_heinrich_i_braunschweig_grubenhagen start_date = 1291.1.1 end_date = 1322.9.7 regnal_number = 1
 			}
 			ruler_term = {
@@ -38565,7 +38566,7 @@ countries = {
 				character = gbh_wilhelm_i_braunschweig_grubenhagen start_date = 1322.9.7 end_date = 1325.1.1 regnal_number = 1
 				character = gbh_johann_i_braunschweig_grubenhagen start_date = 1322.9.7 end_date = 1325.1.1 regnal_number = 1
 			}
-			ruler_term = {				
+			ruler_term = {
 				character = gbh_heinrich_ii_braunschweig_grubenhagen start_date = 1325.1.1 regnal_number = 2
 				#character = gbh_ernst_i_braunschweig_grubenhagen start_date = 1325.1.1 regnal_number = 1 #As Co-Ruler
 				#character = gbh_wilhelm_i_braunschweig_grubenhagen start_date = 1325.1.1 regnal_number = 1 #As Co-Ruler
@@ -38601,9 +38602,9 @@ countries = {
 			ruler = hdh_heinrich_iii_von_braunschweig_luneburg
 
 			ruler_term = { character = hdh_otto_i_braunschweig start_date = 1260.1.1 end_date = 1297.1.1 regnal_number = 1 }
-			
+
 			ruler_term = { character = hdh_heinrich_iii_von_braunschweig_luneburg start_date = 1331.1.1 regnal_number = 3 }
-			
+
 			regnal_numbers = {
 				name_otto = 2
 				name_henry = 3
@@ -38778,7 +38779,7 @@ countries = {
 			ruler = vrd_johannes_hake
 
 			ruler_term = { character = vrd_konrad_i_braunschweig start_date = 1269.5.4 end_date = 1300.9.15 regnal_number = 1 }
-			
+
 			reforms = {
 				prince_bishopric_reform
 			}
@@ -39949,7 +39950,7 @@ countries = {
 
 			ruler_term = {	character = glg_mechthild_von_braunschweig_luneburg start_date = 1310.12.11 end_date = 1318.4.26 regnal_number = 1 }
 			ruler_term = {	character = jaw_henryk_i_javorski start_date = 1337.1.1 regnal_number = 1	}
-			
+
 			regnal_numbers = {
 				name_henry = 1
 			}
@@ -39988,7 +39989,7 @@ countries = {
 			# own_control_integrated, but culture accepted
 			#Wielun
 			wielun ostrzeszow wieruszow
-			
+
 			#Actually Occupied
 			#Dobrzyń Land
 			dobrzyn lipno rypin
@@ -41132,7 +41133,7 @@ countries = {
 			type = monarchy
 			heir_selection = cognatic_primogeniture
 			ruler = random
-			
+
 			ruler_term = { character = msv_mikhail_rostislavich_rurikovich start_date = 1260.1.1  end_date = 1278.1.1 regnal_number = 1 }
 
 			ruler_term = { character = msv_roman_glebovich_rurikovich start_date = 1281.1.1  end_date = 1301.1.1 regnal_number = 1 }
@@ -41161,7 +41162,7 @@ countries = {
 		include = "expl_eastern_europe"
 		include = "lithuanian_monarchy"
 		government = {
-			ruler = smo_ivan_alexandrovich_rurikovich 
+			ruler = smo_ivan_alexandrovich_rurikovich
 
 			ruler_term = { character = smo_stanislav_vladimirovich_rurikovich start_date = 988.1.1 end_date = 1015.1.1 regnal_number = 1 }
 			ruler_term = { character = smo_vyacheslav_yaroslavich_rurikovich start_date = 1054.2.20 end_date = 1057.1.1 regnal_number = 1 }
@@ -41169,7 +41170,7 @@ countries = {
 
 			ruler_term = { character = kie_rostislav_rurikovich start_date = 1127.1.1 end_date = 1167.1.1 regnal_number = 1	}
 			ruler_term = { character = smo_david_rostislavich_rurikovich start_date = 1180.1.1 end_date = 1197.4.23 regnal_number = 1	}
-		
+
 			ruler_term = { character = kie_vladimir_iv_rurikovich start_date = 1212.1.1 end_date = 1219.1.1 regnal_number = 1	}
 			ruler_term = { character = smo_mstislav_davidovich_rurikovich start_date = 1219.1.1 end_date = 1230.4.23 regnal_number = 1	}
 
@@ -41212,13 +41213,13 @@ countries = {
 			#Black Ruthenia
 			mazyr buinovichi kalinkavichy pietrykaw rudobelka
 			#Chernihiv
-			melnya 
+			melnya
 			ichnia pryluky chornukhy
 			lypova_dolyna romen buryn sumy okhtyrka krasnopillia hadiach
 			glushkovo putyvl khotmyzh vilshana
 
 			yaroslavka yahotyn lutava opishnya hovtva kolomak
-		} 
+		}
 
 		include = "expl_eastern_europe"
 		include = "lithuanian_monarchy"
@@ -41226,9 +41227,9 @@ countries = {
 			ruler = kie_teodoras_ivanovich_rurikovich
 
 			ruler_term = { character = kie_igor_rurikovich start_date = 912.1.1 end_date = 945.1.1 regnal_number = 1 }
-			ruler_term = { 
+			ruler_term = {
 				character = kie_saint_olga start_date = 945.1.1 end_date = 962.1.1 regnal_number = 1
-				character = kie_sviatoslav_rurikovich start_date = 945.1.1 end_date = 962.1.1 regnal_number = 1 
+				character = kie_sviatoslav_rurikovich start_date = 945.1.1 end_date = 962.1.1 regnal_number = 1
 			}
 			ruler_term = { character = kie_sviatoslav_rurikovich start_date = 962.1.1 end_date = 972.1.1 regnal_number = 1 }
 			ruler_term = { character = kie_yaropolk_rurikovich start_date = 972.1.1 end_date = 978.6.11 regnal_number = 1 }
@@ -44063,7 +44064,7 @@ countries = {
 	ITZ = {
 		own_control_core = {
 			noh_peten yax_mutal pachan
-			namaan itzamkanac tatahuitalpan 
+			namaan itzamkanac tatahuitalpan
 		}
 		own_control_integrated = {
 			nadzcaan
@@ -45195,7 +45196,7 @@ countries = {
 		add_pops_from_locations = {
 			chinaitih patarabueye tseichi xumani tahuunde
 			suma east_hanos west_hanos manso
-			tsesh_ke_shende tcha_shka_ozhaye kwahada tucumcari natages 
+			tsesh_ke_shende tcha_shka_ozhaye kwahada tucumcari natages
 			kanahatino sha_ia_nde kol_kuka teyas mashgalende
 			tchokana penatuka kwaaru paruhuya
 		}
@@ -45530,192 +45531,6 @@ countries = {
 		government = {
 			ruler = random
 		}
-	}
-
-	#Magua
-	TNO = {
-
-		own_control_core = {
-			magorix yaqui moca cotui
-		}
-		include = "taino_tribe"
-        government = {
-            ruler = random
-        }
-		capital = yaqui
-        currency_data = {
-            gold = 100
-            stability = 33
-            tribal_cohesion = 90
-        }
-	}
-
-	#Marien
-	MAE = {
-
-		own_control_core = {
-			marien iguamuco
-		}
-		include = "taino_tribe"
-        government = {
-            ruler = random
-        }
-        capital = marien
-        currency_data = {
-            gold = 100
-            stability = 33
-            tribal_cohesion = 90
-        }
-	}
-
-	#Maguana
-	MGU = {
-
-		own_control_core = {
-			cibao jarabacoa maguana banique
-		}
-		include = "taino_tribe"
-        government = {
-            ruler = random
-        }
-        capital = maguana
-        currency_data = {
-            gold = 100
-            stability = 33
-            tribal_cohesion = 90
-        }
-	}
-
-	#Jaragua
-	JRG = {
-
-		own_control_core = {
-			jaragua cahay yaguana
-		}
-		include = "taino_tribe"
-        government = {
-            ruler = random
-        }
-        capital = jaragua
-        currency_data = {
-            gold = 100
-            stability = 33
-            tribal_cohesion = 90
-        }
-	}
-
-	#Higuey
-	HGY = {
-
-		own_control_core = {
-			yuma hicayagua cayacoa yamasa
-		}
-		include = "taino_tribe"
-        government = {
-            ruler = random
-        }
-        capital = yuma
-        currency_data = {
-            gold = 100
-            stability = 33
-            tribal_cohesion = 90
-        }
-	}
-
-	#Guaynia
-	GAY = {
-
-		own_control_core = {
-			guaynia guama
-		}
-		include = "taino_tribe"
-        government = {
-            ruler = random
-        }
-        capital = yuma
-        currency_data = {
-            gold = 100
-            stability = 33
-            tribal_cohesion = 90
-        }
-	}
-
-	#Ciboney
-	CBO = {
-		type = pop
-
-		add_pops_from_locations = {
-			yateras bayaquitiri mayari guantanamo baracoa sagua barajagua
-			maynoa yaguabo aguacadiba guaygata anaya oristan
-			bayamo macaca jiguani cueiba maguanes bani_cuba lora cayaguayo
-			south_camaguey camaguey mabuya guaimaro
-			cubanacan east_cubanacan magon ornofay guamuhaya east_sabaneque central_sabaneque sabana
-			habana batanabo guanimar macoriges west_sabaneneque hanabana jagua
-			guahaba baynoa
-			guacayakima haniguayagua
-		}
-		include = "caribbean_tribe"
-	}
-
-	#Lucayan
-	LCY = {
-		type = pop
-
-		add_pops_from_locations = {
-			abacoa exuma guanima eleuthera 
-			guanahani jumento inagua caycos bahama lucayoneque
-		}
-		include = "caribbean_tribe"
-	}
-
-	#Macorix
-	MCX = {
-		type = pop
-
-		add_pops_from_locations = {
-			cayguani baoruco yaquimo azua bani
-		}
-		include = "caribbean_tribe"
-	}
-
-	#Ciguayo
-	CGY = {
-		type = pop
-
-		add_pops_from_locations = {
-			bohio samana cubao ciguayo bavaro boya
-		}
-		include = "caribbean_tribe"
-	}
-
-	#Boriken
-	BRK = {
-		type = pop
-
-		add_pops_from_locations = {
-			ayamaco arasibo guaynabo guaraca
-		}
-		include = "caribbean_tribe"
-	}
-
-	#Igneri
-	IGR = {
-		type = pop
-
-		add_pops_from_locations = {
-			wadadli liamuiga walichi anegada ayay carucairi
-		}
-		include = "caribbean_tribe"
-	}
-
-	#Kalinago
-	KGN = {
-		type = pop
-
-		add_pops_from_locations = {
-			waitu_kubuli iguanacaera hewanorra youloumain ichirouganaim kamahuya alubera cairiani
-		}
-		include = "caribbean_tribe"
 	}
 
 	#-------------------------- Andes ----------------------------
@@ -46822,7 +46637,7 @@ countries = {
 		type = pop
 
 		add_pops_from_locations = {
-			baure 
+			baure
 		}
 
 		include = "andean_tribe_pops"
@@ -46857,7 +46672,7 @@ countries = {
 		type = pop
 
 		add_pops_from_locations = {
-			 angualasto huanacache guentota jaurua millcayac uco uspallata 
+			 angualasto huanacache guentota jaurua millcayac uco uspallata
 		}
 
 		include = "andean_tribe_pops"
@@ -46965,7 +46780,7 @@ countries = {
 		type = pop
 
 		add_pops_from_locations = {
-			ckara_ama loa tocopilla tulor 
+			ckara_ama loa tocopilla tulor
 		}
 
 		include = "andean_tribe_pops"
@@ -47169,7 +46984,7 @@ countries = {
 			urumqi
 			manas
 			mazar_tagh tikenliq
-			
+
 			fayzabad
 			jurm
 			 shiveh
@@ -47196,11 +47011,11 @@ countries = {
 		}
 
 		own_control_integrated = {
-			almaliq gulja narat nilka tokkuztara sarikol yulduz bortala jing 
-			kuytun urghtbulaq usu_xinjiang yangjibaliq kutubi ulan_us qanbalik 
-			hoboksar gonganbao utbulaq zhekdeliq targabatay dahra_sasykkol emin 
-			ilanbalyk koktuma toli atanuul bodonch bulgan chinggil ulungur kara_irtysh 
-			burqin jeminay qila_panjeh ishkashim roshtqala sarhad sar_sang zebak 
+			almaliq gulja narat nilka tokkuztara sarikol yulduz bortala jing
+			kuytun urghtbulaq usu_xinjiang yangjibaliq kutubi ulan_us qanbalik
+			hoboksar gonganbao utbulaq zhekdeliq targabatay dahra_sasykkol emin
+			ilanbalyk koktuma toli atanuul bodonch bulgan chinggil ulungur kara_irtysh
+			burqin jeminay qila_panjeh ishkashim roshtqala sarhad sar_sang zebak
 			shighnan vamar ilibalyk koktal kayalyk ayagoz tansyk
 			zarafshan gunt murghab oksu
 		}
@@ -48187,7 +48002,7 @@ countries = {
 			malong mudan_ula
 			juru_hoton mulun
 			hailang ningguta dongning kaiyuan_warka yongmingcheng huncun tulazi
-			kahari 
+			kahari
 		}
 
 		include = "expl_manchurian_tribe"
@@ -48654,7 +48469,7 @@ countries = {
 
 			ruler = suk_ngua_nam_thum
 		}
-		
+
 		accepted_cultures = {
 			lawa_culture
 		}
@@ -48759,7 +48574,7 @@ countries = {
 				education_masses_law = uneducated_masses_education
 			}
 		}
-		
+
 		accepted_cultures = {
 			lawa_culture
 			mon_culture
@@ -48871,7 +48686,7 @@ countries = {
 
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 
 		capital = kedah
 	}
@@ -49032,7 +48847,7 @@ countries = {
 	MUA = { #Muang Sua
 		own_control_core = {
 			muang_sua ban_luang_cheng hongsa muang_et muang_kham muang_lang muang_thaeng muang_xay nam_xuang phongsali
-			phonsavan xam_neua 
+			phonsavan xam_neua
 		}
 
 		own_control_integrated = {
@@ -49114,7 +48929,7 @@ countries = {
 		government = {
 			ruler = random
 		}
-		
+
 		accepted_cultures = {
 			kado_culture
 		}
@@ -49179,7 +48994,7 @@ countries = {
 		government = {
 			ruler = random
 		}
-		
+
 	}
 
 	HHP = { #Hsawn Hsup
@@ -49473,21 +49288,21 @@ countries = {
 		type = pop
 
 		add_pops_from_locations = {
-			anyuan_lianzhou ruxi xiaodong baishan anding_mashan duyang yongshun lingfang shanglin qianjiang_binzhou 
-			yining yongfu guishun xiaozhenan zhenan_guishun ningpu yongning_hengzhou qianlong xilong 
-			bada ceheng machang zhenfeng maping liucheng wuxian_liuzhou yangshou laibin luorong dayaoshan 
-			lipu yangshuo nandan bama donglan zhishan nadi liuzhai 
-			xuanhua_nanning langning wuyuan_nanning yishan anhua_huanjiang hechi sien 
-			xincheng_xincheng libo rongshui changan luocheng tongdao_rongzhou sicheng xilin 
-			wangmu lucheng luodian tongle siming pingxiang_pingxiang shangsi qianlong_siming 
-			chongshan longzhou_longzhou mingying doukang guwan laian_tianzhou baise sienzhou 
-			tianzhou tangxing guizhou_xunzhou watang annan xinxing_annan xincheng_annan puding guangsuoling 
-			dingnan_anshun kangzuo xibao zhenning dushan guizhou_guizhou jinzhu xintian bafan suidong 
-			longli weiqing pingyue maxia puan_puan huangcaoba anlong shuixi shuicheng pingba 
-			zhijin guangnan bangban boai fuzhou_guangnan zhehong shizong 
-			qiubei wucao bazhai lihua jiaha jiaohua nanlang weimo xisa luoxiong 
-			shaxi wengshui van_don lang_son loc_chau quang_uyen that_nguyen van_kiep quy_hoa 
-			thuy_vi van_ban thai_nguyen bac_thai_nguyen cam_hoa tuyen_hoa vo_nhai tuyen_quang bao_lac 
+			anyuan_lianzhou ruxi xiaodong baishan anding_mashan duyang yongshun lingfang shanglin qianjiang_binzhou
+			yining yongfu guishun xiaozhenan zhenan_guishun ningpu yongning_hengzhou qianlong xilong
+			bada ceheng machang zhenfeng maping liucheng wuxian_liuzhou yangshou laibin luorong dayaoshan
+			lipu yangshuo nandan bama donglan zhishan nadi liuzhai
+			xuanhua_nanning langning wuyuan_nanning yishan anhua_huanjiang hechi sien
+			xincheng_xincheng libo rongshui changan luocheng tongdao_rongzhou sicheng xilin
+			wangmu lucheng luodian tongle siming pingxiang_pingxiang shangsi qianlong_siming
+			chongshan longzhou_longzhou mingying doukang guwan laian_tianzhou baise sienzhou
+			tianzhou tangxing guizhou_xunzhou watang annan xinxing_annan xincheng_annan puding guangsuoling
+			dingnan_anshun kangzuo xibao zhenning dushan guizhou_guizhou jinzhu xintian bafan suidong
+			longli weiqing pingyue maxia puan_puan huangcaoba anlong shuixi shuicheng pingba
+			zhijin guangnan bangban boai fuzhou_guangnan zhehong shizong
+			qiubei wucao bazhai lihua jiaha jiaohua nanlang weimo xisa luoxiong
+			shaxi wengshui van_don lang_son loc_chau quang_uyen that_nguyen van_kiep quy_hoa
+			thuy_vi van_ban thai_nguyen bac_thai_nguyen cam_hoa tuyen_hoa vo_nhai tuyen_quang bao_lac
 			binh_lam binh_nguyen dai_man thu_vat
 		}
 
@@ -49600,7 +49415,7 @@ countries = {
 			kracheh  sampheak_borak tboung_khmum
 			cat_tien   di_dinh song_be
 			panduranga  bal_cattinon camp_po_thit chan_bo kampong_sraka_trey
-			angkor_knong rong_damrel tuol_ta_mouk 
+			angkor_knong rong_damrel tuol_ta_mouk
 		}
 		capital = banlung
 
@@ -49616,8 +49431,8 @@ countries = {
 
 		add_pops_from_locations = {
 			apui ia kon_tum samriddhipuri
-			ban_don  dak_lak 
-			aryaru bang_keng ha_va_nguon 
+			ban_don  dak_lak
+			aryaru bang_keng ha_va_nguon
 			doh_kromum lumphat
 		}
 		capital = apui
@@ -49736,7 +49551,7 @@ countries = {
 		add_pops_from_locations = {
 			yuanling madi_yuanling luxi bomoping xinhua_guizhou badong cili shimen tianping
 			dayong shizhou datian_shizhou lichuan rongmei sanmao zhonglu
-			shinan changyang yongshun_yongshun guzhang shangxi baojing wuzhai 
+			shinan changyang yongshun_yongshun guzhang shangxi baojing wuzhai
 			wuchuan_sinan longquanping yinjiang tixi jianshi pengshui qianjiang_shaoqing youyang xiushan
 			zhenzhou shizhu
 		}
@@ -49772,19 +49587,19 @@ countries = {
 		type = pop
 
 		add_pops_from_locations = {
-			luxi xinhua_guizhou badong yongping suining_jing tianzhu datian_shizhou lichuan 
-			rongmei sanmao zhonglu shinan chengbu yongshun_yongshun guzhang shangxi baojing wuzhai 
-			mayang xilong ceheng machang zhenfeng libo rongshui tongdao_rongzhou wangmu luodian 
-			annan xinxing_annan xincheng_annan puding guangsuoling dingnan_anshun kangzuo xibao zhenning duyun 
-			bazhai_duyun dushan pingzhu lantu guizhou_guizhou jinzhu xintian bafan suidong 
-			longli weiqing liping xiajiang guzhou qingjiang_liping tonggu_liping taigong 
-			yongcong pingyue kaili maxia puan_puan huangcaoba anlong lemin wuchuan_sinan longquanping 
-			shiqian yinjiang taipengruodong qiongshui panqiao zhenyuan_sizhou dizhai caoni 
-			cengtai dafang dagu_shunyuan shuixi longchang jinji tongren wuluo tixi shuicheng 
-			pingba zhijin huozhu shizong xisha xisa luoxiong zhanyi 
-			youdian yiliang fumin luquan bozhou wujiang_bozhou shaxi luoji yunlian 
-			rongxian zhehai muli pengshui daguan yongshan wusa zhaoban heizhang huangping 
-			baini wengshui rongshan yongning gulin luojiao mangbu guihua youyang xiushan 
+			luxi xinhua_guizhou badong yongping suining_jing tianzhu datian_shizhou lichuan
+			rongmei sanmao zhonglu shinan chengbu yongshun_yongshun guzhang shangxi baojing wuzhai
+			mayang xilong ceheng machang zhenfeng libo rongshui tongdao_rongzhou wangmu luodian
+			annan xinxing_annan xincheng_annan puding guangsuoling dingnan_anshun kangzuo xibao zhenning duyun
+			bazhai_duyun dushan pingzhu lantu guizhou_guizhou jinzhu xintian bafan suidong
+			longli weiqing liping xiajiang guzhou qingjiang_liping tonggu_liping taigong
+			yongcong pingyue kaili maxia puan_puan huangcaoba anlong lemin wuchuan_sinan longquanping
+			shiqian yinjiang taipengruodong qiongshui panqiao zhenyuan_sizhou dizhai caoni
+			cengtai dafang dagu_shunyuan shuixi longchang jinji tongren wuluo tixi shuicheng
+			pingba zhijin huozhu shizong xisha xisa luoxiong zhanyi
+			youdian yiliang fumin luquan bozhou wujiang_bozhou shaxi luoji yunlian
+			rongxian zhehai muli pengshui daguan yongshan wusa zhaoban heizhang huangping
+			baini wengshui rongshan yongning gulin luojiao mangbu guihua youyang xiushan
 			zhengan zhenzhou suiyang bochuan
 		}
 
@@ -49813,21 +49628,21 @@ countries = {
 		type = pop
 
 		add_pops_from_locations = {
-			xibao puan_puan lemin caoni cengtai dafang dagu_shunyuan shuixi jinji shuicheng 
-			zhijin huozhu beisheng langqu jinshajiang yongning_baisheng ningfan 
-			heyang jiangchuan lunan xinxing weichu dingyuan_chuxiong zhennan midu dingbian_shunning nanan menghua 
-			binchuan yangbei yunnan guangxi shizong qiubei mile wucao nalou situo luokong 
-			heqing kainan baodian zheledian kunyang anning chenggong 
-			yimen jianshui ami xisha tonghai shiping pingdian malongtalang xie 
-			gengma mengmeng yinshaluo mengzi lihua jiaha mengding_mengzi jiaohua weimo nanning 
-			kedu luoxiong zhanyi malong_qujing luoshan_qujing luliang shunning baotong youdian 
+			xibao puan_puan lemin caoni cengtai dafang dagu_shunyuan shuixi jinji shuicheng
+			zhijin huozhu beisheng langqu jinshajiang yongning_baisheng ningfan
+			heyang jiangchuan lunan xinxing weichu dingyuan_chuxiong zhennan midu dingbian_shunning nanan menghua
+			binchuan yangbei yunnan guangxi shizong qiubei mile wucao nalou situo luokong
+			heqing kainan baodian zheledian kunyang anning chenggong
+			yimen jianshui ami xisha tonghai shiping pingdian malongtalang xie
+			gengma mengmeng yinshaluo mengzi lihua jiaha mengding_mengzi jiaohua weimo nanning
+			kedu luoxiong zhanyi malong_qujing luoshan_qujing luliang shunning baotong youdian
 			sime niuwu puri_simao yaozhou dayao juque yongchang_yongchang zhenkang shidian rouyuan
-			 yuanjiang_yuanjiang talang tongguan_yuanjiang kunming lufeng yiliang songming fumin 
-			 weiyuan mengtong mengban_weiyuan hequ_wuding luquan rende yuanmou runyan mala 
-			 pingchuan zuosuo bozhou zizhou shaxi yunlian qijiang dechang 
-			 huili huichuan_dechang mingyi dongchuan qiaojia tangdan zhehai emei muli kheong waerhdje 
-			 hanyuan suzhou lugu qiongbu shimian zhenxi_lizhou mahu lizhou_mahu 
-			 leibo mabian muchuan jianchang_sichuan kuozhou puge beishe wumeng daguan luozuoguan 
+			 yuanjiang_yuanjiang talang tongguan_yuanjiang kunming lufeng yiliang songming fumin
+			 weiyuan mengtong mengban_weiyuan hequ_wuding luquan rende yuanmou runyan mala
+			 pingchuan zuosuo bozhou zizhou shaxi yunlian qijiang dechang
+			 huili huichuan_dechang mingyi dongchuan qiaojia tangdan zhehai emei muli kheong waerhdje
+			 hanyuan suzhou lugu qiongbu shimian zhenxi_lizhou mahu lizhou_mahu
+			 leibo mabian muchuan jianchang_sichuan kuozhou puge beishe wumeng daguan luozuoguan
 			 yongshan wusa zhaoban heizhang baurang yongning gulin luojiao mangbu guihua
 		}
 
@@ -49868,7 +49683,7 @@ countries = {
 		court_language = persian_language
 		religious_school = hanafi_school
 		government = { mysticism_vs_jurisprudence = -15 }
-		
+
 		government = {
 			ruler = sgn_bahram_khan
 
@@ -49922,7 +49737,7 @@ countries = {
 		court_language = persian_language
 		religious_school = hanafi_school
 		government = { mysticism_vs_jurisprudence = -15 }
-		
+
 		government = {
 			ruler = stn_shamsuddin_ilyas_shah
 
@@ -49966,13 +49781,13 @@ countries = {
 
 	KMA = { #Kamata
 		own_control_core = {
-			kamatapur 
-			barpeta bijni dhubri durjaya goalpara hajo kokrajhar 
+			kamatapur
+			barpeta bijni dhubri durjaya goalpara hajo kokrajhar
 		}
 
 		own_control_integrated = {
 			birpara koch_bihar
-			bordowa tezpur rowta guwahati 
+			bordowa tezpur rowta guwahati
 		}
 
 		include = "expl_india_hindu"
@@ -50077,7 +49892,7 @@ countries = {
 		include = "indian_muslim_monarchy_no_coast"
 		religious_school = hanafi_school
 		government = { mysticism_vs_jurisprudence = -15 }
-		
+
 		government = {
 			ruler = trf_syed_shah_nasiruddin
 
@@ -50434,161 +50249,13 @@ countries = {
 
 	#-------------------Canada-------------
 	#Taontaenrat - TRT
-	TRT = { #??
-		type = pop
-
-		add_pops_from_locations = {
-			missinihe tkaronto tetioneshohon scanonaenrat
-		}
-
-		discovered_regions = {
-			canada_region
-			east_coast_region
-			great_plains_region
-		}
-
-		include = "amerindian_tribe"
-		include = "expl_mesoamerica"
-		government = {
-			ruler = random
-		}
-	}
-
-	#Attignawantan - AGW
-	AGW = {#https://pueblosoriginarios.com/norte/bosques/huron/huron.html
-		type = pop
-
-		add_pops_from_locations = {
-			garafraxa ossossane
-		}
-
-		discovered_regions = {
-			canada_region
-			east_coast_region
-			great_plains_region
-		}
-
-		include = "amerindian_tribe"
-		include = "expl_mesoamerica"
-		government = {
-			ruler = random
-		}
-	}
-
-	#Arendaronon
-	ARN = { #https://en.wikipedia.org/wiki/Wyandotte_Nation
-		type = pop
-
-		add_pops_from_locations = {
-			mazinaw skootamatta kamaniskeg kashagawigamog catchacoma kawartha cahiague
-		}
-
-		discovered_regions = {
-			canada_region
-			east_coast_region
-			great_plains_region
-		}
-
-		include = "amerindian_tribe"
-		include = "expl_mesoamerica"
-		government = {
-			ruler = random
-		}
-	}
-
-	#Attigneenongnahac
-	ATG = {#https://pueblosoriginarios.com/norte/bosques/huron/huron.html
-		type = pop
-
-		add_pops_from_locations = {
-			otonabee quinte ganneious ganaraska oshawa scugog haskaont ouentarionk
-		}
-
-
-		discovered_regions = {
-			canada_region
-			east_coast_region
-			great_plains_region
-		}
-
-		include = "amerindian_tribe"
-		include = "expl_mesoamerica"
-	 	government = {
-			type = tribe
-			heir_selection = tribal_oldest_male
-			ruler = random
-		}
-	}
-
-	#Ataronchoronon
-	ATC = {#https://pueblosoriginarios.com/norte/bosques/huron/huron.html
-		type = pop
-
-		add_pops_from_locations = {
-			kaotia kahshe cognashene
-		}
-
-		discovered_regions = {
-			canada_region
-			east_coast_region
-			great_plains_region
-		}
-
-		include = "amerindian_tribe"
-		include = "expl_mesoamerica"
-	 	government = {
-			type = tribe
-			heir_selection = tribal_oldest_male
-			ruler = random
-		}
-	}
-
-	#Aondironon
-	ADR = {#https://en.wikipedia.org/wiki/Neutral_Confederacy
-		type = pop
-
-		add_pops_from_locations = {
-			nissouri kandoucho kanagio tekahionhake bkwejanong ganatchio
-		}
-
-		discovered_regions = {
-			canada_region
-			east_coast_region
-			great_plains_region
-		}
-
-		include = "amerindian_tribe"
-		include = "expl_mesoamerica"
-	 	government = {
-			type = tribe
-			heir_selection = tribal_oldest_male
-			ruler = random
-		}
-	}
-	#Tionontate
-	TIO = {#https://en.wikipedia.org/wiki/Petun
-		type = pop
-
-		add_pops_from_locations = {
-			etharita ehwae eramosa
-		}
-
-		discovered_regions = {
-			canada_region
-			east_coast_region
-			great_plains_region
-		}
-
-		include = "amerindian_tribe"
-		include = "expl_mesoamerica"
-	 	government = {
-			type = tribe
-			heir_selection = tribal_oldest_male
-			ruler = random
-		}
-	}
-
-	#Maisouna
+#Attignawantan - AGW
+#Arendaronon
+#Attigneenongnahac
+#Ataronchoronon
+#Aondironon
+#Tionontate
+#Maisouna
 	MAS = {
 		type = pop
 
@@ -50612,29 +50279,7 @@ countries = {
 	}
 
 	#Osheaga
-	OSG = { #??
-		type = pop
-
-		add_pops_from_locations = {
-			kemoimenahan ahkwesasne otennienontant hochelaga makigotekw kahwenoke
-		}
-
-		discovered_regions = {
-			canada_region
-			east_coast_region
-			great_plains_region
-		}
-
-		include = "amerindian_tribe"
-		include = "expl_mesoamerica"
-	 	government = {
-			type = tribe
-			heir_selection = tribal_oldest_male
-			ruler = random
-		}
-	}
-
-	#Stadacona
+#Stadacona
 	STD = {#https://en.wikipedia.org/wiki/Stadacona https://en.wikipedia.org/wiki/St._Lawrence_Iroquoians
 		type = pop
 
@@ -50908,7 +50553,7 @@ countries = {
 
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 
 		include = "expl_china"
 		include = "expl_indonesia"
@@ -50936,7 +50581,7 @@ countries = {
 
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 
 		include = "expl_china"
 		include = "expl_indonesia"
@@ -50957,7 +50602,7 @@ countries = {
 		tolerated_cultures = {
 			malay_culture
 		}
-		
+
 		capital = pasai
 	}
 
@@ -50971,7 +50616,7 @@ countries = {
 
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 
 		include = "expl_china"
 		include = "expl_indonesia"
@@ -51092,7 +50737,7 @@ countries = {
 			menggala gunung_sugih hulu_mesuji kotabumi mesuji tiyuh_tuha
 			lampung kalianda krui liwa_lampung palas_pasemah sukadana_lampung
 			kota_kapur badau koba pangkalpinang
-			lalan tenggulang perbatasan 
+			lalan tenggulang perbatasan
 		}
 
 		own_control_integrated = {
@@ -51125,7 +50770,7 @@ countries = {
 
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 
 		include = "expl_china"
 		include = "expl_indonesia"
@@ -51327,7 +50972,7 @@ countries = {
 
 	BEI = { #Brunei
 		own_control_core = {
-			berune api_api padas pegalan 
+			berune api_api padas pegalan
 		}
 		own_control_integrated = {
 			hulu_limbang hulu_padas trusan
@@ -51588,7 +51233,7 @@ countries = {
 		own_control_core = {
 			malangke palopo luwu malili
 			kalumpang kurri_kurri toraja
-			bungi matano 
+			bungi matano
 		}
 
 		own_control_integrated = {
@@ -52315,7 +51960,7 @@ countries = {
 
 	BTU = { #Butuan
 		own_control_core = {
-			butuan 
+			butuan
 		}
 
 		own_control_integrated = {
@@ -52330,9 +51975,9 @@ countries = {
 			type = monarchy
 			heir_selection = cognatic_primogeniture
 			ruler = random
-			
+
 			reforms = {
-				mandala_system	
+				mandala_system
 			}
 		}
 
@@ -52346,7 +51991,7 @@ countries = {
 
 	MGD = { #Wenduling (Maguindanao)
 		own_control_core = {
-			kuta_watu 
+			kuta_watu
 		}
 
 		own_control_integrated = {
@@ -52519,7 +52164,7 @@ countries = {
 	}
 
 	#Waigeo
-	WGE = { 
+	WGE = {
 		type = pop
 
 		add_pops_from_locations = {
@@ -52536,7 +52181,7 @@ countries = {
 	}
 
 	#Maden
-	MAD = { 
+	MAD = {
 		type = pop
 
 		add_pops_from_locations = {
@@ -52553,7 +52198,7 @@ countries = {
 	}
 
 	#Misool
-	MSL = { 
+	MSL = {
 		type = pop
 
 		add_pops_from_locations = {
@@ -53064,7 +52709,7 @@ countries = {
 		type = pop
 
 		add_pops_from_locations = {
-			sauipe arakaiu itabaiana itaratim jiribatuba jucuru kururupu 
+			sauipe arakaiu itabaiana itaratim jiribatuba jucuru kururupu
 			rio_pardo salinas tapuitapera tapuy tupinambarana
 		}
 
@@ -53084,11 +52729,11 @@ countries = {
 		type = pop
 
 		add_pops_from_locations = {
-			tupiniquim andarai ararayu_aba aruja cataguas coutins cunhambebe goana_para gohayo 
-			guarapiri guaratingueta hahahae ita_atiaia ita_kua_y itaberaba itaitu itapemirim 
-			jacarei jerubatuba jose_calcado kapiwary kiri_kere lorena mage mantiqueira marataiama 
-			mogi_das_cruzes mogi_mirim mokaie nandu nheteroia nova_friburgo paraibuna parnaiba 
-			piratininga piray sao_luis_do_paraitinga sao_roque sao_sebastiao tamoio tanhacu taubate 
+			tupiniquim andarai ararayu_aba aruja cataguas coutins cunhambebe goana_para gohayo
+			guarapiri guaratingueta hahahae ita_atiaia ita_kua_y itaberaba itaitu itapemirim
+			jacarei jerubatuba jose_calcado kapiwary kiri_kere lorena mage mantiqueira marataiama
+			mogi_das_cruzes mogi_mirim mokaie nandu nheteroia nova_friburgo paraibuna parnaiba
+			piratininga piray sao_luis_do_paraitinga sao_roque sao_sebastiao tamoio tanhacu taubate
 			uaua y_uasu
 		}
 
@@ -53127,12 +52772,12 @@ countries = {
 		type = pop
 
 		add_pops_from_locations = {
-			akaray canindeyu curuguaty kaaguy_jehasapa kaarendy kuarepoti kyyindy mbya nemby takuru_puku tsiripa ygana yguazu 
+			akaray canindeyu curuguaty kaaguy_jehasapa kaarendy kuarepoti kyyindy mbya nemby takuru_puku tsiripa ygana yguazu
 			agaes avaes itapua payubre taragui uruguay yapeyu
 			ibicui inhandui jeguakava nandeva
-			cacapava icabaqua tupancireta vacacai 
-			jacui patos sao_leopoldo san_antonio_patrulha tapes 
-			cangucu chuy jaguarao piratini piratinin 
+			cacapava icabaqua tupancireta vacacai
+			jacui patos sao_leopoldo san_antonio_patrulha tapes
+			cangucu chuy jaguarao piratini piratinin
 		}
 
 		discovered_regions = {
@@ -53230,8 +52875,8 @@ countries = {
 		type = pop
 
 		add_pops_from_locations = {
-			aimore acoroazes aracuai borun caete_brasil caratinga conceicao ipueira irece itabira 
-			itajui itanhomi jequitinhonha krenak malalis manhuacu mariana matipo mucuri mutum 
+			aimore acoroazes aracuai borun caete_brasil caratinga conceicao ipueira irece itabira
+			itajui itanhomi jequitinhonha krenak malalis manhuacu mariana matipo mucuri mutum
 			nac_nanuk nanuque parnagua pecanha porte santa_barbara santa_luzia serro sete_lagoas urucu
 		}
 
@@ -53322,22 +52967,6 @@ countries = {
 		}
 	}
 
-	#Coosa Paramount Chiefdom (De Soto)
-	COO = { #https://en.wikipedia.org/wiki/Coosa_chiefdom
-		type = pop
-
-		add_pops_from_locations = {
-			coosa talimachusi ulibahali itaba utsutigway apica tuasi callamaco
-			ohatchee chatanugi ishtaboli hytop
-		}
-		include = "american_east_coast_tribe"
-		government = {
-			ruler = random
-		}
-		court_language = muskogee_language
-		capital = coosa
-	}
-
 	#Otali - OTL
 	OTL = {
 		type = pop
@@ -53394,48 +53023,6 @@ countries = {
 		court_language = muskogee_language
 		capital = eufaula
 	}
-	#Capachequi Paramount Chiefdom (De Soto)
-	CPQ = {
-		type = pop
-
-		add_pops_from_locations = {
-			capachequi alapaha sawokli
-		}
-		include = "american_east_coast_tribe"
-		government = {
-			ruler = random
-		}
-		court_language = muskogee_language
-		capital = capachequi
-	}
-	#Toa Paramount Chiefdom (De Soto)
-	TOA = {
-		type = pop
-
-		add_pops_from_locations = {
-			toa hitchiti ocmulgee
-		}
-		include = "american_east_coast_tribe"
-		government = {
-			ruler = random
-		}
-		court_language = muskogee_language
-		capital = toa
-	}
-	#Ocute Paramount Chiefdom (De Soto)
-	OCT = {
-		type = pop
-
-		add_pops_from_locations = {
-			ocute cofaqui ichisi altamaha oconee ohoopee
-		}
-		include = "american_east_coast_tribe"
-		government = {
-			ruler = random
-		}
-		court_language = muskogee_language
-		capital = ocute
-	}
 	#Hitchiti
 	HIT = {
 		type = pop
@@ -53478,21 +53065,6 @@ countries = {
 		court_language = muskogee_language
 		capital = apafalaya
 	}
-	#Choctaw-Chatha
-	CHC = {
-		type = pop
-
-		add_pops_from_locations = {
-			taliepacana consha tombigbee escatawppa tohome okeloussa eiowane
-			eianamogola
-		}
-		include = "american_east_coast_tribe"
-		government = {
-			ruler = random
-		}
-		court_language = chickasaw_choctaw_language
-		capital = taliepacana
-	}
 	#Chickasaw-Chickasha
 	CHS = {
 		type = pop
@@ -53523,76 +53095,6 @@ countries = {
 		court_language = muskogee_language
 	}
 
-	#Quigaltam Paramount Chiefdom (De Soto)
-	QGM = {
-		type = pop
-
-		add_pops_from_locations = {
-			quigualtam tiou yazoo koroa
-		}
-		include = "american_east_coast_tribe"
-		government = {
-			ruler = random
-		}
-		court_language = natchez_language
-		capital = quigualtam
-	}
-	#Quizquiz Paramount Chiefdom (De Soto)
-	QUZ = {
-		type = pop
-
-		add_pops_from_locations = {
-			quizquiz taposa chucalissa chatata ongoulastoga
-		}
-		include = "american_east_coast_tribe"
-		government = {
-			ruler = random
-		}
-		court_language = chickasaw_choctaw_language
-		capital = chucalissa
-	}
-	#Natchez Paramount Chiefdom (De Soto)
-	NCZ = {
-		type = pop
-
-		add_pops_from_locations = {
-			natchez chittaloosa houma mosco chicksawhe capino caftacha
-		}
-		include = "american_east_coast_tribe"
-		government = {
-			ruler = random
-		}
-		court_language = natchez_language
-		capital = natchez
-	}
-	#Apalachee
-	APA = {
-		type = pop
-
-		add_pops_from_locations = {
-			apalachee anhayca azile
-		}
-		include = "american_east_coast_tribe"
-		government = {
-			ruler = random
-		}
-		court_language = muskogee_language
-		capital = apalachee
-	}
-	#Guale
-	GUL = {
-		type = pop
-
-		add_pops_from_locations = {
-			tacatacaru tamathli tybee ossabaw sapelo canoochee
-		}
-		include = "american_east_coast_tribe"
-		government = {
-			ruler = random
-		}
-		court_language = muskogee_language
-		capital = ossabaw
-	}
 	#Kaskinampo
 	KSK = {
 		type = pop
@@ -53640,7 +53142,7 @@ countries = {
 		type = pop
 
 		add_pops_from_locations = {
-			shawanoe charquis pennyrile cuttaway towosaghy cholohollay ni_okaska
+			shawanoe charquis pennyrile cuttaway cholohollay ni_okaska
 		}
 		include = "american_east_coast_tribe"
 		government = {
@@ -53720,20 +53222,6 @@ countries = {
 		}
 		court_language = muskogee_language
 		capital = maniatique
-	}
-	#Cofitachequi Paramount Chiefdom (De Soto)
-	CFQ = {
-		type = pop
-
-		add_pops_from_locations = {
-			cofitachequi talimeco hymahi ilasi winyah winnee pocotaligo etiwan wando santee congaree
-		}
-		include = "american_east_coast_tribe"
-		government = {
-			ruler = random
-		}
-		court_language = tutelo_language
-		capital = cofitachequi
 	}
 	#Joara Paramount Chiefdom (De Soto)
 	JOA = {
@@ -54040,20 +53528,7 @@ countries = {
 	}
 
 	#Wenrohronon
-	WRO = {
-		type = pop
-
-		add_pops_from_locations = {
-			tiotoren cattaraugus kanentaweron
-		}
-
-		include = "american_east_coast_tribe"
-	 	government = {
-			ruler = random
-		}
-	}
-
-	#Kentaientonga Erie
+#Kentaientonga Erie
 	KEN = {
 		type = pop
 
@@ -54068,20 +53543,7 @@ countries = {
 	}
 
 	#Erielhonan Erie
-	ERI = {
-		type = pop
-
-		add_pops_from_locations = {
-			erie shenango kittaning tionesta
-		}
-
-		include = "american_east_coast_tribe"
-	 	government = {
-			ruler = random
-		}
-	}
-
-	#Honniasont Erie
+#Honniasont Erie
 	HON = {
 		type = pop
 
@@ -54138,112 +53600,11 @@ countries = {
 	}
 
 	#Mohawk/Kanien'kehaka
-	KKA = {
-
-		own_control_core = {
-			canajoharie teionontatatie oneonta schenectady saratoga ticonderoga kawenote oronia tsiietsenhtha oskennonton itekiatonhniarikon
-		}
-
-		starting_technology_level = 0
-		include = "haudenosaunee_tribe"
-		include = "expl_amerindian_east_coast"
-		government = {
-			ruler = random
-		}
-		capital = canajoharie
-
-		currency_data = {
-			gold = 100
-			stability = 33
-			tribal_cohesion = 90
-		}
-	}
-
-	#Oneida/Onyotaaka
-	ONY = {
-
-		own_control_core = {
-			onenioteke oneniote teiehonwahkhkwatha niiohehsane oswegatchie nikahionhwakowa
-		}
-
-		starting_technology_level = 0
-		include = "haudenosaunee_tribe"
-		include = "expl_amerindian_east_coast"
-		government = {
-			ruler = random
-		}
-		capital = onenioteke
-
-		currency_data = {
-			gold = 100
-			stability = 33
-			tribal_cohesion = 90
-		}
-	}
-	#Onondaga/Onondagega
-	ONO = {
-
-		own_control_core = {
-		tsikahiotsisto otsiningo oswego
-		}
-
-		starting_technology_level = 0
-		include = "expl_amerindian_east_coast"
-		include = "haudenosaunee_tribe"
-		government = {
-			ruler = random
-		}
-		capital = tsikahiotsisto
-
-		currency_data = {
-			gold = 100
-			stability = 33
-			tribal_cohesion = 90
-		}
-	}
-	#Cayuga/Gayogohono
-	GYO = {
-
-		own_control_core = {
-		skaniatares assorodus gahato
-		}
-
-		starting_technology_level = 0
-		include = "expl_amerindian_east_coast"
-		include = "haudenosaunee_tribe"
-		government = {
-			ruler = random
-		}
-		capital = skaniatares
-
-		currency_data = {
-			gold = 100
-			stability = 33
-			tribal_cohesion = 90
-		}
-	}
-	#Seneca/Onondowaga
-	ONN = {
-
-		own_control_core = {
-		canadaigua geneseo tsonentsiio irondequoit
-		}
-
-		starting_technology_level = 0
-		include = "haudenosaunee_tribe"
-		include = "expl_amerindian_east_coast"
-		government = {
-			ruler = random
-		}
-		capital = canadaigua
-
-		currency_data = {
-			gold = 100
-			stability = 33
-			tribal_cohesion = 90
-		}
-	}		
-	#Pamlico
+#Oneida/Onyotaaka
+#Onondaga/Onondagega
+#Cayuga/Gayogohono
+#Seneca/Onondowaga
+#Pamlico
 	PML = {
 		type = pop
 
@@ -54655,30 +54016,6 @@ countries = {
 
 		add_pops_from_locations = {
 		antietam opequon wapocomo wappacoma calicuas cacapon
-		}
-
-		discovered_regions = {
-			canada_region
-			east_coast_region
-			great_plains_region
-		}
-
-		include = "amerindian_tribe"
-		include = "expl_mesoamerica"
-	 	government = {
-			type = tribe
-			heir_selection = tribal_oldest_male
-			ruler = random
-		}
-	}
-
-	#Bodewadomik-Potawatomi
-	#https://en.wikipedia.org/wiki/Potawatomi
-	BDK = {
-		type = pop
-
-		add_pops_from_locations = {
-		wequetong manistee mastigon onekama tittabawassee muskegon
 		}
 
 		discovered_regions = {
@@ -55249,79 +54586,9 @@ countries = {
 		}
 	}
 
-	#Odawa
-	#https://en.wikipedia.org/wiki/Odawa
-	ODW = {
-		type = pop
-
-		add_pops_from_locations = {
-			dehskan_ziibi menesetung saugeen nochemoweniing manitoulin cheboygan asiniike saganing
-		}
-
-		discovered_regions = {
-			canada_region
-			east_coast_region
-			great_plains_region
-		}
-
-		include = "amerindian_tribe"
-		include = "expl_mesoamerica"
-	 	government = {
-			type = tribe
-			heir_selection = tribal_oldest_male
-			ruler = random
-		}
-	}
-
-	#Ojibwe
-	#https://en.wikipedia.org/wiki/Ojibwe
-	OJI = {
-		type = pop
-
-		add_pops_from_locations = {
-			pogamasing eskimanetigon mississagi baawitigong batchawana agawa_superior mackinac tahquamenon manistique ishpeming keweenaw ontonagon gaamiskwaabikaang chequamegon
-		}
-
-		discovered_regions = {
-			canada_region
-			east_coast_region
-			great_plains_region
-		}
-
-		include = "amerindian_tribe"
-		include = "expl_mesoamerica"
-	 	government = {
-			type = tribe
-			heir_selection = tribal_oldest_male
-			ruler = random
-		}
-	}
-
 	#Onghniaahra
 	#https://en.wikipedia.org/wiki/Neutral_Confederacy
-	ONG = {
-		type = pop
-
-		add_pops_from_locations = {
-			niagara kenhionatatie macassa thahnawate ahouenro
-		}
-
-		discovered_regions = {
-			canada_region
-			east_coast_region
-			great_plains_region
-		}
-
-		include = "amerindian_tribe"
-		include = "expl_mesoamerica"
-	 	government = {
-			type = tribe
-			heir_selection = tribal_oldest_male
-			ruler = random
-		}
-	}
-
-		#Persia
+#Persia
 
 	CHB = { #Chobanids
 		type = army
@@ -55662,7 +54929,7 @@ countries = {
 			khorasani_culture
 			farsi_culture
 			adhari_culture
-			semnani_culture	
+			semnani_culture
 		}
 
 		country_rank = rank_kingdom
@@ -55856,7 +55123,7 @@ countries = {
 
 		religious_school = hanafi_school
 		government = { mysticism_vs_jurisprudence = -15 }
-		
+
 		capital = hormuz
 	}
 
@@ -55931,7 +55198,7 @@ countries = {
 
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 		dynasty = eshaqvand_dynasty
 		capital = fuman
 	}
@@ -55960,7 +55227,7 @@ countries = {
 
 		religious_school = hanbali_school
 		government = { mysticism_vs_jurisprudence = 40 }
-		
+
 		dynasty = naservand_dynasty
 		capital = lahijan
 	}
@@ -55989,7 +55256,7 @@ countries = {
 
 		religious_school = hanbali_school
 		government = { mysticism_vs_jurisprudence = 40 }
-		
+
 		dynasty = naservand_dynasty
 		capital = langarud
 	}
@@ -56018,7 +55285,7 @@ countries = {
 
 		religious_school = hanbali_school
 		government = { mysticism_vs_jurisprudence = 40 }
-		
+
 		dynasty = eshaqvand_dynasty
 		capital = rasht
 	}
@@ -56139,7 +55406,7 @@ countries = {
 
 		religious_school = hanafi_school
 		government = { mysticism_vs_jurisprudence = -15 }
-		
+
 		capital = kalmat
 		dynasty = hot_dynasty
 		court_language = persian_language
@@ -56171,7 +55438,7 @@ countries = {
 
 		religious_school = hanafi_school
 		government = { mysticism_vs_jurisprudence = -15 }
-		
+
 		capital = bampur
 		dynasty = rind_lashari_dynasty
 		court_language = persian_language
@@ -56202,7 +55469,7 @@ countries = {
 
 		religious_school = hanafi_school
 		government = { mysticism_vs_jurisprudence = -15 }
-		
+
 		capital = buleda
 		dynasty = buledai_dynasty
 		court_language = persian_language
@@ -56232,7 +55499,7 @@ countries = {
 
 		religious_school = hanafi_school
 		government = { mysticism_vs_jurisprudence = -15 }
-		
+
 		capital = awaran
 		dynasty = bizenjo_dynasty
 		court_language = persian_language
@@ -56264,7 +55531,7 @@ countries = {
 
 		religious_school = hanafi_school
 		government = { mysticism_vs_jurisprudence = -15 }
-		
+
 		capital = khuzdar
 		dynasty = jat_dynasty
 		court_language = persian_language
@@ -56290,7 +55557,7 @@ countries = {
 
 		religious_school = hanafi_school
 		government = { mysticism_vs_jurisprudence = -15 }
-		
+
 		capital = kalat
 		dynasty = mirwari_dynasty
 		court_language = persian_language
@@ -56348,7 +55615,7 @@ countries = {
 
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 		capital = lar
 		dynasty = miladid_dynasty
 	}
@@ -56378,7 +55645,7 @@ countries = {
 
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 		capital = hamadan
 	}
 
@@ -56402,7 +55669,7 @@ countries = {
 
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 		capital = qom
 	}
 
@@ -56426,7 +55693,7 @@ countries = {
 
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 		capital = kashan
 	}
 
@@ -56482,7 +55749,7 @@ countries = {
 
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 		capital = nishapur
 	}
 
@@ -56507,7 +55774,7 @@ countries = {
 
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 		capital = esfarayen
 	}
 
@@ -56532,7 +55799,7 @@ countries = {
 
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 		capital = sabzevar
 	}
 
@@ -56561,7 +55828,7 @@ countries = {
 
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 		capital = qaen
 	}
 
@@ -56585,7 +55852,7 @@ countries = {
 
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 		capital = merv
 	}
 
@@ -56613,7 +55880,7 @@ countries = {
 
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 		capital = salameh
 	}
 
@@ -56655,7 +55922,7 @@ countries = {
 
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 		country_rank = rank_kingdom
 		capital = basra
 	}
@@ -56692,7 +55959,7 @@ countries = {
 
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 		capital = ghazni
 	}
 
@@ -56735,7 +56002,7 @@ countries = {
 
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 		capital = kabul
 	}
 
@@ -56770,7 +56037,7 @@ countries = {
 
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 		capital = deh_kundi
 	}
 
@@ -56804,7 +56071,7 @@ countries = {
 
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 		capital = maymana
 	}
 
@@ -56839,7 +56106,7 @@ countries = {
 
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 		capital = andkhoy
 	}
 
@@ -56876,7 +56143,7 @@ countries = {
 
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 		capital = balkh
 	}
 
@@ -56912,7 +56179,7 @@ countries = {
 
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 		capital = akhsisek
 	}
 
@@ -56927,7 +56194,7 @@ countries = {
 		}
 
 		own_control_integrated = {
-			khiva kyat_kala nyzvar 
+			khiva kyat_kala nyzvar
 			kath
 		}
 
@@ -56956,7 +56223,7 @@ countries = {
 
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 		capital = samarkand
 	}
 
@@ -56990,7 +56257,7 @@ countries = {
 
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 		capital = vakhs
 	}
 
@@ -57025,7 +56292,7 @@ countries = {
 
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 		capital = khujand
 	}
 
@@ -57044,7 +56311,7 @@ countries = {
 		}
 
 		own_control_integrated = {
-			costa tuapse 
+			costa tuapse
 		}
 
 		our_cores_conquered_by_others = {
@@ -57245,7 +56512,7 @@ countries = {
 
 		religious_school = hanafi_school
 		government = { mysticism_vs_jurisprudence = -15 }
-		
+
 		capital = baku
 		tolerated_cultures = {
 			azeri_culture
@@ -57275,7 +56542,7 @@ countries = {
 
 		religious_school = hanafi_school
 		government = { mysticism_vs_jurisprudence = -15 }
-		
+
 		capital = khunzakh
 	}
 
@@ -57303,7 +56570,7 @@ countries = {
 
 		religious_school = hanafi_school
 		government = { mysticism_vs_jurisprudence = -15 }
-		
+
 		capital = tarki
 	}
 
@@ -57403,7 +56670,7 @@ countries = {
 
 	CPA = { #Copa
 		own_control_core = {
-			copa akhtar 
+			copa akhtar
 		}
 
 		starting_technology_level = 3
@@ -57443,7 +56710,7 @@ countries = {
 
 	HYT = { #Hytuk
 		own_control_core = {
-			shanjir siba_circassia khadyzhi 
+			shanjir siba_circassia khadyzhi
 		}
 
 		starting_technology_level = 3
@@ -57461,7 +56728,7 @@ countries = {
 
 	KDA = { #Kabardia
 		own_control_core = {
-			kuzhyb shkhancheriekhabl 
+			kuzhyb shkhancheriekhabl
 		}
 
 		starting_technology_level = 3
@@ -57538,7 +56805,7 @@ countries = {
 
 		religious_school = hanafi_school
 		government = { mysticism_vs_jurisprudence = -15 }
-		
+
 		capital = shaki
 		tolerated_cultures = {
 			azeri_culture
@@ -57803,7 +57070,7 @@ countries = {
 
 		religious_school = shafii_school
 		government = { mysticism_vs_jurisprudence = 20 }
-		
+
 
 		country_rank = rank_kingdom
 		capital = zabid
@@ -57966,7 +57233,7 @@ countries = {
 
 		religious_school = hanbali_school
 		government = { mysticism_vs_jurisprudence = 40 }
-		
+
 		capital = hail
 	}
 
@@ -57996,7 +57263,7 @@ countries = {
 
 		religious_school = hanbali_school
 		government = { mysticism_vs_jurisprudence = 40 }
-		
+
 
 		capital = dumat_al_jandal
 
@@ -58052,7 +57319,7 @@ countries = {
 
 		religious_school = hanbali_school
 		government = { mysticism_vs_jurisprudence = 40 }
-		
+
 
 		capital = tayma
 
@@ -58081,7 +57348,7 @@ countries = {
 
 		religious_school = hanbali_school
 		government = { mysticism_vs_jurisprudence = 40 }
-		
+
 
 		capital = khalis_medina
 
@@ -58168,7 +57435,7 @@ countries = {
 
 		religious_school = hanbali_school
 		government = { mysticism_vs_jurisprudence = 40 }
-		
+
 
 		capital = taif
 	}
@@ -58197,7 +57464,7 @@ countries = {
 
 		religious_school = hanbali_school
 		government = { mysticism_vs_jurisprudence = 40 }
-		
+
 		dynasty = al_zayid_dynasty
 
 		capital = aqiq_banu_uqayi
@@ -58263,7 +57530,7 @@ countries = {
 
 		religious_school = hanbali_school
 		government = { mysticism_vs_jurisprudence = 40 }
-		
+
 
 		capital = tabalah
 	}
@@ -58289,7 +57556,7 @@ countries = {
 
 		religious_school = hanbali_school
 		government = { mysticism_vs_jurisprudence = 40 }
-		
+
 
 		capital = yabrin
 	}
@@ -58454,7 +57721,7 @@ countries = {
 
 		religious_school = hanbali_school
 		government = { mysticism_vs_jurisprudence = 40 }
-		
+
 
 		capital = unaizah
 
@@ -58486,7 +57753,7 @@ countries = {
 
 		religious_school = hanbali_school
 		government = { mysticism_vs_jurisprudence = 40 }
-		
+
 
 		capital = as_suwaydirah
 
@@ -58514,7 +57781,7 @@ countries = {
 
 		religious_school = hanbali_school
 		government = { mysticism_vs_jurisprudence = 40 }
-		
+
 
 		capital = madin_bani_sulaym
 
@@ -58569,11 +57836,11 @@ countries = {
 			land_vs_naval = -90
 			capital_economy_vs_traditional_economy = 100
 			individualism_vs_communalism = 60
-			outward_vs_inward = 50	
+			outward_vs_inward = 50
 
 			parliament = {
 				parliament_type = assembly
-			}	
+			}
 
 			laws = {
 				marriage_law = polygyny
@@ -58602,7 +57869,7 @@ countries = {
 				allow_hunting
 				partial_yield
 				peasants_free_peasantry
-		
+
 				tribes_tribal_levies
 				tribes_allow_gatherings
 			}
@@ -58620,7 +57887,7 @@ countries = {
 			iowa_area
 			arkansas_area
 			central_plains_area
-		}		
+		}
 
 		tolerated_cultures = {
 			tsawi_culture
@@ -58943,35 +58210,13 @@ countries = {
 		}
 	}
 
-	#Chitimacha - CTI
-	#https://en.wikipedia.org/wiki/Chitimacha
-	CTI = {
-		type = pop
-
-		add_pops_from_locations = {
-			bulbancha chawasha atchafalaya
-		}
-
-		discovered_regions = {
-			canada_region
-			great_plains_region
-			east_coast_region
-		}
-
-		include = "amerindian_tribe"
-		include = "expl_mesoamerica"
-		government = {
-			ruler = random
-		}
-	}
-
 	#Bayagoula - BYG
 	#https://en.wikipedia.org/wiki/Bayogoula
 	BYG = {
 		type = pop
 
 		add_pops_from_locations = {
-			bogue_chitto tangipahoa itihumma opelousa
+			bogue_chitto tangipahoa
 		}
 
 		discovered_regions = {
@@ -58985,71 +58230,6 @@ countries = {
 		government = {
 			ruler = random
 		}
-	}
-
-	#Pacaha Mississippian - PCH
-	#https://en.wikipedia.org/wiki/Tunica_people
-	#https://en.wikipedia.org/wiki/Pacaha
-	PCH = {
-		type = pop
-
-		add_pops_from_locations = {
-			quigate pacaha
-		}
-		include = "american_east_coast_tribe"
-		government = {
-			ruler = random
-		}
-		court_language = chickasaw_choctaw_language
-		capital = pacaha
-	}
-
-	#Casqui Mississippian - CSQ
-	#https://en.wikipedia.org/wiki/Casqui
-	CSQ = {
-		type = pop
-
-		add_pops_from_locations = {
-			casqui cayas
-		}
-		include = "american_east_coast_tribe"
-		government = {
-			ruler = random
-		}
-		court_language = natchez_language
-		capital = casqui
-	}
-
-	#Anilco Mississippian - ANL
-	#https://en.wikipedia.org/wiki/Menard%E2%80%93Hodges_site
-	ANL = {
-		type = pop
-
-		add_pops_from_locations = {
-		guachoyo anilco ayays tutilpinco utiangue
-		}
-		include = "american_east_coast_tribe"
-		government = {
-			ruler = random
-		}
-		court_language = natchez_language
-		capital = anilco
-	}
-
-	#Coligua Mississippian - COL
-	#https://en.wikipedia.org/wiki/Koroa
-	COL = {
-		type = pop
-
-		add_pops_from_locations = {
-			coligua calpista palisema
-		}
-		include = "american_east_coast_tribe"
-		government = {
-			ruler = random
-		}
-		court_language = natchez_language
-		capital = coligua
 	}
 
 	#Nashitush - Natchitoches - NST
@@ -59058,7 +58238,7 @@ countries = {
 		type = pop
 
 		add_pops_from_locations = {
-			calcasieu doustioni ya_ttaish naguatex nasoni
+			calcasieu doustioni ya_ttaish nasoni
 		}
 		include = "american_east_coast_tribe"
 		government = {
@@ -59074,7 +58254,7 @@ countries = {
 		type = pop
 
 		add_pops_from_locations = {
-			ouachita catalte aguacay amaye chaguate kiamichi nanatsoho
+			catalte aguacay kiamichi nanatsoho
 		}
 		include = "american_east_coast_tribe"
 		government = {
@@ -59090,7 +58270,7 @@ countries = {
 		type = pop
 
 		add_pops_from_locations = {
-			kisatchie catahoula tensas tunica
+			kisatchie catahoula
 		}
 		include = "american_east_coast_tribe"
 		government = {
@@ -59121,7 +58301,7 @@ countries = {
 			ruler = random
 		}
 	}
-	
+
 	#Kalapuya
 	KLP = {
 		type = pop
@@ -59182,7 +58362,7 @@ countries = {
 		}
 	}
 
-	
+
 	#S'Klallam
 	SKL = {
 		type = pop
@@ -59278,7 +58458,7 @@ countries = {
 		type = pop
 
 		add_pops_from_locations = {
-			k_omoks homalco klahoose pentlatch sechelt sliammon 
+			k_omoks homalco klahoose pentlatch sechelt sliammon
 		}
 
 		include = "amerindian_tribe"
@@ -59413,7 +58593,7 @@ countries = {
 		type = pop
 
 		add_pops_from_locations = {
-			aa_kw galyax gunaaxoo hinyaa jilkaat keex laaxaayik s_awdaan saanya shee_t_ika shtax_heen 
+			aa_kw galyax gunaaxoo hinyaa jilkaat keex laaxaayik s_awdaan saanya shee_t_ika shtax_heen
 			t_aaku taant_a yaakwdaat yakataga xunaa xutsnoowu
 		}
 
@@ -59489,7 +58669,7 @@ countries = {
 		type = pop
 
 		add_pops_from_locations = {
-			bidai deadose 
+			bidai deadose
 		}
 
 		include = "amerindian_tribe"
@@ -59498,13 +58678,13 @@ countries = {
 			ruler = random
 		}
 	}
-	
+
 	#Tawakoni
 	TWK = {
 		type = pop
 
 		add_pops_from_locations = {
-			melenudo nokoni waco 
+			melenudo nokoni waco
 		}
 
 		include = "amerindian_tribe"
@@ -59513,7 +58693,7 @@ countries = {
 			ruler = random
 		}
 	}
-	
+
 	#Hinono'eino
 	HNO = {
 		type = pop
@@ -59549,7 +58729,7 @@ countries = {
 		type = pop
 
 		add_pops_from_locations = {
-			gawakomitigweia kinosota kiyuska maitomoni_ohe mekinock mihkwakamiwi_sipiy minnewaukan 
+			gawakomitigweia kinosota kiyuska maitomoni_ohe mekinock mihkwakamiwi_sipiy minnewaukan
 			mirixubaash mnisaton pembina sipiweske tchan_sansan winnipeg
 		}
 
@@ -59624,7 +58804,7 @@ countries = {
 		type = pop
 
 		add_pops_from_locations = {
-			aguasabon kakabeka kaministiquia manitowik michipicoten minong neebing 
+			aguasabon kakabeka kaministiquia manitowik michipicoten minong neebing
 			nipigon pekatek saganaga
 		}
 
@@ -59639,7 +58819,7 @@ countries = {
 		type = pop
 
 		add_pops_from_locations = {
-			gojijin kakagi kawishiwi kitchigumi koochiching makoua mesabi miskwaagamiiwi namakan 
+			gojijin kakagi kawishiwi kitchigumi koochiching makoua mesabi miskwaagamiiwi namakan
 			neemannee nemadji pikwedina pikwedina_sagaomam quetico wissakode
 		}
 
@@ -59724,12 +58904,12 @@ countries = {
 		type = pop
 
 		add_pops_from_locations = {
-			amqui anagance antigonish apaqtukowatek askataliank aspotogan canso caraquet cascapedia 
-			causapscal chebogue cheticamp chicchoc chignecto chipoudy cobequid elsiktuk esekatik 
-			gaspe ingonish jijkwtuk kekwapskuk kennetook kjipuktuk kluskapewiktuk kouchibouguac 
-			maccan maleagit malpeque marsoui matane matapedia memramcook menageesenog miramichi mitis 
-			muinawamek musquedoboit neguac nepisiguit nictaux nisiamk nmejuaqnek oqumkikiak paspebiac 
-			petitcodiac pewjeg pictou pogomeg pukusamkek qospemk restigouche richibucto seeboosis shubenacadie sipuk 
+			amqui anagance antigonish apaqtukowatek askataliank aspotogan canso caraquet cascapedia
+			causapscal chebogue cheticamp chicchoc chignecto chipoudy cobequid elsiktuk esekatik
+			gaspe ingonish jijkwtuk kekwapskuk kennetook kjipuktuk kluskapewiktuk kouchibouguac
+			maccan maleagit malpeque marsoui matane matapedia memramcook menageesenog miramichi mitis
+			muinawamek musquedoboit neguac nepisiguit nictaux nisiamk nmejuaqnek oqumkikiak paspebiac
+			petitcodiac pewjeg pictou pogomeg pukusamkek qospemk restigouche richibucto seeboosis shubenacadie sipuk
 			tapu_tuitn tatamagouche tignish tracadie wekwayik weljuik wetewatoqsik wikipoq
 		}
 
@@ -59772,8 +58952,8 @@ countries = {
 		type = pop
 
 		add_pops_from_locations = {
-			weskarini baskatong capimitchigama kanegaok kiamika kitigan_zibi kitchissippi 
-			kiwetin_sipi mikiwam nagatinong okaisipi onontchataronon outaragasipi pasapkedjinawong 
+			weskarini baskatong capimitchigama kanegaok kiamika kitigan_zibi kitchissippi
+			kiwetin_sipi mikiwam nagatinong okaisipi onontchataronon outaragasipi pasapkedjinawong
 			picanoc poigan tapani
 		}
 
@@ -60566,7 +59746,7 @@ countries = {
 		add_pops_from_locations = {
 			vanua_levu qelelevu_atoll taveuni vanua_balavu_atoll
 			moce_atoll kabara_atoll fulaga_atoll
-			
+
 		}
 
 		include = "polynesian_tribe"
@@ -60576,5 +59756,2056 @@ countries = {
 		}
 	}
 
-}
+	#-------------------------- NWIP Countries ----------------------------
+
+	#-------------------------- NWIP Countries - Caribbean ----------------------------
+
+		#Magua
+    	TNO = {
+
+    		own_control_core = {
+    			magorix yaqui moca cotui
+    		}
+    		include = "nwip_taino_tribe"
+            government = {
+                ruler = random
+            }
+    		capital = yaqui
+            currency_data = {
+                gold = 100
+                stability = 33
+                tribal_cohesion = 90
+            }
+    	}
+
+    	#Marien
+    	MAE = {
+
+    		own_control_core = {
+    			marien iguamuco
+    		}
+    		include = "nwip_taino_tribe"
+            government = {
+                ruler = random
+            }
+            capital = marien
+            currency_data = {
+                gold = 100
+                stability = 33
+                tribal_cohesion = 90
+            }
+    	}
+
+    	#Maguana
+    	MGU = {
+
+    		own_control_core = {
+    			cibao jarabacoa maguana banique
+    		}
+    		include = "nwip_taino_tribe"
+            government = {
+                ruler = random
+            }
+            capital = maguana
+            currency_data = {
+                gold = 100
+                stability = 33
+                tribal_cohesion = 90
+            }
+    	}
+
+    	#Jaragua
+    	JRG = {
+
+    		own_control_core = {
+    			jaragua cahay yaguana
+    		}
+    		include = "nwip_taino_tribe"
+            government = {
+                ruler = random
+            }
+            capital = jaragua
+            currency_data = {
+                gold = 100
+                stability = 33
+                tribal_cohesion = 90
+            }
+    	}
+
+    	#Higuey
+    	HGY = {
+
+    		own_control_core = {
+    			yuma hicayagua cayacoa yamasa
+    		}
+    		include = "nwip_taino_tribe"
+            government = {
+                ruler = random
+            }
+            capital = yuma
+            currency_data = {
+                gold = 100
+                stability = 33
+                tribal_cohesion = 90
+            }
+    	}
+
+    	#Guaynia
+    	GAY = {
+
+    		own_control_core = {
+    			guaynia guama
+    		}
+    		include = "nwip_taino_tribe"
+            government = {
+                ruler = random
+            }
+            capital = yuma
+            currency_data = {
+                gold = 100
+                stability = 33
+                tribal_cohesion = 90
+            }
+    	}
+
+    	#Ciboney
+    	CBO = {
+    		type = pop
+
+    		add_pops_from_locations = {
+    			yateras bayaquitiri mayari guantanamo baracoa sagua barajagua
+    			maynoa yaguabo aguacadiba guaygata anaya oristan
+    			bayamo macaca jiguani cueiba maguanes bani_cuba lora cayaguayo
+    			south_camaguey camaguey mabuya guaimaro
+    			cubanacan east_cubanacan magon ornofay guamuhaya east_sabaneque central_sabaneque sabana
+    			habana batanabo guanimar macoriges west_sabaneneque hanabana jagua
+    			guahaba baynoa
+    			guacayakima haniguayagua
+    		}
+    		include = "caribbean_tribe"
+    	}
+
+    	#Lucayan
+    	LCY = {
+    		type = pop
+
+    		add_pops_from_locations = {
+    			abacoa exuma guanima eleuthera
+    			guanahani jumento inagua caycos bahama lucayoneque
+    		}
+    		include = "caribbean_tribe"
+    	}
+
+    	#Macorix
+    	MCX = {
+    		type = pop
+
+    		add_pops_from_locations = {
+    			cayguani baoruco yaquimo azua bani
+    		}
+    		include = "caribbean_tribe"
+    	}
+
+    	#Ciguayo
+    	CGY = {
+    		type = pop
+
+    		add_pops_from_locations = {
+    			bohio samana cubao ciguayo bavaro boya
+    		}
+    		include = "caribbean_tribe"
+    	}
+
+    	#Boriken
+    	BRK = {
+    		type = pop
+
+    		add_pops_from_locations = {
+    			ayamaco arasibo guaynabo guaraca
+    		}
+    		include = "caribbean_tribe"
+    	}
+
+    	#Igneri
+    	IGR = {
+    		type = pop
+
+    		add_pops_from_locations = {
+    			wadadli liamuiga walichi anegada ayay carucairi
+    		}
+    		include = "caribbean_tribe"
+    	}
+
+    	#Kalinago
+    	KGN = {
+    		type = pop
+
+    		add_pops_from_locations = {
+    			waitu_kubuli iguanacaera hewanorra youloumain ichirouganaim kamahuya alubera cairiani
+    		}
+    		include = "caribbean_tribe"
+    	}
+
+    
+
+
+
+
+#-------------------------- NWIP Countries - Great Lakes ----------------------------
+
+	ADR = {#https://en.wikipedia.org/wiki/Neutral_Confederacy
+
+		own_control_core = {
+			nissouri kandoucho kanagio tekahionhake bkwejanong ganatchio
+		}
+
+		discovered_regions = {
+			canada_region
+			east_coast_region
+			great_plains_region
+		}
+
+		include = "amerindian_tribe"
+		include = "expl_mesoamerica"
+	 	government = {
+			type = tribe
+			heir_selection = tribal_oldest_male
+			ruler = random
+		}
+	}
+		TIO = {#https://en.wikipedia.org/wiki/Petun
+
+		own_control_core = {
+			etharita ehwae eramosa
+		}
+
+		discovered_regions = {
+			canada_region
+			east_coast_region
+			great_plains_region
+		}
+
+		include = "amerindian_tribe"
+		include = "expl_mesoamerica"
+	 	government = {
+			type = tribe
+			heir_selection = tribal_oldest_male
+			ruler = random
+		}
+	}
+
+		AGW = {#https://pueblosoriginarios.com/norte/bosques/huron/huron.html
+
+		own_control_core = {
+			garafraxa ossossane
+		}
+
+		discovered_regions = {
+			canada_region
+			east_coast_region
+			great_plains_region
+		}
+
+		include = "amerindian_tribe"
+		include = "expl_mesoamerica"
+		government = {
+			ruler = random
+		}
+	}
+
+		TRT = { #??
+
+		own_control_core = {
+			missinihe tkaronto tetioneshohon scanonaenrat
+		}
+
+		discovered_regions = {
+			canada_region
+			east_coast_region
+			great_plains_region
+		}
+
+		include = "amerindian_tribe"
+		include = "expl_mesoamerica"
+		government = {
+			ruler = random
+		}
+	}
+
+		ATG = {#https://pueblosoriginarios.com/norte/bosques/huron/huron.html
+
+		own_control_core = {
+			otonabee quinte ganneious ganaraska oshawa scugog haskaont ouentarionk
+		}
+
+
+		discovered_regions = {
+			canada_region
+			east_coast_region
+			great_plains_region
+		}
+
+		include = "amerindian_tribe"
+		include = "expl_mesoamerica"
+	 	government = {
+			type = tribe
+			heir_selection = tribal_oldest_male
+			ruler = random
+		}
+	}
+
+		ARN = { #https://en.wikipedia.org/wiki/Wyandotte_Nation
+
+		own_control_core = {
+			mazinaw skootamatta kamaniskeg kashagawigamog catchacoma kawartha cahiague
+		}
+
+		discovered_regions = {
+			canada_region
+			east_coast_region
+			great_plains_region
+		}
+
+		include = "amerindian_tribe"
+		include = "expl_mesoamerica"
+		government = {
+			ruler = random
+		}
+	}
+
+		ATC = {#https://pueblosoriginarios.com/norte/bosques/huron/huron.html
+
+		own_control_core = {
+			kaotia kahshe cognashene
+		}
+
+		discovered_regions = {
+			canada_region
+			east_coast_region
+			great_plains_region
+		}
+
+		include = "amerindian_tribe"
+		include = "expl_mesoamerica"
+	 	government = {
+			type = tribe
+			heir_selection = tribal_oldest_male
+			ruler = random
+		}
+	}
+
+		ONG = {
+
+		own_control_core = {
+			niagara kenhionatatie macassa thahnawate ahouenro
+		}
+
+		discovered_regions = {
+			canada_region
+			east_coast_region
+			great_plains_region
+		}
+
+		include = "amerindian_tribe"
+		include = "expl_mesoamerica"
+	 	government = {
+			type = tribe
+			heir_selection = tribal_oldest_male
+			ruler = random
+		}
+	}
+
+        WRO = {
+
+		own_control_core = {
+			tiotoren cattaraugus kanentaweron
+		}
+
+		include = "american_east_coast_tribe"
+	 	government = {
+			ruler = random
+		}
+	}
+
+		ERI = {
+
+		own_control_core = {
+			erie shenango kittaning tionesta
+		}
+
+		include = "american_east_coast_tribe"
+	 	government = {
+			ruler = random
+		}
+	}
+
+		ONN = {
+
+		own_control_core = {
+		canadaigua geneseo tsonentsiio irondequoit
+		}
+
+		starting_technology_level = 0
+		include = "haudenosaunee_tribe"
+		include = "expl_amerindian_east_coast"
+		government = {
+			ruler = random
+		}
+		capital = canadaigua
+
+		currency_data = {
+			gold = 100
+			stability = 33
+			tribal_cohesion = 90
+		}
+	}
+		GYO = {
+
+		own_control_core = {
+		skaniatares assorodus gahato
+		}
+
+		starting_technology_level = 0
+		include = "expl_amerindian_east_coast"
+		include = "haudenosaunee_tribe"
+		government = {
+			ruler = random
+		}
+		capital = skaniatares
+
+		currency_data = {
+			gold = 100
+			stability = 33
+			tribal_cohesion = 90
+		}
+	}
+		ONO = {
+
+		own_control_core = {
+		tsikahiotsisto otsiningo oswego
+		}
+
+		starting_technology_level = 0
+		include = "expl_amerindian_east_coast"
+		include = "haudenosaunee_tribe"
+		government = {
+			ruler = random
+		}
+		capital = tsikahiotsisto
+
+		currency_data = {
+			gold = 100
+			stability = 33
+			tribal_cohesion = 90
+		}
+	}
+		ONY = {
+
+		own_control_core = {
+			onenioteke oneniote teiehonwahkhkwatha niiohehsane oswegatchie nikahionhwakowa
+		}
+
+		starting_technology_level = 0
+		include = "haudenosaunee_tribe"
+		include = "expl_amerindian_east_coast"
+		government = {
+			ruler = random
+		}
+		capital = onenioteke
+
+		currency_data = {
+			gold = 100
+			stability = 33
+			tribal_cohesion = 90
+		}
+	}
+		KKA = {
+
+		own_control_core = {
+			canajoharie teionontatatie oneonta schenectady saratoga ticonderoga kawenote oronia tsiietsenhtha oskennonton itekiatonhniarikon
+		}
+
+		starting_technology_level = 0
+		include = "haudenosaunee_tribe"
+		include = "expl_amerindian_east_coast"
+		government = {
+			ruler = random
+		}
+		capital = canajoharie
+
+		currency_data = {
+			gold = 100
+			stability = 33
+			tribal_cohesion = 90
+		}
+	}
+
+		OSG = { #??
+
+		own_control_core = {
+			kemoimenahan ahkwesasne otennienontant hochelaga makigotekw kahwenoke
+		}
+
+		discovered_regions = {
+			canada_region
+			east_coast_region
+			great_plains_region
+		}
+
+		include = "amerindian_tribe"
+		include = "expl_mesoamerica"
+	 	government = {
+			type = tribe
+			heir_selection = tribal_oldest_male
+			ruler = random
+		}
+	}
+
+	#Ojibwe
+	#https://en.wikipedia.org/wiki/Ojibwe
+	OJI = {
+
+		own_control_core = {
+				pogamasing eskimanetigon mississagi baawitigong batchawana agawa_superior mackinac tahquamenon manistique ishpeming keweenaw ontonagon gaamiskwaabikaang chequamegon
+
+		}
+		starting_technology_level = 1
+
+		government = {
+			ruler = random
+
+			type = tribe
+			heir_selection = tribal_oldest_male
+
+			centralization_vs_decentralization = 80
+			traditionalist_vs_innovative = -70
+			spiritualist_vs_humanist = -60
+			aristocracy_vs_plutocracy = -80
+			serfdom_vs_free_subjects = 50
+			mercantilism_vs_free_trade = 50
+			belligerent_vs_conciliatory = 100
+			quality_vs_quantity = -75
+			offensive_vs_defensive = 50
+			land_vs_naval = -90
+			capital_economy_vs_traditional_economy = 100
+			individualism_vs_communalism = 60
+			outward_vs_inward = 50
+
+			parliament = {
+				parliament_type = assembly
+			}
+
+			laws = {
+				marriage_law = polygyny
+				heir_religion_law = heir_same_religion
+			}
+
+			reforms = {
+				agricultural_cultivation
+			}
+			privilege = {
+				#nobles
+				nobility_council
+				nobles_land_rights
+				tribal_autonomy
+
+				#clergy
+				embellish_great_works_of_faith
+
+				#burghers
+				urban_development_grants
+				market_fairs
+
+				#Commoners
+				peasants_autonomous_villages
+				communal_lands
+				allow_hunting
+				partial_yield
+				peasants_free_peasantry
+
+				tribes_tribal_levies
+				tribes_allow_gatherings
+			}
+		}
+
+		discovered_areas = {
+			#east_coast_region
+			michigan_area
+			wisconsin_area
+			illinois_area
+			indiana_area
+			ohio_area
+			westsylvania_area
+			haudenosaunee_area
+			vermont_area
+			#great_plains_region
+			iowa_area
+			superior_area
+			red_river_area
+			#canada_region
+			western_ontario_area
+			eastern_ontario_area
+			northern_ontario_area
+			northwestern_ontario_area
+			keewatin_area
+			greenstone_belt_area
+			laurentian_area
+			lower_canada_area
+			james_bay_lowlands_area
+		}
+
+		tolerated_cultures = {
+			ojibwe_culture
+			odawa_culture
+			bodewadomik_culture
+		}
+
+		currency_data = {
+			gold = 60
+			stability = 20
+			prestige = 5
+			tribal_cohesion = 80
+		}
+
+		court_language = anishinabe_language
+		capital = mackinac
+	}
+
+    ODW = {
+
+		own_control_core = {
+			dehskan_ziibi menesetung saugeen nochemoweniing manitoulin cheboygan asiniike saganing
+		}
+		starting_technology_level = 1
+
+		government = {
+			ruler = random
+
+			type = tribe
+			heir_selection = tribal_oldest_male
+
+			centralization_vs_decentralization = 80
+			traditionalist_vs_innovative = -70
+			spiritualist_vs_humanist = -60
+			aristocracy_vs_plutocracy = -80
+			serfdom_vs_free_subjects = 50
+			mercantilism_vs_free_trade = 50
+			belligerent_vs_conciliatory = 100
+			quality_vs_quantity = -75
+			offensive_vs_defensive = 50
+			land_vs_naval = -90
+			capital_economy_vs_traditional_economy = 100
+			individualism_vs_communalism = 60
+			outward_vs_inward = 50
+
+			parliament = {
+				parliament_type = assembly
+			}
+
+			laws = {
+				marriage_law = polygyny
+				heir_religion_law = heir_same_religion
+			}
+
+			reforms = {
+				agricultural_cultivation
+			}
+			privilege = {
+				#nobles
+				nobility_council
+				nobles_land_rights
+				tribal_autonomy
+
+				#clergy
+				embellish_great_works_of_faith
+
+				#burghers
+				urban_development_grants
+				market_fairs
+
+				#Commoners
+				peasants_autonomous_villages
+				communal_lands
+				allow_hunting
+				partial_yield
+				peasants_free_peasantry
+
+				tribes_tribal_levies
+				tribes_allow_gatherings
+			}
+		}
+
+		discovered_areas = {
+			#east_coast_region
+			michigan_area
+			wisconsin_area
+			illinois_area
+			indiana_area
+			ohio_area
+			westsylvania_area
+			haudenosaunee_area
+			vermont_area
+			#great_plains_region
+			iowa_area
+			superior_area
+			red_river_area
+			#canada_region
+			western_ontario_area
+			eastern_ontario_area
+			northern_ontario_area
+			northwestern_ontario_area
+			keewatin_area
+			greenstone_belt_area
+			laurentian_area
+			lower_canada_area
+			james_bay_lowlands_area
+		}
+
+		tolerated_cultures = {
+			ojibwe_culture
+			odawa_culture
+			bodewadomik_culture
+		}
+
+		currency_data = {
+			gold = 60
+			stability = 20
+			prestige = 5
+			tribal_cohesion = 80
+		}
+
+		court_language = anishinabe_language
+		capital = nochemoweniing
+	}
+
+    #Bodewadomik-Potawatomi
+	#https://en.wikipedia.org/wiki/Potawatomi
+	BDK = {
+		own_control_core = {
+			wequetong manistee mastigon onekama tittabawassee muskegon
+		}
+		starting_technology_level = 1
+
+		government = {
+			ruler = random
+
+			type = tribe
+			heir_selection = tribal_oldest_male
+
+			centralization_vs_decentralization = 80
+			traditionalist_vs_innovative = -70
+			spiritualist_vs_humanist = -60
+			aristocracy_vs_plutocracy = -80
+			serfdom_vs_free_subjects = 50
+			mercantilism_vs_free_trade = 50
+			belligerent_vs_conciliatory = 100
+			quality_vs_quantity = -75
+			offensive_vs_defensive = 50
+			land_vs_naval = -90
+			capital_economy_vs_traditional_economy = 100
+			individualism_vs_communalism = 60
+			outward_vs_inward = 50
+
+			parliament = {
+				parliament_type = assembly
+			}
+
+			laws = {
+				marriage_law = polygyny
+				heir_religion_law = heir_same_religion
+			}
+
+			reforms = {
+				agricultural_cultivation
+			}
+			privilege = {
+				#nobles
+				nobility_council
+				nobles_land_rights
+				tribal_autonomy
+
+				#clergy
+				embellish_great_works_of_faith
+
+				#burghers
+				urban_development_grants
+				market_fairs
+
+				#Commoners
+				peasants_autonomous_villages
+				communal_lands
+				allow_hunting
+				partial_yield
+				peasants_free_peasantry
+
+				tribes_tribal_levies
+				tribes_allow_gatherings
+			}
+		}
+
+		discovered_areas = {
+			#east_coast_region
+			michigan_area
+			wisconsin_area
+			illinois_area
+			indiana_area
+			ohio_area
+			westsylvania_area
+			haudenosaunee_area
+			vermont_area
+			#great_plains_region
+			iowa_area
+			superior_area
+			red_river_area
+			#canada_region
+			western_ontario_area
+			eastern_ontario_area
+			northern_ontario_area
+			northwestern_ontario_area
+			keewatin_area
+			greenstone_belt_area
+			laurentian_area
+			lower_canada_area
+			james_bay_lowlands_area
+		}
+
+		tolerated_cultures = {
+			ojibwe_culture
+			odawa_culture
+			bodewadomik_culture
+		}
+
+		currency_data = {
+			gold = 60
+			stability = 20
+			prestige = 5
+			tribal_cohesion = 80
+		}
+
+		court_language = anishinabe_language
+		capital = wequetong
+	}
+
+	#-------------------------- NWIP Countries - Mississipians ----------------------------
+
+        #Anilco Mississippian - ANL
+        #https://en.wikipedia.org/wiki/Menard%E2%80%93Hodges_site
+        ANL = {
+            own_control_core = {
+            anilco
+            }
+            include = "american_east_coast_tribe"
+            government = {
+                ruler = random
+            }
+            court_language = natchez_language
+            capital = anilco
+        }
+
+    	#Apalachee - Vanilla
+    	APA = {
+    		own_control_core = {
+    			anhayca uzachile apalachee
+    		}
+    		include = "american_east_coast_tribe"
+    		government = {
+    			ruler = random
+    		}
+
+            currency_data = {
+                gold = 100
+                stability = 33
+                tribal_cohesion = 90
+            }
+
+    		court_language = muskogee_language
+    		capital = apalachee
+    	}
+    		#Capachequi Paramount Chiefdom (De Soto) - Vanilla
+    	CPQ = {
+
+    		own_control_core = {
+    			capachequi
+    		}
+    		include = "american_east_coast_tribe"
+    		government = {
+    			ruler = random
+    		}
+
+            currency_data = {
+                gold = 100
+                stability = 33
+                tribal_cohesion = 90
+            }
+
+    		court_language = muskogee_language
+    		capital = capachequi
+    	}
+    		#Casqui Mississippian - CSQ - Vanilla
+    	#https://en.wikipedia.org/wiki/Casqui
+    	CSQ = {
+
+    		own_control_core = {
+    			casqui
+    		}
+    		include = "american_east_coast_tribe"
+    		government = {
+    			ruler = random
+    		}
+
+            currency_data = {
+                gold = 100
+                stability = 33
+                tribal_cohesion = 90
+            }
+
+    		court_language = natchez_language
+    		capital = casqui
+    	}
+
+    		#Choctaw-Chatha - Vanilla
+    	CHC = {
+    	type = pop
+    		add_pops_from_locations = {
+    			taliepacana consha tombigbee escatawppa tohome okeloussa eiowane
+    			eianamogola
+    		}
+    		include = "american_east_coast_tribe"
+    		government = {
+    			ruler = random
+    		}
+
+    		court_language = chickasaw_choctaw_language
+    		capital = taliepacana
+    	}
+    		#Cofitachequi Paramount Chiefdom (De Soto) - Vanilla
+    	CFQ = {
+    		type = pop
+
+    		add_pops_from_locations = {
+    			cofitachequi talimeco hymahi ilasi winyah winnee pocotaligo etiwan wando santee congaree
+    		}
+    		include = "american_east_coast_tribe"
+    		government = {
+    			ruler = random
+    		}
+    		court_language = tutelo_language
+    		capital = cofitachequi
+    	}
+    		#Coligua Mississippian - COL - Vanilla
+    	#https://en.wikipedia.org/wiki/Koroa
+    	COL = {
+
+    		own_control_core = {
+    			coligua
+    		}
+    		include = "american_east_coast_tribe"
+    		government = {
+    			ruler = random
+    		}
+    		court_language = natchez_language
+    		capital = coligua
+    	}
+
+    		#Coosa Paramount Chiefdom (De Soto) - Vanilla
+    	COO = { #https://en.wikipedia.org/wiki/Coosa_chiefdom
+    		type = pop
+
+    		add_pops_from_locations = {
+    			coosa talimachusi ulibahali itaba utsutigway apica tuasi callamaco
+    			ohatchee chatanugi ishtaboli hytop
+    		}
+    		include = "american_east_coast_tribe"
+    		government = {
+    			ruler = random
+    		}
+    		court_language = muskogee_language
+    		capital = coosa
+    	}
+
+    	#Guale - Vanilla
+    	GUL = {
+    		type = pop
+
+    		add_pops_from_locations = {
+    			tacatacaru tamathli tybee ossabaw sapelo canoochee
+    		}
+    		include = "american_east_coast_tribe"
+    		government = {
+    			ruler = random
+    		}
+    		court_language = muskogee_language
+    		capital = ossabaw
+    	}
+    		#Natchez Paramount Chiefdom (De Soto) - Vanilla
+    	NCZ = {
+
+    		own_control_core = {
+    			natchez
+    		}
+    		include = "american_east_coast_tribe"
+    		government = {
+    			ruler = random
+    		}
+    		court_language = natchez_language
+    		capital = natchez
+    	}
+    	#Ocute Paramount Chiefdom (De Soto) - Vanilla
+    	OCT = {
+    		type = pop
+
+    		add_pops_from_locations = {
+    			ocute cofaqui ichisi altamaha oconee ohoopee
+    		}
+    		include = "american_east_coast_tribe"
+    		government = {
+    			ruler = random
+    		}
+    		court_language = muskogee_language
+    		capital = ocute
+    	}
+    		#Pacaha Mississippian - PCH - Vanilla
+    	#https://en.wikipedia.org/wiki/Tunica_people
+    	#https://en.wikipedia.org/wiki/Pacaha
+    	PCH = {
+    		type = pop
+
+    		add_pops_from_locations = {
+    			pacaha
+    		}
+    		include = "american_east_coast_tribe"
+    		government = {
+    			ruler = random
+    		}
+    		court_language = chickasaw_choctaw_language
+    		capital = pacaha
+    	}
+
+    	#Quigaltam Paramount Chiefdom (De Soto) - Vanilla
+    	QGM = {
+
+    		own_control_core = {
+    			chittaloosa
+    		}
+    		include = "american_east_coast_tribe"
+    		government = {
+    			ruler = random
+    		}
+    		court_language = natchez_language
+    		capital = chittaloosa
+    	}
+    	#Toa Paramount Chiefdom (De Soto) - Vanilla
+    	TOA = {
+    		type = pop
+
+    		add_pops_from_locations = {
+    			toa hitchiti ocmulgee
+    		}
+    		include = "american_east_coast_tribe"
+    		government = {
+    			ruler = random
+    		}
+    		court_language = muskogee_language
+    		capital = toa
+    	}
+
+    #Atchafalaya
+    ACB = {
+
+
+    	own_control_core = {
+    	atchafalaya
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+    	    capital =
+    	            currency_data = {
+    	                gold = 100
+    	                stability = 33
+    	                tribal_cohesion = 90
+    	            }
+    	}
+
+    #Akansea
+    AKS = {
+
+
+        own_control_core = {
+        pawwikamsipi patoka aaboukingon tywhapita gichthanne
+        }
+        include = "american_east_coast_tribe"
+        government = {
+            ruler = random
+        }
+            capital = pawwikamsipi
+                    currency_data = {
+                        gold = 100
+                        stability = 33
+                        tribal_cohesion = 90
+                    }
+        }
+
+    #She'ti Na'mu
+    SHT = {
+        own_control_core = {
+        opelousa itihumma
+        }
+        include = "american_east_coast_tribe"
+        government = {
+            ruler = random
+        }
+            capital = itihumma
+                    currency_data = {
+                        gold = 100
+                        stability = 33
+                        tribal_cohesion = 90
+                    }
+        }
+
+    #Altamaha
+    LTM = {
+
+
+    	own_control_core = {
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+    	    capital =
+    	            currency_data = {
+    	                gold = 100
+    	                stability = 33
+    	                tribal_cohesion = 90
+    	            }
+    	}
+
+    #Amaye
+    AAE = {
+
+
+    	own_control_core = {
+    	amaye
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+    	    capital = amaye
+    	            currency_data = {
+    	                gold = 100
+    	                stability = 33
+    	                tribal_cohesion = 90
+    	            }
+    	}
+
+    #Amoyesick
+    AMO = {
+
+
+    	own_control_core = {
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+        capital =
+        currency_data = {
+            gold = 100
+            stability = 33
+            tribal_cohesion = 90
+        }
+    	}
+
+    #Apalachicola
+    APB = {
+    	own_control_core = {
+    	pallachacola
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+        capital = apalachicola
+        currency_data = {
+            gold = 100
+            stability = 33
+            tribal_cohesion = 90
+        }
+    	}
+
+    #Chacato
+    CAC = {
+
+
+        own_control_core = {
+        chatot choctawhatchee watappo
+        }
+        include = "american_east_coast_tribe"
+        government = {
+            ruler = random
+        }
+        capital = chatot
+        currency_data = {
+            gold = 100
+            stability = 33
+            tribal_cohesion = 90
+        }
+        }
+
+	#Chitimacha - CTI - Vanilla
+	#https://en.wikipedia.org/wiki/Chitimacha
+	CTI = {
+
+		own_control_core = {
+			bulbancha chawasha
+		}
+
+		discovered_regions = {
+			canada_region
+			great_plains_region
+			east_coast_region
+		}
+
+		include = "amerindian_tribe"
+		government = {
+			ruler = random
+		}
+        capital = bulbancha
+        currency_data = {
+            gold = 100
+            stability = 33
+            tribal_cohesion = 90
+        }
+	}
+
+    #Chaguate
+    CGN = {
+        own_control_core = {
+        chaguate
+        }
+        include = "american_east_coast_tribe"
+        government = {
+            ruler = random
+        }
+        capital = chaguate
+        currency_data = {
+            gold = 100
+            stability = 33
+            tribal_cohesion = 90
+        }
+    }
+
+    #Chippecoke
+    CPK = {
+        own_control_core = {
+        ambraw agouasaque
+        }
+        include = "american_east_coast_tribe"
+        government = {
+            ruler = random
+        }
+        capital = ambraw
+        currency_data = {
+            gold = 100
+            stability = 33
+            tribal_cohesion = 90
+        }
+    }
+
+    #Quizquiz Paramount Chiefdom (De Soto) - Vanilla
+    QUZ = {
+        own_control_core = {
+            quizquiz chucalissa
+        }
+        include = "american_east_coast_tribe"
+        government = {
+            ruler = random
+        }
+        court_language = chickasaw_choctaw_language
+        capital = chucalissa
+    }
+
+    #Naguatex
+    NGT = {
+        own_control_core = {
+        naguatex
+        }
+        include = "american_east_coast_tribe"
+        government = {
+            ruler = random
+        }
+        capital = naguatex
+        currency_data = {
+            gold = 100
+            stability = 33
+            tribal_cohesion = 90
+        }
+    }
+
+    #Napanee
+    NPN = {
+        own_control_core = {
+        quigualtam
+        }
+        include = "american_east_coast_tribe"
+        government = {
+            ruler = random
+        }
+        capital = quigualtam
+        currency_data = {
+            gold = 100
+            stability = 33
+            tribal_cohesion = 90
+        }
+    }
+
+    #Pensacola
+    PAA = {
+        own_control_core = {
+        pensacola conecuh mobile pascagoula eiowane escatawppa
+        }
+        include = "american_east_coast_tribe"
+        government = {
+            ruler = random
+        }
+        capital = pensacola
+        currency_data = {
+            gold = 100
+            stability = 33
+            tribal_cohesion = 90
+        }
+    }
+
+    #Quiguate
+    QTE = {
+        own_control_core = {
+        quigate
+        }
+        include = "american_east_coast_tribe"
+        government = {
+            ruler = random
+        }
+        capital = quigate
+        currency_data = {
+            gold = 100
+            stability = 33
+            tribal_cohesion = 90
+        }
+    }
+
+    #Tacaogane
+    TCG = {
+        own_control_core = {
+        charquis mitchigamea kuttawa
+        }
+        include = "american_east_coast_tribe"
+        government = {
+            ruler = random
+        }
+        capital = charquis
+        currency_data = {
+            gold = 100
+            stability = 33
+            tribal_cohesion = 90
+        }
+    }
+
+    #Utiangue
+    UTI = {
+        own_control_core = {
+        utiangue
+        }
+        include = "american_east_coast_tribe"
+        government = {
+            ruler = random
+        }
+        capital = utiangue
+        currency_data = {
+            gold = 100
+            stability = 33
+            tribal_cohesion = 90
+        }
+    }
+
+    #Taensas
+    TNS = {
+        own_control_core = {
+        tensas
+        }
+        include = "american_east_coast_tribe"
+        government = {
+            ruler = random
+        }
+        capital = tensas
+        currency_data = {
+            gold = 100
+            stability = 33
+            tribal_cohesion = 90
+        }
+    }
+
+    #Towosaghy
+    TOW = {
+        own_control_core = {
+        towosaghy
+        }
+        include = "american_east_coast_tribe"
+        government = {
+            ruler = random
+        }
+        capital = towosaghy
+        currency_data = {
+            gold = 100
+            stability = 33
+            tribal_cohesion = 90
+        }
+    }
+
+    #Yazoo
+    YAZ = {
+        own_control_core = {
+        yazoo
+        }
+        include = "american_east_coast_tribe"
+        government = {
+            ruler = random
+        }
+        capital = yazoo
+        currency_data = {
+            gold = 100
+            stability = 33
+            tribal_cohesion = 90
+        }
+    }
+
+	###########################################################################################
+	##For some reason tags added bellow this line dont work, hoping it will after cleaning tags
+
+    #Butahatchee
+    BUT = {
+
+
+    	own_control_core = {
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+    	    capital =
+    	            currency_data = {
+    	                gold = 100
+    	                stability = 33
+    	                tribal_cohesion = 90
+    	            }
+    	}
+
+    #Cayoka
+    CAY = {
+
+
+    	own_control_core = {
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+    	    capital =
+    	            currency_data = {
+    	                gold = 100
+    	                stability = 33
+    	                tribal_cohesion = 90
+    	            }
+    	}
+
+#here goes chacato
+
+    #Chocotoco
+    COA = {
+
+
+    	own_control_core = {
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+    	    capital =
+    	            currency_data = {
+    	                gold = 100
+    	                stability = 33
+    	                tribal_cohesion = 90
+    	            }
+    	}
+
+    #Coste
+    COS = {
+
+
+    	own_control_core = {
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+    	    capital =
+    	            currency_data = {
+    	                gold = 100
+    	                stability = 33
+    	                tribal_cohesion = 90
+    	            }
+    	}
+
+    #Dagu nawalahi
+    DAG = {
+
+
+    	own_control_core = {
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+    	    capital =
+    	            currency_data = {
+    	                gold = 100
+    	                stability = 33
+    	                tribal_cohesion = 90
+    	            }
+    	}
+
+    #Ditteh
+    DTT = {
+
+
+    	own_control_core = {
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+    	    capital =
+    	            currency_data = {
+    	                gold = 100
+    	                stability = 33
+    	                tribal_cohesion = 90
+    	            }
+    	}
+
+    #Etowah
+    ETO = {
+
+
+    	own_control_core = {
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+    	    capital =
+    	            currency_data = {
+    	                gold = 100
+    	                stability = 33
+    	                tribal_cohesion = 90
+    	            }
+    	}
+
+    #Gatsonti
+    GAT = {
+
+
+    	own_control_core = {
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+    	    capital =
+    	            currency_data = {
+    	                gold = 100
+    	                stability = 33
+    	                tribal_cohesion = 90
+    	            }
+    	}
+
+    #Guachoya
+    GAC = {
+
+
+        own_control_core = {
+        guachoyo
+        }
+        include = "american_east_coast_tribe"
+        government = {
+            ruler = random
+        }
+            capital = guachoyo
+                    currency_data = {
+                        gold = 100
+                        stability = 33
+                        tribal_cohesion = 90
+                    }
+        }
+
+    #Ichisi
+    ICI = {
+
+
+    	own_control_core = {
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+    	    capital =
+    	            currency_data = {
+    	                gold = 100
+    	                stability = 33
+    	                tribal_cohesion = 90
+    	            }
+    	}
+
+    #Kiokee
+    KIB = {
+
+
+    	own_control_core = {
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+    	    capital =
+    	            currency_data = {
+    	                gold = 100
+    	                stability = 33
+    	                tribal_cohesion = 90
+    	            }
+    	}
+
+    #Koroa
+    KOB = {
+
+
+    	own_control_core = {
+    	ouachita
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+    	    capital = ouachita
+    	            currency_data = {
+    	                gold = 100
+    	                stability = 33
+    	                tribal_cohesion = 90
+    	            }
+    	}
+
+    #Kosalu
+    KSL = {
+
+
+    	own_control_core = {
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+    	    capital =
+    	            currency_data = {
+    	                gold = 100
+    	                stability = 33
+    	                tribal_cohesion = 90
+    	            }
+    	}
+
+    #Kusanmanhy
+    KMY = {
+
+
+    	own_control_core = {
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+    	    capital =
+    	            currency_data = {
+    	                gold = 100
+    	                stability = 33
+    	                tribal_cohesion = 90
+    	            }
+    	}
+
+    #Kuswatiyi
+    KUA = {
+
+
+    	own_control_core = {
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+    	    capital =
+    	            currency_data = {
+    	                gold = 100
+    	                stability = 33
+    	                tribal_cohesion = 90
+    	            }
+    	}
+
+    #Nacoochee
+    NAC = {
+
+
+    	own_control_core = {
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+    	    capital =
+    	            currency_data = {
+    	                gold = 100
+    	                stability = 33
+    	                tribal_cohesion = 90
+    	            }
+    	}
+
+    #Napochi
+    NPC = {
+
+
+    	own_control_core = {
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+    	    capital =
+    	            currency_data = {
+    	                gold = 100
+    	                stability = 33
+    	                tribal_cohesion = 90
+    	            }
+    	}
+
+    #Ococoposa
+    OCO = {
+
+
+    	own_control_core = {
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+    	    capital =
+    	            currency_data = {
+    	                gold = 100
+    	                stability = 33
+    	                tribal_cohesion = 90
+    	            }
+    	}
+
+    #Oka Laha
+    OKA = {
+
+
+    	own_control_core = {
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+    	    capital =
+    	            currency_data = {
+    	                gold = 100
+    	                stability = 33
+    	                tribal_cohesion = 90
+    	            }
+    	}
+
+    #Salkehatchie
+    SHE = {
+
+
+    	own_control_core = {
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+    	    capital =
+    	            currency_data = {
+    	                gold = 100
+    	                stability = 33
+    	                tribal_cohesion = 90
+    	            }
+    	}
+
+    #Santee
+    SAE = {
+
+
+    	own_control_core = {
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+    	    capital =
+    	            currency_data = {
+    	                gold = 100
+    	                stability = 33
+    	                tribal_cohesion = 90
+    	            }
+    	}
+
+    #Sawokli
+    SWK = {
+
+
+    	own_control_core = {
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+    	    capital =
+    	            currency_data = {
+    	                gold = 100
+    	                stability = 33
+    	                tribal_cohesion = 90
+    	            }
+    	}
+
+# here goes sht she ta nu ma
+
+    #Succehumma (Sachehumma)
+    SCC = {
+
+
+    	own_control_core = {
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+    	    capital =
+    	            currency_data = {
+    	                gold = 100
+    	                stability = 33
+    	                tribal_cohesion = 90
+    	            }
+    	}
+
+    #Swimpccana
+    SWM = {
+
+
+    	own_control_core = {
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+    	    capital =
+    	            currency_data = {
+    	                gold = 100
+    	                stability = 33
+    	                tribal_cohesion = 90
+    	            }
+    	}
+
+    #Talimeco
+    TMO = {
+
+
+    	own_control_core = {
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+    	    capital =
+    	            currency_data = {
+    	                gold = 100
+    	                stability = 33
+    	                tribal_cohesion = 90
+    	            }
+    	}
+
+    #Talisi
+    TLS = {
+
+
+    	own_control_core = {
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+    	    capital =
+    	            currency_data = {
+    	                gold = 100
+    	                stability = 33
+    	                tribal_cohesion = 90
+    	            }
+    	}
+
+
+
+    #Tuasi
+    TUI = {
+
+
+    	own_control_core = {
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+    	    capital =
+    	            currency_data = {
+    	                gold = 100
+    	                stability = 33
+    	                tribal_cohesion = 90
+    	            }
+    	}
+
+    #Tugaloo
+    TUG = {
+
+
+    	own_control_core = {
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+    	    capital =
+    	            currency_data = {
+    	                gold = 100
+    	                stability = 33
+    	                tribal_cohesion = 90
+    	            }
+    	}
+
+    #Ulibahali
+    ULI = {
+
+
+    	own_control_core = {
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+    	    capital =
+    	            currency_data = {
+    	                gold = 100
+    	                stability = 33
+    	                tribal_cohesion = 90
+    	            }
+    	}
+
+    #Uwharrie
+    UWH = {
+
+
+    	own_control_core = {
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+    	    capital =
+    	            currency_data = {
+    	                gold = 100
+    	                stability = 33
+    	                tribal_cohesion = 90
+    	            }
+    	}
+
+    #Wahatchee
+    WAH = {
+
+
+    	own_control_core = {
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+    	    capital =
+    	            currency_data = {
+    	                gold = 100
+    	                stability = 33
+    	                tribal_cohesion = 90
+    	            }
+    	}
+
+    #Wechabee
+    WEC = {
+
+
+    	own_control_core = {
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+    	    capital =
+    	            currency_data = {
+    	                gold = 100
+    	                stability = 33
+    	                tribal_cohesion = 90
+    	            }
+    	}
+
+
+
+    #Yoroniku
+    YOR = {
+
+
+        own_control_core = {
+        tunica
+        }
+        include = "american_east_coast_tribe"
+        government = {
+            ruler = random
+        }
+            capital = tunica
+                    currency_data = {
+                        gold = 100
+                        stability = 33
+                        tribal_cohesion = 90
+                    }
+    }
+
+    #Zabusta
+    ZBS = {
+
+
+    	own_control_core = {
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+    	    capital =
+    	            currency_data = {
+    	                gold = 100
+    	                stability = 33
+    	                tribal_cohesion = 90
+    	            }
+    	}
+
+	}
 }

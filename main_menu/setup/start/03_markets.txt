@@ -131,11 +131,11 @@ market_manager = {
 	#add_market = batuco
 	#add_market = halona_idiwana
 	add_market = ialophaybo
-
+	
     # Caribbean
     add_market = maguana
-	
-	# Central america
+
+    # Central america
 	add_market = patzcuaro
 	add_market = pismachi
 

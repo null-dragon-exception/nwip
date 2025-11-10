@@ -2,6 +2,8 @@
 colors = {
 	#eu4 map colors
 	map_BRZ = rgb { 1 254 127 }
+
+    #-------------------------- NWIP Map Colors - Caribbean ----------------------------
     map_guaynia = rgb { 110 78 61}
     map_higuey = rgb { 210 166 121}
     map_jaragua = rgb { 180 85 56}
@@ -16,5 +18,72 @@ colors = {
     map_carib = rgb { 0 255 60 }
     map_igneri = rgb { 60 200 60 }
     map_ciguayo = rgb { 150 60 60 }
+
+    #-------------------------- NWIP Map Colors - Mississipians ----------------------------
+    map_atchafalaya = rgb { 219 122 70 }
+    map_akansea = rgb { 102 122 192 }
+    map_altamaha = rgb { 102 169 150 }
+    map_amaye = rgb { 103 191 172 }
+    map_amoyesick = rgb { 100 211 192 }
+    map_apalachee = rgb { 115 197 111 }
+    map_apalachicola = rgb { 109 214 189 }
+    map_butahatchee = rgb { 87 163 188 }
+    map_capachequi = rgb { 129 174 143 }
+    map_cayoka = rgb { 130 200 156 }
+    map_chacato = rgb { 117 132 128 }
+    map_chaguate = rgb { 96 203 106 }
+    map_chocotoco = rgb { 132 172 133 }
+    map_chippecoke = rgb { 132 203 143 }
+    map_choctaw = rgb { 115 157 108 }
+    map_chucalissa = rgb { 160 135 77 }
+    map_cofitachequi = rgb { 185 157 111 }
+    map_coosa = rgb { 85 203 194 }
+    map_coste = rgb { 141 170 73 }
+    map_dagu_nawalahi = rgb { 84 176 164 }
+    map_ditteh = rgb { 68 168 198 }
+    map_etowah = rgb { 188 103 116 }
+    map_gatsonti = rgb { 99 192 118 }
+    map_guachoya = rgb { 153 192 116 }
+    map_guale = rgb { 153 148 114 }
+    map_ichisi = rgb { 119 187 196 }
+    map_kiokee = rgb { 178 154 83 }
+    map_koroa = rgb { 205 154 100 }
+    map_kosalu = rgb { 123 184 133 }
+    map_kusanmanhy = rgb { 128 145 84 }
+    map_kuswatiyi = rgb { 132 214 126 }
+    map_nacoochee = rgb { 101 159 80 }
+    map_naguatex = rgb { 164 134 87 }
+    map_napochi = rgb { 152 111 69 }
+    map_napanee = rgb { 134 111 87 }
+    map_natchez = rgb { 134 163 105 }
+    map_ococoposa = rgb { 188 167 61 }
+    map_ocute = rgb { 120 174 217 }
+    map_oka_laha = rgb { 118 154 115 }
+    map_pensacola = rgb { 82 171 131 }
+    map_quiguate = rgb { 107 154 217 }
+    map_utiangue = rgb { 107 171 115 }
+    map_quigualtam = rgb { 107 167 127 }
+    map_salkehatchie = rgb { 97 204 152 }
+    map_santee = rgb { 158 128 73 }
+    map_sawokli = rgb { 171 125 80 }
+    map_she_ti_na_mu = rgb { 92 177 94 }
+    map_succehumma = rgb { 89 202 170 }
+    map_swimpccana = rgb { 148 149 92 }
+    map_tacaogane = rgb { 170 202 94 }
+    map_taensas = rgb { 170 178 136 }
+    map_talimeco = rgb { 145 173 92 }
+    map_talisi = rgb { 126 194 104 }
+    map_towosaghy = rgb { 126 173 94 }
+    map_toa = rgb { 199 140 65 }
+    map_tuasi = rgb { 198 102 84 }
+    map_tugaloo = rgb { 184 151 95 }
+    map_ulibahali = rgb { 79 200 165 }
+    map_uriangue = rgb { 144 197 145 }
+    map_uwharrie = rgb { 153 135 108 }
+    map_wahatchee = rgb { 110 181 196 }
+    map_wechabee = rgb { 161 143 89 }
+    map_yazoo = rgb { 118 178 195 }
+    map_yoroniku = rgb { 120 143 196 }
+    map_zabusta = rgb { 120 157 102 }
 }
 
