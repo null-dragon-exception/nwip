@@ -53270,7 +53270,7 @@ countries = {
 		type = pop
 
 		add_pops_from_locations = {
-			patsaliga mobile conecuh pensacola
+			patsaliga mobile conecuh
 		}
 		include = "american_east_coast_tribe"
 		government = {
@@ -53298,7 +53298,7 @@ countries = {
 		type = pop
 
 		add_pops_from_locations = {
-			kiokee wahachee kosalu selkehatchie ogeechee saluda generostee enoree
+			kiokee kosalu selkehatchie ogeechee saluda generostee enoree
 		}
 		include = "american_east_coast_tribe"
 		government = {
@@ -53527,7 +53527,6 @@ countries = {
 		}
 	}
 
-	#Wenrohronon
 #Kentaientonga Erie
 	KEN = {
 		type = pop
@@ -60115,6 +60114,7 @@ countries = {
 		}
 	}
 
+        #Wenrohronon / Kakouaga
         WRO = {
 
 		own_control_core = {
@@ -60681,21 +60681,6 @@ countries = {
         court_language = natchez_language
     }
 
-    #Guale - Vanilla
-    GUL = {
-        type = pop
-
-        add_pops_from_locations = {
-            tacatacaru tamathli tybee ossabaw sapelo canoochee
-        }
-        include = "american_east_coast_tribe"
-        government = {
-            ruler = random
-        }
-        court_language = muskogee_language
-        capital = ossabaw
-    }
-
     #Natchez Paramount Chiefdom (De Soto) - Vanilla
     NCZ = {
 
@@ -60738,23 +60723,6 @@ countries = {
         }
         court_language = natchez_language
         capital = chittaloosa
-    }
-
-    #Atchafalaya
-    ACB = {
-    	own_control_core = {
-    	atchafalaya
-    	}
-    	include = "american_east_coast_tribe"
-    	government = {
-    		ruler = random
-    	}
-        capital = atchafalaya
-        currency_data = {
-            gold = 100
-            stability = 33
-            tribal_cohesion = 90
-        }
     }
 
     #Akansea
@@ -60825,22 +60793,6 @@ countries = {
         }
     }
 
-    #Amoyesick
-    AMO = {
-    	own_control_core = {
-    	}
-    	include = "american_east_coast_tribe"
-    	government = {
-    		ruler = random
-    	}
-        capital =
-        currency_data = {
-            gold = 100
-            stability = 33
-            tribal_cohesion = 90
-        }
-    }
-
     #Chacato
     CAC = {
         own_control_core = {
@@ -60863,7 +60815,7 @@ countries = {
 	CTI = {
 
 		own_control_core = {
-			bulbancha chawasha
+			bulbancha chawasha atchafalaya
 		}
 
 		discovered_regions = {
@@ -61142,7 +61094,7 @@ countries = {
         capital = apalachee
     }
 
-    #Pensacola
+    #Pensacola / Chickasawhays
     PAA = {
         own_control_core = {
         pensacola pascagoula mobile
@@ -61277,13 +61229,13 @@ countries = {
     #Wahachee
     WAH = {
     	own_control_core = {
-    	Wahachee
+    	wahachee
     	}
     	include = "american_east_coast_tribe"
     	government = {
     		ruler = random
     	}
-        capital = Wahachee
+        capital = wahachee
         currency_data = {
             gold = 100
             stability = 33
@@ -61394,42 +61346,6 @@ countries = {
         }
     }
 
-    #Butahatchee
-    BUT = {
-
-
-    	own_control_core = {
-    	}
-    	include = "american_east_coast_tribe"
-    	government = {
-    		ruler = random
-    	}
-    	    capital =
-    	            currency_data = {
-    	                gold = 100
-    	                stability = 33
-    	                tribal_cohesion = 90
-    	            }
-    	}
-
-    #Cayoka
-    CAY = {
-
-
-    	own_control_core = {
-    	}
-    	include = "american_east_coast_tribe"
-    	government = {
-    		ruler = random
-    	}
-    	    capital =
-    	            currency_data = {
-    	                gold = 100
-    	                stability = 33
-    	                tribal_cohesion = 90
-    	            }
-    	}
-
     #Choccolocco
     COA = {
     	own_control_core = {
@@ -61447,10 +61363,314 @@ countries = {
         }
     }
 
+    #Wehadkee
+    WEC = {
+    	own_control_core = {
+    	tuckabutche
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+        capital = tuckabutche
+        currency_data = {
+            gold = 100
+            stability = 33
+            tribal_cohesion = 90
+        }
+    }
+
+    #Talisi
+    TLS = {
+    	own_control_core = {
+    	talisi
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+        capital = talisi
+        currency_data = {
+            gold = 100
+            stability = 33
+            tribal_cohesion = 90
+        }
+    }
+
+    #Tugaloo
+    TUG = {
+    	own_control_core = {
+    	tugaloo
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+        capital = tugaloo
+        currency_data = {
+            gold = 100
+            stability = 33
+            tribal_cohesion = 90
+        }
+    }
+
+    #Zabusta
+    ZBS = {
+    	own_control_core = {
+    	apafalaya zabusta taliepacana
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+
+        capital = zabusta
+
+        currency_data = {
+            gold = 100
+            stability = 33
+            tribal_cohesion = 90
+        }
+
+    }
+
+    #Oka Laha
+    OKA = {
+    	own_control_core = {
+    	eianamogola
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+        capital = eianamogola
+        currency_data = {
+            gold = 100
+            stability = 33
+            tribal_cohesion = 90
+        }
+    }
+
+    #Sacchuma
+    SCC = {
+    	own_control_core = {
+    	sacchuma
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+        capital = sacchuma
+        currency_data = {
+            gold = 100
+            stability = 33
+            tribal_cohesion = 90
+        }
+    }
+
+    #Napochi
+    NPC = {
+    	own_control_core = {
+    	napochi
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+        capital = napochi
+        currency_data = {
+            gold = 100
+            stability = 33
+            tribal_cohesion = 90
+        }
+    }
+
+    #Kusanunnahiyi
+    KMY = {
+    	own_control_core = {
+    	cassatees
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+        capital = casatees
+        currency_data = {
+            gold = 100
+            stability = 33
+            tribal_cohesion = 90
+        }
+    }
+
+    #Cayoka
+    CAY = {
+    	own_control_core = {
+    	utsutigway
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+        capital = utsutigway
+        currency_data = {
+            gold = 100
+            stability = 33
+            tribal_cohesion = 90
+        }
+    }
+
+    #Butahatchee
+    BUT = {
+    	own_control_core = {
+    	buddahatchie
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+        capital = buddahatchie
+        currency_data = {
+            gold = 100
+            stability = 33
+            tribal_cohesion = 90
+        }
+    }
+
+    #Ococoposa
+    OCO = {
+    	own_control_core = {
+    	hogehege
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+        capital = hogehege
+        currency_data = {
+            gold = 100
+            stability = 33
+            tribal_cohesion = 90
+        }
+    }
+
+    #Kiokee
+    KIB = {
+    	own_control_core = {
+    	kiokee
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+        capital = kiokee
+        currency_data = {
+            gold = 100
+            stability = 33
+            tribal_cohesion = 90
+        }
+    }
+
+    #Selkehatchie
+    SHE = {
+    	own_control_core = {
+    	selkehatchie
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+        capital = salkehatchie
+        currency_data = {
+            gold = 100
+            stability = 33
+            tribal_cohesion = 90
+        }
+    }
+
+    #Santee
+    SAE = {
+    	own_control_core = {
+    	santee
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+        capital = santee
+        currency_data = {
+            gold = 100
+            stability = 33
+            tribal_cohesion = 90
+        }
+    }
+
+    #Kosalu
+    KSL = {
+    	own_control_core = {
+    	kosalu
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+        capital = kosalu
+        currency_data = {
+            gold = 100
+            stability = 33
+            tribal_cohesion = 90
+        }
+    }
+
+    #Talimeco
+    TMO = {
+    	own_control_core = {
+    	talimeco cofitachequi
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+        capital = talimeco
+        currency_data = {
+            gold = 100
+            stability = 33
+            tribal_cohesion = 90
+        }
+    }
+
+    #Amoyescheck
+    AMO = {
+    	own_control_core = {
+    	amoyescheck
+    	}
+    	include = "american_east_coast_tribe"
+    	government = {
+    		ruler = random
+    	}
+        capital = amoyescheck
+        currency_data = {
+            gold = 100
+            stability = 33
+            tribal_cohesion = 90
+        }
+    }
+
+    #Guale - Vanilla
+    GUL = {
+        own_control_core = {
+            tybee ossabaw sapelo winbee
+        }
+        include = "american_east_coast_tribe"
+        government = {
+            ruler = random
+        }
+        court_language = muskogee_language
+        capital = ossabaw
+    }
+
+    #-------------------------- NWIP Countries - UNUSED ----------------------------
     #Coste
     COS = {
-
-
     	own_control_core = {
     	}
     	include = "american_east_coast_tribe"
@@ -61519,168 +61739,6 @@ countries = {
     	            }
     	}
 
-    #Kiokee
-    KIB = {
-
-
-    	own_control_core = {
-    	}
-    	include = "american_east_coast_tribe"
-    	government = {
-    		ruler = random
-    	}
-    	    capital =
-    	            currency_data = {
-    	                gold = 100
-    	                stability = 33
-    	                tribal_cohesion = 90
-    	            }
-    	}
-
-    #Kosalu
-    KSL = {
-
-
-    	own_control_core = {
-    	}
-    	include = "american_east_coast_tribe"
-    	government = {
-    		ruler = random
-    	}
-    	    capital =
-    	            currency_data = {
-    	                gold = 100
-    	                stability = 33
-    	                tribal_cohesion = 90
-    	            }
-    	}
-
-    #Kusanmanhy
-    KMY = {
-
-
-    	own_control_core = {
-    	}
-    	include = "american_east_coast_tribe"
-    	government = {
-    		ruler = random
-    	}
-    	    capital =
-    	            currency_data = {
-    	                gold = 100
-    	                stability = 33
-    	                tribal_cohesion = 90
-    	            }
-    	}
-
-    #Napochi
-    NPC = {
-
-
-    	own_control_core = {
-    	}
-    	include = "american_east_coast_tribe"
-    	government = {
-    		ruler = random
-    	}
-    	    capital =
-    	            currency_data = {
-    	                gold = 100
-    	                stability = 33
-    	                tribal_cohesion = 90
-    	            }
-    	}
-
-    #Ococoposa
-    OCO = {
-
-
-    	own_control_core = {
-    	}
-    	include = "american_east_coast_tribe"
-    	government = {
-    		ruler = random
-    	}
-    	    capital =
-    	            currency_data = {
-    	                gold = 100
-    	                stability = 33
-    	                tribal_cohesion = 90
-    	            }
-    	}
-
-    #Oka Laha
-    OKA = {
-
-
-    	own_control_core = {
-    	}
-    	include = "american_east_coast_tribe"
-    	government = {
-    		ruler = random
-    	}
-    	    capital =
-    	            currency_data = {
-    	                gold = 100
-    	                stability = 33
-    	                tribal_cohesion = 90
-    	            }
-    	}
-
-    #Salkehatchie
-    SHE = {
-
-
-    	own_control_core = {
-    	}
-    	include = "american_east_coast_tribe"
-    	government = {
-    		ruler = random
-    	}
-    	    capital =
-    	            currency_data = {
-    	                gold = 100
-    	                stability = 33
-    	                tribal_cohesion = 90
-    	            }
-    	}
-
-    #Santee
-    SAE = {
-
-
-    	own_control_core = {
-    	}
-    	include = "american_east_coast_tribe"
-    	government = {
-    		ruler = random
-    	}
-    	    capital =
-    	            currency_data = {
-    	                gold = 100
-    	                stability = 33
-    	                tribal_cohesion = 90
-    	            }
-    	}
-
-    #Succehumma (Sachehumma)
-    SCC = {
-
-
-    	own_control_core = {
-    	}
-    	include = "american_east_coast_tribe"
-    	government = {
-    		ruler = random
-    	}
-    	    capital =
-    	            currency_data = {
-    	                gold = 100
-    	                stability = 33
-    	                tribal_cohesion = 90
-    	            }
-    	}
-
     #Swimpccana
     SWM = {
 
@@ -61698,59 +61756,6 @@ countries = {
     	                tribal_cohesion = 90
     	            }
     	}
-
-    #Talimeco
-    TMO = {
-
-
-    	own_control_core = {
-    	}
-    	include = "american_east_coast_tribe"
-    	government = {
-    		ruler = random
-    	}
-    	    capital =
-    	            currency_data = {
-    	                gold = 100
-    	                stability = 33
-    	                tribal_cohesion = 90
-    	            }
-    	}
-
-    #Talisi
-    TLS = {
-
-
-    	own_control_core = {
-    	}
-    	include = "american_east_coast_tribe"
-    	government = {
-    		ruler = random
-    	}
-    	    capital =
-    	            currency_data = {
-    	                gold = 100
-    	                stability = 33
-    	                tribal_cohesion = 90
-    	            }
-    	}
-
-    #Tugaloo
-    TUG = {
-    	own_control_core = {
-    	tugaloo
-    	}
-    	include = "american_east_coast_tribe"
-    	government = {
-    		ruler = random
-    	}
-        capital = tugaloo
-        currency_data = {
-            gold = 100
-            stability = 33
-            tribal_cohesion = 90
-        }
-    }
 
     #Uwharrie
     UWH = {
@@ -61770,41 +61775,22 @@ countries = {
     	            }
     	}
 
-    #Wechabee
-    WEC = {
-
-
+    #-------------------------- NWIP Countries - Calusa ----------------------------
+    #Escampaba
+    ESC = {
     	own_control_core = {
+    	ozita caloosahatchee okeechobee tequemapo
     	}
     	include = "american_east_coast_tribe"
     	government = {
     		ruler = random
     	}
-    	    capital =
-    	            currency_data = {
-    	                gold = 100
-    	                stability = 33
-    	                tribal_cohesion = 90
-    	            }
-    	}
-
-    #Zabusta
-    ZBS = {
-    	own_control_core = {
-    	}
-    	include = "american_east_coast_tribe"
-    	government = {
-    		ruler = random
-    	}
-
-        capital =
-
+        capital = caloosahatchee
         currency_data = {
             gold = 100
             stability = 33
             tribal_cohesion = 90
         }
-
     }
 
 	}

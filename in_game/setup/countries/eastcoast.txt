@@ -1058,17 +1058,6 @@ TOA = { # Toa - Vanilla
 
 }
 
-#Atchafalaya - ACB
-ACB = {
-	color = map_atchafalaya
-	color2 = rgb { 81 179 91 }
-
-	culture_definition = chitimacha_culture
-	religion_definition = mississippian_ceremonial
-
-
-}
-
 #Akansea - AKS
 AKS = {
 	color = map_akansea
@@ -1102,9 +1091,9 @@ AAE = {
 
 }
 
-#Amoyesick - AMO
+#Amoyescheck - AMO
 AMO = {
-	color = map_amoyesick
+	color = map_amoyescheck
 	color2 = rgb { 94 183 213 }
 
 	culture_definition = apalachee_culture
@@ -1125,7 +1114,7 @@ APB = {
 }
 
 #Butahatchee - BTH
-BTH = {
+BUT = {
 	color = map_butahatchee
 	color2 = rgb { 90 133 137 }
 
@@ -1311,9 +1300,9 @@ KSL = {
 
 }
 
-#Kusanmanhy - KMY
+#Kusanunnahiyi - KMY
 KMY = {
-	color = map_kusanmanhy
+	color = map_kusanunnahiyi
 	color2 = rgb { 151 177 88 }
 
 	culture_definition = apalachee_culture
@@ -1430,9 +1419,9 @@ UTI = { # Utiangue
 
 }
 
-#Salkehatchie - SHE
+#Selkehatchie - SHE
 SHE = {
-	color = map_salkehatchie
+	color = map_selkehatchie
 	color2 = rgb { 159 156 81 }
 
 	culture_definition = apalachee_culture
@@ -1606,9 +1595,9 @@ WAH = {
 
 }
 
-#Wechabee - WEC
+#Wehadkee - WEC
 WEC = {
-	color = map_wechabee
+	color = map_wehadkee
 	color2 = rgb { 220 145 81 }
 
 	culture_definition = apalachee_culture
@@ -1647,5 +1636,17 @@ ZBS = {
 	culture_definition = apalachee_culture
 	religion_definition = mississippian_ceremonial
 
+
+}
+
+#-------------------------- NWIP Countries - Calusa ----------------------------
+
+#Escampaba - ESC
+ESC = {
+	color = map_escampaba
+	color2 = rgb { 173 173 90 }
+
+	culture_definition = apalachee_culture
+	religion_definition = mississippian_ceremonial
 
 }
