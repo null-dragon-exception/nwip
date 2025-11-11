@@ -17,7 +17,7 @@
 
 
 BRZ = { # Brazil
-	pattern = "pattern_solid.tga"
+	pattern = "pattern_solid.dds"
 	color1 = "green"
 	color2 = "yellow"
 	color3 = "blue"
@@ -47,7 +47,7 @@ BRZ = { # Brazil
 }
 
 BRZ_empire = { # Brazil
-	pattern = "pattern_solid.tga"
+	pattern = "pattern_solid.dds"
 	color1 = "green"
 	color2 = "yellow"
 	color3 = "blue"
@@ -83,7 +83,7 @@ BRZ_empire = { # Brazil
 }
 
 BRZ_vera_cruz = { # Brazil
-	pattern = "pattern_solid.tga"
+	pattern = "pattern_solid.dds"
 	color1 = "white"
 	color2 = "green"
 	color3 = "red"
@@ -99,7 +99,7 @@ BRZ_vera_cruz = { # Brazil
 }
 
 BRZ_armillary = { # Brazil
-	pattern = "pattern_solid.tga"
+	pattern = "pattern_solid.dds"
 	color1 = "white"
 	color2 = "yellow"
 	color3 = "yellow"
@@ -115,7 +115,7 @@ BRZ_armillary = { # Brazil
 }
 
 BRZ_united_kingdom = { # Brazil
-	pattern = "pattern_solid.tga"
+	pattern = "pattern_solid.dds"
 	color1 = "white"
 	color2 = "blue"
 	color3 = "yellow"
@@ -138,7 +138,7 @@ BRZ_united_kingdom = { # Brazil
 }
 
 MEX_colonial = { # Colonial Mexico
-	pattern = "pattern_solid.tga"
+	pattern = "pattern_solid.dds"
 	color1 = "white"
 	color2 = "blue"
 	color3 = "green"
