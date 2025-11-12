@@ -1,0 +1,44 @@
+﻿l_english:
+  # Disaster
+    rapid_collapse_of_society: "Rapid Collapse of Society"
+    rapid_collapse_of_society_desc: "Pestilence, hunger, and the fraying of kin-ties hollow our settlements. Chiefs quarrel, fields lie fallow, and whole families fade into the forests. Unless we yield ground and regroup, the fabric of our realm will tear."
+
+    rcs_has_not_happened_tt: "This disaster has not concluded here before."
+
+    an_event_occurs_tt: "An incident unfolds…"
+    no_event_occurs_tt: "No notable incident this month."
+
+    # Start
+    rapid_collapse_of_society.1.title: "The Fabric Unravels"
+    rapid_collapse_of_society.1.desc: "Whispers of sickness and want pass from fire to fire. Villages dim at dusk and do not wake. Runners bring word of elders gone, of storehouses bare, of rites left unspoken. The elders plead for retreat and time; hot-blooded youths demand a stand."
+    rapid_collapse_of_society.1.a: "We must weather the storm."
+    rapid_collapse_of_society.1.tt: "The disaster begins. Stability falters and our people grow restless."
+
+    # 2 — Ghost Villages
+    rapid_collapse_of_society.2.title: "Ghost Villages"
+    rapid_collapse_of_society.2.desc: "A clutch of lodges stands empty—ash-cold hearths, woven mats left behind. Few remain to watch the smoke. Do we let this place go and spare those who linger?"
+    rapid_collapse_of_society.2.a: "Let it go."
+    rapid_collapse_of_society.2.b: "Hold it together, whatever the cost."
+
+    # 3 — Flight into the Hinterlands
+    rapid_collapse_of_society.3.title: "Flight into the Hinterlands"
+    rapid_collapse_of_society.3.desc: "Families slip along deer paths by starlight, burdened with pots and stories. They seek game, clean springs, and distance from grief."
+    rapid_collapse_of_society.3.a: "We cannot chain the wind."
+
+    # 4 — Seat of Power Falters
+    rapid_collapse_of_society.4.title: "The Seat Falters"
+    rapid_collapse_of_society.4.desc: "Even our council fire dwindles. Drums sound thin in the council house, and the chief’s voice echoes in a hall grown bare."
+    rapid_collapse_of_society.4.a: "Quench the embers and move on."
+    rapid_collapse_of_society.4.b: "Stand in the smoke and endure."
+
+    # 101 — Rolling Exodus
+    rapid_collapse_of_society.101.title: "Another Exodus"
+    rapid_collapse_of_society.101.desc: "Day by day, trails wear thin with footprints. We count the missing by the quiet of the evening."
+    rapid_collapse_of_society.101.a: "The people slip away."
+    rapid_collapse_of_society.101.b: "This place cannot hold them."
+
+    # 10 — End
+    rapid_collapse_of_society.10.title: "After the Silence"
+    rapid_collapse_of_society.10.desc: "The worst has passed. In the hush that follows, we take stock: fewer voices, but new paths and hard lessons. The circle will form again."
+    rapid_collapse_of_society.10.a: "Gather the survivors."
+    rapid_collapse_of_society.10.tt: "The disaster ends. With time and patience, order may return."

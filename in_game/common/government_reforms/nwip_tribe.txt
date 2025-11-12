@@ -1,0 +1,72 @@
+﻿chiefdom = {
+    icon = iro_council_of_the_fifty
+    major = yes
+    government = tribe
+
+    # Only the lowest-rank countries can adopt it
+    allow = {
+        country_rank_level <= 1
+    }
+
+    # Locked like Patrimonialism, plus: requires high stability & high tribal cohesion to REMOVE.
+    # While any of these are true, this reform is LOCKED (cannot be changed).
+    locked = {
+        OR = {
+            # --- Same conditions as patrimonialism ---
+            capital = {
+                OR = {
+                    num_pop_type:nobles < { value = population divide = 100 multiply = 1 }
+                    num_pop_type:clergy < { value = population divide = 100 multiply = 2 }
+                    num_pop_type:burghers < { value = population divide = 100 multiply = 5 }
+                }
+            }
+            # --- Additional removal gates (need BOTH to be high to unlock) ---
+            stability < 80             # set your threshold for "high stability"
+            tribal_cohesion < 80       # matches patterns used in other tribal locks
+        }
+    }
+
+    country_modifier = {
+        monthly_towards_conciliatory = societal_value_monthly_move
+        monthly_towards_traditionalist = societal_value_large_monthly_move
+        subjugation_preference_modifier = 0.25
+
+        #Positives
+        tribes_estate_levy_size = 0.50
+        improve_relation_impact = 0.15              # better “Improve Relations”
+
+        #Negatives
+        may_not_take_land_in_peace_treaties = yes   # blocks taking land in peace deals
+        tax_income_efficiency = large_tax_income_efficiency_penalty
+        government_size = -1
+    }
+
+    years = 2
+}
+
+paramount_chiefdom = {
+    icon = frisian_freedom_reform
+    major = yes
+    government = tribe
+
+    # Only the countries higher than 1
+    allow = {
+        country_rank_level >= 1
+    }
+
+    country_modifier = {
+        monthly_towards_conciliatory = societal_value_monthly_move
+        subjugation_preference_modifier = 0.25
+
+        #Negatives
+        global_estate_target_satisfaction = large_permanent_target_satisfaction_penalty
+
+
+        #Positives
+        tribes_estate_levy_size = 0.50
+        global_estate_power = -0.5 #The Ruler controls the goverment basically alone as there is no strong states But it is not Absolutism, it is meant to be pre-feudal"
+        improve_relation_impact = 0.15              # better “Improve Relations”
+    }
+
+    years = 2
+}

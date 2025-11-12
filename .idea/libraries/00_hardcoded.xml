@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="00_hardcoded">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/in_game/common/prices/00_hardcoded.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
