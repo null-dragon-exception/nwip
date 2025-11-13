@@ -4,7 +4,7 @@
 	monthly_spawn_chance = monthly_spawn_chance_very_high
 
 	can_start = {
-		# Applies to "native tags"
+		# Applies to "native tribal tags"
 		culture = { is_culture_native_american = yes }
 		country_has_disease = disease:great_pestilence
 		stability < 50
