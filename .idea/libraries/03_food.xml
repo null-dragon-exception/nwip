@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="03_food">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/in_game/common/goods/03_food.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

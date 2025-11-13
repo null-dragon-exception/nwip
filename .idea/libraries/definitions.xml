@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="definitions">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/in_game/map_data/definitions.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
