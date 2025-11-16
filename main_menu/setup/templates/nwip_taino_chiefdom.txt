@@ -8,6 +8,7 @@ discovered_provinces = {
     boriken_coast_sea_province
     north_hispaniola_coast_sea_province
     windward_passage
+    south_bahamas_coast_sea_province
 }
 discovered_locations = {
     tortuga_island
