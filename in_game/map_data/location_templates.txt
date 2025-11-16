@@ -20309,7 +20309,7 @@ habana = { topography = flatland vegetation = woods climate = tropical religion 
 batanabo = { topography = flatland vegetation = woods climate = tropical religion = zemi_religion culture = ciboney raw_material = fiber_crops natural_harbor_suitability = 0.00}
 guanimar = { topography = flatland vegetation = woods climate = tropical religion = zemi_religion culture = ciboney raw_material = cocoa natural_harbor_suitability = 0.00}
 marien_cuba = { topography = flatland vegetation = forest climate = tropical religion = zemi_religion culture = guanahatabey raw_material = wild_game natural_harbor_suitability = 0.75}
-siguanea = { topography = flatland vegetation = forest climate = tropical religion = zemi_religion culture = guanahatabey raw_material = fish natural_harbor_suitability = 0.00}
+siguanea = { topography = flatland vegetation = forest climate = tropical religion = zemi_religion culture = guanahatabey raw_material = tin natural_harbor_suitability = 0.00}
 guaniguanico = { topography = hills vegetation = forest climate = tropical religion = zemi_religion culture = guanahatabey raw_material = chili natural_harbor_suitability = 0.20}
 guanamacabibes = { topography = flatland vegetation = forest climate = tropical religion = zemi_religion culture = guanahatabey raw_material = tobacco natural_harbor_suitability = 0.20}
 macoriges = { topography = flatland vegetation = grasslands climate = tropical religion = zemi_religion culture = ciboney raw_material = cotton}
@@ -22216,7 +22216,7 @@ tzunuun = { topography = flatland vegetation = jungle climate = tropical religio
 altun_ha = { topography = wetlands vegetation = jungle climate = tropical religion = mayan culture = mopan_culture raw_material = fruit natural_harbor_suitability = 0.00}
 lamanai = { topography = flatland vegetation = jungle climate = tropical religion = mayan culture = mopan_culture raw_material = wild_game}
 xunantunich = { topography = hills vegetation = jungle climate = tropical religion = mayan culture = mopan_culture raw_material = maize natural_harbor_suitability = 0.00}
-uxwitza = { topography = hills vegetation = jungle climate = tropical religion = mayan culture = mopan_culture raw_material = marble}
+uxwitza = { topography = hills vegetation = jungle climate = tropical religion = mayan culture = mopan_culture raw_material = tin}
 acasaguastlan = { topography = plateau vegetation = forest climate = tropical religion = mayan culture = poqom_culture raw_material = maize}
 chiquimula = { topography = hills vegetation = forest climate = tropical religion = mayan culture = chorti_culture raw_material = lumber}
 cuauhtemallan = { topography = mountains vegetation = forest climate = continental religion = nahuatl culture = pipil_culture raw_material = gems}
