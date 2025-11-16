@@ -588,7 +588,7 @@ french_hispaniola_area_scripted_country_name = { #Saint-Domingue, historical, al
     	location_trigger = {
     	}
     }
-french_lesser_antilles_area_scripted_country_name = { #Petites Antilles
+french_lesser_antilles_area_scripted_country_name = { #Îles de l'Amérique, historical
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -1146,7 +1146,7 @@ french_georgia_us_area_scripted_country_name = { #Basse-Caroline
     	location_trigger = {
     	}
     }
-french_florida_area_scripted_country_name = { #La Floride, Historical
+french_florida_area_scripted_country_name = { #Floride, Historical
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -2200,6 +2200,161 @@ french_xalisco_area_scripted_country_name = { #Nouvelle-Aquitaine
     	location_trigger = {
     	}
     }
+french_minas_gerais_area_scripted_country_name = { #Bel Horizon
+    	# regular old country trigger
+    	country_trigger = {
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
+    		OR = {
+    			
+					court_language = language:french_language
+					culture.language = language:french_language
+					overlord ?= {
+						court_language = language:french_language
+					}
+					overlord ?= {
+						culture.language = language:french_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:minas_gerais_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+french_mayaab_area_scripted_country_name = { #Yucatán
+    	# regular old country trigger
+    	country_trigger = {
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
+    		OR = {
+    			
+					court_language = language:french_language
+					culture.language = language:french_language
+					overlord ?= {
+						court_language = language:french_language
+					}
+					overlord ?= {
+						culture.language = language:french_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:mayaab_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+french_chilapan_area_scripted_country_name = { #Chilapan
+    	# regular old country trigger
+    	country_trigger = {
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
+    		OR = {
+    			
+					court_language = language:french_language
+					culture.language = language:french_language
+					overlord ?= {
+						court_language = language:french_language
+					}
+					overlord ?= {
+						culture.language = language:french_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:chilapan_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+french_puuk_area_scripted_country_name = { #Campêche 
+    	# regular old country trigger
+    	country_trigger = {
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
+    		OR = {
+    			
+					court_language = language:french_language
+					culture.language = language:french_language
+					overlord ?= {
+						court_language = language:french_language
+					}
+					overlord ?= {
+						culture.language = language:french_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:puuk_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+french_chactemal_area_scripted_country_name = { #Chetumal
+    	# regular old country trigger
+    	country_trigger = {
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
+    		OR = {
+    			
+					court_language = language:french_language
+					culture.language = language:french_language
+					overlord ?= {
+						court_language = language:french_language
+					}
+					overlord ?= {
+						culture.language = language:french_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:chactemal_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
 french_peten_area_scripted_country_name = { #Bellix
     	# regular old country trigger
     	country_trigger = {
@@ -2913,6 +3068,37 @@ french_tocantins_area_scripted_country_name = { #Toucantine
     	location_trigger = {
     	}
     }
+french_uruguay_area_scripted_country_name = { #La Orientale
+    	# regular old country trigger
+    	country_trigger = {
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
+    		OR = {
+    			
+					court_language = language:french_language
+					culture.language = language:french_language
+					overlord ?= {
+						court_language = language:french_language
+					}
+					overlord ?= {
+						culture.language = language:french_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:uruguay_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
 french_para_area_scripted_country_name = { #Bas Amazonie
     	# regular old country trigger
     	country_trigger = {
@@ -2937,6 +3123,68 @@ french_para_area_scripted_country_name = { #Bas Amazonie
     	capital_trigger = {
     		OR = {
     			area = area:para_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+french_mato_grosso_area_scripted_country_name = { #Grande Brousse
+    	# regular old country trigger
+    	country_trigger = {
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
+    		OR = {
+    			
+					court_language = language:french_language
+					culture.language = language:french_language
+					overlord ?= {
+						court_language = language:french_language
+					}
+					overlord ?= {
+						culture.language = language:french_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:mato_grosso_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+french_goias_area_scripted_country_name = { #Formose 
+    	# regular old country trigger
+    	country_trigger = {
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
+    		OR = {
+    			
+					court_language = language:french_language
+					culture.language = language:french_language
+					overlord ?= {
+						court_language = language:french_language
+					}
+					overlord ?= {
+						culture.language = language:french_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:goias_area
     		}
     	}
     	
@@ -3192,7 +3440,7 @@ french_rio_de_janeiro_area_scripted_country_name = { #France Antartique, histori
     	location_trigger = {
     	}
     }
-french_minas_gerais_area_scripted_country_name = { #Emboabas
+french_minas_gerais_area_scripted_country_name = { #Bel Horizon
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -3278,6 +3526,68 @@ french_santa_catarina_area_scripted_country_name = { #Sainte-Catherine
     	capital_trigger = {
     		OR = {
     			area = area:santa_catarina_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+french_chala_area_scripted_country_name = { #Basse-Bérou
+    	# regular old country trigger
+    	country_trigger = {
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
+    		OR = {
+    			
+					court_language = language:french_language
+					culture.language = language:french_language
+					overlord ?= {
+						court_language = language:french_language
+					}
+					overlord ?= {
+						culture.language = language:french_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:chala_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+french_qullaw_area_scripted_country_name = { #Haute-Bérou
+    	# regular old country trigger
+    	country_trigger = {
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
+    		OR = {
+    			
+					court_language = language:french_language
+					culture.language = language:french_language
+					overlord ?= {
+						court_language = language:french_language
+					}
+					overlord ?= {
+						culture.language = language:french_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:qullaw_area
     		}
     	}
     	
@@ -3440,7 +3750,7 @@ french_south_georgia_area_scripted_country_name = { #Île Roché, historical
     	location_trigger = {
     	}
     }
-french_sinu_area_scripted_country_name = { #La Rochelle D'Ouest
+french_sinu_area_scripted_country_name = { #La Rochelle d'Ouest
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -3464,6 +3774,68 @@ french_sinu_area_scripted_country_name = { #La Rochelle D'Ouest
     	capital_trigger = {
     		OR = {
     			area = area:sinu_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+french_suchiimma_area_scripted_country_name = { #Nouvelle-Vendée 
+    	# regular old country trigger
+    	country_trigger = {
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
+    		OR = {
+    			
+					court_language = language:french_language
+					culture.language = language:french_language
+					overlord ?= {
+						court_language = language:french_language
+					}
+					overlord ?= {
+						culture.language = language:french_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:suchiimma_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+french_caracas_area_scripted_country_name = { #Marais Poitevinette
+    	# regular old country trigger
+    	country_trigger = {
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
+    		OR = {
+    			
+					court_language = language:french_language
+					culture.language = language:french_language
+					overlord ?= {
+						court_language = language:french_language
+					}
+					overlord ?= {
+						culture.language = language:french_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:caracas_area
     		}
     	}
     	
@@ -3495,6 +3867,68 @@ french_guayana_area_scripted_country_name = { #Guyane
     	capital_trigger = {
     		OR = {
     			area = area:guayana_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+french_northwestern_australia_area_scripted_country_name = { #Jave la Grande
+    	# regular old country trigger
+    	country_trigger = {
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
+    		OR = {
+    			
+					court_language = language:french_language
+					culture.language = language:french_language
+					overlord ?= {
+						court_language = language:french_language
+					}
+					overlord ?= {
+						culture.language = language:french_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:northwestern_australia_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+french_north_island_area_scripted_country_name = { #La Joncade 
+    	# regular old country trigger
+    	country_trigger = {
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
+    		OR = {
+    			
+					court_language = language:french_language
+					culture.language = language:french_language
+					overlord ?= {
+						court_language = language:french_language
+					}
+					overlord ?= {
+						culture.language = language:french_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:north_island_area
     		}
     	}
     	

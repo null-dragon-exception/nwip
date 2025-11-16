@@ -5,8 +5,8 @@
   german_quebec_area_scripted_country_name_ADJ: "Kebeckisch"
   german_laurentian_area_scripted_country_name: "Lorenzberge" #germanized
   german_laurentian_area_scripted_country_name_ADJ: "Lorenzbergisch"
-  german_lower_canada_area_scripted_country_name: "Niederkanada" #translation
-  german_lower_canada_area_scripted_country_name_ADJ: "Niederkanadisch"
+  german_lower_canada_area_scripted_country_name: "Königsbergen" #translation of Montreal
+  german_lower_canada_area_scripted_country_name_ADJ: "Königsbergisch"
   german_jamesie_area_scripted_country_name: "Jakobsbucht" #germanized
   german_jamesie_area_scripted_country_name_ADJ: "Jakobisch"
   german_nunavik_area_scripted_country_name: "Eisland" # 'Land of Ice'
@@ -55,8 +55,8 @@
   german_hudson_area_scripted_country_name_ADJ: "Neumährisch"
   german_haudenosaunee_area_scripted_country_name: "Irokesien" #translation
   german_haudenosaunee_area_scripted_country_name_ADJ: "Irokesisch"
-  german_new_jersey_area_scripted_country_name: "Neurügen" 
-  german_new_jersey_area_scripted_country_name_ADJ: "Neurügisch"
+  german_new_jersey_area_scripted_country_name: "Neuwineta" 
+  german_new_jersey_area_scripted_country_name_ADJ: "Neuwinetaisch"
   german_pennsylvania_area_scripted_country_name: "Silvanien" # 'Woodland'
   german_pennsylvania_area_scripted_country_name_ADJ: "Silvanisch"
   german_westsylvania_area_scripted_country_name: "Zeisbergien" 
@@ -238,7 +238,7 @@
   german_qullaw_area_scripted_country_name: "Oberpiru" 
   german_qullaw_area_scripted_country_name_ADJ: "Oberpiruanisch"
   german_galapagos_area_scripted_country_name: "Schildkröteninseln" 
-  german_galapagos_area_scripted_country_name_ADJ: "Schildkröteninseln"
+  german_galapagos_area_scripted_country_name_ADJ: "Schildkröteninseler"
   german_chaco_area_scripted_country_name: "Großschaku" # 'Gran Chaco'
   german_chaco_area_scripted_country_name_ADJ: "Großschakuanisch"
   german_la_plata_area_scripted_country_name: "Silberfluss" #Historical German name for the Rio de la Plata.

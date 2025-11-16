@@ -588,7 +588,7 @@ dutch_hispaniola_area_scripted_country_name = { #Batavia Eylandt, Similar to 'Hi
     	location_trigger = {
     	}
     }
-dutch_lesser_antilles_area_scripted_country_name = { #Kleine Antillen, Translation
+dutch_lesser_antilles_area_scripted_country_name = { #Bovenwindse Eilanden, Historical
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?

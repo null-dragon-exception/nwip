@@ -30,6 +30,68 @@ scandinavian_greenland_area_scripted_country_name = { #Grǿnland
     	location_trigger = {
     	}
     }
+scandinavian_quebec_area_scripted_country_name = { #Furðustrandir
+    	# regular old country trigger
+    	country_trigger = {
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
+    		OR = {
+    			
+					court_language = language:scandinavian_language
+					culture.language = language:scandinavian_language
+					overlord ?= {
+						court_language = language:scandinavian_language
+					}
+					overlord ?= {
+						culture.language = language:scandinavian_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:quebec_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+scandinavian_lower_canada_area_scripted_country_name = { #Saguenay
+    	# regular old country trigger
+    	country_trigger = {
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
+    		OR = {
+    			
+					court_language = language:scandinavian_language
+					culture.language = language:scandinavian_language
+					overlord ?= {
+						court_language = language:scandinavian_language
+					}
+					overlord ?= {
+						culture.language = language:scandinavian_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:lower_canada_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
 scandinavian_nunavik_area_scripted_country_name = { #Helluland
     	# regular old country trigger
     	country_trigger = {
@@ -123,6 +185,161 @@ scandinavian_newfoundland_area_scripted_country_name = { #Vinland
     	location_trigger = {
     	}
     }
+scandinavian_prince_edward_island_area_scripted_country_name = { #Kjalarnes
+    	# regular old country trigger
+    	country_trigger = {
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
+    		OR = {
+    			
+					court_language = language:scandinavian_language
+					culture.language = language:scandinavian_language
+					overlord ?= {
+						court_language = language:scandinavian_language
+					}
+					overlord ?= {
+						culture.language = language:scandinavian_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:prince_edward_island_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+scandinavian_acadia_area_scripted_country_name = { #Hóp
+    	# regular old country trigger
+    	country_trigger = {
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
+    		OR = {
+    			
+					court_language = language:scandinavian_language
+					culture.language = language:scandinavian_language
+					overlord ?= {
+						court_language = language:scandinavian_language
+					}
+					overlord ?= {
+						culture.language = language:scandinavian_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:acadia_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+scandinavian_keewatin_area_scripted_country_name = { #Ny Bjarmland
+    	# regular old country trigger
+    	country_trigger = {
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
+    		OR = {
+    			
+					court_language = language:scandinavian_language
+					culture.language = language:scandinavian_language
+					overlord ?= {
+						court_language = language:scandinavian_language
+					}
+					overlord ?= {
+						culture.language = language:scandinavian_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:keewatin_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+scandinavian_maine_area_scripted_country_name = { #Straumsey
+    	# regular old country trigger
+    	country_trigger = {
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
+    		OR = {
+    			
+					court_language = language:scandinavian_language
+					culture.language = language:scandinavian_language
+					overlord ?= {
+						court_language = language:scandinavian_language
+					}
+					overlord ?= {
+						culture.language = language:scandinavian_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:maine_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+scandinavian_hudson_area_scripted_country_name = { #Straumfjord
+    	# regular old country trigger
+    	country_trigger = {
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
+    		OR = {
+    			
+					court_language = language:scandinavian_language
+					culture.language = language:scandinavian_language
+					overlord ?= {
+						court_language = language:scandinavian_language
+					}
+					overlord ?= {
+						culture.language = language:scandinavian_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:hudson_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
 scandinavian_new_jersey_area_scripted_country_name = { #Nya Sverige
     	# regular old country trigger
     	country_trigger = {
@@ -185,6 +402,99 @@ scandinavian_pennsylvania_area_scripted_country_name = { #Minquasland
     	location_trigger = {
     	}
     }
+scandinavian_maryland_area_scripted_country_name = { #Ny Jórvík
+    	# regular old country trigger
+    	country_trigger = {
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
+    		OR = {
+    			
+					court_language = language:scandinavian_language
+					culture.language = language:scandinavian_language
+					overlord ?= {
+						court_language = language:scandinavian_language
+					}
+					overlord ?= {
+						culture.language = language:scandinavian_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:maryland_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+scandinavian_michigan_area_scripted_country_name = { #Vindgarðr
+    	# regular old country trigger
+    	country_trigger = {
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
+    		OR = {
+    			
+					court_language = language:scandinavian_language
+					culture.language = language:scandinavian_language
+					overlord ?= {
+						court_language = language:scandinavian_language
+					}
+					overlord ?= {
+						culture.language = language:scandinavian_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:michigan_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+scandinavian_north_dakota_area_scripted_country_name = { #Norland
+    	# regular old country trigger
+    	country_trigger = {
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
+    		OR = {
+    			
+					court_language = language:scandinavian_language
+					culture.language = language:scandinavian_language
+					overlord ?= {
+						court_language = language:scandinavian_language
+					}
+					overlord ?= {
+						culture.language = language:scandinavian_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:north_dakota_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
 scandinavian_keewatin_n_area_scripted_country_name = { #Skrælingland
     	# regular old country trigger
     	country_trigger = {
@@ -209,6 +519,37 @@ scandinavian_keewatin_n_area_scripted_country_name = { #Skrælingland
     	capital_trigger = {
     		OR = {
     			area = area:keewatin_n_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+scandinavian_mexihko_area_scripted_country_name = { #Nya Serkland
+    	# regular old country trigger
+    	country_trigger = {
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
+    		OR = {
+    			
+					court_language = language:scandinavian_language
+					culture.language = language:scandinavian_language
+					overlord ?= {
+						court_language = language:scandinavian_language
+					}
+					overlord ?= {
+						culture.language = language:scandinavian_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:mexihko_area
     		}
     	}
     	

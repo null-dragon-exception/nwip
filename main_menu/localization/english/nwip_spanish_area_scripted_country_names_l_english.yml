@@ -3,8 +3,8 @@
   spanish_greenland_area_scripted_country_name_ADJ: "Tierraverde"
   spanish_quebec_area_scripted_country_name: "Quebeque" 
   spanish_quebec_area_scripted_country_name_ADJ: "Quebeque"
-  spanish_laurentian_area_scripted_country_name: "San Lorenzo" 
-  spanish_laurentian_area_scripted_country_name_ADJ: "San Lorenzo"
+  spanish_laurentian_area_scripted_country_name: "Sierra de San Lorenzo" 
+  spanish_laurentian_area_scripted_country_name_ADJ: "Sierra de San Lorenzo"
   spanish_lower_canada_area_scripted_country_name: "Bajo Canada" 
   spanish_lower_canada_area_scripted_country_name_ADJ: "Bajo Canada"
   spanish_jamesie_area_scripted_country_name: "Bahía de Santiago" 
@@ -37,8 +37,8 @@
   spanish_cuba_area_scripted_country_name_ADJ: "Cubano"
   spanish_hispaniola_area_scripted_country_name: "Santo Domingo" #According to Historian Juan Daniel Balcácer, the demonym is in use since 1621
   spanish_hispaniola_area_scripted_country_name_ADJ: "Dominicano"
-  spanish_lesser_antilles_area_scripted_country_name: "Antillas Menores" 
-  spanish_lesser_antilles_area_scripted_country_name_ADJ: "Antillas Menores"
+  spanish_lesser_antilles_area_scripted_country_name: "Islas de Barlovento" 
+  spanish_lesser_antilles_area_scripted_country_name_ADJ: "Islas de Barlovento"
   spanish_panama_area_scripted_country_name: "Castilla de Oro" 
   spanish_panama_area_scripted_country_name_ADJ: "Castilla de Oro"
   spanish_massachusetts_area_scripted_country_name: "San Cristóbal" #historical name
@@ -85,16 +85,16 @@
   spanish_indiana_area_scripted_country_name_ADJ: "Ouabache"
   spanish_michigan_area_scripted_country_name: "San José" #historical settlement name
   spanish_michigan_area_scripted_country_name_ADJ: "San José"
-  spanish_illinois_area_scripted_country_name: "Ilinués" #historical name of river
-  spanish_illinois_area_scripted_country_name_ADJ: "Ilinués"
+  spanish_illinois_area_scripted_country_name: "Alta Luciana" #or Ilinués - historical name of river
+  spanish_illinois_area_scripted_country_name_ADJ: "Alta Luciana"
   spanish_wisconsin_area_scripted_country_name: "Misconsín" 
   spanish_wisconsin_area_scripted_country_name_ADJ: "Misconsín"
   spanish_alabama_area_scripted_country_name: "Garaya" #Tierra de Garay; could also be Santa Cruz de Nanipacana
   spanish_alabama_area_scripted_country_name_ADJ: "Garaya"
   spanish_mississippi_area_scripted_country_name: "Misisipi" 
   spanish_mississippi_area_scripted_country_name_ADJ: "Misisipi"
-  spanish_louisiana_area_scripted_country_name: "Baja Luisiana" 
-  spanish_louisiana_area_scripted_country_name_ADJ: "Baja Luisiana"
+  spanish_louisiana_area_scripted_country_name: "Baja Luciana" #epochal spanish name
+  spanish_louisiana_area_scripted_country_name_ADJ: "Baja Luciana"
   spanish_arkansas_area_scripted_country_name: "Napeste" #Historical spanish name
   spanish_arkansas_area_scripted_country_name_ADJ: "Napeste"
   spanish_missouri_area_scripted_country_name: "San Luis" 
@@ -105,9 +105,9 @@
   spanish_minnesota_area_scripted_country_name_ADJ: "Altos del Misisipi"
   spanish_superior_area_scripted_country_name: "Lago Superior" 
   spanish_superior_area_scripted_country_name_ADJ: "Lago Superior"
-  spanish_central_plains_area_scripted_country_name: "Quivira" 
-  spanish_central_plains_area_scripted_country_name_ADJ: "Quivira"
-  spanish_natahende_area_scripted_country_name: "Nuevo México" 
+  spanish_central_plains_area_scripted_country_name: "Gran Quivira" #historical name
+  spanish_central_plains_area_scripted_country_name_ADJ: "Gran Quivira"
+  spanish_natahende_area_scripted_country_name: "Nuevo México" #or Llanos de Cíbola
   spanish_natahende_area_scripted_country_name_ADJ: "Nuevo México"
   spanish_high_plains_area_scripted_country_name: "San Juan" 
   spanish_high_plains_area_scripted_country_name_ADJ: "San Juan"
@@ -149,8 +149,8 @@
   spanish_minas_gerais_area_scripted_country_name_ADJ: "Minas Gerales"
   spanish_mayaab_area_scripted_country_name: "Yucatán" 
   spanish_mayaab_area_scripted_country_name_ADJ: "Yucateco"
-  spanish_chilapan_area_scripted_country_name: "Chiapas??" 
-  spanish_chilapan_area_scripted_country_name_ADJ: "Chiapas??"
+  spanish_chilapan_area_scripted_country_name: "Chiapas" 
+  spanish_chilapan_area_scripted_country_name_ADJ: "Chiapas"
   spanish_puuk_area_scripted_country_name: "Campeche" 
   spanish_puuk_area_scripted_country_name_ADJ: "Campechano"
   spanish_chactemal_area_scripted_country_name: "Chetumal" 
@@ -177,8 +177,8 @@
   spanish_tamaulipeco_area_scripted_country_name_ADJ: "Nuevo Santander"
   spanish_guachichil_area_scripted_country_name: "Nueva Extremadura" #or Nuevo Leon
   spanish_guachichil_area_scripted_country_name_ADJ: "Nueva Extremadura"
-  spanish_texas_area_scripted_country_name: "Tejas" #or Tejas
-  spanish_texas_area_scripted_country_name_ADJ: "Tejas"
+  spanish_texas_area_scripted_country_name: "Tejas" #or Nuevas Filipinas
+  spanish_texas_area_scripted_country_name_ADJ: "Tejano"
   spanish_shiewhibak_area_scripted_country_name: "Pimería Alta" 
   spanish_shiewhibak_area_scripted_country_name_ADJ: "Pimería Alta"
   spanish_alaxsxaq_area_scripted_country_name: "Valdès" 
@@ -195,6 +195,8 @@
   spanish_rockies_area_scripted_country_name_ADJ: "Sangre de Cristo"
   spanish_hawaii_area_scripted_country_name: "Hawai" 
   spanish_hawaii_area_scripted_country_name_ADJ: "Hawai"
+  spanish_cascadia_area_scripted_country_name: "Montaña del Carmelo" #historical
+  spanish_cascadia_area_scripted_country_name_ADJ: "Montaña del Carmelo"
   spanish_amazon_area_scripted_country_name: "Amazonas" 
   spanish_amazon_area_scripted_country_name_ADJ: "Amazonas"
   spanish_tocantins_area_scripted_country_name: "Tocantines" 
@@ -205,8 +207,8 @@
   spanish_paraguay_area_scripted_country_name_ADJ: "Paraguay"
   spanish_guapore_area_scripted_country_name: "Guaporé" 
   spanish_guapore_area_scripted_country_name_ADJ: "Guaporé"
-  spanish_uruguay_area_scripted_country_name: "Uruguay" 
-  spanish_uruguay_area_scripted_country_name_ADJ: "Uruguay"
+  spanish_uruguay_area_scripted_country_name: "Banda Oriental" 
+  spanish_uruguay_area_scripted_country_name_ADJ: "Banda Oriental"
   spanish_para_area_scripted_country_name: "Bajo Amazonas" 
   spanish_para_area_scripted_country_name_ADJ: "Bajo Amazonas"
   spanish_mato_grosso_area_scripted_country_name: "Itatín" 

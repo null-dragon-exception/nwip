@@ -4,9 +4,11 @@
  guiigu_yudxi.nahuatl_language: "Xalapan" #Guiigu yudxi (Jalapa), if it conflicts with Xalapa in Veracruz, the latter is more important
  huamelula.nahuatl_language: "Cuauhmilollan" #Cuauhmilollan (San Pedro Huamelula)
  yucucui.nahuatl_language: "Coyolapan" #Yucucui (Oaxaca de Juárez)
- yucundeq.nahuatl_language: "Quautlilla" #Yucundeq ()
+ yucundaa.nahuatl_language: "Teposcolollan" #Yucundaa (San Juan Teposcolula)
+ yucundeq.nahuatl_language: "Quautlillan" #Yucundeq ()
  yodzocahi.nahuatl_language: "Yanhuitlan" #Yodzocahi (Santo Domingo Yanhuitlán)
  nochixtlan.nahuatl_language: "Nocheztlan" #Nochixtlan (Asunción Nochixtlán)
+ sosola.nahuatl_language: "Sosollan" #Sosola (San Jerónimo Sosola)
  zaachila.nahuatl_language: "Teozapotlan" #Zaachila ()
  tlacolula.nahuatl_language: "Tlacolollan" #Tlacolollan (Tlacolula de Matamoros)
  zongolica.nahuatl_language: "Tzoncoliuhcan" #Tzoncoliuhcan (Zongolica)
@@ -24,6 +26,6 @@
  tzunun_kaab.nahuatl_language: "Uspantan" #Tz'unun Kaab (San Miguel Uspantán), Tz'unun Kaab means "Sweet Sparrow" in both the Uspantan and Nahuatl languages. This is in case you need the translation into other languages.
  otzoya.nahuatl_language: "Totonicapan" #Otzoyá (Totonicapán)
  chinabajul.nahuatl_language: "Huehuetenanco" #Zaculeu (Huehuetenango), The correct name is Chnab'jul in the Mam Mayan language and means "Between ravines". Zaculeu is the name in the K'iche' language.
- pismachi.nahuatl_language: "Utatlán" #Pismachi (Santa Cruz del Quiché), name for Q'umarkaj
+ pismachi.nahuatl_language: "Utatlán" #Pismachiʼ (Santa Cruz del Quiché), name for Q'umarkaj
  shalatenan.nahuatl_language: "Xalatenanco" #Shalatenan (Chalatenango)
  ameca.nahuatl_language: "Amecan" #Amecan ()

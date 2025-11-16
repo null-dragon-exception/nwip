@@ -239,7 +239,7 @@ italian_labrador_area_scripted_country_name = { #Lavoradore, Estotiland by Anton
     	location_trigger = {
     	}
     }
-italian_newfoundland_area_scripted_country_name = { #Terranova
+italian_newfoundland_area_scripted_country_name = { #Cabotia
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -1839,7 +1839,7 @@ italian_baja_area_scripted_country_name = { #California Inferiore
     	location_trigger = {
     	}
     }
-italian_amazon_area_scripted_country_name = { #Amazzonia
+italian_amazon_area_scripted_country_name = { #Rio de Amaxones, historical
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -2319,7 +2319,7 @@ italian_santa_catarina_area_scripted_country_name = { #Santa Catalina
     	location_trigger = {
     	}
     }
-italian_la_plata_area_scripted_country_name = { #Argentina, silver is argento in italian
+italian_la_plata_area_scripted_country_name = { #Fiume dell'Argento, silver is argento in italian
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -2359,7 +2359,7 @@ italian_la_plata_area_scripted_country_name = { #Argentina, silver is argento in
     	location_trigger = {
     	}
     }
-italian_patagonia_area_scripted_country_name = { #Pigafettana
+italian_patagonia_area_scripted_country_name = { #Pigafettania
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?

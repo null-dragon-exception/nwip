@@ -3,11 +3,11 @@
   portuguese_greenland_area_scripted_country_name_ADJ: "Terraverdano"
   portuguese_quebec_area_scripted_country_name: "Quebéque" #transliteration
   portuguese_quebec_area_scripted_country_name_ADJ: "Quebequeano"
-  portuguese_laurentian_area_scripted_country_name: "São Lourenço" #after St. Laurence
+  portuguese_laurentian_area_scripted_country_name: "Serra do São Lourenço" #after St. Laurence
   portuguese_laurentian_area_scripted_country_name_ADJ: "Lourencino"
-  portuguese_lower_canada_area_scripted_country_name: "Lower Canadá" #transliteration
-  portuguese_lower_canada_area_scripted_country_name_ADJ: "Lower Canadense"
-  portuguese_jamesie_area_scripted_country_name: "São Tiago Bay" #after Saint James
+  portuguese_lower_canada_area_scripted_country_name: "Baixo Canadá" #transliteration
+  portuguese_lower_canada_area_scripted_country_name_ADJ: "Baixo Canadense"
+  portuguese_jamesie_area_scripted_country_name: "Baía do São Tiago" #after Saint James
   portuguese_jamesie_area_scripted_country_name_ADJ: "Tiaguino"
   portuguese_nunavik_area_scripted_country_name: "Nunavica" #transliteration
   portuguese_nunavik_area_scripted_country_name_ADJ: "Nunavicano"
@@ -35,9 +35,9 @@
   portuguese_keewatin_area_scripted_country_name_ADJ: "Quivedimense"
   portuguese_cuba_area_scripted_country_name: "Cuba" #historical
   portuguese_cuba_area_scripted_country_name_ADJ: "Cubano"
-  portuguese_hispaniola_area_scripted_country_name: "Aití" #transliteration of Haiti, which seems to be native
-  portuguese_hispaniola_area_scripted_country_name_ADJ: "Aitíano"
-  portuguese_lesser_antilles_area_scripted_country_name: "Pequenas Antilhas" #transliteration
+  portuguese_hispaniola_area_scripted_country_name: "Săo Domingos" #historical
+  portuguese_hispaniola_area_scripted_country_name_ADJ: "Săo Domingano"
+  portuguese_lesser_antilles_area_scripted_country_name: "Pequenas Antilhas" #historical
   portuguese_lesser_antilles_area_scripted_country_name_ADJ: "Antilheano"
   portuguese_panama_area_scripted_country_name: "Panamá" #historical
   portuguese_panama_area_scripted_country_name_ADJ: "Panamense"
@@ -47,8 +47,8 @@
   portuguese_southern_new_england_area_scripted_country_name_ADJ: "Conetacutense"
   portuguese_vermont_area_scripted_country_name: "Monte Verde" #translation
   portuguese_vermont_area_scripted_country_name_ADJ: "Monte Verdense"
-  portuguese_new_hampshire_area_scripted_country_name: "New Alentejo" #after a province
-  portuguese_new_hampshire_area_scripted_country_name_ADJ: "New Alentejano"
+  portuguese_new_hampshire_area_scripted_country_name: "Nova Tejo" #after a province
+  portuguese_new_hampshire_area_scripted_country_name_ADJ: "Novo Tejano"
   portuguese_maine_area_scripted_country_name: "Beira" #after a portuguese province
   portuguese_maine_area_scripted_country_name_ADJ: "Beirano"
   portuguese_hudson_area_scripted_country_name: "Barcelos" #After Pêro de Barcelos
@@ -68,9 +68,9 @@
   portuguese_west_virginia_area_scripted_country_name: "Monogarrela" #transliteration from monongahela
   portuguese_west_virginia_area_scripted_country_name_ADJ: "Monogarrelense"
   portuguese_north_carolina_area_scripted_country_name: "São Carlos do Norte" #Carolina -> Saint Charles
-  portuguese_north_carolina_area_scripted_country_name_ADJ: "North Carlino"
+  portuguese_north_carolina_area_scripted_country_name_ADJ: "Norte-Carolinense"
   portuguese_south_carolina_area_scripted_country_name: "São Carlos do Sul" #Carolina -> Saint Charles
-  portuguese_south_carolina_area_scripted_country_name_ADJ: "South Carlino"
+  portuguese_south_carolina_area_scripted_country_name_ADJ: "Sul-Carolinense"
   portuguese_georgia_us_area_scripted_country_name: "São Jorge" #George -> St. George
   portuguese_georgia_us_area_scripted_country_name_ADJ: "Jorgiano"
   portuguese_florida_area_scripted_country_name: "Florida" #historical
@@ -105,10 +105,10 @@
   portuguese_minnesota_area_scripted_country_name_ADJ: "Minessotano"
   portuguese_superior_area_scripted_country_name: "Lago Frio" #after Lake Superior
   portuguese_superior_area_scripted_country_name_ADJ: "Lago Friense"
-  portuguese_north_dakota_area_scripted_country_name: "North Dacota" #transliteration
-  portuguese_north_dakota_area_scripted_country_name_ADJ: "North Dacotense"
-  portuguese_south_dakota_area_scripted_country_name: "South Dacota" #transliteration
-  portuguese_south_dakota_area_scripted_country_name_ADJ: "South Dacotense"
+  portuguese_north_dakota_area_scripted_country_name: "Dacota do Norte" #transliteration
+  portuguese_north_dakota_area_scripted_country_name_ADJ: "Norte-dacotano"
+  portuguese_south_dakota_area_scripted_country_name: "Dacota do Sul" #transliteration
+  portuguese_south_dakota_area_scripted_country_name_ADJ: "Sul-dacotano"
   portuguese_central_plains_area_scripted_country_name: "Campos Limpos" #means open/clean fields, akin to Mato Grosso
   portuguese_central_plains_area_scripted_country_name_ADJ: "Campos Limpense"
   portuguese_natahende_area_scripted_country_name: "São Felipe" #after the original name of New Mexico
@@ -197,10 +197,10 @@
   portuguese_rockies_area_scripted_country_name_ADJ: "Nevado"
   portuguese_hawaii_area_scripted_country_name: "Avaí" #transliteration
   portuguese_hawaii_area_scripted_country_name_ADJ: "Avaíano"
-  portuguese_cascadia_area_scripted_country_name: "Cascadia" #unchanged
-  portuguese_cascadia_area_scripted_country_name_ADJ: "Cascadia"
-  portuguese_amazon_area_scripted_country_name: "Amazonas" #historical -Grão-Pará better fit?
-  portuguese_amazon_area_scripted_country_name_ADJ: "Amazonean"
+  portuguese_cascadia_area_scripted_country_name: "Ouveágua" #historical
+  portuguese_cascadia_area_scripted_country_name_ADJ: "Ouveáguense"
+  portuguese_amazon_area_scripted_country_name: "Grão-Pará" #historical
+  portuguese_amazon_area_scripted_country_name_ADJ: "Grão-Paraense"
   portuguese_tocantins_area_scripted_country_name: "Tocantins" #historical
   portuguese_tocantins_area_scripted_country_name_ADJ: "Tocantinense"
   portuguese_mearim_area_scripted_country_name: "Mearim" #unused now
@@ -221,7 +221,7 @@
   portuguese_guapore_area_scripted_country_name_ADJ: "Guaporeio"
   portuguese_uruguay_area_scripted_country_name: "Cisplatina" #historical, unused
   portuguese_uruguay_area_scripted_country_name_ADJ: "Csiplatinan"
-  portuguese_para_area_scripted_country_name: "Pará" #historical
+  portuguese_para_area_scripted_country_name: "Pará" #historical -Rio Solimões
   portuguese_para_area_scripted_country_name_ADJ: "Paraense"
   portuguese_mato_grosso_area_scripted_country_name: "Mato Grosso" #historical
   portuguese_mato_grosso_area_scripted_country_name_ADJ: "Mato Grossense"
@@ -295,8 +295,8 @@
   portuguese_patagonia_area_scripted_country_name_ADJ: "Patagão"
   portuguese_falklands_area_scripted_country_name: "São Malo" #inspiration of the name Malvinas
   portuguese_falklands_area_scripted_country_name_ADJ: "Malouano"
-  portuguese_south_georgia_area_scripted_country_name: "São Jorge do Sul" #georgia -> St. George
-  portuguese_south_georgia_area_scripted_country_name_ADJ: "Sul-Jorgiano"
+  portuguese_south_georgia_area_scripted_country_name: "Ilha do São Pedro" #historical
+  portuguese_south_georgia_area_scripted_country_name_ADJ: "Pedrino"
   portuguese_charcas_area_scripted_country_name: "Charcas" #historical name
   portuguese_charcas_area_scripted_country_name_ADJ: "Charqueano"
   portuguese_salta_de_tucuman_area_scripted_country_name: "Tucumão do Norte" #translation
@@ -319,3 +319,5 @@
   portuguese_caly_area_scripted_country_name_ADJ: "Popaião"
   portuguese_guayana_area_scripted_country_name: "Guiana" 
   portuguese_guayana_area_scripted_country_name_ADJ: "Guiana"
+  portuguese_northwest_coast_area_scripted_country_name: "Nukta" 
+  portuguese_northwest_coast_area_scripted_country_name_ADJ: "Nukta"

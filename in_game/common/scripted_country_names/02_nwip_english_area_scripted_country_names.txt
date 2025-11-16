@@ -1487,7 +1487,7 @@ english_louisiana_area_scripted_country_name = { #Louisiana
     	location_trigger = {
     	}
     }
-english_arkansas_area_scripted_country_name = { #Arkansas
+english_arkansas_area_scripted_country_name = { #Arkansaw, Historical spelling
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -2386,7 +2386,7 @@ english_chactemal_area_scripted_country_name = { #Shactemaw
     	location_trigger = {
     	}
     }
-english_peten_area_scripted_country_name = { #Belize
+english_peten_area_scripted_country_name = { #Belize River
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -3440,7 +3440,7 @@ english_minas_gerais_area_scripted_country_name = { #Goldfields
     	location_trigger = {
     	}
     }
-english_sao_paulo_area_scripted_country_name = { #Paulicia
+english_sao_paulo_area_scripted_country_name = { #Paulicy
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -3719,6 +3719,37 @@ english_cuyo_area_scripted_country_name = { #New Cornwall
     	location_trigger = {
     	}
     }
+english_qullaw_area_scripted_country_name = { #Pearu Uplands
+    	# regular old country trigger
+    	country_trigger = {
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
+    		OR = {
+    			
+					court_language = language:english_language
+					culture.language = language:english_language
+					overlord ?= {
+						court_language = language:english_language
+					}
+					overlord ?= {
+						culture.language = language:english_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:qullaw_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
 english_acamama_area_scripted_country_name = { #Oldcastles
     	# regular old country trigger
     	country_trigger = {
@@ -3874,6 +3905,37 @@ english_ngulumapu_area_scripted_country_name = { #Chili
     	location_trigger = {
     	}
     }
+english_pampa_area_scripted_country_name = { #Drakeland
+    	# regular old country trigger
+    	country_trigger = {
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
+    		OR = {
+    			
+					court_language = language:english_language
+					culture.language = language:english_language
+					overlord ?= {
+						court_language = language:english_language
+					}
+					overlord ?= {
+						culture.language = language:english_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:pampa_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
 english_puelmapu_area_scripted_country_name = { #Black River
     	# regular old country trigger
     	country_trigger = {
@@ -3905,7 +3967,7 @@ english_puelmapu_area_scripted_country_name = { #Black River
     	location_trigger = {
     	}
     }
-english_patagonia_area_scripted_country_name = { #Drakeland
+english_patagonia_area_scripted_country_name = { #Little Cambria, Y Wladfa
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -4122,7 +4184,7 @@ english_boiaca_area_scripted_country_name = { #Boyaco
     	location_trigger = {
     	}
     }
-english_sinu_area_scripted_country_name = { #New Dorest
+english_sinu_area_scripted_country_name = { #New Granta
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -4146,6 +4208,37 @@ english_sinu_area_scripted_country_name = { #New Dorest
     	capital_trigger = {
     		OR = {
     			area = area:sinu_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+english_caracas_area_scripted_country_name = { #New Washes
+    	# regular old country trigger
+    	country_trigger = {
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
+    		OR = {
+    			
+					court_language = language:english_language
+					culture.language = language:english_language
+					overlord ?= {
+						court_language = language:english_language
+					}
+					overlord ?= {
+						culture.language = language:english_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:caracas_area
     		}
     	}
     	
