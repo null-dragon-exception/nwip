@@ -1,5 +1,17 @@
-﻿discovered_regions = {
-	caribbean_region
+﻿discovered_areas = {
+    hispaniola_area
+}
+discovered_provinces = {
+    arecibo_coast_sea_province
+    baracoa_province
+    hispaniola_coast
+    boriken_coast_sea_province
+    north_hispaniola_coast_sea_province
+    windward_passage
+    south_bahamas_coast_sea_province
+}
+discovered_locations = {
+    tortuga_island
 }
 starting_technology_level = 0
 government = {
