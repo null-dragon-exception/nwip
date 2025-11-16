@@ -36,7 +36,7 @@
 		global_max_control      = -0.25
 		global_monthly_control  = -0.25
 
-		global_population_growth       = -0.10
+		#global_population_growth       = -0.10
 		global_food_capacity_modifier  = -0.25
 	}
 
