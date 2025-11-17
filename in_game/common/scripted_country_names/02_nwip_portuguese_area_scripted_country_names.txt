@@ -61,7 +61,7 @@ portuguese_quebec_area_scripted_country_name = { #Quebéque, transliteration
     	location_trigger = {
     	}
     }
-portuguese_laurentian_area_scripted_country_name = { #São Lourenço, after St. Laurence
+portuguese_laurentian_area_scripted_country_name = { #Serra do São Lourenço, after St. Laurence
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -92,7 +92,7 @@ portuguese_laurentian_area_scripted_country_name = { #São Lourenço, after St. 
     	location_trigger = {
     	}
     }
-portuguese_lower_canada_area_scripted_country_name = { #Lower Canadá, transliteration
+portuguese_lower_canada_area_scripted_country_name = { #Baixo Canadá, transliteration
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -123,7 +123,7 @@ portuguese_lower_canada_area_scripted_country_name = { #Lower Canadá, translite
     	location_trigger = {
     	}
     }
-portuguese_jamesie_area_scripted_country_name = { #São Tiago Bay, after Saint James
+portuguese_jamesie_area_scripted_country_name = { #Baía do São Tiago, after Saint James
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -557,7 +557,7 @@ portuguese_cuba_area_scripted_country_name = { #Cuba, historical
     	location_trigger = {
     	}
     }
-portuguese_hispaniola_area_scripted_country_name = { #Aití, transliteration of Haiti, which seems to be native
+portuguese_hispaniola_area_scripted_country_name = { #Săo Domingos, historical
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -588,7 +588,7 @@ portuguese_hispaniola_area_scripted_country_name = { #Aití, transliteration of 
     	location_trigger = {
     	}
     }
-portuguese_lesser_antilles_area_scripted_country_name = { #Pequenas Antilhas, transliteration
+portuguese_lesser_antilles_area_scripted_country_name = { #Pequenas Antilhas, historical
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -743,7 +743,7 @@ portuguese_vermont_area_scripted_country_name = { #Monte Verde, translation
     	location_trigger = {
     	}
     }
-portuguese_new_hampshire_area_scripted_country_name = { #New Alentejo, after a province
+portuguese_new_hampshire_area_scripted_country_name = { #Nova Tejo, after a province
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -1642,7 +1642,7 @@ portuguese_superior_area_scripted_country_name = { #Lago Frio, after Lake Superi
     	location_trigger = {
     	}
     }
-portuguese_north_dakota_area_scripted_country_name = { #North Dacota, transliteration
+portuguese_north_dakota_area_scripted_country_name = { #Dacota do Norte, transliteration
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -1673,7 +1673,7 @@ portuguese_north_dakota_area_scripted_country_name = { #North Dacota, transliter
     	location_trigger = {
     	}
     }
-portuguese_south_dakota_area_scripted_country_name = { #South Dacota, transliteration
+portuguese_south_dakota_area_scripted_country_name = { #Dacota do Sul, transliteration
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -3068,7 +3068,7 @@ portuguese_hawaii_area_scripted_country_name = { #Avaí, transliteration
     	location_trigger = {
     	}
     }
-portuguese_cascadia_area_scripted_country_name = { #Cascadia, unchanged
+portuguese_cascadia_area_scripted_country_name = { #Ouveágua, historical
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -3099,7 +3099,7 @@ portuguese_cascadia_area_scripted_country_name = { #Cascadia, unchanged
     	location_trigger = {
     	}
     }
-portuguese_amazon_area_scripted_country_name = { #Amazonas, historical -Grão-Pará better fit?
+portuguese_amazon_area_scripted_country_name = { #Grão-Pará, historical
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -3440,7 +3440,7 @@ portuguese_uruguay_area_scripted_country_name = { #Cisplatina, historical, unuse
     	location_trigger = {
     	}
     }
-portuguese_para_area_scripted_country_name = { #Pará, historical
+portuguese_para_area_scripted_country_name = { #Pará, historical -Rio Solimões
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -4587,7 +4587,7 @@ portuguese_falklands_area_scripted_country_name = { #São Malo, inspiration of t
     	location_trigger = {
     	}
     }
-portuguese_south_georgia_area_scripted_country_name = { #São Jorge do Sul, georgia -> St. George
+portuguese_south_georgia_area_scripted_country_name = { #Ilha do São Pedro, historical
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -4952,6 +4952,37 @@ portuguese_guayana_area_scripted_country_name = { #Guiana
     	capital_trigger = {
     		OR = {
     			area = area:guayana_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+portuguese_northwest_coast_area_scripted_country_name = { #Nukta
+    	# regular old country trigger
+    	country_trigger = {
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
+    		OR = {
+    			
+					court_language = language:portuguese_language
+					culture.language = language:portuguese_language
+					overlord ?= {
+						court_language = language:portuguese_language
+					}
+					overlord ?= {
+						culture.language = language:portuguese_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:northwest_coast_area
     		}
     	}
     	

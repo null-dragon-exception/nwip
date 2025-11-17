@@ -92,7 +92,7 @@ german_laurentian_area_scripted_country_name = { #Lorenzberge, germanized
     	location_trigger = {
     	}
     }
-german_lower_canada_area_scripted_country_name = { #Niederkanada, translation
+german_lower_canada_area_scripted_country_name = { #Königsbergen, translation of Montreal
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -867,7 +867,7 @@ german_haudenosaunee_area_scripted_country_name = { #Irokesien, translation
     	location_trigger = {
     	}
     }
-german_new_jersey_area_scripted_country_name = { #Neurügen
+german_new_jersey_area_scripted_country_name = { #Neuwineta
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?

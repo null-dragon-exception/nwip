@@ -24,7 +24,7 @@
   french_eastern_ontario_area_scripted_country_name: "Grand-Rivière des Outaouais " #historical
   french_eastern_ontario_area_scripted_country_name_ADJ: "Grand-Rivière des Outaouais "
   french_western_ontario_area_scripted_country_name: "Huronie" #historical
-  french_western_ontario_area_scripted_country_name_ADJ: "Huronie"
+  french_western_ontario_area_scripted_country_name_ADJ: "Huronien"
   french_northern_ontario_area_scripted_country_name: "Pays des Nipissing" #historical
   french_northern_ontario_area_scripted_country_name_ADJ: "Pays des Nipissing"
   french_northwestern_ontario_area_scripted_country_name: "Baie du Tonnerre" #historical
@@ -37,8 +37,8 @@
   french_cuba_area_scripted_country_name_ADJ: "Cuba"
   french_hispaniola_area_scripted_country_name: "Saint-Domingue" #historical, also Haïti
   french_hispaniola_area_scripted_country_name_ADJ: "Domingois"
-  french_lesser_antilles_area_scripted_country_name: "Petites Antilles" 
-  french_lesser_antilles_area_scripted_country_name_ADJ: "Petites Antilles"
+  french_lesser_antilles_area_scripted_country_name: "Îles de l'Amérique" #historical
+  french_lesser_antilles_area_scripted_country_name_ADJ: "Indes occidental"
   french_panama_area_scripted_country_name: "Panama" 
   french_panama_area_scripted_country_name_ADJ: "Panama"
   french_massachusetts_area_scripted_country_name: "Almouchiquie" #see dutch
@@ -52,7 +52,7 @@
   french_maine_area_scripted_country_name: "Norembègue" #historical
   french_maine_area_scripted_country_name_ADJ: "Norembègue"
   french_hudson_area_scripted_country_name: "Nouvelle-Angoulême" #It's the same, and I don't care 
-  french_hudson_area_scripted_country_name_ADJ: "Nouvelle-Angoulême"
+  french_hudson_area_scripted_country_name_ADJ: "Nouvelle-Angoumoisin"
   french_haudenosaunee_area_scripted_country_name: "Iroquoisie" #historical
   french_haudenosaunee_area_scripted_country_name_ADJ: "Iroquoisie"
   french_new_jersey_area_scripted_country_name: "Nouvelle-Oléron" 
@@ -73,8 +73,8 @@
   french_south_carolina_area_scripted_country_name_ADJ: "Haute-Caroline"
   french_georgia_us_area_scripted_country_name: "Basse-Caroline" 
   french_georgia_us_area_scripted_country_name_ADJ: "Basse-Caroline"
-  french_florida_area_scripted_country_name: "La Floride" #Historical
-  french_florida_area_scripted_country_name_ADJ: "La Floride"
+  french_florida_area_scripted_country_name: "Floride" #Historical
+  french_florida_area_scripted_country_name_ADJ: "Floride"
   french_tennessee_area_scripted_country_name: "Rivière à Margot" #Historical
   french_tennessee_area_scripted_country_name_ADJ: "Rivière à Margot"
   french_kentucky_area_scripted_country_name: "Belle Rivière" #Historical name for Ohio River
@@ -96,7 +96,7 @@
   french_louisiana_area_scripted_country_name: "Basse-Louisiane" #Historical
   french_louisiana_area_scripted_country_name_ADJ: "Basse-Louisiane"
   french_arkansas_area_scripted_country_name: "Les Arcs" #Historical
-  french_arkansas_area_scripted_country_name_ADJ: "Les Arcs"
+  french_arkansas_area_scripted_country_name_ADJ: "Lesarcien"
   french_missouri_area_scripted_country_name: "Haute-Louisiane" #Historical
   french_missouri_area_scripted_country_name_ADJ: "Haute-Louisiane"
   french_iowa_area_scripted_country_name: "Le Moingona" #Historical
@@ -141,6 +141,16 @@
   french_xilotepec_area_scripted_country_name_ADJ: "Montagnes d'Argent"
   french_xalisco_area_scripted_country_name: "Nouvelle-Aquitaine" 
   french_xalisco_area_scripted_country_name_ADJ: "Nouvelle-Aquitaine"
+  french_minas_gerais_area_scripted_country_name: "Bel Horizon" 
+  french_minas_gerais_area_scripted_country_name_ADJ: "Emboabas"
+  french_mayaab_area_scripted_country_name: "Yucatán" 
+  french_mayaab_area_scripted_country_name_ADJ: "Yucatán"
+  french_chilapan_area_scripted_country_name: "Chilapan" 
+  french_chilapan_area_scripted_country_name_ADJ: "Chilapan"
+  french_puuk_area_scripted_country_name: "Campêche " 
+  french_puuk_area_scripted_country_name_ADJ: "Campêche "
+  french_chactemal_area_scripted_country_name: "Chetumal" 
+  french_chactemal_area_scripted_country_name_ADJ: "Chetumal"
   french_peten_area_scripted_country_name: "Bellix" 
   french_peten_area_scripted_country_name_ADJ: "Bellix"
   french_tezulutlan_area_scripted_country_name: "Goathemala" 
@@ -187,8 +197,14 @@
   french_amazon_area_scripted_country_name_ADJ: "Amazonie"
   french_tocantins_area_scripted_country_name: "Toucantine" 
   french_tocantins_area_scripted_country_name_ADJ: "Toucantine"
+  french_uruguay_area_scripted_country_name: "La Orientale" 
+  french_uruguay_area_scripted_country_name_ADJ: "La Orientale"
   french_para_area_scripted_country_name: "Bas Amazonie" 
   french_para_area_scripted_country_name_ADJ: "Bas Amazonie"
+  french_mato_grosso_area_scripted_country_name: "Grande Brousse" 
+  french_mato_grosso_area_scripted_country_name_ADJ: "Grande Brousse"
+  french_goias_area_scripted_country_name: "Formose " 
+  french_goias_area_scripted_country_name_ADJ: "Formose "
   french_maranhao_area_scripted_country_name: "France Équinoxiale " #historical
   french_maranhao_area_scripted_country_name_ADJ: "France Équinoxiale "
   french_piaui_area_scripted_country_name: "Piauhy " 
@@ -205,12 +221,16 @@
   french_espirito_santo_area_scripted_country_name_ADJ: "Saint Esprit"
   french_rio_de_janeiro_area_scripted_country_name: "France Antartique" #historical name
   french_rio_de_janeiro_area_scripted_country_name_ADJ: "Antartique"
-  french_minas_gerais_area_scripted_country_name: "Emboabas" 
+  french_minas_gerais_area_scripted_country_name: "Bel Horizon" 
   french_minas_gerais_area_scripted_country_name_ADJ: "Emboabas"
   french_sao_paulo_area_scripted_country_name: "Saint-Paul" 
   french_sao_paulo_area_scripted_country_name_ADJ: "Saint-Paul"
   french_santa_catarina_area_scripted_country_name: "Sainte-Catherine" 
   french_santa_catarina_area_scripted_country_name_ADJ: "Sainte-Catherine"
+  french_chala_area_scripted_country_name: "Basse-Bérou" 
+  french_chala_area_scripted_country_name_ADJ: "Basse-Bérouvien"
+  french_qullaw_area_scripted_country_name: "Haute-Bérou" 
+  french_qullaw_area_scripted_country_name_ADJ: "Haute-Bérouvien"
   french_la_plata_area_scripted_country_name: "Argentine" 
   french_la_plata_area_scripted_country_name_ADJ: "Argentin"
   french_ngulumapu_area_scripted_country_name: "Araucanie " 
@@ -221,7 +241,15 @@
   french_falklands_area_scripted_country_name_ADJ: "Îles Malouines"
   french_south_georgia_area_scripted_country_name: "Île Roché" #historical
   french_south_georgia_area_scripted_country_name_ADJ: "Île Roché"
-  french_sinu_area_scripted_country_name: "La Rochelle D'Ouest" 
-  french_sinu_area_scripted_country_name_ADJ: "La Rochelle D'Ouest"
+  french_sinu_area_scripted_country_name: "La Rochelle d'Ouest" 
+  french_sinu_area_scripted_country_name_ADJ: "La Rochelle d'Ouest"
+  french_suchiimma_area_scripted_country_name: "Nouvelle-Vendée " 
+  french_suchiimma_area_scripted_country_name_ADJ: "Nouvelle-Vendée "
+  french_caracas_area_scripted_country_name: "Marais Poitevinette" 
+  french_caracas_area_scripted_country_name_ADJ: "Marais Poitevinette"
   french_guayana_area_scripted_country_name: "Guyane" 
   french_guayana_area_scripted_country_name_ADJ: "Guyane"
+  french_northwestern_australia_area_scripted_country_name: "Jave la Grande" 
+  french_northwestern_australia_area_scripted_country_name_ADJ: "Jave la Grande"
+  french_north_island_area_scripted_country_name: "La Joncade " 
+  french_north_island_area_scripted_country_name_ADJ: "La Joncade "

@@ -37,8 +37,8 @@
   dutch_cuba_area_scripted_country_name_ADJ: "Cubaanse"
   dutch_hispaniola_area_scripted_country_name: "Batavia Eylandt" #Similar to 'Hispaniola' but befitting a Dutch context. Adding Eylandt to differentiate it from Batavia in Indonesia.
   dutch_hispaniola_area_scripted_country_name_ADJ: "Bataafse"
-  dutch_lesser_antilles_area_scripted_country_name: "Kleine Antillen" #Translation
-  dutch_lesser_antilles_area_scripted_country_name_ADJ: "Kleine Antilliaanse"
+  dutch_lesser_antilles_area_scripted_country_name: "Bovenwindse Eilanden" #Historical
+  dutch_lesser_antilles_area_scripted_country_name_ADJ: "Bovenwindse Eilandense"
   dutch_panama_area_scripted_country_name: "Panama" #Historical
   dutch_panama_area_scripted_country_name_ADJ: "Panamiaanse"
   dutch_massachusetts_area_scripted_country_name: "Almouchicosen" #Historical: derived from the French term 'Almouchiquois' coined by Samuel de Champlain 1613, referencing the Algonquian. Appears on all Dutch maps since then as 'Almouchicoesen' or '-cosen'.

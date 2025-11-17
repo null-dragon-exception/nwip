@@ -11,8 +11,8 @@
   italian_nunavik_area_scripted_country_name_ADJ: "Nunaviche"
   italian_labrador_area_scripted_country_name: "Lavoradore" #Estotiland by Antonio Zeno
   italian_labrador_area_scripted_country_name_ADJ: "Lavoradore"
-  italian_newfoundland_area_scripted_country_name: "Terranova" 
-  italian_newfoundland_area_scripted_country_name_ADJ: "Terranova"
+  italian_newfoundland_area_scripted_country_name: "Cabotia" 
+  italian_newfoundland_area_scripted_country_name_ADJ: "Cabotia"
   italian_prince_edward_island_area_scripted_country_name: "Isola del Principe" 
   italian_prince_edward_island_area_scripted_country_name_ADJ: "Isola del Principe"
   italian_acadia_area_scripted_country_name: "Acadia Peninsulare" 
@@ -72,7 +72,7 @@
   italian_michigan_area_scripted_country_name: "Missigania" 
   italian_michigan_area_scripted_country_name_ADJ: "Missigania"
   italian_louisiana_area_scripted_country_name: "Luigiana" 
-  italian_louisiana_area_scripted_country_name_ADJ: "Luigiana"
+  italian_louisiana_area_scripted_country_name_ADJ: "Luigiano"
   italian_arkansas_area_scripted_country_name: "Arcansa" 
   italian_arkansas_area_scripted_country_name_ADJ: "Arcansa"
   italian_missouri_area_scripted_country_name: "Misuri" 
@@ -91,8 +91,8 @@
   italian_peten_area_scripted_country_name_ADJ: "Beliza"
   italian_baja_area_scripted_country_name: "California Inferiore" 
   italian_baja_area_scripted_country_name_ADJ: "California Inferiore"
-  italian_amazon_area_scripted_country_name: "Amazzonia" 
-  italian_amazon_area_scripted_country_name_ADJ: "Amazzonia"
+  italian_amazon_area_scripted_country_name: "Rio de Amaxones" #historical
+  italian_amazon_area_scripted_country_name_ADJ: "Rio de Amaxones"
   italian_tocantins_area_scripted_country_name: "Tocanccine" 
   italian_tocantins_area_scripted_country_name_ADJ: "Tocanccine"
   italian_paraguay_area_scripted_country_name: "Paragaggio" 
@@ -115,10 +115,10 @@
   italian_sao_paulo_area_scripted_country_name_ADJ: "San Paolo"
   italian_santa_catarina_area_scripted_country_name: "Santa Catalina" 
   italian_santa_catarina_area_scripted_country_name_ADJ: "Santa Catalina"
-  italian_la_plata_area_scripted_country_name: "Argentina" #silver is argento in italian
-  italian_la_plata_area_scripted_country_name_ADJ: "Argentina"
-  italian_patagonia_area_scripted_country_name: "Pigafettana" 
-  italian_patagonia_area_scripted_country_name_ADJ: "Pigafettana"
+  italian_la_plata_area_scripted_country_name: "Fiume dell'Argento" #silver is argento in italian
+  italian_la_plata_area_scripted_country_name_ADJ: "Argentino"
+  italian_patagonia_area_scripted_country_name: "Pigafettania" 
+  italian_patagonia_area_scripted_country_name_ADJ: "Pigafettania"
   italian_sinu_area_scripted_country_name: "Portovenere" 
   italian_sinu_area_scripted_country_name_ADJ: "Portovenere"
   italian_guayana_area_scripted_country_name: "Ferdinanda" #after the unsucessful tuscan colony
