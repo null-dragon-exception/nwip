@@ -24483,7 +24483,7 @@ bororos = { topography = plateau vegetation = grasslands climate = tropical reli
 uberaba = { topography = plateau vegetation = grasslands climate = tropical religion = doi_wahire_religion culture = mebengokre_culture raw_material = wild_game}
 bagagem = { topography = hills vegetation = grasslands climate = tropical religion = doi_wahire_religion culture = mebengokre_culture raw_material = beeswax}
 aratu = { topography = hills vegetation = grasslands climate = tropical religion = doi_wahire_religion culture = mebengokre_culture raw_material = beeswax}
-pium_i = { topography = hills vegetation = forest climate = continental religion = doi_wahire_religion culture = mebengokre_culture raw_material = lumber}
+pium_i = { topography = hills vegetation = forest climate = subtropical religion = doi_wahire_religion culture = mebengokre_culture raw_material = lumber}
 buzare_point = { topography = coastal_ocean climate = tropical}
 approuage_mouth = { topography = coastal_ocean climate = tropical}
 cassipore_mouth = { topography = coastal_ocean climate = tropical}
