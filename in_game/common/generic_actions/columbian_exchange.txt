@@ -128,6 +128,9 @@ move_nw_good_to_new_location = {
 				every_subject_or_below = {
 					every_owned_location = {
 						limit = {
+							raw_material ?= {
+								exists = yes
+							}
 							is_candidate_for_NW_good = yes
 						}
 						add_to_list = source
@@ -135,6 +138,9 @@ move_nw_good_to_new_location = {
 				}
 				every_owned_location = {
 					limit = {
+						raw_material ?= {
+							exists = yes
+						}
 						is_candidate_for_NW_good = yes
 					}
 					add_to_list = source
@@ -482,7 +488,6 @@ move_nw_good_to_new_location = {
 
 	effect = {
 		scope:target_location ?= {			
-			change_raw_material = scope:target_good
 			change_max_raw_material_workers = {
 				value = rgo_workers
 				subtract = 1
@@ -490,6 +495,7 @@ move_nw_good_to_new_location = {
 				multiply = -1
 			}
 			change_prosperity = prosperity_weak_penalty
+			change_raw_material = scope:target_good
 		}
 	}
 	
@@ -669,6 +675,9 @@ move_ow_good_to_new_location = {
 				every_subject_or_below = {
 					every_owned_location = {
 						limit = {
+							raw_material ?= {
+								exists = yes
+							}
 							is_candidate_for_OW_good = yes
 						}
 						add_to_list = source
@@ -676,6 +685,10 @@ move_ow_good_to_new_location = {
 				}
 				every_owned_location = {
 					limit = {
+						#NWIP debug?
+						raw_material ?= {
+							exists = yes
+						}
 						is_candidate_for_OW_good = yes
 					}
 					add_to_list = source
@@ -836,7 +849,7 @@ move_ow_good_to_new_location = {
 			OR = {
 				continent = continent:america
 				continent = continent:oceania
-				region = region:macaronesia
+				region = region:macaronesia_region
 			}
 			#Cotton https://ipad.fas.usda.gov/cropexplorer/cropview/commodityView.aspx?cropid=2631000
 			trigger_if = {
@@ -1137,7 +1150,6 @@ move_ow_good_to_new_location = {
 
 	effect = {
 		scope:target_location ?= {			
-			change_raw_material = scope:target_good
 			change_max_raw_material_workers = {
 				value = rgo_workers
 				subtract = 1
@@ -1145,6 +1157,7 @@ move_ow_good_to_new_location = {
 				multiply = -1
 			}
 			change_prosperity = prosperity_weak_penalty
+			change_raw_material = scope:target_good
 		}
 	}
 	
