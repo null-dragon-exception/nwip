@@ -2,8 +2,8 @@
 
 NWIP_flavor_iberia.1 = { # Conquest of Mexico
 	type = country_event
-	title = NWIP_flavor_iberia.1.title
-	desc = NWIP_flavor_iberia.1.desc
+	title = flavor_cas.36.title
+	desc = flavor_cas.36.desc
 	image = "gfx/interface/illustrations/institutions/new_world.dds"
 	fire_only_once = yes
 
@@ -170,8 +170,8 @@ NWIP_flavor_iberia.1 = { # Conquest of Mexico
 
 NWIP_flavor_iberia.2 = { # Conquest of the Andes
 	type = country_event
-	title = NWIP_flavor_iberia.2.title
-	desc = NWIP_flavor_iberia.2.desc
+	title = flavor_cas.35.title
+	desc = flavor_cas.35.desc
 	image = "gfx/interface/illustrations/institutions/new_world.dds"
 	fire_only_once = yes
 
