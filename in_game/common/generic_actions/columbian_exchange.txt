@@ -128,6 +128,9 @@ move_nw_good_to_new_location = {
 				every_subject_or_below = {
 					every_owned_location = {
 						limit = {
+							raw_material ?= {
+								exists = yes
+							}
 							is_candidate_for_NW_good = yes
 						}
 						add_to_list = source
@@ -135,6 +138,9 @@ move_nw_good_to_new_location = {
 				}
 				every_owned_location = {
 					limit = {
+						raw_material ?= {
+							exists = yes
+						}
 						is_candidate_for_NW_good = yes
 					}
 					add_to_list = source
@@ -669,6 +675,9 @@ move_ow_good_to_new_location = {
 				every_subject_or_below = {
 					every_owned_location = {
 						limit = {
+							raw_material ?= {
+								exists = yes
+							}
 							is_candidate_for_OW_good = yes
 						}
 						add_to_list = source
@@ -676,6 +685,10 @@ move_ow_good_to_new_location = {
 				}
 				every_owned_location = {
 					limit = {
+						#NWIP debug?
+						raw_material ?= {
+							exists = yes
+						}
 						is_candidate_for_OW_good = yes
 					}
 					add_to_list = source
