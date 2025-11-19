@@ -1,0 +1,42 @@
+building_manager = {
+	#South American Terraces
+	#Garrochamba terraces
+	terraces = {tag = GRR level = 1 location = cangochamba}
+	#Sacha-p-qulla terraces
+	terraces = {tag = CYA level = 1 location = karajia}
+	#Chimu terraces
+	terraces = {tag = CHM level = 1 location = ishma}
+	#Collique terraces
+	terraces = {tag = CLQ level = 1 location = collique}
+	#Ishma terraces
+	terraces = {tag = ICM level = 1 location = ishma}
+	#Qusqu terraces
+	terraces = {tag = CSU level = 1 location = qusqu}
+	terraces = {tag = CSU level = 1 location = quillarumiyoc}
+	#Mayonmarka terraces
+	terraces = {tag = MYM level = 1 location = choccalpata}
+	#Sora terraces
+	terraces = {tag = SRA level = 1 location = soras}
+	#Urin Chanka terraces
+	terraces = {tag = URC level = 1 location = huaman_karpa}
+	#Lupijaki terraces
+	terraces = {tag = LUP level = 1 location = pomata}
+	#Kana terraces
+	terraces = {tag = KNA level = 1 location = ayaviri }
+	#Qulla terraces
+	terraces = {tag = QUL level = 1 location = hatunqulla}
+	#Paka Jaqis terraces
+	terraces = {tag = PCJ level = 1 location = machaqa}
+	terraces = {tag = PCJ level = 1 location = axawiri}
+	terraces = {tag = PCJ level = 1 location = sicasica}
+	#Sura terraces
+	terraces = {tag = SUR level = 1 location = sura}
+	#Aruni terraces
+	terraces = {tag = ANI level = 1 location = aruni}
+	#Churajon terraces
+	terraces = {tag = CHJ level = 1 location = caraveli}
+	#Parinacoha terraces
+	terraces = {tag = PCO level = 1 location = tucssa}
+	#Chinca terraces
+	terraces = {tag = CIC level = 1 location = ica}
+}
