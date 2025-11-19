@@ -1,0 +1,68 @@
+﻿		discovered_areas = {
+			illinois_area
+			indiana_area
+			kentucky_area
+			tennessee_area
+			alabama_area
+			mississippi_area
+			louisiana_area
+			missouri_area
+			arkansas_area
+			georgia_us_area
+			south_carolina_area
+			florida_area
+			gulf_of_mexico_area
+		}
+starting_technology_level = 0
+government = {
+	type = tribe
+	heir_selection = tribal_oldest_male
+
+	centralization_vs_decentralization = 80
+	traditionalist_vs_innovative = -70
+	spiritualist_vs_humanist = -60
+	aristocracy_vs_plutocracy = -60
+	serfdom_vs_free_subjects = 100
+	mercantilism_vs_free_trade = 0
+	belligerent_vs_conciliatory = 60
+	quality_vs_quantity = -50
+	offensive_vs_defensive = 10
+	land_vs_naval = 20
+	capital_economy_vs_traditional_economy = 100
+	individualism_vs_communalism = 80
+	outward_vs_inward = 50
+	parliament = {
+		parliament_type = assembly
+	}
+
+	privilege = {
+		#Nobles
+		nobles_land_rights
+
+		#Clergy
+		clerical_advisory_council
+		promote_cultural_unity
+
+		#Burghers
+		market_fairs
+
+		#Commoners
+		peasants_autonomous_villages
+		communal_lands
+		allow_hunting
+		partial_yield
+		peasants_free_peasantry
+
+		tribes_tribal_levies
+		tribes_allow_gatherings
+	}
+
+    reforms = {
+        chiefdom
+    }
+
+	laws = {
+		marriage_law = polygyny
+		heir_religion_law = heir_same_religion
+	}
+}

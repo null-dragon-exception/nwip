@@ -1,0 +1,275 @@
+﻿namespace = rapid_collapse_of_society
+
+# 1) Disaster start
+rapid_collapse_of_society.1 = {
+	type = country_event
+	category = disaster_event
+	title = rapid_collapse_of_society.1.title
+	desc  = rapid_collapse_of_society.1.desc
+	image = "gfx/interface/illustrations/disaster/peasants_war.dds"
+	fire_only_once = yes
+
+	immediate = {
+		ruler ?= { save_scope_as = target_ruler }
+		capital = { save_scope_as = target_capital }
+	}
+
+	option = {
+		name = rapid_collapse_of_society.1.a
+		add_stability = stability_heavy_penalty
+		custom_tooltip = rapid_collapse_of_society.1.tt
+	}
+}
+
+# 2) Ghost Villages (abandon low-pop location)
+rapid_collapse_of_society.2 = {
+	type = country_event
+	category = disaster_event
+	title = rapid_collapse_of_society.2.title
+	desc  = rapid_collapse_of_society.2.desc
+	image = "gfx/interface/illustrations/disaster/peasants_war.dds"
+
+	trigger = {
+		any_owned_location = { population < 3.0 }
+	}
+
+	immediate = {
+		random_owned_location = {
+			limit = { population < 3.0 }
+			save_scope_as = selected_location
+			area = {
+				save_scope_as = selected_area
+			}
+		}
+		scope:selected_area = {
+			random_province_definition_in_area = {
+				limit = {
+					NOT = {
+						this = scope:selected_location.province_definition
+					}
+					any_location_in_province_definition = {
+						has_owner = no
+					}
+				}
+				save_scope_as = target_migration_province
+			}
+		}
+		
+	}
+
+	option = { # "Let it go"
+		name = rapid_collapse_of_society.2.a
+		abandon_location = scope:selected_location
+		historical_option = yes
+		ai_chance = { factor = 100 }
+	}
+
+	option = { # "Hold it together"
+		name = rapid_collapse_of_society.2.b
+		scope:selected_location = {
+			change_control = control_radical_penalty
+		}
+		add_stability = stability_extreme_penalty
+		# friction costs to "cling on"
+		if = {
+			limit = {
+				exists = scope:target_migration_province
+			}
+			add_migration = {
+				owner ?= ROOT
+				from = scope:selected_location.province_definition
+				to = scope:target_migration_province
+				type = pop_type:peasants
+				amount = 0.25
+				months = 18
+			}
+		}
+		
+		ai_chance = { factor = 0 }
+	}
+}
+
+# 3) Flight into the Hinterlands (forced outflow even if you don’t abandon)
+rapid_collapse_of_society.3 = {
+	type = country_event
+	category = disaster_event
+	title = rapid_collapse_of_society.3.title
+	desc  = rapid_collapse_of_society.3.desc
+	image = "gfx/interface/illustrations/disaster/peasants_war.dds"
+
+	trigger = {
+		any_owned_location = { population >= 1.0 }
+	}
+
+	immediate = {
+		random_owned_location = { save_scope_as = source_location }
+		scope:source_location.area = { save_scope_as = source_area }
+		scope:source_area = {
+			random_province_definition_in_area = {
+				limit = {
+					any_location_in_province_definition = {
+						has_owner = no
+					}
+					NOT = {
+						this = scope:source_location.province_definition
+					}
+				}
+				save_scope_as = sink_province
+			}
+		}
+	}
+
+	option = {
+		name = rapid_collapse_of_society.3.a
+		add_stability = stability_mild_penalty
+		add_migration = {
+			owner ?= ROOT
+			from = scope:source_location.province_definition
+			to   = scope:sink_province
+			type = pop_type:peasants
+			amount = 0.33
+			months = 24
+		}
+		add_migration = {
+			owner ?= ROOT
+			from = scope:source_location.province_definition
+			to   = scope:sink_province
+			type = pop_type:tribesmen
+			amount = 0.67
+			months = 24
+		}
+	}
+}
+
+# 4) Seat of Power Falters (nudge to abandon capital)
+rapid_collapse_of_society.4 = {
+	type = country_event
+	category = disaster_event
+	title = rapid_collapse_of_society.4.title
+	desc  = rapid_collapse_of_society.4.desc
+	image = "gfx/interface/illustrations/disaster/peasants_war.dds"
+
+	trigger = {
+		OR = {
+			num_locations <= 1
+			capital = { population < 3.0 }
+		}
+	}
+
+	immediate = {
+		capital = { save_scope_as = cap_loc }
+	}
+
+	option = { # Abandon the seat (AI prefers)
+		name = rapid_collapse_of_society.4.a
+		abandon_location = scope:cap_loc
+		add_stability = stability_mild_penalty
+		historical_option = yes
+		ai_chance = { factor = 100 }
+	}
+
+	option = { # Stand firm (player pain)
+		name = rapid_collapse_of_society.4.b
+		add_stability = stability_extreme_penalty
+		change_government_corruption = corruption_severe_gain
+		cap_loc = { change_control = control_radical_penalty }
+		ai_chance = { factor = 0 }
+	}
+}
+
+# 101) Rolling Exodus (lightweight, frequent)
+rapid_collapse_of_society.101 = {
+	hide_portraits = yes
+	type = country_event
+	title = rapid_collapse_of_society.101.title
+	desc  = rapid_collapse_of_society.101.desc
+
+	trigger = { always = yes }
+
+	immediate = {
+		event_illustration_estate_effect = {
+			foreground = estate_type:peasants_estate
+			background = estate_type:peasants_estate
+		}
+		ruler ?= { save_scope_as = our_ruler }
+		
+		random_owned_location = { save_scope_as = rcs_source }
+
+		# pick a plausible neighboring area as a sink
+		scope:rcs_source.area = {
+			random_neighbor_area = {
+				limit = {
+					any_location_in_area = { has_owner = no }
+				}
+				save_scope_as = rcs_area_sink  
+			}
+		}
+
+		scope:rcs_area_sink = {
+			random_province_definition_in_area = {
+				limit = {
+					any_location_in_province_definition = {
+						has_owner = no
+					}
+				}
+				save_scope_as = rcs_sink
+			}
+		}
+		
+	}
+
+	illustration_tags = { 10 = angry 10 = exterior }
+
+	option = { # People slip away
+		name = rapid_collapse_of_society.101.a
+		add_stability = stability_mild_penalty
+
+		add_migration = {
+			owner ?= ROOT
+			from = scope:rcs_source.province_definition
+			to   = scope:rcs_sink
+			type = pop_type:peasants
+			amount = 0.33
+			months = 24
+		}
+		add_migration = {
+			owner ?= ROOT
+			from = scope:rcs_source.province_definition
+			to   = scope:rcs_sink
+			type = pop_type:tribesmen
+			amount = 0.50
+			months = 24
+		}
+		add_migration = {
+			owner ?= ROOT
+			from = scope:rcs_source.province_definition
+			to   = scope:rcs_sink
+			type = pop_type:laborers
+			amount = 0.20
+			months = 24
+		}
+		ai_chance = { factor = 1 }
+	}
+
+	option = { # If the source is already tiny, just abandon it
+		name = rapid_collapse_of_society.101.b
+		trigger = { scope:rcs_source = { population < 3.0 } }
+		abandon_location = scope:rcs_source
+		historical_option = yes
+		ai_chance = { factor = 100 }
+	}
+}
+
+# 10) Disaster end
+rapid_collapse_of_society.10 = {
+	type = country_event
+	category = disaster_event
+	title = rapid_collapse_of_society.10.title
+	desc  = rapid_collapse_of_society.10.desc
+	image = "gfx/interface/illustrations/disaster/peasants_war.dds"
+
+	option = {
+		name = rapid_collapse_of_society.10.a
+		custom_tooltip = rapid_collapse_of_society.10.tt
+	}
+}

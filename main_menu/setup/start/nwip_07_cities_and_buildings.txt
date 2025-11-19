@@ -1,0 +1,33 @@
+locations={
+	
+	#Colombia
+	teyuna = { rank = town 			town_setup = andes_town  }
+	chunsua = { rank = town	town_setup = andes_town }
+	
+	# Cahokia
+	cahokia = { rank = town town_setup = south_east_woodlands_town }
+	canajoharie = { rank = town town_setup = south_east_woodlands_town }
+	ialophaybo = { rank = town town_setup = south_east_woodlands_town }
+
+	#Andes
+	#tantaricuy = { rank = town 		town_setup = andes_town }
+	xllang = { rank = town	 		town_setup = andes_town  }
+	#ishma = { rank = town 			town_setup = andes_town  }
+	#allpas = { rank = town 			town_setup = andes_town  }
+	#huaman_karpa = { rank = town	town_setup = andes_town  }
+	chinchay = { rank = town 		town_setup = andes_town  }
+	qusqu = { rank = town 			town_setup = andes_town  }
+	#charka = { rank = town		 	town_setup = andes_town  }
+	#malacatos = { rank = town	 	town_setup = andes_town  }
+	markahuamachuco = { rank = town town_setup = andes_town }
+	cantamarca = { rank = town  	town_setup = andes_town }
+	ayaviri = { rank = town  		town_setup = andes_town }
+	#cangochamba = { rank = town  	town_setup = andes_town }
+	#huarco = { rank = town  		town_setup = andes_town }
+	#calvas = { rank = town  		town_setup = andes_town }
+	hatunqulla = { rank = city  	town_setup = andes_city }
+	chucuito = { rank = city  		town_setup = andes_city }
+	sana = { rank = city 	town_setup = andes_city }
+	chan_chan = { rank = town 		town_setup = andes_town }
+
+}

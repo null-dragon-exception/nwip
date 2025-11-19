@@ -1,0 +1,70 @@
+﻿rapid_collapse_of_society = {
+
+	image = "gfx/interface/illustrations/disaster/ciompi_revolt.dds"
+	monthly_spawn_chance = monthly_spawn_chance_very_high
+
+	can_start = {
+		# Applies to "native tribal tags"
+		culture = { is_culture_native_american = yes }
+		country_has_disease = disease:great_pestilence
+		stability < 60
+		has_any_active_disaster = no
+		government_type = government_type:tribe          # ← must be a Tribe government
+		custom_tooltip = {
+			text = rcs_has_not_happened_tt
+			NOT = { has_variable = concluded_rapid_collapse_of_society_variable }
+		}
+	}
+
+	can_end = {
+		stability > 60
+		situation:great_pestilence = { situation_is_active = no }
+	}
+
+	modifier = {
+		# Sustained societal stress
+		burghers_estate_target_satisfaction = medium_permanent_target_satisfaction_penalty
+		peasants_estate_target_satisfaction = medium_permanent_target_satisfaction_penalty
+		clergy_estate_target_satisfaction   = medium_permanent_target_satisfaction_penalty
+
+		stability_investment = -0.20
+		stability_decay      =  0.20
+
+		global_monthly_prosperity = -0.10
+		global_monthly_development = -0.10
+
+		global_max_control      = -0.25
+		global_monthly_control  = -0.25
+
+		#global_population_growth       = -0.10
+		global_food_capacity_modifier  = -0.25
+	}
+
+	on_start = {
+		trigger_event_non_silently = rapid_collapse_of_society.1
+	}
+
+	on_end = {
+		set_variable = concluded_rapid_collapse_of_society_variable
+		trigger_event_non_silently = rapid_collapse_of_society.10
+	}
+
+	on_monthly = {
+		# Surface ping so the player "feels" the crisis cadence
+		random_list = {
+			13 = { custom_tooltip = an_event_occurs_tt }
+			87 = { custom_tooltip = no_event_occurs_tt }
+		}
+
+		# Hidden driver: keep pushing abandonment/migration
+		hidden_effect = {
+			random_list = {
+				150 = { trigger_event_non_silently = rapid_collapse_of_society.101 } # rolling exodus
+				90  = { trigger_event_non_silently = rapid_collapse_of_society.2 }   # abandon low-pop holding
+				60  = { trigger_event_non_silently = rapid_collapse_of_society.3 }   # forced outflow
+				40  = { trigger_event_non_silently = rapid_collapse_of_society.4 }   # capital check
+				660 = { custom_tooltip = no_event_occurs_tt }
+			}
+		}
+	}
+}

@@ -130,6 +130,7 @@ create_colonial_charter = {
 			value = population
 		}
 		pre_evaluation_number_to_evaluate_fully = 5
+		max_targets_for_ui = 100 #big countries really punish the UI
 		name = "create_colonial_charter_select_province"
 		none_available_msg_key = "create_colonial_charter_select_province_none"
 		column = {

@@ -1,13 +1,23 @@
 ﻿conquistador_new_castile_scripted_country_name = {
 	country_trigger = {
 		has_reform = government_reform:conquistador_country
+		culture.language = language:spanish_language
 		overlord ?= {
 			OR = {
-				tag = ESP
-				tag = CAS
+				this = c:ESP
+				this = c:CAS
 				culture.language = language:spanish_language
 			}
 		}
+	}
+	
+	capital_trigger = {
+		#OR = {
+		#	continent = continent:america
+		#}
+	}
+	# trigger to check all the country locations against, all have to pass
+	location_trigger = {
 	}
 	
 }
@@ -16,12 +26,21 @@ conquistador_new_leon_scripted_country_name = {
 		has_reform = government_reform:conquistador_country
 		overlord ?= {
 			OR = {
-				tag = ESP
-				tag = CAS
-				tag = LEO
+				this = c:ESP
+				this = c:CAS
+				this = c:LEO
 				culture.language = language:spanish_language
 			}
 		}
+	}
+	
+	capital_trigger = {
+		#OR = {
+		#	continent = continent:america
+		#}
+	}
+	# trigger to check all the country locations against, all have to pass
+	location_trigger = {
 	}
 	
 }
@@ -30,11 +49,20 @@ conquistador_new_toledo_scripted_country_name = {
 		has_reform = government_reform:conquistador_country
 		overlord ?= {
 			OR = {
-				tag = ESP
-				tag = CAS
+				this = c:ESP
+				this = c:CAS
 				culture.language = language:spanish_language
 			}
 		}
+	}
+	
+	capital_trigger = {
+		#OR = {
+		#	continent = continent:america
+		#}
+	}
+	# trigger to check all the country locations against, all have to pass
+	location_trigger = {
 	}
 	
 }
@@ -43,11 +71,20 @@ conquistador_new_andalusia_scripted_country_name = {
 		has_reform = government_reform:conquistador_country
 		overlord ?= {
 			OR = {
-				tag = ESP
-				tag = CAS
+				this = c:ESP
+				this = c:CAS
 				culture.language = language:spanish_language
 			}
 		}
+	}
+	
+	capital_trigger = {
+		#OR = {
+		#	continent = continent:america
+		#}
+	}
+	# trigger to check all the country locations against, all have to pass
+	location_trigger = {
 	}
 	
 }
@@ -56,11 +93,20 @@ conquistador_new_murcia_scripted_country_name = {
 		has_reform = government_reform:conquistador_country
 		overlord ?= {
 			OR = {
-				tag = ESP
-				tag = CAS
+				this = c:ESP
+				this = c:CAS
 				culture.language = language:spanish_language
 			}
 		}
+	}
+	
+	capital_trigger = {
+		#OR = {
+		#	continent = continent:america
+		#}
+	}
+	# trigger to check all the country locations against, all have to pass
+	location_trigger = {
 	}
 	
 }
@@ -69,11 +115,20 @@ conquistador_new_navarra_scripted_country_name = {
 		has_reform = government_reform:conquistador_country
 		overlord ?= {
 			OR = {
-				tag = ESP
-				tag = CAS
+				this = c:ESP
+				this = c:CAS
 				culture.language = language:spanish_language
 			}
 		}
+	}
+	
+	capital_trigger = {
+		#OR = {
+		#	continent = continent:america
+		#}
+	}
+	# trigger to check all the country locations against, all have to pass
+	location_trigger = {
 	}
 	
 }
@@ -82,11 +137,21 @@ conquistador_new_galicia_scripted_country_name = {
 		has_reform = government_reform:conquistador_country
 		overlord ?= {
 			OR = {
-				tag = ESP
-				tag = GAL
+				this = c:ESP
+				this = c:CAS
+				this = c:GAL
 				culture.language = language:spanish_language
 			}
 		}
+	}
+	
+	capital_trigger = {
+		#OR = {
+		#	continent = continent:america
+		#}
+	}
+	# trigger to check all the country locations against, all have to pass
+	location_trigger = {
 	}
 	
 }
@@ -95,10 +160,19 @@ conquistador_new_estremadura_scripted_country_name = {
 		has_reform = government_reform:conquistador_country
 		overlord ?= {
 			OR = {
-				tag = POR
+				this = c:POR
 				culture.language = language:portuguese_language
 			}
 		}
+	}
+	
+	capital_trigger = {
+		#OR = {
+		#	continent = continent:america
+		#}
+	}
+	# trigger to check all the country locations against, all have to pass
+	location_trigger = {
 	}
 	
 }
@@ -107,10 +181,19 @@ conquistador_new_alentejo_scripted_country_name = {
 		has_reform = government_reform:conquistador_country
 		overlord ?= {
 			OR = {
-				tag = POR
+				this = c:POR
 				culture.language = language:portuguese_language
 			}
 		}
+	}
+	
+	capital_trigger = {
+		#OR = {
+		#	continent = continent:america
+		#}
+	}
+	# trigger to check all the country locations against, all have to pass
+	location_trigger = {
 	}
 	
 }
@@ -119,10 +202,19 @@ conquistador_new_minho_scripted_country_name = {
 		has_reform = government_reform:conquistador_country
 		overlord ?= {
 			OR = {
-				tag = POR
+				this = c:POR
 				culture.language = language:portuguese_language
 			}
 		}
+	}
+	
+	capital_trigger = {
+		#OR = {
+		#	continent = continent:america
+		#}
+	}
+	# trigger to check all the country locations against, all have to pass
+	location_trigger = {
 	}
 	
 }
@@ -131,10 +223,19 @@ conquistador_new_beira_scripted_country_name = {
 		has_reform = government_reform:conquistador_country
 		overlord ?= {
 			OR = {
-				tag = POR
+				this = c:POR
 				culture.language = language:portuguese_language
 			}
 		}
+	}
+	
+	capital_trigger = {
+		#OR = {
+		#	continent = continent:america
+		#}
+	}
+	# trigger to check all the country locations against, all have to pass
+	location_trigger = {
 	}
 	
 }
@@ -143,10 +244,19 @@ conquistador_new_algarve_scripted_country_name = {
 		has_reform = government_reform:conquistador_country
 		overlord ?= {
 			OR = {
-				tag = POR
+				this = c:POR
 				culture.language = language:portuguese_language
 			}
 		}
+	}
+	
+	capital_trigger = {
+		#OR = {
+		#	continent = continent:america
+		#}
+	}
+	# trigger to check all the country locations against, all have to pass
+	location_trigger = {
 	}
 	
 }

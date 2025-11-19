@@ -1,0 +1,27 @@
+﻿macorix_language = { 
+	color = map_macorix
+
+	male_names = {
+		Abey Acanorex Agueybana 
+		Behechio
+		Caguax Caonabo
+		Guacanagari Guarionex
+		Hatuey
+		Orocobix
+		Urayoan
+		}
+		female_names = {
+		Acabey Anacaona
+		Cacicaguana Casiguaya Coati
+		Guabuca Guanina
+		Higuanama
+		Tinima
+		Yuisa
+		}	
+		dynasty_names = { #This are amazonian from EU4
+		    Eregu Heliya Nenege Waricha Kapongong Makushi Korobahado Panapi Muritaro Fararinno Kafotay Mudaukaho Waia Madinina
+		}
+		lowborn = { #This are amazonian from EU4
+			Eregu Heliya Nenege Waricha Kapongong Makushi Korobahado Panapi Muritaro Fararinno Kafotay Mudaukaho Waia Madinina
+		}
+}

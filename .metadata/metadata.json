@@ -1,8 +1,8 @@
 {
 	"name":	"New World Improvement Project",
 	"id":	"nullpointer.nwip",
-	"version":	"0.1.1",
-	"supported_game_version":	"1.0.3",
+	"version":	"0.2.0",
+	"supported_game_version":	"1.0.5",
 	"picture": "thumbnail.png",
 	"short_description":	"New World Improvement Project offers a vanilla+ experience with many improvements to the New World",
 	"tags":	["Balance", "Events", "Fixes", "Gameplay", "Historical", "Map"],

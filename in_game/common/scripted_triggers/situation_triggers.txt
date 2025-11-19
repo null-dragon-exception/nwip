@@ -395,7 +395,12 @@ rtr_situation_end_requirements = {
 			legitimacy >= 90
 			stability >= 30
 			current_celestial_authority = { value = 50 }
-			international_organization:red_turban_rebels = { total_members < 1 }
+			trigger_if = {
+				limit = {
+					exists = international_organization:red_turban_rebels
+				}
+				international_organization:red_turban_rebels = { total_members < 1 }
+			}
 		}
 	}
 }
@@ -958,6 +963,35 @@ is_candidate_for_OW_good = {
 # Treaty of Tordesillas				#
 #####################################
 
+
+ai_country_should_colonize = {	#Root should be the country
+	OR = {
+		country_tax_base > 100
+		yearly_gold > 0
+		tag = SWE
+		tag = POR
+		tag = KUR
+		is_subject_type = colonial_nation
+	}
+	
+	OR = {
+		has_game_rule = all_countries_colonize
+		capital.continent = continent:europe
+
+		and = {
+			is_subject = yes
+			overlord = {
+				capital.continent = continent:europe
+			}
+		}
+	}
+
+	OR = {
+		is_subject = no
+		is_subject_type = colonial_nation
+	}
+}
+
 is_geographically_correct = {
 	continent != continent:europe
 	sub_continent != sub_continent:south_asia
@@ -1047,12 +1081,18 @@ western_schism_end_trigger = {
 			}
 			OR = {
 				custom_tooltip = {
-					text = western_schism_2_tt 
+					text = western_schism_2_tt
 					var:western_schism_pope_score >= 2
+					situation:western_schism = {
+						has_variable = western_schism_ended_by_event
+					}
 				}
 				custom_tooltip = {
 					text = western_schism_3_tt
 					var:western_schism_anti_pope_score >= 2
+					situation:western_schism = {
+						has_variable = western_schism_ended_by_event
+					}
 				}
 			}
 		}
