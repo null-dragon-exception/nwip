@@ -8,11 +8,9 @@ dutch_greenland_area_scripted_country_name = { #Groenland, historical
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -39,11 +37,9 @@ dutch_quebec_area_scripted_country_name = { #Kepeca, transliteration
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -70,11 +66,9 @@ dutch_laurentian_area_scripted_country_name = { #Noorderberghen, Northern Mounta
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -101,11 +95,9 @@ dutch_lower_canada_area_scripted_country_name = { #Nedercanada, historical
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -132,11 +124,9 @@ dutch_jamesie_area_scripted_country_name = { #Zilverbaay, Fictional non-religiou
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -163,11 +153,9 @@ dutch_nunavik_area_scripted_country_name = { #Ijssenoord, Icy north.
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -194,11 +182,9 @@ dutch_labrador_area_scripted_country_name = { #Labrador, historical
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -225,11 +211,9 @@ dutch_newfoundland_area_scripted_country_name = { #Overwater, Land across the wa
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -256,11 +240,9 @@ dutch_prince_edward_island_area_scripted_country_name = { #Prinseneiland, Prince
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -287,11 +269,9 @@ dutch_acadia_area_scripted_country_name = { #Accadia, historical
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -318,11 +298,9 @@ dutch_new_brunswick_area_scripted_country_name = { #Nieuw Domburg, After 'Dombur
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -349,11 +327,9 @@ dutch_eastern_ontario_area_scripted_country_name = { #Oost Ontario, translation
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -380,11 +356,9 @@ dutch_western_ontario_area_scripted_country_name = { #West Ontario, translation
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -411,11 +385,9 @@ dutch_northern_ontario_area_scripted_country_name = { #Noord Ontario, translatio
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -442,11 +414,9 @@ dutch_northwestern_ontario_area_scripted_country_name = { #Noordwest Ontario, tr
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -473,11 +443,9 @@ dutch_greenstone_belt_area_scripted_country_name = { #Abitibania, After the loca
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -504,11 +472,9 @@ dutch_keewatin_area_scripted_country_name = { #Kiewietania, After local Kiwetin
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -535,11 +501,9 @@ dutch_cuba_area_scripted_country_name = { #Cuba, Historical
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -566,11 +530,9 @@ dutch_hispaniola_area_scripted_country_name = { #Batavia Eylandt, Similar to 'Hi
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -597,11 +559,9 @@ dutch_lesser_antilles_area_scripted_country_name = { #Bovenwindse Eilanden, Hist
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -628,11 +588,9 @@ dutch_panama_area_scripted_country_name = { #Panama, Historical
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -659,11 +617,9 @@ dutch_massachusetts_area_scripted_country_name = { #Almouchicosen, Historical: d
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -690,11 +646,9 @@ dutch_southern_new_england_area_scripted_country_name = { #Rodenbergh, Historica
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -721,11 +675,9 @@ dutch_vermont_area_scripted_country_name = { #Missiskwia, Semi-Historical: Origi
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -752,11 +704,9 @@ dutch_new_hampshire_area_scripted_country_name = { #Bergelandt, Land of mountain
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -783,11 +733,9 @@ dutch_maine_area_scripted_country_name = { #Norumbega, Historical: on old maps t
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -814,11 +762,9 @@ dutch_hudson_area_scripted_country_name = { #Mauritia, Historical: the The Hudso
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -845,11 +791,9 @@ dutch_haudenosaunee_area_scripted_country_name = { #Irocoisia, Semi-Historical: 
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -876,11 +820,9 @@ dutch_new_jersey_area_scripted_country_name = { #Pavonia, Historical: There were
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -907,11 +849,9 @@ dutch_pennsylvania_area_scripted_country_name = { #Blommaertsbosch, Blommaert's 
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -938,11 +878,9 @@ dutch_westsylvania_area_scripted_country_name = { #Vrijbosch, Free Forest
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -969,11 +907,9 @@ dutch_maryland_area_scripted_country_name = { #Sint Michielsbaai, After Saint Mi
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -1000,11 +936,9 @@ dutch_virginia_area_scripted_country_name = { #Nederoranje, After 'Oranje', the 
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -1031,11 +965,9 @@ dutch_west_virginia_area_scripted_country_name = { #Overoranje, After 'Oranje', 
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -1062,11 +994,9 @@ dutch_north_carolina_area_scripted_country_name = { #Zandhoek, Sandy point
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -1093,11 +1023,9 @@ dutch_south_carolina_area_scripted_country_name = { #Sint Andrieslandt, After sa
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -1124,11 +1052,9 @@ dutch_georgia_us_area_scripted_country_name = { #Vrijborch, Free fortress
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -1155,11 +1081,9 @@ dutch_florida_area_scripted_country_name = { #Floralia, After the latin word for
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -1186,11 +1110,9 @@ dutch_tennessee_area_scripted_country_name = { #Tanasia, After the local Tanasi
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -1217,11 +1139,9 @@ dutch_kentucky_area_scripted_country_name = { #Wilderbosch, Wild Forest
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -1248,11 +1168,9 @@ dutch_ohio_area_scripted_country_name = { #Kanomakerslandt, Dutch name for land 
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -1279,11 +1197,9 @@ dutch_indiana_area_scripted_country_name = { #Nieuw Gelderlandt, After Gelderlan
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -1310,11 +1226,9 @@ dutch_michigan_area_scripted_country_name = { #Meerenlandt, Land of lakes
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -1341,11 +1255,9 @@ dutch_illinois_area_scripted_country_name = { #Illinoisia, After the Illinois/Il
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -1372,11 +1284,9 @@ dutch_wisconsin_area_scripted_country_name = { #Meskonia, After local Meskonsing
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -1403,11 +1313,9 @@ dutch_alabama_area_scripted_country_name = { #Van Peerelandt, After Abraham van 
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -1434,11 +1342,9 @@ dutch_mississippi_area_scripted_country_name = { #Rivierlandt, Riverland
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -1465,11 +1371,9 @@ dutch_louisiana_area_scripted_country_name = { #Brabantia, After the duchy of Br
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -1496,11 +1400,9 @@ dutch_arkansas_area_scripted_country_name = { #Akansalandt, After local Akansa
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -1527,11 +1429,9 @@ dutch_missouri_area_scripted_country_name = { #Missouria, After local Missouri/S
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -1558,11 +1458,9 @@ dutch_iowa_area_scripted_country_name = { #Vrijeveldt, Free fields
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -1589,11 +1487,9 @@ dutch_minnesota_area_scripted_country_name = { #Kiliaenia, After Kiliaen van Ren
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -1620,11 +1516,9 @@ dutch_superior_area_scripted_country_name = { #Bovenmeer, Translation
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -1651,11 +1545,9 @@ dutch_natahende_area_scripted_country_name = { #Proventia, From the latin word f
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -1682,11 +1574,9 @@ dutch_high_plains_area_scripted_country_name = { #Vredevlakte, Plain of peace
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -1713,11 +1603,9 @@ dutch_badlands_area_scripted_country_name = { #Woestberghe, Barren hills
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -1744,11 +1632,9 @@ dutch_red_river_area_scripted_country_name = { #Bloedrivier, Translation of Bloo
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -1775,11 +1661,9 @@ dutch_maranhao_area_scripted_country_name = { #Alkmaaria, After the city of Alkm
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -1806,11 +1690,9 @@ dutch_ceara_area_scripted_country_name = { #Schoonenborch, Semi-historical: Fort
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -1837,11 +1719,9 @@ dutch_paraiba_area_scripted_country_name = { #Frederikslandt, Semi-historical: J
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -1868,11 +1748,9 @@ dutch_pernambuco_area_scripted_country_name = { #Mauritslandt, Semi-historical: 
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -1899,11 +1777,9 @@ dutch_bahia_area_scripted_country_name = { #Nassovia, Semi-historical: The fort 
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -1930,11 +1806,9 @@ dutch_espirito_santo_area_scripted_country_name = { #Nieuwe Hoop, New Hope, refe
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -1961,11 +1835,9 @@ dutch_rio_de_janeiro_area_scripted_country_name = { #Loncklandt, After Hendrick 
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -1992,11 +1864,9 @@ dutch_minas_gerais_area_scripted_country_name = { #Goudevelt, Gold fields
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -2023,11 +1893,9 @@ dutch_falklands_area_scripted_country_name = { #Valkenlandt, Literal translation
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -2054,11 +1922,9 @@ dutch_guayana_area_scripted_country_name = { #Suriname, Historical
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -2085,11 +1951,9 @@ dutch_southwestern_australia_area_scripted_country_name = { #Janszoonlandt
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -2116,11 +1980,9 @@ dutch_northwestern_australia_area_scripted_country_name = { #Nieuw-Holland
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -2147,11 +2009,9 @@ dutch_southeastern_australia_area_scripted_country_name = { #Nuytslandt
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -2178,11 +2038,9 @@ dutch_south_australia_area_scripted_country_name = { #Anthoonij van Diemenslandt
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -2209,11 +2067,9 @@ dutch_south_island_area_scripted_country_name = { #Nieuw Zeeland
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}
@@ -2240,11 +2096,9 @@ dutch_north_island_area_scripted_country_name = { #Statenlandt
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
+					
 					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
+					
 					overlord ?= {
 						culture.dialect = dialect:dutch_dialect
 					}

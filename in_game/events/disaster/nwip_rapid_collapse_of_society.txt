@@ -60,6 +60,17 @@ rapid_collapse_of_society.2 = {
 	option = { # "Let it go"
 		name = rapid_collapse_of_society.2.a
 		abandon_location = scope:selected_location
+		if = {
+			limit = {
+				any_owned_location = {
+					count < 1
+					exists = this
+				}
+			}
+			change_country_type = pop
+			
+		}
+		
 		historical_option = yes
 		ai_chance = { factor = 100 }
 	}
@@ -163,6 +174,17 @@ rapid_collapse_of_society.4 = {
 	option = { # Abandon the seat (AI prefers)
 		name = rapid_collapse_of_society.4.a
 		abandon_location = scope:cap_loc
+		if = {
+			limit = {
+				any_owned_location = {
+					count < 1
+					exists = this
+				}
+			}
+			change_country_type = pop
+			
+		}
+		
 		add_stability = stability_mild_penalty
 		historical_option = yes
 		ai_chance = { factor = 100 }
@@ -255,6 +277,17 @@ rapid_collapse_of_society.101 = {
 		name = rapid_collapse_of_society.101.b
 		trigger = { scope:rcs_source = { population < 3.0 } }
 		abandon_location = scope:rcs_source
+		if = {
+			limit = {
+				any_owned_location = {
+					count < 1
+					exists = this
+				}
+			}
+			change_country_type = pop
+			
+		}
+		
 		historical_option = yes
 		ai_chance = { factor = 100 }
 	}
