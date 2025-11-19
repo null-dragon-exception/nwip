@@ -18,6 +18,7 @@
 				government_type = government_type:monarchy
 				succession_law = heir_selection:signoria_selection
 			}
+			#NWIP stop conquistadors from marrying
 			NOT = {
 				has_reform = government_reform:conquistador_country
 			}

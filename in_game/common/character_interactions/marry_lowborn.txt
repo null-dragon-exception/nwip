@@ -14,6 +14,7 @@
 				modifier:care_about_producing_heirs = yes
 				succession_law = heir_selection:signoria_selection
 			}
+			#NWIP stop conquistadors from marrying
 			NOT = {
 				has_reform = government_reform:conquistador_country
 			}
