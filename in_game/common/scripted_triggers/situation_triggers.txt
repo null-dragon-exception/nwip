@@ -868,9 +868,10 @@ is_candidate_for_NW_good = {
 	}
 	#Is the RGO that we are about to replace rare?
 	#Only replace if there is more than one
-	raw_material = {
-		save_temporary_scope_as = good_to_be_replaced_scope
-	}
+	#raw_material = {
+	#	#NWIP was save_temporary_scope_as
+	#	save_temporary_scope_as = good_to_be_replaced_scope
+	#}
 	market = {
 		#These resource are needed in bigger quantities so we require a bigger minimum of RGOs
 		trigger_if = {
@@ -933,9 +934,10 @@ is_candidate_for_OW_good = {
 	}
 	#Is the RGO that we are about to replace rare?
 	#Only replace if there is more than one
-	raw_material = {
-		save_temporary_scope_as = good_to_be_replaced_scope
-	}
+	#raw_material = {
+	#	#NWIP was save_temporary_scope_as
+	#	save_temporary_scope_as = good_to_be_replaced_scope
+	#}
 	#NWIP
 	scope:good_to_be_replaced_scope = {
 		exists = yes

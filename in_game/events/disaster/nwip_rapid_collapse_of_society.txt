@@ -206,7 +206,11 @@ rapid_collapse_of_society.101 = {
 	title = rapid_collapse_of_society.101.title
 	desc  = rapid_collapse_of_society.101.desc
 
-	trigger = { always = yes }
+	trigger = {
+		any_owned_location = {
+			count > 0
+		}
+	}
 
 	immediate = {
 		event_illustration_estate_effect = {

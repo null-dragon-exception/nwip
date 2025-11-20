@@ -88,7 +88,7 @@
 						is_subject_or_below_of = scope:actor
 					}
 				}
-				scope:actor = {
+				scope:actor ?= {
 					can_join_defensive_war_with = scope:recipient
 					NOT = {
 						has_truce_with = root.attacker_leader
@@ -102,12 +102,12 @@
 	}
 
 	effect = {	
-		scope:target = {
+		scope:target ?= {
 			if = {
 				limit = {
 					attacker_leader = scope:recipient
 				}
-				scope:actor = {
+				scope:actor ?= {
 					join_war_as_attacker = {
 						war = prev
 						reason = intervene
@@ -115,7 +115,7 @@
 				}
 			}
 			else = {
-				scope:actor = {
+				scope:actor ?= {
 					join_war_as_defender = {
 						war = prev
 						reason = intervene
@@ -131,28 +131,28 @@
 	ai_will_do = {
 		add = {
 			desc = "game_concept_opinion"
-			scope:actor = {
+			scope:actor ?= {
 				value = "opinion(scope:side)"
 				divide = 5
 			}
 		}
 		add = {
 			desc = "game_concept_trust"
-			scope:actor = {
+			scope:actor ?= {
 				value = "trust(scope:side)"
 				divide = 5
 			}
 		}
 		add = {
 			desc = "game_concept_war_exhaustion"
-			scope:actor = {
+			scope:actor ?= {
 				value = war_exhaustion
 				divide = -2
 			}
 		}
 		add = {
 			desc = "LENGTH_OF_WAR_TOOLTIP"
-			scope:target = {
+			scope:target ?= {
 				civil_war = {
 					value = war_length_in_years
 					add = -4
