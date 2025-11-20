@@ -8,14 +8,14 @@ arabic_greenland_area_scripted_country_name = { #Al-Arḍ al-ẖaḍrā, transla
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -39,14 +39,14 @@ arabic_quebec_area_scripted_country_name = { #Kībik
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -70,14 +70,14 @@ arabic_lower_canada_area_scripted_country_name = { #Kanadā as-suflā, translati
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -101,14 +101,14 @@ arabic_nunavik_area_scripted_country_name = { #Nūnāfīk
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -132,14 +132,14 @@ arabic_acadia_area_scripted_country_name = { #Akādiyā
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -163,14 +163,14 @@ arabic_eastern_ontario_area_scripted_country_name = { #Ūntāriyū aš-šarqiyya
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -194,14 +194,14 @@ arabic_western_ontario_area_scripted_country_name = { #Ūntāriyū al-ġarbiyyah
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -225,14 +225,14 @@ arabic_northern_ontario_area_scripted_country_name = { #Ūntāriyū aš-šimāli
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -256,14 +256,14 @@ arabic_northwestern_ontario_area_scripted_country_name = { #Ūntāriyū aš-šim
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -287,14 +287,14 @@ arabic_greenstone_belt_area_scripted_country_name = { #Al-Ḥajar al-Aẖḍar, 
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -318,14 +318,14 @@ arabic_cuba_area_scripted_country_name = { #Kūbā, modern name
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -349,14 +349,14 @@ arabic_hispaniola_area_scripted_country_name = { #Hāyīt, country and singular 
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -371,7 +371,7 @@ arabic_hispaniola_area_scripted_country_name = { #Hāyīt, country and singular 
     	location_trigger = {
     	}
     }
-arabic_lesser_antilles_area_scripted_country_name = { #Juzur al-Antīl aṣ-ṣuġrā, modern name (Antilles might be of Portuguese origin, so could be improved)
+arabic_lesser_antilles_area_scripted_country_name = { #Juzur al-Antīl aṣ-ṣuġrā, modern name (Antilles might be of Portuguese origin so could be improved)
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -380,14 +380,14 @@ arabic_lesser_antilles_area_scripted_country_name = { #Juzur al-Antīl aṣ-ṣu
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -411,14 +411,14 @@ arabic_panama_area_scripted_country_name = { #Banamā, modern name
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -442,14 +442,14 @@ arabic_massachusetts_area_scripted_country_name = { #Māsāšūsit, took off med
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -464,7 +464,7 @@ arabic_massachusetts_area_scripted_country_name = { #Māsāšūsit, took off med
     	location_trigger = {
     	}
     }
-arabic_haudenosaunee_area_scripted_country_name = { #Ḥudinušūn, interpreted original word as adjective, backformed country
+arabic_haudenosaunee_area_scripted_country_name = { #Ḥudinušūn, interpreted original word as adjective backformed country
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -473,14 +473,14 @@ arabic_haudenosaunee_area_scripted_country_name = { #Ḥudinušūn, interpreted 
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -495,7 +495,7 @@ arabic_haudenosaunee_area_scripted_country_name = { #Ḥudinušūn, interpreted 
     	location_trigger = {
     	}
     }
-arabic_westsylvania_area_scripted_country_name = { #Al-Ighayn, interpreted original word as adjective, backformed country
+arabic_westsylvania_area_scripted_country_name = { #Al-Ighayn, interpreted original word as adjective backformed country
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -504,14 +504,14 @@ arabic_westsylvania_area_scripted_country_name = { #Al-Ighayn, interpreted origi
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -535,14 +535,14 @@ arabic_florida_area_scripted_country_name = { #Az-Zahriyyah, "the flowery one"
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -566,14 +566,14 @@ arabic_mississippi_area_scripted_country_name = { #Musīsib
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -588,7 +588,7 @@ arabic_mississippi_area_scripted_country_name = { #Musīsib
     	location_trigger = {
     	}
     }
-arabic_missouri_area_scripted_country_name = { #Misūr, interpreted original word as adjective, backformed country
+arabic_missouri_area_scripted_country_name = { #Misūr, interpreted original word as adjective backformed country
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -597,14 +597,14 @@ arabic_missouri_area_scripted_country_name = { #Misūr, interpreted original wor
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -628,14 +628,14 @@ arabic_superior_area_scripted_country_name = { #Al-Kubrā, lit. "biggest"
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -659,14 +659,14 @@ arabic_north_dakota_area_scripted_country_name = { #Dākūtā aš-šimāliyyah, 
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -690,14 +690,14 @@ arabic_south_dakota_area_scripted_country_name = { #Dākūtā al-janūbiyyah, mo
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -721,14 +721,14 @@ arabic_central_plains_area_scripted_country_name = { #Bilād Kānsā, "Kansa cou
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -752,14 +752,14 @@ arabic_high_plains_area_scripted_country_name = { #As-Suhūl al-ʿuliyā, transl
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -783,14 +783,14 @@ arabic_badlands_area_scripted_country_name = { #Al-Arāḍī al-jardāʾ, transl
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -814,14 +814,14 @@ arabic_upper_missouri_area_scripted_country_name = { #Misūr al-ʿuliyā
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -845,14 +845,14 @@ arabic_red_river_area_scripted_country_name = { #An-Nahr Al-Aḥmar, translation
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -876,14 +876,14 @@ arabic_mexihko_area_scripted_country_name = { #Mašīʾkū, invented from Nahuat
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -907,14 +907,14 @@ arabic_tlaxcala_area_scripted_country_name = { #Tilāškallān, invented from Na
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -938,14 +938,14 @@ arabic_huaxyacac_area_scripted_country_name = { #Wāš Yakak, invented from Nahu
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -969,14 +969,14 @@ arabic_michoacan_area_scripted_country_name = { #Mušuwwakān, invented from Nah
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -1000,14 +1000,14 @@ arabic_xilotepec_area_scripted_country_name = { #Kuwānaš Wātū, invented from
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -1031,14 +1031,14 @@ arabic_xalisco_area_scripted_country_name = { #Wādī al-Ḥajārah, Taken from 
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -1062,14 +1062,14 @@ arabic_minas_gerais_area_scripted_country_name = { #Al-Manājim, translation for
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -1093,14 +1093,14 @@ arabic_peten_area_scripted_country_name = { #Balīz
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -1124,14 +1124,14 @@ arabic_kuskatan_area_scripted_country_name = { #Kuskatān
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -1155,14 +1155,14 @@ arabic_baja_area_scripted_country_name = { #Dār al-ẖalīfah as-suflā, invent
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -1186,14 +1186,14 @@ arabic_alaxsxaq_area_scripted_country_name = { #Al-Aẖsaq, invented based on Al
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -1217,14 +1217,14 @@ arabic_california_area_scripted_country_name = { #Dār al-ẖalīfah, invented b
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -1248,14 +1248,14 @@ arabic_great_basin_area_scripted_country_name = { #Al-Ḥawḍ al-ʿaẓīm, act
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -1279,14 +1279,14 @@ arabic_rockies_area_scripted_country_name = { #Al-Jibāl aṣ-ṣaẖriyyah, act
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -1301,7 +1301,7 @@ arabic_rockies_area_scripted_country_name = { #Al-Jibāl aṣ-ṣaẖriyyah, act
     	location_trigger = {
     	}
     }
-arabic_hawaii_area_scripted_country_name = { #Juzur al-Hawāʾ, interpreted original word as adjective, backformed country
+arabic_hawaii_area_scripted_country_name = { #Juzur al-Hawāʾ, interpreted original word as adjective backformed country
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -1310,14 +1310,14 @@ arabic_hawaii_area_scripted_country_name = { #Juzur al-Hawāʾ, interpreted orig
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -1341,14 +1341,14 @@ arabic_piaui_area_scripted_country_name = { #Biyāwī
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -1372,14 +1372,14 @@ arabic_ceara_area_scripted_country_name = { #Siyārā
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -1394,7 +1394,7 @@ arabic_ceara_area_scripted_country_name = { #Siyārā
     	location_trigger = {
     	}
     }
-arabic_paraiba_area_scripted_country_name = { #Biʾr Ībah, invented from Tupi, based on misidentification with Biʾr "well"
+arabic_paraiba_area_scripted_country_name = { #Biʾr Ībah, invented from Tupi based on misidentification with Biʾr "well"
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -1403,14 +1403,14 @@ arabic_paraiba_area_scripted_country_name = { #Biʾr Ībah, invented from Tupi, 
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -1434,14 +1434,14 @@ arabic_bahia_area_scripted_country_name = { #Al-H̱alīj, translation for "bay" 
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -1465,14 +1465,14 @@ arabic_bogota_area_scripted_country_name = { #Abū Qiṭāʿ, invented using pos
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -1496,14 +1496,14 @@ arabic_andes_area_scripted_country_name = { #Al-Andah, modern name
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -1527,14 +1527,14 @@ arabic_quitu_area_scripted_country_name = { #Kītū
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -1558,14 +1558,14 @@ arabic_atacama_area_scripted_country_name = { #Atakāmā
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -1589,14 +1589,14 @@ arabic_yunga_area_scripted_country_name = { #Yūnkā
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -1620,14 +1620,14 @@ arabic_qullaw_area_scripted_country_name = { #Ṣaʿīd Birū, translation of "U
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -1651,14 +1651,14 @@ arabic_la_plata_area_scripted_country_name = { #Bilād al-Fiḍḍah, "Country o
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -1682,14 +1682,14 @@ arabic_moqoit_area_scripted_country_name = { #Muqayṭ
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -1713,14 +1713,14 @@ arabic_cordoba_de_tucuman_area_scripted_country_name = { #Qurṭubah
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -1744,14 +1744,14 @@ arabic_boiaca_area_scripted_country_name = { #Abū Yakā, invented using possess
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	
@@ -1775,14 +1775,14 @@ arabic_sinu_area_scripted_country_name = { #Qarṭāj, Arabic name for "Carthage
     		#}
     		OR = {
     			
-					court_language = language:arabic_language
-					culture.language = language:arabic_language
-					overlord ?= {
-						court_language = language:arabic_language
-					}
-					overlord ?= {
-						culture.language = language:arabic_language
-					}
+                court_language = language:arabic_language
+                culture.language = language:arabic_language
+                overlord ?= {
+                    court_language = language:arabic_language
+                }
+                overlord ?= {
+                    culture.language = language:arabic_language
+                }
     		}
     	}
     	

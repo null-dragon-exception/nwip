@@ -8,14 +8,14 @@ spanish_greenland_area_scripted_country_name = { #Tierraverde
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -39,14 +39,14 @@ spanish_quebec_area_scripted_country_name = { #Quebeque
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -70,14 +70,14 @@ spanish_laurentian_area_scripted_country_name = { #Sierra de San Lorenzo
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -101,14 +101,14 @@ spanish_lower_canada_area_scripted_country_name = { #Bajo Canada
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -132,14 +132,14 @@ spanish_jamesie_area_scripted_country_name = { #Bahía de Santiago
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -163,14 +163,14 @@ spanish_nunavik_area_scripted_country_name = { #Nunavic
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -194,14 +194,14 @@ spanish_labrador_area_scripted_country_name = { #Labrador
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -225,14 +225,14 @@ spanish_newfoundland_area_scripted_country_name = { #Barrachoa, historical name
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -256,14 +256,14 @@ spanish_prince_edward_island_area_scripted_country_name = { #Isla de San Juan, h
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -287,14 +287,14 @@ spanish_acadia_area_scripted_country_name = { #La Ensenada, historical name
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -318,14 +318,14 @@ spanish_new_brunswick_area_scripted_country_name = { #Rio de los Gamos, historic
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -349,14 +349,14 @@ spanish_eastern_ontario_area_scripted_country_name = { #Ontario del Este
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -380,14 +380,14 @@ spanish_western_ontario_area_scripted_country_name = { #Ontario Oriental
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -411,14 +411,14 @@ spanish_northern_ontario_area_scripted_country_name = { #Ontario del Norte
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -442,14 +442,14 @@ spanish_northwestern_ontario_area_scripted_country_name = { #Algomas
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -473,14 +473,14 @@ spanish_greenstone_belt_area_scripted_country_name = { #Sierra del Abitibi
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -504,14 +504,14 @@ spanish_keewatin_area_scripted_country_name = { #Quivatin
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -526,7 +526,7 @@ spanish_keewatin_area_scripted_country_name = { #Quivatin
     	location_trigger = {
     	}
     }
-spanish_cuba_area_scripted_country_name = { #Cuba
+spanish_cuba_area_scripted_country_name = { #Cuba, also Juana
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -535,14 +535,14 @@ spanish_cuba_area_scripted_country_name = { #Cuba
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -557,7 +557,7 @@ spanish_cuba_area_scripted_country_name = { #Cuba
     	location_trigger = {
     	}
     }
-spanish_hispaniola_area_scripted_country_name = { #Santo Domingo, According to Historian Juan Daniel Balcácer, the demonym is in use since 1621
+spanish_hispaniola_area_scripted_country_name = { #Santo Domingo, According to Historian Juan Daniel Balcácer the demonym is in use since 1621
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -566,14 +566,14 @@ spanish_hispaniola_area_scripted_country_name = { #Santo Domingo, According to H
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -597,14 +597,14 @@ spanish_lesser_antilles_area_scripted_country_name = { #Islas de Barlovento
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -628,14 +628,14 @@ spanish_panama_area_scripted_country_name = { #Castilla de Oro
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -659,14 +659,14 @@ spanish_massachusetts_area_scripted_country_name = { #San Cristóbal, historical
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -690,14 +690,14 @@ spanish_southern_new_england_area_scripted_country_name = { #Buena Madre, histor
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -721,14 +721,14 @@ spanish_vermont_area_scripted_country_name = { #Monteverde, translation
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -752,14 +752,14 @@ spanish_new_hampshire_area_scripted_country_name = { #Nueva Murcia, one of the f
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -783,14 +783,14 @@ spanish_maine_area_scripted_country_name = { #San Juan Bautista, historical name
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -814,14 +814,14 @@ spanish_hudson_area_scripted_country_name = { #San Antonio, historical name
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -845,14 +845,14 @@ spanish_haudenosaunee_area_scripted_country_name = { #Jodenosalníes, transliter
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -876,14 +876,14 @@ spanish_new_jersey_area_scripted_country_name = { #Nueva Majorca, new <island>
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -907,14 +907,14 @@ spanish_pennsylvania_area_scripted_country_name = { #Quejana, after explorer Ped
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -938,14 +938,14 @@ spanish_westsylvania_area_scripted_country_name = { #Alejena, transliteration
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -969,14 +969,14 @@ spanish_maryland_area_scripted_country_name = { #Rio Salado, historical name
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -1000,14 +1000,14 @@ spanish_virginia_area_scripted_country_name = { #Ajacán, historical name
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -1031,14 +1031,14 @@ spanish_west_virginia_area_scripted_country_name = { #Monongajela, transliterati
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -1062,14 +1062,14 @@ spanish_north_carolina_area_scripted_country_name = { #Ayllónia, Tierra de Ayll
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -1093,14 +1093,14 @@ spanish_south_carolina_area_scripted_country_name = { #San Miguel de Gualdape, h
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -1124,14 +1124,14 @@ spanish_georgia_us_area_scripted_country_name = { #San Pedro, historical name
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -1146,7 +1146,7 @@ spanish_georgia_us_area_scripted_country_name = { #San Pedro, historical name
     	location_trigger = {
     	}
     }
-spanish_florida_area_scripted_country_name = { #Florida, historical name, will save La Florida for the US equiavlent
+spanish_florida_area_scripted_country_name = { #Florida, historical name will save La Florida for the US equiavlent
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -1155,14 +1155,14 @@ spanish_florida_area_scripted_country_name = { #Florida, historical name, will s
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -1186,14 +1186,14 @@ spanish_tennessee_area_scripted_country_name = { #Tenesí
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -1217,14 +1217,14 @@ spanish_kentucky_area_scripted_country_name = { #Quentuc
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -1248,14 +1248,14 @@ spanish_ohio_area_scripted_country_name = { #Ohío, historical name of river
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -1279,14 +1279,14 @@ spanish_indiana_area_scripted_country_name = { #Ouabache, historical name of riv
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -1310,14 +1310,14 @@ spanish_michigan_area_scripted_country_name = { #San José, historical settlemen
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -1332,7 +1332,7 @@ spanish_michigan_area_scripted_country_name = { #San José, historical settlemen
     	location_trigger = {
     	}
     }
-spanish_illinois_area_scripted_country_name = { #Alta Luciana, or Ilinués - historical name of river
+spanish_illinois_area_scripted_country_name = { #Alta Luisiana, or Ilinués - historical name of river
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -1341,14 +1341,14 @@ spanish_illinois_area_scripted_country_name = { #Alta Luciana, or Ilinués - his
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -1372,14 +1372,14 @@ spanish_wisconsin_area_scripted_country_name = { #Misconsín
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -1403,14 +1403,14 @@ spanish_alabama_area_scripted_country_name = { #Garaya, Tierra de Garay; could a
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -1434,14 +1434,14 @@ spanish_mississippi_area_scripted_country_name = { #Misisipi
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -1456,7 +1456,7 @@ spanish_mississippi_area_scripted_country_name = { #Misisipi
     	location_trigger = {
     	}
     }
-spanish_louisiana_area_scripted_country_name = { #Baja Luciana, epochal spanish name
+spanish_louisiana_area_scripted_country_name = { #Baja Luisiana, epochal spanish name
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -1465,14 +1465,14 @@ spanish_louisiana_area_scripted_country_name = { #Baja Luciana, epochal spanish 
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -1496,14 +1496,14 @@ spanish_arkansas_area_scripted_country_name = { #Napeste, Historical spanish nam
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -1518,7 +1518,7 @@ spanish_arkansas_area_scripted_country_name = { #Napeste, Historical spanish nam
     	location_trigger = {
     	}
     }
-spanish_missouri_area_scripted_country_name = { #San Luis
+spanish_missouri_area_scripted_country_name = { #San Luis, or Misuri
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -1527,14 +1527,14 @@ spanish_missouri_area_scripted_country_name = { #San Luis
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -1558,14 +1558,14 @@ spanish_iowa_area_scripted_country_name = { #Minas de España
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -1589,14 +1589,14 @@ spanish_minnesota_area_scripted_country_name = { #Altos del Misisipi, historical
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -1620,14 +1620,14 @@ spanish_superior_area_scripted_country_name = { #Lago Superior
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -1651,14 +1651,14 @@ spanish_central_plains_area_scripted_country_name = { #Gran Quivira, historical 
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -1682,14 +1682,14 @@ spanish_natahende_area_scripted_country_name = { #Nuevo México, or Llanos de C�
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -1713,14 +1713,14 @@ spanish_high_plains_area_scripted_country_name = { #San Juan
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -1744,14 +1744,14 @@ spanish_badlands_area_scripted_country_name = { #Malpaís
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -1775,14 +1775,14 @@ spanish_upper_missouri_area_scripted_country_name = { #Montaña del Norte, Histo
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -1806,14 +1806,14 @@ spanish_athabasca_area_scripted_country_name = { #Atabasca
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -1837,14 +1837,14 @@ spanish_saskatchewan_area_scripted_country_name = { #Sascacheva
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -1868,14 +1868,14 @@ spanish_keewatin_n_area_scripted_country_name = { #Quebadin
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -1899,14 +1899,14 @@ spanish_red_river_area_scripted_country_name = { #Rio Rojo
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -1930,14 +1930,14 @@ spanish_mexihko_area_scripted_country_name = { #México
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -1961,14 +1961,14 @@ spanish_tlaxcala_area_scripted_country_name = { #Tlaxcala, Tlaxcala survived the
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -1992,14 +1992,14 @@ spanish_puebla_area_scripted_country_name = { #Puebla
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -2023,14 +2023,14 @@ spanish_guanajuato_area_scripted_country_name = { #Guanajuato
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -2054,14 +2054,14 @@ spanish_oaxaca_area_scripted_country_name = { #Oaxaca
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -2085,14 +2085,14 @@ spanish_veracruz_area_scripted_country_name = { #Veracruz
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -2116,14 +2116,14 @@ spanish_huaxyacac_area_scripted_country_name = { #Oaxaca
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -2147,14 +2147,14 @@ spanish_tochtepec_area_scripted_country_name = { #Veracruz
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -2178,14 +2178,14 @@ spanish_michoacan_area_scripted_country_name = { #Nueva Valladolid
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -2209,14 +2209,14 @@ spanish_xilotepec_area_scripted_country_name = { #Guanajuato, ?
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -2240,14 +2240,14 @@ spanish_xalisco_area_scripted_country_name = { #Nueva Galicia, could go with Gua
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -2271,14 +2271,14 @@ spanish_minas_gerais_area_scripted_country_name = { #Minas Gerales
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -2302,14 +2302,14 @@ spanish_mayaab_area_scripted_country_name = { #Yucatán
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -2333,14 +2333,14 @@ spanish_chilapan_area_scripted_country_name = { #Chiapas
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -2364,14 +2364,14 @@ spanish_puuk_area_scripted_country_name = { #Campeche
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -2395,14 +2395,14 @@ spanish_chactemal_area_scripted_country_name = { #Chetumal
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -2426,14 +2426,14 @@ spanish_peten_area_scripted_country_name = { #Río Belice
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -2457,14 +2457,14 @@ spanish_tezulutlan_area_scripted_country_name = { #Guatemala
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -2488,14 +2488,14 @@ spanish_kuskatan_area_scripted_country_name = { #Comayagua
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -2519,14 +2519,14 @@ spanish_imabite_area_scripted_country_name = { #Nicaragua
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -2550,14 +2550,14 @@ spanish_nekokiaw_area_scripted_country_name = { #Costa Rica
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -2581,14 +2581,14 @@ spanish_zacatecas_area_scripted_country_name = { #Zacatecas, could be San Luis P
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -2612,14 +2612,14 @@ spanish_baja_area_scripted_country_name = { #Baja California
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -2643,14 +2643,14 @@ spanish_tahejoc_area_scripted_country_name = { #Nueva Vizcaya
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -2674,14 +2674,14 @@ spanish_culiacan_area_scripted_country_name = { #Sinaloa
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -2705,14 +2705,14 @@ spanish_tamaulipeco_area_scripted_country_name = { #Nuevo Santander
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -2727,7 +2727,7 @@ spanish_tamaulipeco_area_scripted_country_name = { #Nuevo Santander
     	location_trigger = {
     	}
     }
-spanish_guachichil_area_scripted_country_name = { #Nueva Extremadura, or Nuevo Leon
+spanish_guachichil_area_scripted_country_name = { #Nuevo Leon, or Nueva Extremadura
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -2736,14 +2736,14 @@ spanish_guachichil_area_scripted_country_name = { #Nueva Extremadura, or Nuevo L
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -2767,14 +2767,14 @@ spanish_texas_area_scripted_country_name = { #Tejas, or Nuevas Filipinas
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -2798,14 +2798,14 @@ spanish_shiewhibak_area_scripted_country_name = { #Pimería Alta
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -2829,14 +2829,14 @@ spanish_alaxsxaq_area_scripted_country_name = { #Valdès
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -2860,14 +2860,14 @@ spanish_yukon_area_scripted_country_name = { #Yucón
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -2891,14 +2891,14 @@ spanish_columbia_interior_area_scripted_country_name = { #Nutca Interior
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -2922,14 +2922,14 @@ spanish_california_area_scripted_country_name = { #Alta California
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -2953,14 +2953,14 @@ spanish_great_basin_area_scripted_country_name = { #Timpanogos
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -2984,14 +2984,14 @@ spanish_rockies_area_scripted_country_name = { #Sangre de Cristo
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -3015,14 +3015,14 @@ spanish_hawaii_area_scripted_country_name = { #Hawai
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -3046,14 +3046,14 @@ spanish_cascadia_area_scripted_country_name = { #Montaña del Carmelo, historica
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -3077,14 +3077,14 @@ spanish_amazon_area_scripted_country_name = { #Amazonas
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -3108,14 +3108,14 @@ spanish_tocantins_area_scripted_country_name = { #Tocantines
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -3130,7 +3130,7 @@ spanish_tocantins_area_scripted_country_name = { #Tocantines
     	location_trigger = {
     	}
     }
-spanish_parana_area_scripted_country_name = { #Guayrá, historical, Gobernación del Guayrá encompassed most of Paraná and was originally a Spanish colony
+spanish_parana_area_scripted_country_name = { #Guayrá, historical Gobernación del Guayrá encompassed most of Paraná and was originally a Spanish colony
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -3139,14 +3139,14 @@ spanish_parana_area_scripted_country_name = { #Guayrá, historical, Gobernación
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -3170,14 +3170,14 @@ spanish_paraguay_area_scripted_country_name = { #Paraguay
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -3201,14 +3201,14 @@ spanish_guapore_area_scripted_country_name = { #Guaporé
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -3232,14 +3232,14 @@ spanish_uruguay_area_scripted_country_name = { #Banda Oriental
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -3263,14 +3263,14 @@ spanish_para_area_scripted_country_name = { #Bajo Amazonas
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -3294,14 +3294,14 @@ spanish_mato_grosso_area_scripted_country_name = { #Itatín
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -3325,14 +3325,14 @@ spanish_goias_area_scripted_country_name = { #Goiaz
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -3356,14 +3356,14 @@ spanish_maranhao_area_scripted_country_name = { #Marañón
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -3387,14 +3387,14 @@ spanish_piaui_area_scripted_country_name = { #Piauy
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -3418,14 +3418,14 @@ spanish_ceara_area_scripted_country_name = { #Ceará
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -3449,14 +3449,14 @@ spanish_paraiba_area_scripted_country_name = { #Paraibas
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -3480,14 +3480,14 @@ spanish_pernambuco_area_scripted_country_name = { #Pernambuco
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -3511,14 +3511,14 @@ spanish_bahia_area_scripted_country_name = { #Bahia
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -3542,14 +3542,14 @@ spanish_espirito_santo_area_scripted_country_name = { #Espíritu Santo
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -3564,7 +3564,7 @@ spanish_espirito_santo_area_scripted_country_name = { #Espíritu Santo
     	location_trigger = {
     	}
     }
-spanish_rio_de_janeiro_area_scripted_country_name = { #Rio de Janeiro, alternatively, something like Guanabara, after the bay?
+spanish_rio_de_janeiro_area_scripted_country_name = { #Rio de Janeiro, alternatively something like Guanabara after the bay?
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -3573,14 +3573,14 @@ spanish_rio_de_janeiro_area_scripted_country_name = { #Rio de Janeiro, alternati
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -3604,14 +3604,14 @@ spanish_minas_gerais_area_scripted_country_name = { #Minas Gerales
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -3635,14 +3635,14 @@ spanish_sao_paulo_area_scripted_country_name = { #San Pablo
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -3666,14 +3666,14 @@ spanish_santa_catarina_area_scripted_country_name = { #Santa Catalina
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -3697,14 +3697,14 @@ spanish_rio_grande_do_sul_area_scripted_country_name = { #Rio Grande de San Pedr
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -3728,14 +3728,14 @@ spanish_quitu_area_scripted_country_name = { #Quito
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -3759,14 +3759,14 @@ spanish_chala_area_scripted_country_name = { #Lima
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -3781,7 +3781,7 @@ spanish_chala_area_scripted_country_name = { #Lima
     	location_trigger = {
     	}
     }
-spanish_la_plata_area_scripted_country_name = { #Buenos Aires, keep La Plata for the formable?
+spanish_la_plata_area_scripted_country_name = { #Buenos Ayres, keep La Plata for the formable?
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -3790,14 +3790,14 @@ spanish_la_plata_area_scripted_country_name = { #Buenos Aires, keep La Plata for
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -3812,7 +3812,7 @@ spanish_la_plata_area_scripted_country_name = { #Buenos Aires, keep La Plata for
     	location_trigger = {
     	}
     }
-spanish_ngulumapu_area_scripted_country_name = { #Santiago, keep Chile for the formable?
+spanish_ngulumapu_area_scripted_country_name = { #Nueva Extremadura, keep Chile for the formable?
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -3821,14 +3821,14 @@ spanish_ngulumapu_area_scripted_country_name = { #Santiago, keep Chile for the f
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -3852,14 +3852,14 @@ spanish_mamore_area_scripted_country_name = { #Mamoré
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -3883,14 +3883,14 @@ spanish_ayoreo_area_scripted_country_name = { #Chaco
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -3914,14 +3914,14 @@ spanish_puelmapu_area_scripted_country_name = { #Rio Negro
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -3945,14 +3945,14 @@ spanish_patagonia_area_scripted_country_name = { #Patagonia
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -3976,14 +3976,14 @@ spanish_falklands_area_scripted_country_name = { #Islas Malvinas
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -4007,14 +4007,14 @@ spanish_south_georgia_area_scripted_country_name = { #Isla San Pedro
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -4038,14 +4038,14 @@ spanish_charcas_area_scripted_country_name = { #Charcas
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -4069,14 +4069,14 @@ spanish_salta_de_tucuman_area_scripted_country_name = { #Salta del Tucumán
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -4100,14 +4100,14 @@ spanish_cordoba_de_tucuman_area_scripted_country_name = { #Córdoba del Tucumán
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -4122,7 +4122,7 @@ spanish_cordoba_de_tucuman_area_scripted_country_name = { #Córdoba del Tucumán
     	location_trigger = {
     	}
     }
-spanish_boiaca_area_scripted_country_name = { #Santafé, Save Nueva Granada for the regional
+spanish_boiaca_area_scripted_country_name = { #Tunja, The in-game "Boaica" area should be expanded to actually include the city of Tunja and be renamed to "Chunsa" thus representing the historical colonial province of Tunja at its largest extent (including the colonial provinces of Casanare Socorro and New Pamplona)
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -4131,14 +4131,14 @@ spanish_boiaca_area_scripted_country_name = { #Santafé, Save Nueva Granada for 
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -4153,7 +4153,7 @@ spanish_boiaca_area_scripted_country_name = { #Santafé, Save Nueva Granada for 
     	location_trigger = {
     	}
     }
-spanish_sinu_area_scripted_country_name = { #Nueva Andalucia, or just Cartagena
+spanish_sinu_area_scripted_country_name = { #Nueva Andalucía, or just Cartagena (adj. Cartagenero)
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -4162,14 +4162,14 @@ spanish_sinu_area_scripted_country_name = { #Nueva Andalucia, or just Cartagena
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -4193,14 +4193,14 @@ spanish_suchiimma_area_scripted_country_name = { #Maracaibo
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -4224,14 +4224,14 @@ spanish_caracas_area_scripted_country_name = { #Caracas, Save Venezuela for the 
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -4255,14 +4255,14 @@ spanish_orinucu_area_scripted_country_name = { #Cumaná
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -4277,7 +4277,7 @@ spanish_orinucu_area_scripted_country_name = { #Cumaná
     	location_trigger = {
     	}
     }
-spanish_chunsa_area_scripted_country_name = { #Antioquia 
+spanish_chunsa_area_scripted_country_name = { #Santa Fe de Bogotá, The in-game "Chunsa" area should not include the modern-day city of Tunja and should be renamed to "Bacatá" and it should represent the core lands of the New Kingdom of Granada (the historical colonial provinces of Bogotá Neiva and Mariquita) what would later be the Gran Colombian department of Cundinamarca
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -4286,14 +4286,14 @@ spanish_chunsa_area_scripted_country_name = { #Antioquia
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -4308,7 +4308,7 @@ spanish_chunsa_area_scripted_country_name = { #Antioquia
     	location_trigger = {
     	}
     }
-spanish_caly_area_scripted_country_name = { #Popayán, could be choco as well
+spanish_caly_area_scripted_country_name = { #Popayán, Could also include the historical colonial Province of Antioquia
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -4317,14 +4317,14 @@ spanish_caly_area_scripted_country_name = { #Popayán, could be choco as well
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -4348,14 +4348,14 @@ spanish_guayana_area_scripted_country_name = { #Guayana
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	
@@ -4370,7 +4370,7 @@ spanish_guayana_area_scripted_country_name = { #Guayana
     	location_trigger = {
     	}
     }
-spanish_northwest_coast_area_scripted_country_name = { #Nutca
+spanish_northwest_coast_area_scripted_country_name = { #Quadra, historical - save nutca for formable
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -4379,14 +4379,14 @@ spanish_northwest_coast_area_scripted_country_name = { #Nutca
     		#}
     		OR = {
     			
-					court_language = language:spanish_language
-					culture.language = language:spanish_language
-					overlord ?= {
-						court_language = language:spanish_language
-					}
-					overlord ?= {
-						culture.language = language:spanish_language
-					}
+                court_language = language:spanish_language
+                culture.language = language:spanish_language
+                overlord ?= {
+                    court_language = language:spanish_language
+                }
+                overlord ?= {
+                    culture.language = language:spanish_language
+                }
     		}
     	}
     	

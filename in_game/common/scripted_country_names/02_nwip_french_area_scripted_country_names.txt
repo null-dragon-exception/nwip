@@ -8,14 +8,14 @@ french_greenland_area_scripted_country_name = { #Terre Verte
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -39,14 +39,14 @@ french_quebec_area_scripted_country_name = { #Québec, historical
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -70,14 +70,14 @@ french_laurentian_area_scripted_country_name = { #Laurentides, historical
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -101,14 +101,14 @@ french_lower_canada_area_scripted_country_name = { #Archipel d'Hochelaga, histor
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -132,14 +132,14 @@ french_jamesie_area_scripted_country_name = { #Baie-James, translation
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -163,14 +163,14 @@ french_nunavik_area_scripted_country_name = { #Nouveau-Québec, historical
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -194,14 +194,14 @@ french_labrador_area_scripted_country_name = { #Nouvelle-Bretagne, historical
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -225,14 +225,14 @@ french_newfoundland_area_scripted_country_name = { #Terre-Neuve, historical
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -256,14 +256,14 @@ french_prince_edward_island_area_scripted_country_name = { #Île Saint-Jean, his
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -278,7 +278,7 @@ french_prince_edward_island_area_scripted_country_name = { #Île Saint-Jean, his
     	location_trigger = {
     	}
     }
-french_acadia_area_scripted_country_name = { #Acadie Péninsulaire, historical, or Cap-Breton, or Île-Royale 
+french_acadia_area_scripted_country_name = { #Acadie Péninsulaire, historical or Cap-Breton or Île-Royale 
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -287,14 +287,14 @@ french_acadia_area_scripted_country_name = { #Acadie Péninsulaire, historical, 
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -318,14 +318,14 @@ french_new_brunswick_area_scripted_country_name = { #Acadie Continentale, histor
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -349,14 +349,14 @@ french_eastern_ontario_area_scripted_country_name = { #Grand-Rivière des Outaou
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -380,14 +380,14 @@ french_western_ontario_area_scripted_country_name = { #Huronie, historical
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -411,14 +411,14 @@ french_northern_ontario_area_scripted_country_name = { #Pays des Nipissing, hist
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -442,14 +442,14 @@ french_northwestern_ontario_area_scripted_country_name = { #Baie du Tonnerre, hi
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -464,7 +464,7 @@ french_northwestern_ontario_area_scripted_country_name = { #Baie du Tonnerre, hi
     	location_trigger = {
     	}
     }
-french_greenstone_belt_area_scripted_country_name = { #Abitibi
+french_greenstone_belt_area_scripted_country_name = { #Témiscamingue, historical
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -473,14 +473,14 @@ french_greenstone_belt_area_scripted_country_name = { #Abitibi
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -504,14 +504,14 @@ french_keewatin_area_scripted_country_name = { #Baie du Nord, historical
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -535,14 +535,14 @@ french_cuba_area_scripted_country_name = { #Cuba
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -557,7 +557,7 @@ french_cuba_area_scripted_country_name = { #Cuba
     	location_trigger = {
     	}
     }
-french_hispaniola_area_scripted_country_name = { #Saint-Domingue, historical, also Haïti
+french_hispaniola_area_scripted_country_name = { #Saint-Domingue, historical also Haïti
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -566,14 +566,14 @@ french_hispaniola_area_scripted_country_name = { #Saint-Domingue, historical, al
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -597,14 +597,14 @@ french_lesser_antilles_area_scripted_country_name = { #Îles de l'Amérique, his
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -628,14 +628,14 @@ french_panama_area_scripted_country_name = { #Panama
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -659,14 +659,14 @@ french_massachusetts_area_scripted_country_name = { #Almouchiquie, see dutch
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -690,14 +690,14 @@ french_southern_new_england_area_scripted_country_name = { #Champlainie
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -721,14 +721,14 @@ french_vermont_area_scripted_country_name = { #Vermont
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -752,14 +752,14 @@ french_new_hampshire_area_scripted_country_name = { #Blancmont
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -783,14 +783,14 @@ french_maine_area_scripted_country_name = { #Norembègue, historical
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -805,7 +805,7 @@ french_maine_area_scripted_country_name = { #Norembègue, historical
     	location_trigger = {
     	}
     }
-french_hudson_area_scripted_country_name = { #Nouvelle-Angoulême, It's the same, and I don't care 
+french_hudson_area_scripted_country_name = { #Nouvelle-Angoulême, It's the same and I don't care 
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -814,14 +814,14 @@ french_hudson_area_scripted_country_name = { #Nouvelle-Angoulême, It's the same
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -845,14 +845,14 @@ french_haudenosaunee_area_scripted_country_name = { #Iroquoisie, historical
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -876,14 +876,14 @@ french_new_jersey_area_scripted_country_name = { #Nouvelle-Oléron
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -907,14 +907,14 @@ french_pennsylvania_area_scripted_country_name = { #Andastiane, Andastes
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -938,14 +938,14 @@ french_westsylvania_area_scripted_country_name = { #Alleghenie, historical
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -969,14 +969,14 @@ french_maryland_area_scripted_country_name = { #Terre de Marie
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -1000,14 +1000,14 @@ french_virginia_area_scripted_country_name = { #Notre-Dame de l'Amorce des Terre
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -1031,14 +1031,14 @@ french_west_virginia_area_scripted_country_name = { #Chavanonie, Historical spel
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -1062,14 +1062,14 @@ french_north_carolina_area_scripted_country_name = { #Nouvelle-Aumale, Reference
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -1093,14 +1093,14 @@ french_south_carolina_area_scripted_country_name = { #Haute-Caroline, OG french 
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -1124,14 +1124,14 @@ french_georgia_us_area_scripted_country_name = { #Basse-Caroline
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -1155,14 +1155,14 @@ french_florida_area_scripted_country_name = { #Floride, Historical
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -1186,14 +1186,14 @@ french_tennessee_area_scripted_country_name = { #Rivière à Margot, Historical
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -1217,14 +1217,14 @@ french_kentucky_area_scripted_country_name = { #Belle Rivière, Historical name 
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -1248,14 +1248,14 @@ french_ohio_area_scripted_country_name = { #Vallée de l'Ohio, Historical
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -1279,14 +1279,14 @@ french_indiana_area_scripted_country_name = { #Potéouatamie, Or Pays des Miamis
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -1310,14 +1310,14 @@ french_michigan_area_scripted_country_name = { #Pays-d'en-Haut, Historical
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -1341,14 +1341,14 @@ french_illinois_area_scripted_country_name = { #Pays des Illinois, Historical
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -1372,14 +1372,14 @@ french_wisconsin_area_scripted_country_name = { #Pays des Mascoutens, Historical
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -1403,14 +1403,14 @@ french_alabama_area_scripted_country_name = { #Alibamonie, Based on french histo
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -1434,14 +1434,14 @@ french_mississippi_area_scripted_country_name = { #Messipi , Older spelling
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -1465,14 +1465,14 @@ french_louisiana_area_scripted_country_name = { #Basse-Louisiane, Historical
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -1496,14 +1496,14 @@ french_arkansas_area_scripted_country_name = { #Les Arcs, Historical
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -1527,14 +1527,14 @@ french_missouri_area_scripted_country_name = { #Haute-Louisiane, Historical
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -1558,14 +1558,14 @@ french_iowa_area_scripted_country_name = { #Le Moingona, Historical
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -1589,14 +1589,14 @@ french_minnesota_area_scripted_country_name = { #L'étoile du Nord
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -1620,14 +1620,14 @@ french_superior_area_scripted_country_name = { #Pays des Renards, Historical
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -1651,14 +1651,14 @@ french_north_dakota_area_scripted_country_name = { #Sioux du Nord
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -1682,14 +1682,14 @@ french_south_dakota_area_scripted_country_name = { #Sioux du Sud
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -1713,14 +1713,14 @@ french_central_plains_area_scripted_country_name = { #Grandes Plaines
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -1735,7 +1735,7 @@ french_central_plains_area_scripted_country_name = { #Grandes Plaines
     	location_trigger = {
     	}
     }
-french_natahende_area_scripted_country_name = { #Nouveau-Méxique
+french_natahende_area_scripted_country_name = { #Nouveau-Méksique
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -1744,14 +1744,14 @@ french_natahende_area_scripted_country_name = { #Nouveau-Méxique
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -1775,14 +1775,14 @@ french_high_plains_area_scripted_country_name = { #Pays des Apaches
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -1806,14 +1806,14 @@ french_badlands_area_scripted_country_name = { #Pays des Cheyennes
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -1837,14 +1837,14 @@ french_upper_missouri_area_scripted_country_name = { #Haut-Missouri, Historical
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -1868,14 +1868,14 @@ french_athabasca_area_scripted_country_name = { #Athabasca
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -1899,14 +1899,14 @@ french_saskatchewan_area_scripted_country_name = { #Pembina
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -1930,14 +1930,14 @@ french_keewatin_n_area_scripted_country_name = { #Nord-Ouest
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -1961,14 +1961,14 @@ french_red_river_area_scripted_country_name = { #Assiniboia, Historical
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -1992,14 +1992,14 @@ french_mexihko_area_scripted_country_name = { #Méksique
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -2023,14 +2023,14 @@ french_tlaxcala_area_scripted_country_name = { #Tlakskala
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -2054,14 +2054,14 @@ french_huaxyacac_area_scripted_country_name = { #Ouaraca
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -2085,14 +2085,14 @@ french_tochtepec_area_scripted_country_name = { #Sainte Croix
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -2116,14 +2116,14 @@ french_michoacan_area_scripted_country_name = { #Nouvelle-Artois
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -2147,14 +2147,14 @@ french_xilotepec_area_scripted_country_name = { #Montagnes d'Argent
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -2178,14 +2178,14 @@ french_xalisco_area_scripted_country_name = { #Nouvelle-Aquitaine
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -2209,14 +2209,14 @@ french_minas_gerais_area_scripted_country_name = { #Bel Horizon
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -2240,14 +2240,14 @@ french_mayaab_area_scripted_country_name = { #Yucatán
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -2271,14 +2271,14 @@ french_chilapan_area_scripted_country_name = { #Chilapan
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -2302,14 +2302,14 @@ french_puuk_area_scripted_country_name = { #Campêche
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -2333,14 +2333,14 @@ french_chactemal_area_scripted_country_name = { #Chetumal
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -2364,14 +2364,14 @@ french_peten_area_scripted_country_name = { #Bellix
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -2395,14 +2395,14 @@ french_tezulutlan_area_scripted_country_name = { #Goathemala
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -2426,14 +2426,14 @@ french_kuskatan_area_scripted_country_name = { #Les Profondeurs
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -2457,14 +2457,14 @@ french_imabite_area_scripted_country_name = { #Nicaragua
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -2488,14 +2488,14 @@ french_nekokiaw_area_scripted_country_name = { #Côte d'Or
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -2519,14 +2519,14 @@ french_zacatecas_area_scripted_country_name = { #Sacateque
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -2550,14 +2550,14 @@ french_baja_area_scripted_country_name = { #Basse-Californie
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -2581,14 +2581,14 @@ french_tahejoc_area_scripted_country_name = { #Nouvelle-Navarre
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -2612,14 +2612,14 @@ french_culiacan_area_scripted_country_name = { #Côte Vermeille
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -2643,14 +2643,14 @@ french_tamaulipeco_area_scripted_country_name = { #Terre de Tenec
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -2674,14 +2674,14 @@ french_guachichil_area_scripted_country_name = { #Nouvelle-Biscaye
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -2705,14 +2705,14 @@ french_texas_area_scripted_country_name = { #Carancaquaca, Karankawas
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -2736,14 +2736,14 @@ french_shiewhibak_area_scripted_country_name = { #Beauchêne
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -2767,14 +2767,14 @@ french_alaxsxaq_area_scripted_country_name = { #Pay de Aléoute
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -2798,14 +2798,14 @@ french_yukon_area_scripted_country_name = { #Liardie
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -2829,14 +2829,14 @@ french_columbia_interior_area_scripted_country_name = { #Rivière de Broche, His
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -2860,14 +2860,14 @@ french_california_area_scripted_country_name = { #Haute-Californie
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -2891,14 +2891,14 @@ french_great_basin_area_scripted_country_name = { #Bassin de Bonneville
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -2922,14 +2922,14 @@ french_rockies_area_scripted_country_name = { #Les Rocheuses
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -2953,14 +2953,14 @@ french_hawaii_area_scripted_country_name = { #Îles Pérouse
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -2984,14 +2984,14 @@ french_cascadia_area_scripted_country_name = { #Terre de Charbonneau
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -3015,14 +3015,14 @@ french_amazon_area_scripted_country_name = { #Amazonie
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -3046,14 +3046,14 @@ french_tocantins_area_scripted_country_name = { #Toucantine
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -3077,14 +3077,14 @@ french_uruguay_area_scripted_country_name = { #La Orientale
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -3108,14 +3108,14 @@ french_para_area_scripted_country_name = { #Bas Amazonie
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -3139,14 +3139,14 @@ french_mato_grosso_area_scripted_country_name = { #Grande Brousse
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -3170,14 +3170,14 @@ french_goias_area_scripted_country_name = { #Formose
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -3201,14 +3201,14 @@ french_maranhao_area_scripted_country_name = { #France Équinoxiale , historical
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -3232,14 +3232,14 @@ french_piaui_area_scripted_country_name = { #Piauhy
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -3263,14 +3263,14 @@ french_ceara_area_scripted_country_name = { #Cèaras
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -3294,14 +3294,14 @@ french_paraiba_area_scripted_country_name = { #Parahybas
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -3325,14 +3325,14 @@ french_pernambuco_area_scripted_country_name = { #Pèrnambuque
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -3356,14 +3356,14 @@ french_bahia_area_scripted_country_name = { #Baie de Tous les Saints
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -3387,14 +3387,14 @@ french_espirito_santo_area_scripted_country_name = { #Saint Esprit
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -3418,14 +3418,14 @@ french_rio_de_janeiro_area_scripted_country_name = { #France Antartique, histori
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -3449,14 +3449,14 @@ french_minas_gerais_area_scripted_country_name = { #Bel Horizon
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -3480,14 +3480,14 @@ french_sao_paulo_area_scripted_country_name = { #Saint-Paul
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -3511,14 +3511,14 @@ french_santa_catarina_area_scripted_country_name = { #Sainte-Catherine
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -3542,14 +3542,14 @@ french_chala_area_scripted_country_name = { #Basse-Bérou
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -3573,14 +3573,14 @@ french_qullaw_area_scripted_country_name = { #Haute-Bérou
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -3604,14 +3604,14 @@ french_la_plata_area_scripted_country_name = { #Argentine
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -3635,14 +3635,14 @@ french_ngulumapu_area_scripted_country_name = { #Araucanie
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -3666,14 +3666,14 @@ french_patagonia_area_scripted_country_name = { #Patagonie
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -3697,14 +3697,14 @@ french_falklands_area_scripted_country_name = { #Îles Malouines, historical
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -3728,14 +3728,14 @@ french_south_georgia_area_scripted_country_name = { #Île Roché, historical
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -3759,14 +3759,14 @@ french_sinu_area_scripted_country_name = { #La Rochelle d'Ouest
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -3790,14 +3790,14 @@ french_suchiimma_area_scripted_country_name = { #Nouvelle-Vendée
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -3821,14 +3821,14 @@ french_caracas_area_scripted_country_name = { #Marais Poitevinette
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -3836,6 +3836,37 @@ french_caracas_area_scripted_country_name = { #Marais Poitevinette
     	capital_trigger = {
     		OR = {
     			area = area:caracas_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+french_orinucu_area_scripted_country_name = { #Orénoque
+    	# regular old country trigger
+    	country_trigger = {
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
+    		OR = {
+    			
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:orinucu_area
     		}
     	}
     	
@@ -3852,14 +3883,14 @@ french_guayana_area_scripted_country_name = { #Guyane
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -3874,7 +3905,7 @@ french_guayana_area_scripted_country_name = { #Guyane
     	location_trigger = {
     	}
     }
-french_northwestern_australia_area_scripted_country_name = { #Jave la Grande
+french_northwestern_australia_area_scripted_country_name = { #Grande Jave 
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -3883,14 +3914,14 @@ french_northwestern_australia_area_scripted_country_name = { #Jave la Grande
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	
@@ -3898,6 +3929,37 @@ french_northwestern_australia_area_scripted_country_name = { #Jave la Grande
     	capital_trigger = {
     		OR = {
     			area = area:northwestern_australia_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+french_south_island_area_scripted_country_name = { #Petite Jave 
+    	# regular old country trigger
+    	country_trigger = {
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
+    		OR = {
+    			
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:south_island_area
     		}
     	}
     	
@@ -3914,14 +3976,14 @@ french_north_island_area_scripted_country_name = { #La Joncade
     		#}
     		OR = {
     			
-					court_language = language:french_language
-					culture.language = language:french_language
-					overlord ?= {
-						court_language = language:french_language
-					}
-					overlord ?= {
-						culture.language = language:french_language
-					}
+                court_language = language:french_language
+                culture.language = language:french_language
+                overlord ?= {
+                    court_language = language:french_language
+                }
+                overlord ?= {
+                    culture.language = language:french_language
+                }
     		}
     	}
     	

@@ -55,9 +55,9 @@
   portuguese_hudson_area_scripted_country_name_ADJ: "Barcelosense"
   portuguese_haudenosaunee_area_scripted_country_name: "Rodichonia" #transliteration.
   portuguese_haudenosaunee_area_scripted_country_name_ADJ: "Rodichoniano"
-  portuguese_new_jersey_area_scripted_country_name: "Quitano" #transliteration, after Delaware's lenape name "Kithanne"
+  portuguese_new_jersey_area_scripted_country_name: "Quitano" #transliteration after Delaware's lenape name "Kithanne"
   portuguese_new_jersey_area_scripted_country_name_ADJ: "Quitanoano"
-  portuguese_pennsylvania_area_scripted_country_name: "Susquerana" #transliteration, after Susquehanna river
+  portuguese_pennsylvania_area_scripted_country_name: "Susquerana" #transliteration after Susquehanna river
   portuguese_pennsylvania_area_scripted_country_name_ADJ: "Susqueranano"
   portuguese_westsylvania_area_scripted_country_name: "Eliqueni" #transliteration of Allegheny / Alikehane
   portuguese_westsylvania_area_scripted_country_name_ADJ: "Eliqueniano"
@@ -109,7 +109,7 @@
   portuguese_north_dakota_area_scripted_country_name_ADJ: "Norte-dacotano"
   portuguese_south_dakota_area_scripted_country_name: "Dacota do Sul" #transliteration
   portuguese_south_dakota_area_scripted_country_name_ADJ: "Sul-dacotano"
-  portuguese_central_plains_area_scripted_country_name: "Campos Limpos" #means open/clean fields, akin to Mato Grosso
+  portuguese_central_plains_area_scripted_country_name: "Campos Limpos" #means open/clean fields akin to Mato Grosso
   portuguese_central_plains_area_scripted_country_name_ADJ: "Campos Limpense"
   portuguese_natahende_area_scripted_country_name: "São Felipe" #after the original name of New Mexico
   portuguese_natahende_area_scripted_country_name_ADJ: "Felipino"
@@ -147,7 +147,7 @@
   portuguese_michoacan_area_scripted_country_name_ADJ: "Micoacano"
   portuguese_xilotepec_area_scripted_country_name: "Guanachuato" 
   portuguese_xilotepec_area_scripted_country_name_ADJ: "Guanachuatano"
-  portuguese_xalisco_area_scripted_country_name: "Salisco" #modern name, trnaslated; could also be Guadalarrara
+  portuguese_xalisco_area_scripted_country_name: "Salisco" #modern name trnaslated; could also be Guadalarrara
   portuguese_xalisco_area_scripted_country_name_ADJ: "Saliscano"
   portuguese_minas_gerais_area_scripted_country_name: "Minas Gerais" #wtf is MG doing here!?
   portuguese_minas_gerais_area_scripted_country_name_ADJ: "Mineiro"
@@ -155,7 +155,7 @@
   portuguese_mayaab_area_scripted_country_name_ADJ: "Iucatão "
   portuguese_chilapan_area_scripted_country_name: "Chilapão" #transliteration
   portuguese_chilapan_area_scripted_country_name_ADJ: "Chilapão"
-  portuguese_puuk_area_scripted_country_name: "São Lázaro" #after the original spanish name, modern Campeche
+  portuguese_puuk_area_scripted_country_name: "São Lázaro" #after the original spanish name modern Campeche
   portuguese_puuk_area_scripted_country_name_ADJ: "Lazarino"
   portuguese_chactemal_area_scripted_country_name: "Chatemal" #transliteration
   portuguese_chactemal_area_scripted_country_name_ADJ: "Chatemalano"
@@ -173,7 +173,7 @@
   portuguese_zacatecas_area_scripted_country_name_ADJ: "Zacatecano"
   portuguese_baja_area_scripted_country_name: "Baixa California" #real name
   portuguese_baja_area_scripted_country_name_ADJ: "Baixo Californio"
-  portuguese_tahejoc_area_scripted_country_name: "Vale de Nossa Senhora" #After Valles de Nuestra Senora, possible origin of the name
+  portuguese_tahejoc_area_scripted_country_name: "Vale de Nossa Senhora" #After Valles de Nuestra Senora possible origin of the name
   portuguese_tahejoc_area_scripted_country_name_ADJ: "Valeiano"
   portuguese_culiacan_area_scripted_country_name: "Sinaloa" #after the real state
   portuguese_culiacan_area_scripted_country_name_ADJ: "Sinaloano"
@@ -199,8 +199,8 @@
   portuguese_hawaii_area_scripted_country_name_ADJ: "Avaíano"
   portuguese_cascadia_area_scripted_country_name: "Ouveágua" #historical
   portuguese_cascadia_area_scripted_country_name_ADJ: "Ouveáguense"
-  portuguese_amazon_area_scripted_country_name: "Grão-Pará" #historical
-  portuguese_amazon_area_scripted_country_name_ADJ: "Grão-Paraense"
+  portuguese_amazon_area_scripted_country_name: "Amazonas" #historical - Grão-Pará is mapped to the new Pará region
+  portuguese_amazon_area_scripted_country_name_ADJ: "Amazonense"
   portuguese_tocantins_area_scripted_country_name: "Tocantins" #historical
   portuguese_tocantins_area_scripted_country_name_ADJ: "Tocantinense"
   portuguese_mearim_area_scripted_country_name: "Mearim" #unused now
@@ -217,9 +217,9 @@
   portuguese_parana_area_scripted_country_name_ADJ: "Paranaense"
   portuguese_paraguay_area_scripted_country_name: "Paraguai" #translation
   portuguese_paraguay_area_scripted_country_name_ADJ: "Paraguaio"
-  portuguese_guapore_area_scripted_country_name: "Guaporé" #literal, nonhistorical
+  portuguese_guapore_area_scripted_country_name: "Guaporé" #literal nonhistorical
   portuguese_guapore_area_scripted_country_name_ADJ: "Guaporeio"
-  portuguese_uruguay_area_scripted_country_name: "Cisplatina" #historical, unused
+  portuguese_uruguay_area_scripted_country_name: "Cisplatina" #historical unused
   portuguese_uruguay_area_scripted_country_name_ADJ: "Csiplatinan"
   portuguese_para_area_scripted_country_name: "Pará" #historical -Rio Solimões
   portuguese_para_area_scripted_country_name_ADJ: "Paraense"
@@ -265,7 +265,7 @@
   portuguese_cuyo_area_scripted_country_name_ADJ: "Cuiano"
   portuguese_yunga_area_scripted_country_name: "Iunga" #translation
   portuguese_yunga_area_scripted_country_name_ADJ: "Iungano"
-  portuguese_puna_area_scripted_country_name: "Puna" #transliteration, could have a better name
+  portuguese_puna_area_scripted_country_name: "Puna" #transliteration could have a better name
   portuguese_puna_area_scripted_country_name_ADJ: "Punense"
   portuguese_qullaw_area_scripted_country_name: "Alto Peru" #Upper Peru
   portuguese_qullaw_area_scripted_country_name_ADJ: "Alto Peruano"
@@ -283,6 +283,8 @@
   portuguese_la_plata_area_scripted_country_name_ADJ: "Pratense"
   portuguese_ngulumapu_area_scripted_country_name: "São Tiago" #after Santiago
   portuguese_ngulumapu_area_scripted_country_name_ADJ: "Tiagano"
+  portuguese_juan_fernandez_area_scripted_country_name: "João Fernandes" #unused?
+  portuguese_juan_fernandez_area_scripted_country_name_ADJ: "João Fernandes"
   portuguese_mamore_area_scripted_country_name: "Mamoré" 
   portuguese_mamore_area_scripted_country_name_ADJ: "Mamoreano"
   portuguese_ayoreo_area_scripted_country_name: "Chaco" #redundant with chaco?
@@ -295,7 +297,7 @@
   portuguese_patagonia_area_scripted_country_name_ADJ: "Patagão"
   portuguese_falklands_area_scripted_country_name: "São Malo" #inspiration of the name Malvinas
   portuguese_falklands_area_scripted_country_name_ADJ: "Malouano"
-  portuguese_south_georgia_area_scripted_country_name: "Ilha do São Pedro" #historical
+  portuguese_south_georgia_area_scripted_country_name: "Ilha de São Pedro" #historical
   portuguese_south_georgia_area_scripted_country_name_ADJ: "Pedrino"
   portuguese_charcas_area_scripted_country_name: "Charcas" #historical name
   portuguese_charcas_area_scripted_country_name_ADJ: "Charqueano"

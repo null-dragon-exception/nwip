@@ -8,14 +8,14 @@ english_greenland_area_scripted_country_name = { #Greenland
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -39,14 +39,14 @@ english_quebec_area_scripted_country_name = { #Edwardia, English King because wh
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -70,14 +70,14 @@ english_laurentian_area_scripted_country_name = { #The Laurentians
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -101,14 +101,14 @@ english_lower_canada_area_scripted_country_name = { #Lower Canada
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -132,14 +132,14 @@ english_jamesie_area_scripted_country_name = { #Eastern James Bay
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -163,14 +163,14 @@ english_nunavik_area_scripted_country_name = { #Ungava, historical
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -194,14 +194,14 @@ english_labrador_area_scripted_country_name = { #Labrador
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -225,14 +225,14 @@ english_newfoundland_area_scripted_country_name = { #Newfoundland
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -256,14 +256,14 @@ english_prince_edward_island_area_scripted_country_name = { #Prince Edward Islan
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -287,14 +287,14 @@ english_acadia_area_scripted_country_name = { #Nova Scotia
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -318,14 +318,14 @@ english_new_brunswick_area_scripted_country_name = { #New Brunswick
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -349,14 +349,14 @@ english_eastern_ontario_area_scripted_country_name = { #Eastern Ontario
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -380,14 +380,14 @@ english_western_ontario_area_scripted_country_name = { #Western Ontario
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -411,14 +411,14 @@ english_northern_ontario_area_scripted_country_name = { #Northern Ontario
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -442,14 +442,14 @@ english_northwestern_ontario_area_scripted_country_name = { #Northwestern Ontari
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -473,14 +473,14 @@ english_greenstone_belt_area_scripted_country_name = { #Abitibi Uplands
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -504,14 +504,14 @@ english_keewatin_area_scripted_country_name = { #Keewatin
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -535,14 +535,14 @@ english_cuba_area_scripted_country_name = { #Cooba
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -557,7 +557,7 @@ english_cuba_area_scripted_country_name = { #Cooba
     	location_trigger = {
     	}
     }
-english_hispaniola_area_scripted_country_name = { #Itee
+english_hispaniola_area_scripted_country_name = { #Lyonesse
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -566,14 +566,14 @@ english_hispaniola_area_scripted_country_name = { #Itee
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -597,14 +597,14 @@ english_lesser_antilles_area_scripted_country_name = { #Lesser Antilles
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -628,14 +628,14 @@ english_panama_area_scripted_country_name = { #Caledonia, failed british colony
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -659,14 +659,14 @@ english_massachusetts_area_scripted_country_name = { #Massachusetts
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -690,14 +690,14 @@ english_southern_new_england_area_scripted_country_name = { #Connecticut
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -721,14 +721,14 @@ english_vermont_area_scripted_country_name = { #Vermont
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -752,14 +752,14 @@ english_new_hampshire_area_scripted_country_name = { #New Hampshire
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -783,14 +783,14 @@ english_maine_area_scripted_country_name = { #Maine
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -814,14 +814,14 @@ english_hudson_area_scripted_country_name = { #Hudson, New York would be a forma
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -845,14 +845,14 @@ english_haudenosaunee_area_scripted_country_name = { #Upstate
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -876,14 +876,14 @@ english_new_jersey_area_scripted_country_name = { #New Jersey
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -907,14 +907,14 @@ english_pennsylvania_area_scripted_country_name = { #Pennsylvania
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -929,7 +929,7 @@ english_pennsylvania_area_scripted_country_name = { #Pennsylvania
     	location_trigger = {
     	}
     }
-english_westsylvania_area_scripted_country_name = { #Alleghania, Spelling with 'a' is english-derived with 'e' french-derived
+english_westsylvania_area_scripted_country_name = { #Allegany, Spelling with 'a' is english-derived with 'e' french-derived
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -938,14 +938,14 @@ english_westsylvania_area_scripted_country_name = { #Alleghania, Spelling with '
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -969,14 +969,14 @@ english_maryland_area_scripted_country_name = { #Maryland
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -1000,14 +1000,14 @@ english_virginia_area_scripted_country_name = { #Virginia
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -1031,14 +1031,14 @@ english_west_virginia_area_scripted_country_name = { #West Virginia
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -1062,14 +1062,14 @@ english_north_carolina_area_scripted_country_name = { #North Carolina
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -1093,14 +1093,14 @@ english_south_carolina_area_scripted_country_name = { #South Carolina
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -1124,14 +1124,14 @@ english_georgia_us_area_scripted_country_name = { #Georgia
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -1155,14 +1155,14 @@ english_florida_area_scripted_country_name = { #Florida
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -1186,14 +1186,14 @@ english_tennessee_area_scripted_country_name = { #Tennessee
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -1217,14 +1217,14 @@ english_kentucky_area_scripted_country_name = { #Kentucky
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -1248,14 +1248,14 @@ english_ohio_area_scripted_country_name = { #Ohio
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -1279,14 +1279,14 @@ english_indiana_area_scripted_country_name = { #Indiana
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -1310,14 +1310,14 @@ english_michigan_area_scripted_country_name = { #Michigan
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -1341,14 +1341,14 @@ english_illinois_area_scripted_country_name = { #Illinois
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -1372,14 +1372,14 @@ english_wisconsin_area_scripted_country_name = { #Wisconsin
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -1403,14 +1403,14 @@ english_alabama_area_scripted_country_name = { #Alabama
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -1434,14 +1434,14 @@ english_mississippi_area_scripted_country_name = { #Mississippi
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -1465,14 +1465,14 @@ english_louisiana_area_scripted_country_name = { #Louisiana
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -1496,14 +1496,14 @@ english_arkansas_area_scripted_country_name = { #Arkansaw, Historical spelling
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -1527,14 +1527,14 @@ english_missouri_area_scripted_country_name = { #Missouri
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -1558,14 +1558,14 @@ english_iowa_area_scripted_country_name = { #Iowa
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -1589,14 +1589,14 @@ english_minnesota_area_scripted_country_name = { #Minnesota
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -1620,14 +1620,14 @@ english_superior_area_scripted_country_name = { #Lake Superior
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -1651,14 +1651,14 @@ english_north_dakota_area_scripted_country_name = { #North Dakota
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -1682,14 +1682,14 @@ english_south_dakota_area_scripted_country_name = { #South Dakota
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -1713,14 +1713,14 @@ english_central_plains_area_scripted_country_name = { #Kansas
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -1744,14 +1744,14 @@ english_natahende_area_scripted_country_name = { #New Mexico
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -1775,14 +1775,14 @@ english_high_plains_area_scripted_country_name = { #Colorado
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -1806,14 +1806,14 @@ english_badlands_area_scripted_country_name = { #Wyoming
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -1837,14 +1837,14 @@ english_upper_missouri_area_scripted_country_name = { #Montana
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -1868,14 +1868,14 @@ english_athabasca_area_scripted_country_name = { #Athabaska
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -1899,14 +1899,14 @@ english_saskatchewan_area_scripted_country_name = { #Saskatchewan
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -1930,14 +1930,14 @@ english_keewatin_n_area_scripted_country_name = { #North Keewatin
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -1961,14 +1961,14 @@ english_red_river_area_scripted_country_name = { #Red River
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -1992,14 +1992,14 @@ english_mexihko_area_scripted_country_name = { #Masheecaw
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -2023,14 +2023,14 @@ english_tlaxcala_area_scripted_country_name = { #Tleshcow
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -2054,14 +2054,14 @@ english_puebla_area_scripted_country_name = { #Tleshcow
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -2085,14 +2085,14 @@ english_huaxyacac_area_scripted_country_name = { #Oashacks
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -2116,14 +2116,14 @@ english_tochtepec_area_scripted_country_name = { #True Cross
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -2147,14 +2147,14 @@ english_michoacan_area_scripted_country_name = { #Meeshoacan
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -2178,14 +2178,14 @@ english_xilotepec_area_scripted_country_name = { #Silverborough
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -2209,14 +2209,14 @@ english_xalisco_area_scripted_country_name = { #Shalisk
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -2240,14 +2240,14 @@ english_minas_gerais_area_scripted_country_name = { #Goldfields
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -2271,14 +2271,14 @@ english_mayaab_area_scripted_country_name = { #Yucatan
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -2302,14 +2302,14 @@ english_chilapan_area_scripted_country_name = { #Cheelapan
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -2333,14 +2333,14 @@ english_puuk_area_scripted_country_name = { #Camperch
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -2364,14 +2364,14 @@ english_chactemal_area_scripted_country_name = { #Shactemaw
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -2395,14 +2395,14 @@ english_peten_area_scripted_country_name = { #Belize River
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -2426,14 +2426,14 @@ english_tezulutlan_area_scripted_country_name = { #Gwatemaw
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -2457,14 +2457,14 @@ english_kuskatan_area_scripted_country_name = { #Gwaymoore
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -2488,14 +2488,14 @@ english_imabite_area_scripted_country_name = { #Neecaragwa
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -2519,14 +2519,14 @@ english_nekokiaw_area_scripted_country_name = { #Richcoast
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -2550,14 +2550,14 @@ english_zacatecas_area_scripted_country_name = { #New Bristol
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -2581,14 +2581,14 @@ english_baja_area_scripted_country_name = { #Old California, Upper California kn
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -2612,14 +2612,14 @@ english_texas_area_scripted_country_name = { #Texas
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -2643,14 +2643,14 @@ english_shiewhibak_area_scripted_country_name = { #Arizona
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -2674,14 +2674,14 @@ english_alaxsxaq_area_scripted_country_name = { #Alaska
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -2705,14 +2705,14 @@ english_yukon_area_scripted_country_name = { #Yukon
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -2736,14 +2736,14 @@ english_columbia_interior_area_scripted_country_name = { #New Caledonia, HBC fur
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -2767,14 +2767,14 @@ english_california_area_scripted_country_name = { #New Albion, failed colony by 
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -2798,14 +2798,14 @@ english_great_basin_area_scripted_country_name = { #Great Basin
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -2829,14 +2829,14 @@ english_rockies_area_scripted_country_name = { #Great Pennines
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -2860,14 +2860,14 @@ english_hawaii_area_scripted_country_name = { #Sandwich Islands, Historical
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -2882,7 +2882,7 @@ english_hawaii_area_scripted_country_name = { #Sandwich Islands, Historical
     	location_trigger = {
     	}
     }
-english_cascadia_area_scripted_country_name = { #Columbia, HBC fur trade district, Oregon
+english_cascadia_area_scripted_country_name = { #Columbia, HBC fur trade district Oregon
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -2891,14 +2891,14 @@ english_cascadia_area_scripted_country_name = { #Columbia, HBC fur trade distric
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -2922,14 +2922,14 @@ english_amazon_area_scripted_country_name = { #Amazon
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -2953,14 +2953,14 @@ english_tocantins_area_scripted_country_name = { #Toucanteens
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -2984,14 +2984,14 @@ english_paraguay_area_scripted_country_name = { #Peragway
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -3015,14 +3015,14 @@ english_guapore_area_scripted_country_name = { #Gwaporey
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -3046,14 +3046,14 @@ english_uruguay_area_scripted_country_name = { #Uregway
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -3077,14 +3077,14 @@ english_para_area_scripted_country_name = { #Lower Amazon
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -3108,14 +3108,14 @@ english_mato_grosso_area_scripted_country_name = { #The Thickets
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -3139,14 +3139,14 @@ english_goias_area_scripted_country_name = { #Goyes
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -3170,14 +3170,14 @@ english_maranhao_area_scripted_country_name = { #Murahan
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -3201,14 +3201,14 @@ english_piaui_area_scripted_country_name = { #Peeauy
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -3232,14 +3232,14 @@ english_ceara_area_scripted_country_name = { #Seeara
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -3263,14 +3263,14 @@ english_paraiba_area_scripted_country_name = { #Paraheeb
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -3294,14 +3294,14 @@ english_pernambuco_area_scripted_country_name = { #Pernambook
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -3325,14 +3325,14 @@ english_bahia_area_scripted_country_name = { #Saints Bay
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -3356,14 +3356,14 @@ english_espirito_santo_area_scripted_country_name = { #New Dover
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -3378,7 +3378,7 @@ english_espirito_santo_area_scripted_country_name = { #New Dover
     	location_trigger = {
     	}
     }
-english_rio_de_janeiro_area_scripted_country_name = { #January River, Alternatively, something like Guanebare, after the bay?
+english_rio_de_janeiro_area_scripted_country_name = { #January River, Alternatively something like Guanebare after the bay?
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -3387,14 +3387,14 @@ english_rio_de_janeiro_area_scripted_country_name = { #January River, Alternativ
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -3418,14 +3418,14 @@ english_minas_gerais_area_scripted_country_name = { #Goldfields
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -3440,7 +3440,7 @@ english_minas_gerais_area_scripted_country_name = { #Goldfields
     	location_trigger = {
     	}
     }
-english_sao_paulo_area_scripted_country_name = { #Paulicy
+english_sao_paulo_area_scripted_country_name = { #Paulicia, akin to George -> Georgia ia=y in english akin to Gasconia -> Gascony
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -3449,14 +3449,14 @@ english_sao_paulo_area_scripted_country_name = { #Paulicy
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -3480,14 +3480,14 @@ english_santa_catarina_area_scripted_country_name = { #Catherinia
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -3511,14 +3511,14 @@ english_rio_grande_do_sul_area_scripted_country_name = { #New South Thames
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -3542,14 +3542,14 @@ english_bogota_area_scripted_country_name = { #Voltury, vultures
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -3573,14 +3573,14 @@ english_andes_area_scripted_country_name = { #Evermonts
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -3604,14 +3604,14 @@ english_quitu_area_scripted_country_name = { #Keeto
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -3635,14 +3635,14 @@ english_chala_area_scripted_country_name = { #Rimak
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -3666,14 +3666,14 @@ english_atacama_area_scripted_country_name = { #Plains of Thirst
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -3697,14 +3697,14 @@ english_cuyo_area_scripted_country_name = { #New Cornwall
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -3728,14 +3728,14 @@ english_qullaw_area_scripted_country_name = { #Pearu Uplands
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -3759,14 +3759,14 @@ english_acamama_area_scripted_country_name = { #Oldcastles
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -3790,14 +3790,14 @@ english_galapagos_area_scripted_country_name = { #New Scillies
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -3821,14 +3821,14 @@ english_chaco_area_scripted_country_name = { #Nullaboria
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -3852,14 +3852,14 @@ english_la_plata_area_scripted_country_name = { #River Plate
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -3883,14 +3883,14 @@ english_ngulumapu_area_scripted_country_name = { #Chili
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -3914,14 +3914,14 @@ english_pampa_area_scripted_country_name = { #Drakeland
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -3945,14 +3945,14 @@ english_puelmapu_area_scripted_country_name = { #Black River
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -3976,14 +3976,14 @@ english_patagonia_area_scripted_country_name = { #Little Cambria, Y Wladfa
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -4007,14 +4007,14 @@ english_falklands_area_scripted_country_name = { #The Falklands
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -4038,14 +4038,14 @@ english_south_georgia_area_scripted_country_name = { #South Georgia
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -4069,14 +4069,14 @@ english_rapa_nui_area_scripted_country_name = { #Easter Island
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -4084,6 +4084,37 @@ english_rapa_nui_area_scripted_country_name = { #Easter Island
     	capital_trigger = {
     		OR = {
     			area = area:rapa_nui_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+english_charcas_area_scripted_country_name = { #Chukisaca
+    	# regular old country trigger
+    	country_trigger = {
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
+    		OR = {
+    			
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:charcas_area
     		}
     	}
     	
@@ -4100,14 +4131,14 @@ english_salta_de_tucuman_area_scripted_country_name = { #Tookman Falls
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -4131,14 +4162,14 @@ english_cordoba_de_tucuman_area_scripted_country_name = { #Tookman Plains
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -4162,14 +4193,14 @@ english_boiaca_area_scripted_country_name = { #Boyaco
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -4193,14 +4224,14 @@ english_sinu_area_scripted_country_name = { #New Granta
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -4208,6 +4239,37 @@ english_sinu_area_scripted_country_name = { #New Granta
     	capital_trigger = {
     		OR = {
     			area = area:sinu_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+english_suchiimma_area_scripted_country_name = { #Westernesse
+    	# regular old country trigger
+    	country_trigger = {
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
+    		OR = {
+    			
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:suchiimma_area
     		}
     	}
     	
@@ -4224,14 +4286,14 @@ english_caracas_area_scripted_country_name = { #New Washes
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -4255,14 +4317,14 @@ english_orinucu_area_scripted_country_name = { #Oreenako
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -4286,14 +4348,14 @@ english_guayana_area_scripted_country_name = { #Guyana
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -4317,14 +4379,14 @@ english_northwest_coast_area_scripted_country_name = { #Vancouver Island, Colony
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -4348,14 +4410,14 @@ english_southwestern_australia_area_scripted_country_name = { #Swan River, histo
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -4379,14 +4441,14 @@ english_northwestern_australia_area_scripted_country_name = { #Northwest Coast
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -4410,14 +4472,14 @@ english_australian_northern_territory_area_scripted_country_name = { #Northern T
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -4441,14 +4503,14 @@ english_southeastern_australia_area_scripted_country_name = { #New South Wales
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -4472,14 +4534,14 @@ english_south_australia_area_scripted_country_name = { #South Australia
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -4503,14 +4565,14 @@ english_south_island_area_scripted_country_name = { #New Munster, historical
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	
@@ -4534,14 +4596,14 @@ english_north_island_area_scripted_country_name = { #New Ulster, historical
     		#}
     		OR = {
     			
-					court_language = language:english_language
-					culture.language = language:english_language
-					overlord ?= {
-						court_language = language:english_language
-					}
-					overlord ?= {
-						culture.language = language:english_language
-					}
+                court_language = language:english_language
+                culture.language = language:english_language
+                overlord ?= {
+                    court_language = language:english_language
+                }
+                overlord ?= {
+                    culture.language = language:english_language
+                }
     		}
     	}
     	

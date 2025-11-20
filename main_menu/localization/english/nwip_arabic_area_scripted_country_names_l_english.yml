@@ -23,21 +23,21 @@
   arabic_cuba_area_scripted_country_name_ADJ: "Kūbī"
   arabic_hispaniola_area_scripted_country_name: "Hāyīt" #country and singular demonym are the same
   arabic_hispaniola_area_scripted_country_name_ADJ: "Hāyītī"
-  arabic_lesser_antilles_area_scripted_country_name: "Juzur al-Antīl aṣ-ṣuġrā" #modern name (Antilles might be of Portuguese origin, so could be improved)
+  arabic_lesser_antilles_area_scripted_country_name: "Juzur al-Antīl aṣ-ṣuġrā" #modern name (Antilles might be of Portuguese origin so could be improved)
   arabic_lesser_antilles_area_scripted_country_name_ADJ: "Juzur al-Antīl aṣ-ṣuġrā"
   arabic_panama_area_scripted_country_name: "Banamā" #modern name
   arabic_panama_area_scripted_country_name_ADJ: "Banamānī"
   arabic_massachusetts_area_scripted_country_name: "Māsāšūsit" #took off medial t and final s for a more original name
   arabic_massachusetts_area_scripted_country_name_ADJ: "Māsāšūsit"
-  arabic_haudenosaunee_area_scripted_country_name: "Ḥudinušūn" #interpreted original word as adjective, backformed country
+  arabic_haudenosaunee_area_scripted_country_name: "Ḥudinušūn" #interpreted original word as adjective backformed country
   arabic_haudenosaunee_area_scripted_country_name_ADJ: "Ḥudinušūnī"
-  arabic_westsylvania_area_scripted_country_name: "Al-Ighayn" #interpreted original word as adjective, backformed country
+  arabic_westsylvania_area_scripted_country_name: "Al-Ighayn" #interpreted original word as adjective backformed country
   arabic_westsylvania_area_scripted_country_name_ADJ: "Ighaynī"
   arabic_florida_area_scripted_country_name: "Az-Zahriyyah" #"the flowery one"
   arabic_florida_area_scripted_country_name_ADJ: "Az-Zahriyyah"
   arabic_mississippi_area_scripted_country_name: "Musīsib" 
   arabic_mississippi_area_scripted_country_name_ADJ: "Musīsibī"
-  arabic_missouri_area_scripted_country_name: "Misūr" #interpreted original word as adjective, backformed country
+  arabic_missouri_area_scripted_country_name: "Misūr" #interpreted original word as adjective backformed country
   arabic_missouri_area_scripted_country_name_ADJ: "Misūrī"
   arabic_superior_area_scripted_country_name: "Al-Kubrā" #lit. "biggest"
   arabic_superior_area_scripted_country_name_ADJ: "Al-Kubrā"
@@ -83,13 +83,13 @@
   arabic_great_basin_area_scripted_country_name_ADJ: "Al-Ḥawḍ al-ʿaẓīm"
   arabic_rockies_area_scripted_country_name: "Al-Jibāl aṣ-ṣaẖriyyah" #actual name/translation
   arabic_rockies_area_scripted_country_name_ADJ: "Al-Jibāl aṣ-ṣaẖriyyah"
-  arabic_hawaii_area_scripted_country_name: "Juzur al-Hawāʾ" #interpreted original word as adjective, backformed country
+  arabic_hawaii_area_scripted_country_name: "Juzur al-Hawāʾ" #interpreted original word as adjective backformed country
   arabic_hawaii_area_scripted_country_name_ADJ: "Hawāʾī"
   arabic_piaui_area_scripted_country_name: "Biyāwī" 
   arabic_piaui_area_scripted_country_name_ADJ: "Biyāwī"
   arabic_ceara_area_scripted_country_name: "Siyārā" 
   arabic_ceara_area_scripted_country_name_ADJ: "Siyārā"
-  arabic_paraiba_area_scripted_country_name: "Biʾr Ībah" #invented from Tupi, based on misidentification with Biʾr "well"
+  arabic_paraiba_area_scripted_country_name: "Biʾr Ībah" #invented from Tupi based on misidentification with Biʾr "well"
   arabic_paraiba_area_scripted_country_name_ADJ: "Biʾr Ībah"
   arabic_bahia_area_scripted_country_name: "Al-H̱alīj" #translation for "bay" same word as "gulf"
   arabic_bahia_area_scripted_country_name_ADJ: "H̱alījī"
