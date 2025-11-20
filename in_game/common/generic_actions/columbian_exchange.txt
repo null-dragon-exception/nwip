@@ -124,12 +124,17 @@ move_nw_good_to_new_location = {
 		source_flags = only_actual_locations
 		target_flag = target_location
 		ai_interaction_source_list = {
+			#NWIP debug?
+			scope:target_good = {
+				exists = yes
+			}
 			scope:actor ?= {
 				every_subject_or_below = {
 					every_owned_location = {
 						limit = {
 							raw_material ?= {
 								exists = yes
+								save_temporary_scope_as = good_to_be_replaced_scope
 							}
 							is_candidate_for_NW_good = yes
 						}
@@ -140,149 +145,12 @@ move_nw_good_to_new_location = {
 					limit = {
 						raw_material ?= {
 							exists = yes
+							save_temporary_scope_as = good_to_be_replaced_scope
 						}
 						is_candidate_for_NW_good = yes
 					}
 					add_to_list = source
 				}
-				#every_owned_location = {
-				#	limit = {
-				#		#There are enough peasants/laborers to at least fill the first level
-				#		OR = {
-				#			#this might be broken...?
-				#			num_pop_type:peasants > 1000
-				#			num_pop_type:laborers > 1000
-				#			population > 2.0
-				#		}
-				#		#Never replace certain goods
-				#		NOR = {
-				#			#Precious
-				#			raw_material = goods:goods_gold
-				#			raw_material = goods:silver
-				#			raw_material = goods:gems
-				#			raw_material = goods:pearls
-				#			raw_material = goods:amber
-				#			raw_material = goods:silk
-				#			raw_material = goods:incense
-				#			raw_material = goods:mercury
-				#			#Spices
-				#			raw_material = goods:saffron
-				#			raw_material = goods:pepper
-				#			raw_material = goods:cloves
-				#			raw_material = goods:chili
-				#			#Strategic
-				#			raw_material = goods:livestock
-				#			raw_material = goods:iron
-				#			raw_material = goods:tin
-				#			#New World						
-				#			raw_material = goods:tobacco
-				#			raw_material = goods:cocoa
-				#			raw_material = goods:maize
-				#			raw_material = goods:potato
-				#		}
-				#		#Is the RGO that we are about to replace rare?
-				#		#Only replace if there is more than one
-				#		raw_material = {
-				#			save_temporary_scope_as = good_to_be_replaced_scope
-				#		}
-				#		market = {
-				#			#These resource are needed in bigger quantities so we require a bigger minimum of RGOs
-				#			trigger_if = {
-				#				limit = {
-				#					OR = {
-				#						scope:good_to_be_replaced_scope = goods:copper
-				#						scope:good_to_be_replaced_scope = goods:tin
-				#						scope:good_to_be_replaced_scope = goods:marble
-				#						scope:good_to_be_replaced_scope = goods:alum
-				#						scope:good_to_be_replaced_scope = goods:beeswax
-				#						scope:good_to_be_replaced_scope = goods:lead
-				#					}
-				#				}
-				#				#check we still have plenty of locations producing these key raw materials
-				#				"raw_material_amount(scope:good_to_be_replaced_scope)" > 3
-				#			}
-				#			trigger_else = {								
-				#				#don't care so much about others
-				#				"raw_material_amount(scope:good_to_be_replaced_scope)" > 1
-				#			}
-				#		}
-				#	}
-				#	add_to_list = source
-				#}
-				#every_subject_or_below = {
-				#	every_owned_location = {
-				#		limit = {
-				#			#There are enough peasants/laborers to at least fill the first level
-				#			OR = {
-				#				#this might be broken...?
-				#				num_pop_type:peasants > 1000
-				#				num_pop_type:laborers > 1000
-				#				population > 2.0
-				#			}
-				#			#Never replace certain goods
-				#			NOR = {
-				#				#Precious
-				#				raw_material = goods:goods_gold
-				#				raw_material = goods:silver
-				#				raw_material = goods:gems
-				#				raw_material = goods:pearls
-				#				raw_material = goods:amber
-				#				raw_material = goods:silk
-				#				raw_material = goods:incense
-				#				raw_material = goods:mercury
-				#				#Spices
-				#				raw_material = goods:saffron
-				#				raw_material = goods:pepper
-				#				raw_material = goods:cloves
-				#				raw_material = goods:chili
-				#				#Strategic
-				#				raw_material = goods:livestock
-				#				raw_material = goods:iron
-				#				raw_material = goods:tin
-				#				#Old World						
-				#				raw_material = goods:cotton
-				#				raw_material = goods:wheat
-				#				raw_material = goods:millet
-				#				raw_material = goods:coffee
-				#				raw_material = goods:rice
-				#				raw_material = goods:sugar
-				#				raw_material = goods:wine
-				#				raw_material = goods:horses
-				#			}
-				#			#Is the RGO that we are about to replace rare?
-				#			#Only replace if there is more than one
-				#			raw_material = {
-				#				save_temporary_scope_as = good_to_be_replaced_scope
-				#			}
-				#			market = {
-				#				#These resource are needed in bigger quantities so we require a bigger minimum of RGOs
-				#				trigger_if = {
-				#					limit = {
-				#						OR = {
-				#							scope:good_to_be_replaced_scope = goods:copper
-				#							scope:good_to_be_replaced_scope = goods:tin
-				#							scope:good_to_be_replaced_scope = goods:marble
-				#							scope:good_to_be_replaced_scope = goods:alum
-				#							scope:good_to_be_replaced_scope = goods:beeswax
-				#							scope:good_to_be_replaced_scope = goods:lead
-				#						}
-				#					}
-				#					any_location_in_market = {
-				#						count > 3
-				#						raw_material ?= scope:good_to_be_replaced_scope
-				#					}
-				#				}
-				#				trigger_else = {								
-				#					any_location_in_market = {
-				#						count > 1
-				#						raw_material ?= scope:good_to_be_replaced_scope
-				#					}
-				#				}
-				#			}
-				#		}
-				#		add_to_list = source
-				#	}
-				#}
 			}
 		}
 		map_mode = raw_material
@@ -671,12 +539,17 @@ move_ow_good_to_new_location = {
 		source_flags = only_actual_locations
 		target_flag = target_location
 		ai_interaction_source_list = {
+			#NWIP debug?
+			scope:target_good = {
+				exists = yes
+			}
 			scope:actor ?= {
 				every_subject_or_below = {
 					every_owned_location = {
 						limit = {
 							raw_material ?= {
 								exists = yes
+								save_temporary_scope_as = good_to_be_replaced_scope
 							}
 							is_candidate_for_OW_good = yes
 						}
@@ -688,149 +561,12 @@ move_ow_good_to_new_location = {
 						#NWIP debug?
 						raw_material ?= {
 							exists = yes
+							save_temporary_scope_as = good_to_be_replaced_scope
 						}
 						is_candidate_for_OW_good = yes
 					}
 					add_to_list = source
 				}
-				#every_owned_location = {
-				#	limit = {
-				#		#There are enough peasants/laborers to at least fill the first level
-				#		OR = {
-				#			#this is probably not working
-				#			num_pop_type:peasants > 1000
-				#			num_pop_type:laborers > 1000
-				#			population > 2.0
-				#		}
-				#		#Never replace certain goods
-				#		NOR = {
-				#			#Precious
-				#			raw_material = goods:goods_gold
-				#			raw_material = goods:silver
-				#			raw_material = goods:gems
-				#			raw_material = goods:pearls
-				#			raw_material = goods:amber
-				#			raw_material = goods:silk
-				#			raw_material = goods:incense
-				#			raw_material = goods:mercury
-				#			#Spices
-				#			raw_material = goods:saffron
-				#			raw_material = goods:pepper
-				#			raw_material = goods:cloves
-				#			raw_material = goods:chili
-				#			#Strategic
-				#			raw_material = goods:livestock
-				#			raw_material = goods:iron
-				#			raw_material = goods:tin
-				#			#New World						
-				#			raw_material = goods:tobacco
-				#			raw_material = goods:cocoa
-				#			raw_material = goods:maize
-				#			raw_material = goods:potato
-				#		}
-				#		#Is the RGO that we are about to replace rare?
-				#		#Only replace if there is more than one
-				#		raw_material = {
-				#			save_temporary_scope_as = good_to_be_replaced_scope
-				#		}
-				#		market = {
-				#			#These resource are needed in bigger quantities so we require a bigger minimum of RGOs
-				#			trigger_if = {
-				#				limit = {
-				#					OR = {
-				#						scope:good_to_be_replaced_scope = goods:copper
-				#						scope:good_to_be_replaced_scope = goods:tin
-				#						scope:good_to_be_replaced_scope = goods:marble
-				#						scope:good_to_be_replaced_scope = goods:alum
-				#						scope:good_to_be_replaced_scope = goods:beeswax
-				#						scope:good_to_be_replaced_scope = goods:lead
-				#					}
-				#				}
-				#				#check we still have plenty of locations producing these key raw materials
-				#				"raw_material_amount(scope:good_to_be_replaced_scope)" > 3
-				#			}
-				#			trigger_else = {								
-				#				#don't care so much about others
-				#				"raw_material_amount(scope:good_to_be_replaced_scope)" > 1
-				#			}
-				#		}
-				#	}
-				#	add_to_list = source
-				#}
-				#every_subject_or_below = {
-				#	every_owned_location = {
-				#		limit = {
-				#			#There are enough peasants/laborers to at least fill the first level
-				#			OR = {
-				#				#this is probably not working
-				#				num_pop_type:peasants > 1000
-				#				num_pop_type:laborers > 1000
-				#				population > 2.0
-				#			}
-				#			#Never replace certain goods
-				#			NOR = {
-				#				#Precious
-				#				raw_material = goods:goods_gold
-				#				raw_material = goods:silver
-				#				raw_material = goods:gems
-				#				raw_material = goods:pearls
-				#				raw_material = goods:amber
-				#				raw_material = goods:silk
-				#				raw_material = goods:incense
-				#				raw_material = goods:mercury
-				#				#Spices
-				#				raw_material = goods:saffron
-				#				raw_material = goods:pepper
-				#				raw_material = goods:cloves
-				#				raw_material = goods:chili
-				#				#Strategic
-				#				raw_material = goods:livestock
-				#				raw_material = goods:iron
-				#				raw_material = goods:tin
-				#				#Old World						
-				#				raw_material = goods:cotton
-				#				raw_material = goods:wheat
-				#				raw_material = goods:millet
-				#				raw_material = goods:coffee
-				#				raw_material = goods:rice
-				#				raw_material = goods:sugar
-				#				raw_material = goods:wine
-				#				raw_material = goods:horses
-				#			}
-				#			#Is the RGO that we are about to replace rare?
-				#			#Only replace if there is more than one
-				#			raw_material = {
-				#				save_temporary_scope_as = good_to_be_replaced_scope
-				#			}
-				#			market = {
-				#				#These resource are needed in bigger quantities so we require a bigger minimum of RGOs
-				#				trigger_if = {
-				#					limit = {
-				#						OR = {
-				#							scope:good_to_be_replaced_scope = goods:copper
-				#							scope:good_to_be_replaced_scope = goods:tin
-				#							scope:good_to_be_replaced_scope = goods:marble
-				#							scope:good_to_be_replaced_scope = goods:alum
-				#							scope:good_to_be_replaced_scope = goods:beeswax
-				#							scope:good_to_be_replaced_scope = goods:lead
-				#						}
-				#					}
-				#					any_location_in_market = {
-				#						count > 3
-				#						raw_material ?= scope:good_to_be_replaced_scope
-				#					}
-				#				}
-				#				trigger_else = {								
-				#					any_location_in_market = {
-				#						count > 1
-				#						raw_material ?= scope:good_to_be_replaced_scope
-				#					}
-				#				}
-				#			}
-				#		}
-				#		add_to_list = source
-				#	}
-				#}
 			}
 		}
 		name = "choose_location"

@@ -58,6 +58,17 @@ fall_of_cahokia.2 = {
 		}
 		abandon_location = scope:selected_location
 		
+		if = {
+			limit = {
+				any_owned_location = {
+					count < 1
+					exists = this
+				}
+			}
+			change_country_type = pop
+			
+		}
+		
 		historical_option = yes
 		
 		ai_chance = {
@@ -248,6 +259,16 @@ fall_of_cahokia.101 = {
 		}
 		
 		abandon_location = scope:target_location
+		if = {
+			limit = {
+				any_owned_location = {
+					count < 1
+					exists = this
+				}
+			}
+			change_country_type = pop
+			
+		}
 		
 		historical_option = yes
 		

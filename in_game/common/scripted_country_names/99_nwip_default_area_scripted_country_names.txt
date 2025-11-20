@@ -349,7 +349,7 @@ default_new_hampshire_area_scripted_country_name = { #Merrimack, indigenous name
     	location_trigger = {
     	}
     }
-default_maine_area_scripted_country_name = { #Wabanakia, indigenous 'neutral' name, could also be Pennoscott after the river...?
+default_maine_area_scripted_country_name = { #Wabanakia, indigenous 'neutral' name could also be Pennoscott after the river...?
     	# regular old country trigger
     	
     	# trigger to check country's capital against, has to pass
@@ -2197,7 +2197,7 @@ default_cordoba_de_tucuman_area_scripted_country_name = { #South Tucuman
     	location_trigger = {
     	}
     }
-default_boiaca_area_scripted_country_name = { #Boiaca
+default_boiaca_area_scripted_country_name = { #Tunja
     	# regular old country trigger
     	
     	# trigger to check country's capital against, has to pass
@@ -2281,7 +2281,7 @@ default_apure_area_scripted_country_name = { #Apure
     	location_trigger = {
     	}
     }
-default_chunsa_area_scripted_country_name = { #Chunsa
+default_chunsa_area_scripted_country_name = { #Bogotá
     	# regular old country trigger
     	
     	# trigger to check country's capital against, has to pass
@@ -2295,7 +2295,7 @@ default_chunsa_area_scripted_country_name = { #Chunsa
     	location_trigger = {
     	}
     }
-default_caly_area_scripted_country_name = { #Caly
+default_caly_area_scripted_country_name = { #Popayán
     	# regular old country trigger
     	
     	# trigger to check country's capital against, has to pass

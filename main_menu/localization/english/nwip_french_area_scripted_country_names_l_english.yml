@@ -17,7 +17,7 @@
   french_newfoundland_area_scripted_country_name_ADJ: "Terre-Neuve"
   french_prince_edward_island_area_scripted_country_name: "Île Saint-Jean" #historical
   french_prince_edward_island_area_scripted_country_name_ADJ: "Île Saint-Jean"
-  french_acadia_area_scripted_country_name: "Acadie Péninsulaire" #historical, or Cap-Breton, or Île-Royale 
+  french_acadia_area_scripted_country_name: "Acadie Péninsulaire" #historical or Cap-Breton or Île-Royale 
   french_acadia_area_scripted_country_name_ADJ: "Acadie Péninsulaire"
   french_new_brunswick_area_scripted_country_name: "Acadie Continentale" #historical
   french_new_brunswick_area_scripted_country_name_ADJ: "Acadie Continentale"
@@ -29,18 +29,18 @@
   french_northern_ontario_area_scripted_country_name_ADJ: "Pays des Nipissing"
   french_northwestern_ontario_area_scripted_country_name: "Baie du Tonnerre" #historical
   french_northwestern_ontario_area_scripted_country_name_ADJ: "Baie du Tonnerre"
-  french_greenstone_belt_area_scripted_country_name: "Abitibi" 
-  french_greenstone_belt_area_scripted_country_name_ADJ: "Abitibi"
+  french_greenstone_belt_area_scripted_country_name: "Témiscamingue" #historical
+  french_greenstone_belt_area_scripted_country_name_ADJ: "Témiscabitibien"
   french_keewatin_area_scripted_country_name: "Baie du Nord" #historical
   french_keewatin_area_scripted_country_name_ADJ: "Baie du Nord"
   french_cuba_area_scripted_country_name: "Cuba" 
-  french_cuba_area_scripted_country_name_ADJ: "Cuba"
-  french_hispaniola_area_scripted_country_name: "Saint-Domingue" #historical, also Haïti
+  french_cuba_area_scripted_country_name_ADJ: "Cubain"
+  french_hispaniola_area_scripted_country_name: "Saint-Domingue" #historical also Haïti
   french_hispaniola_area_scripted_country_name_ADJ: "Domingois"
   french_lesser_antilles_area_scripted_country_name: "Îles de l'Amérique" #historical
   french_lesser_antilles_area_scripted_country_name_ADJ: "Indes occidental"
   french_panama_area_scripted_country_name: "Panama" 
-  french_panama_area_scripted_country_name_ADJ: "Panama"
+  french_panama_area_scripted_country_name_ADJ: "Panaméen"
   french_massachusetts_area_scripted_country_name: "Almouchiquie" #see dutch
   french_massachusetts_area_scripted_country_name_ADJ: "Almouchiquois "
   french_southern_new_england_area_scripted_country_name: "Champlainie" 
@@ -51,30 +51,30 @@
   french_new_hampshire_area_scripted_country_name_ADJ: "Blancmontois"
   french_maine_area_scripted_country_name: "Norembègue" #historical
   french_maine_area_scripted_country_name_ADJ: "Norembègue"
-  french_hudson_area_scripted_country_name: "Nouvelle-Angoulême" #It's the same, and I don't care 
+  french_hudson_area_scripted_country_name: "Nouvelle-Angoulême" #It's the same and I don't care 
   french_hudson_area_scripted_country_name_ADJ: "Nouvelle-Angoumoisin"
   french_haudenosaunee_area_scripted_country_name: "Iroquoisie" #historical
   french_haudenosaunee_area_scripted_country_name_ADJ: "Iroquoisie"
   french_new_jersey_area_scripted_country_name: "Nouvelle-Oléron" 
-  french_new_jersey_area_scripted_country_name_ADJ: "Nouvelle-Oléron"
+  french_new_jersey_area_scripted_country_name_ADJ: "Nouvelle-Oléronais"
   french_pennsylvania_area_scripted_country_name: "Andastiane" #Andastes 
-  french_pennsylvania_area_scripted_country_name_ADJ: "Andastiane"
+  french_pennsylvania_area_scripted_country_name_ADJ: "Andastianais"
   french_westsylvania_area_scripted_country_name: "Alleghenie" #historical
-  french_westsylvania_area_scripted_country_name_ADJ: "Alleghenie"
+  french_westsylvania_area_scripted_country_name_ADJ: "Alleghenais"
   french_maryland_area_scripted_country_name: "Terre de Marie" 
   french_maryland_area_scripted_country_name_ADJ: "Terre de Marie"
   french_virginia_area_scripted_country_name: "Notre-Dame de l'Amorce des Terres" 
   french_virginia_area_scripted_country_name_ADJ: "Notre-Dame de l'Amorce des Terres"
   french_west_virginia_area_scripted_country_name: "Chavanonie" #Historical spelling of Chaouanons 
-  french_west_virginia_area_scripted_country_name_ADJ: "Chavanonie"
+  french_west_virginia_area_scripted_country_name_ADJ: "Chavanonais"
   french_north_carolina_area_scripted_country_name: "Nouvelle-Aumale" #Reference Albemarle
-  french_north_carolina_area_scripted_country_name_ADJ: "Nouvelle-Aumale"
+  french_north_carolina_area_scripted_country_name_ADJ: "Nouvelle-Aumalais"
   french_south_carolina_area_scripted_country_name: "Haute-Caroline" #OG french settlement named Charlesfort
-  french_south_carolina_area_scripted_country_name_ADJ: "Haute-Caroline"
+  french_south_carolina_area_scripted_country_name_ADJ: "Haute-Carolinien"
   french_georgia_us_area_scripted_country_name: "Basse-Caroline" 
-  french_georgia_us_area_scripted_country_name_ADJ: "Basse-Caroline"
+  french_georgia_us_area_scripted_country_name_ADJ: "Basse-Carolinien"
   french_florida_area_scripted_country_name: "Floride" #Historical
-  french_florida_area_scripted_country_name_ADJ: "Floride"
+  french_florida_area_scripted_country_name_ADJ: "Floridien"
   french_tennessee_area_scripted_country_name: "Rivière à Margot" #Historical
   french_tennessee_area_scripted_country_name_ADJ: "Rivière à Margot"
   french_kentucky_area_scripted_country_name: "Belle Rivière" #Historical name for Ohio River
@@ -82,37 +82,37 @@
   french_ohio_area_scripted_country_name: "Vallée de l'Ohio" #Historical
   french_ohio_area_scripted_country_name_ADJ: "Vallée de l'Ohio"
   french_indiana_area_scripted_country_name: "Potéouatamie" #Or Pays des Miamis
-  french_indiana_area_scripted_country_name_ADJ: "Potéouatamie"
+  french_indiana_area_scripted_country_name_ADJ: "Potéouatamien"
   french_michigan_area_scripted_country_name: "Pays-d'en-Haut" #Historical
   french_michigan_area_scripted_country_name_ADJ: "Pays-d'en-Haut"
   french_illinois_area_scripted_country_name: "Pays des Illinois" #Historical
-  french_illinois_area_scripted_country_name_ADJ: "Pays des Illinois"
+  french_illinois_area_scripted_country_name_ADJ: "Illinoisais"
   french_wisconsin_area_scripted_country_name: "Pays des Mascoutens" #Historical
-  french_wisconsin_area_scripted_country_name_ADJ: "Pays des Mascoutens"
+  french_wisconsin_area_scripted_country_name_ADJ: "Mascoutenais"
   french_alabama_area_scripted_country_name: "Alibamonie" #Based on french historical name for Alabama tribe
   french_alabama_area_scripted_country_name_ADJ: "Alibamonien"
   french_mississippi_area_scripted_country_name: "Messipi " #Older spelling
   french_mississippi_area_scripted_country_name_ADJ: "Messipi "
   french_louisiana_area_scripted_country_name: "Basse-Louisiane" #Historical
-  french_louisiana_area_scripted_country_name_ADJ: "Basse-Louisiane"
+  french_louisiana_area_scripted_country_name_ADJ: "Basse-Louisianais"
   french_arkansas_area_scripted_country_name: "Les Arcs" #Historical
   french_arkansas_area_scripted_country_name_ADJ: "Lesarcien"
   french_missouri_area_scripted_country_name: "Haute-Louisiane" #Historical
-  french_missouri_area_scripted_country_name_ADJ: "Haute-Louisiane"
+  french_missouri_area_scripted_country_name_ADJ: "Haute-Louisianais"
   french_iowa_area_scripted_country_name: "Le Moingona" #Historical
-  french_iowa_area_scripted_country_name_ADJ: "Le Moingona"
+  french_iowa_area_scripted_country_name_ADJ: "Moingonais"
   french_minnesota_area_scripted_country_name: "L'étoile du Nord" 
   french_minnesota_area_scripted_country_name_ADJ: "L'étoile du Nord"
   french_superior_area_scripted_country_name: "Pays des Renards" #Historical
-  french_superior_area_scripted_country_name_ADJ: "Pays des Renards"
+  french_superior_area_scripted_country_name_ADJ: "Renardien"
   french_north_dakota_area_scripted_country_name: "Sioux du Nord" 
   french_north_dakota_area_scripted_country_name_ADJ: "Sioux du Nord"
   french_south_dakota_area_scripted_country_name: "Sioux du Sud" 
   french_south_dakota_area_scripted_country_name_ADJ: "Sioux du Sud"
   french_central_plains_area_scripted_country_name: "Grandes Plaines" 
   french_central_plains_area_scripted_country_name_ADJ: "Grandes Plaines"
-  french_natahende_area_scripted_country_name: "Nouveau-Méxique" 
-  french_natahende_area_scripted_country_name_ADJ: "Nouveau-Méxique"
+  french_natahende_area_scripted_country_name: "Nouveau-Méksique" 
+  french_natahende_area_scripted_country_name_ADJ: "Nouveau-Méksiqain"
   french_high_plains_area_scripted_country_name: "Pays des Apaches " 
   french_high_plains_area_scripted_country_name_ADJ: "Pays des Apaches "
   french_badlands_area_scripted_country_name: "Pays des Cheyennes" 
@@ -128,7 +128,7 @@
   french_red_river_area_scripted_country_name: "Assiniboia" #Historical
   french_red_river_area_scripted_country_name_ADJ: "Assiniboia"
   french_mexihko_area_scripted_country_name: "Méksique" 
-  french_mexihko_area_scripted_country_name_ADJ: "Méksique"
+  french_mexihko_area_scripted_country_name_ADJ: "Méksiqain"
   french_tlaxcala_area_scripted_country_name: "Tlakskala" 
   french_tlaxcala_area_scripted_country_name_ADJ: "Tlakskala"
   french_huaxyacac_area_scripted_country_name: "Ouaraca " 
@@ -238,18 +238,22 @@
   french_patagonia_area_scripted_country_name: "Patagonie" 
   french_patagonia_area_scripted_country_name_ADJ: "Patagonien"
   french_falklands_area_scripted_country_name: "Îles Malouines" #historical
-  french_falklands_area_scripted_country_name_ADJ: "Îles Malouines"
+  french_falklands_area_scripted_country_name_ADJ: "Malouin"
   french_south_georgia_area_scripted_country_name: "Île Roché" #historical
-  french_south_georgia_area_scripted_country_name_ADJ: "Île Roché"
+  french_south_georgia_area_scripted_country_name_ADJ: "Rochien"
   french_sinu_area_scripted_country_name: "La Rochelle d'Ouest" 
   french_sinu_area_scripted_country_name_ADJ: "La Rochelle d'Ouest"
   french_suchiimma_area_scripted_country_name: "Nouvelle-Vendée " 
   french_suchiimma_area_scripted_country_name_ADJ: "Nouvelle-Vendée "
   french_caracas_area_scripted_country_name: "Marais Poitevinette" 
   french_caracas_area_scripted_country_name_ADJ: "Marais Poitevinette"
+  french_orinucu_area_scripted_country_name: "Orénoque" 
+  french_orinucu_area_scripted_country_name_ADJ: "Orénoque"
   french_guayana_area_scripted_country_name: "Guyane" 
-  french_guayana_area_scripted_country_name_ADJ: "Guyane"
-  french_northwestern_australia_area_scripted_country_name: "Jave la Grande" 
-  french_northwestern_australia_area_scripted_country_name_ADJ: "Jave la Grande"
+  french_guayana_area_scripted_country_name_ADJ: "Guyanais"
+  french_northwestern_australia_area_scripted_country_name: "Grande Jave " 
+  french_northwestern_australia_area_scripted_country_name_ADJ: "Grande Jave "
+  french_south_island_area_scripted_country_name: "Petite Jave " 
+  french_south_island_area_scripted_country_name_ADJ: "Petite Jave "
   french_north_island_area_scripted_country_name: "La Joncade " 
   french_north_island_area_scripted_country_name_ADJ: "La Joncade "

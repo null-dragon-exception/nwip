@@ -33,9 +33,9 @@
   spanish_greenstone_belt_area_scripted_country_name_ADJ: "Sierra del Abitibi"
   spanish_keewatin_area_scripted_country_name: "Quivatin" 
   spanish_keewatin_area_scripted_country_name_ADJ: "Quivatin"
-  spanish_cuba_area_scripted_country_name: "Cuba" 
+  spanish_cuba_area_scripted_country_name: "Cuba" #also Juana
   spanish_cuba_area_scripted_country_name_ADJ: "Cubano"
-  spanish_hispaniola_area_scripted_country_name: "Santo Domingo" #According to Historian Juan Daniel Balcácer, the demonym is in use since 1621
+  spanish_hispaniola_area_scripted_country_name: "Santo Domingo" #According to Historian Juan Daniel Balcácer the demonym is in use since 1621
   spanish_hispaniola_area_scripted_country_name_ADJ: "Dominicano"
   spanish_lesser_antilles_area_scripted_country_name: "Islas de Barlovento" 
   spanish_lesser_antilles_area_scripted_country_name_ADJ: "Islas de Barlovento"
@@ -73,7 +73,7 @@
   spanish_south_carolina_area_scripted_country_name_ADJ: "San Miguel de Gualdape"
   spanish_georgia_us_area_scripted_country_name: "San Pedro" #historical name
   spanish_georgia_us_area_scripted_country_name_ADJ: "San Pedro"
-  spanish_florida_area_scripted_country_name: "Florida" #historical name, will save La Florida for the US equiavlent
+  spanish_florida_area_scripted_country_name: "Florida" #historical name will save La Florida for the US equiavlent
   spanish_florida_area_scripted_country_name_ADJ: "Florida"
   spanish_tennessee_area_scripted_country_name: "Tenesí" 
   spanish_tennessee_area_scripted_country_name_ADJ: "Tenesí"
@@ -85,19 +85,19 @@
   spanish_indiana_area_scripted_country_name_ADJ: "Ouabache"
   spanish_michigan_area_scripted_country_name: "San José" #historical settlement name
   spanish_michigan_area_scripted_country_name_ADJ: "San José"
-  spanish_illinois_area_scripted_country_name: "Alta Luciana" #or Ilinués - historical name of river
-  spanish_illinois_area_scripted_country_name_ADJ: "Alta Luciana"
+  spanish_illinois_area_scripted_country_name: "Alta Luisiana" #or Ilinués - historical name of river
+  spanish_illinois_area_scripted_country_name_ADJ: "Alta Luisiana"
   spanish_wisconsin_area_scripted_country_name: "Misconsín" 
   spanish_wisconsin_area_scripted_country_name_ADJ: "Misconsín"
   spanish_alabama_area_scripted_country_name: "Garaya" #Tierra de Garay; could also be Santa Cruz de Nanipacana
   spanish_alabama_area_scripted_country_name_ADJ: "Garaya"
   spanish_mississippi_area_scripted_country_name: "Misisipi" 
   spanish_mississippi_area_scripted_country_name_ADJ: "Misisipi"
-  spanish_louisiana_area_scripted_country_name: "Baja Luciana" #epochal spanish name
-  spanish_louisiana_area_scripted_country_name_ADJ: "Baja Luciana"
+  spanish_louisiana_area_scripted_country_name: "Baja Luisiana" #epochal spanish name
+  spanish_louisiana_area_scripted_country_name_ADJ: "Baja Luisiana"
   spanish_arkansas_area_scripted_country_name: "Napeste" #Historical spanish name
   spanish_arkansas_area_scripted_country_name_ADJ: "Napeste"
-  spanish_missouri_area_scripted_country_name: "San Luis" 
+  spanish_missouri_area_scripted_country_name: "San Luis" #or Misuri
   spanish_missouri_area_scripted_country_name_ADJ: "San Luis"
   spanish_iowa_area_scripted_country_name: "Minas de España" 
   spanish_iowa_area_scripted_country_name_ADJ: "Minas de España"
@@ -175,8 +175,8 @@
   spanish_culiacan_area_scripted_country_name_ADJ: "Sinaloense"
   spanish_tamaulipeco_area_scripted_country_name: "Nuevo Santander" 
   spanish_tamaulipeco_area_scripted_country_name_ADJ: "Nuevo Santander"
-  spanish_guachichil_area_scripted_country_name: "Nueva Extremadura" #or Nuevo Leon
-  spanish_guachichil_area_scripted_country_name_ADJ: "Nueva Extremadura"
+  spanish_guachichil_area_scripted_country_name: "Nuevo Leon" #or Nueva Extremadura
+  spanish_guachichil_area_scripted_country_name_ADJ: "Nuevo Leon"
   spanish_texas_area_scripted_country_name: "Tejas" #or Nuevas Filipinas
   spanish_texas_area_scripted_country_name_ADJ: "Tejano"
   spanish_shiewhibak_area_scripted_country_name: "Pimería Alta" 
@@ -201,7 +201,7 @@
   spanish_amazon_area_scripted_country_name_ADJ: "Amazonas"
   spanish_tocantins_area_scripted_country_name: "Tocantines" 
   spanish_tocantins_area_scripted_country_name_ADJ: "Tocantines"
-  spanish_parana_area_scripted_country_name: "Guayrá" #historical, Gobernación del Guayrá encompassed most of Paraná and was originally a Spanish colony
+  spanish_parana_area_scripted_country_name: "Guayrá" #historical Gobernación del Guayrá encompassed most of Paraná and was originally a Spanish colony
   spanish_parana_area_scripted_country_name_ADJ: "Guayrá"
   spanish_paraguay_area_scripted_country_name: "Paraguay" 
   spanish_paraguay_area_scripted_country_name_ADJ: "Paraguay"
@@ -229,7 +229,7 @@
   spanish_bahia_area_scripted_country_name_ADJ: "Bahia"
   spanish_espirito_santo_area_scripted_country_name: "Espíritu Santo" 
   spanish_espirito_santo_area_scripted_country_name_ADJ: "Espíritu Santo"
-  spanish_rio_de_janeiro_area_scripted_country_name: "Rio de Janeiro" #alternatively, something like Guanabara, after the bay?
+  spanish_rio_de_janeiro_area_scripted_country_name: "Rio de Janeiro" #alternatively something like Guanabara after the bay?
   spanish_rio_de_janeiro_area_scripted_country_name_ADJ: "Rio de Janeiro"
   spanish_minas_gerais_area_scripted_country_name: "Minas Gerales" 
   spanish_minas_gerais_area_scripted_country_name_ADJ: "Minas Gerales"
@@ -243,10 +243,10 @@
   spanish_quitu_area_scripted_country_name_ADJ: "Quito"
   spanish_chala_area_scripted_country_name: "Lima" 
   spanish_chala_area_scripted_country_name_ADJ: "Limense"
-  spanish_la_plata_area_scripted_country_name: "Buenos Aires" #keep La Plata for the formable?
-  spanish_la_plata_area_scripted_country_name_ADJ: "Buenos Aires"
-  spanish_ngulumapu_area_scripted_country_name: "Santiago" #keep Chile for the formable?
-  spanish_ngulumapu_area_scripted_country_name_ADJ: "Santiago"
+  spanish_la_plata_area_scripted_country_name: "Buenos Ayres" #keep La Plata for the formable?
+  spanish_la_plata_area_scripted_country_name_ADJ: "Porteño"
+  spanish_ngulumapu_area_scripted_country_name: "Nueva Extremadura" #keep Chile for the formable?
+  spanish_ngulumapu_area_scripted_country_name_ADJ: "Santiaguino"
   spanish_mamore_area_scripted_country_name: "Mamoré" 
   spanish_mamore_area_scripted_country_name_ADJ: "Mamoré"
   spanish_ayoreo_area_scripted_country_name: "Chaco" 
@@ -265,21 +265,21 @@
   spanish_salta_de_tucuman_area_scripted_country_name_ADJ: "Salta del Tucumán"
   spanish_cordoba_de_tucuman_area_scripted_country_name: "Córdoba del Tucumán" 
   spanish_cordoba_de_tucuman_area_scripted_country_name_ADJ: "Córdoba del Tucumán"
-  spanish_boiaca_area_scripted_country_name: "Santafé" #Save Nueva Granada for the regional
-  spanish_boiaca_area_scripted_country_name_ADJ: "Santafé"
-  spanish_sinu_area_scripted_country_name: "Nueva Andalucia" #or just Cartagena
-  spanish_sinu_area_scripted_country_name_ADJ: "Nueva Andalucia"
+  spanish_boiaca_area_scripted_country_name: "Tunja" #The in-game "Boaica" area should be expanded to actually include the city of Tunja and be renamed to "Chunsa" thus representing the historical colonial province of Tunja at its largest extent (including the colonial provinces of Casanare Socorro and New Pamplona)
+  spanish_boiaca_area_scripted_country_name_ADJ: "Tunjano"
+  spanish_sinu_area_scripted_country_name: "Nueva Andalucía" #or just Cartagena (adj. Cartagenero)
+  spanish_sinu_area_scripted_country_name_ADJ: "Neoandaluz"
   spanish_suchiimma_area_scripted_country_name: "Maracaibo" 
   spanish_suchiimma_area_scripted_country_name_ADJ: "Maracucho"
   spanish_caracas_area_scripted_country_name: "Caracas" #Save Venezuela for the regional
   spanish_caracas_area_scripted_country_name_ADJ: "Caraqueño"
   spanish_orinucu_area_scripted_country_name: "Cumaná" 
   spanish_orinucu_area_scripted_country_name_ADJ: "Cumanés"
-  spanish_chunsa_area_scripted_country_name: "Antioquia " 
-  spanish_chunsa_area_scripted_country_name_ADJ: "Antioquia "
-  spanish_caly_area_scripted_country_name: "Popayán" #could be choco as well
-  spanish_caly_area_scripted_country_name_ADJ: "Popayán"
+  spanish_chunsa_area_scripted_country_name: "Santa Fe de Bogotá" #The in-game "Chunsa" area should not include the modern-day city of Tunja and should be renamed to "Bacatá" and it should represent the core lands of the New Kingdom of Granada (the historical colonial provinces of Bogotá Neiva and Mariquita) what would later be the Gran Colombian department of Cundinamarca
+  spanish_chunsa_area_scripted_country_name_ADJ: "Santafereño"
+  spanish_caly_area_scripted_country_name: "Popayán" #Could also include the historical colonial Province of Antioquia
+  spanish_caly_area_scripted_country_name_ADJ: "Payanés"
   spanish_guayana_area_scripted_country_name: "Guayana" 
-  spanish_guayana_area_scripted_country_name_ADJ: "Guayana"
-  spanish_northwest_coast_area_scripted_country_name: "Nutca" 
-  spanish_northwest_coast_area_scripted_country_name_ADJ: "Nutca"
+  spanish_guayana_area_scripted_country_name_ADJ: "Guayanés"
+  spanish_northwest_coast_area_scripted_country_name: "Quadra" #historical - save nutca for formable
+  spanish_northwest_coast_area_scripted_country_name_ADJ: "Quadra"

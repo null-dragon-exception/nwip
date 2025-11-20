@@ -15,7 +15,7 @@
   german_labrador_area_scripted_country_name_ADJ: "Dorschküstler"
   german_newfoundland_area_scripted_country_name: "Neufundland" #translation
   german_newfoundland_area_scripted_country_name_ADJ: "Neufundländisch"
-  german_prince_edward_island_area_scripted_country_name: "Sankt-Heinrich-Insel" #Named after German-born, Saint Heinrich ( Henry II ), canonized before 1337
+  german_prince_edward_island_area_scripted_country_name: "Sankt-Heinrich-Insel" #Named after German-born Saint Heinrich ( Henry II ) canonized before 1337
   german_prince_edward_island_area_scripted_country_name_ADJ: "Heinrichinseler"
   german_acadia_area_scripted_country_name: "Akadien" #transliteration
   german_acadia_area_scripted_country_name_ADJ: "Akadisch"
@@ -69,9 +69,9 @@
   german_west_virginia_area_scripted_country_name_ADJ: "Wandalisch"
   german_north_carolina_area_scripted_country_name: "Nordkarolinien" 
   german_north_carolina_area_scripted_country_name_ADJ: "Nordkarolinisch"
-  german_south_carolina_area_scripted_country_name: "Südkarolinien" #Semi-transliterated, reinterpreted naming for Carolina, in reference to Emperor Charlemagne & Karlings, of the Holy Roman Empire.
+  german_south_carolina_area_scripted_country_name: "Südkarolinien" #Semi-transliterated reinterpreted naming for Carolina in reference to Emperor Charlemagne & Karlings of the Holy Roman Empire.
   german_south_carolina_area_scripted_country_name_ADJ: "Südkarolinisch"
-  german_georgia_us_area_scripted_country_name: "Friedrichsfelden" #Named after Friedrich I & Friedrich II, former Holy Roman Emperors + feld (field in german) since Georgia is renowned for it's fields & agricultural potential.
+  german_georgia_us_area_scripted_country_name: "Friedrichsfelden" #Named after Friedrich I & Friedrich II former Holy Roman Emperors + feld (field in german) since Georgia is renowned for it's fields & agricultural potential.
   german_georgia_us_area_scripted_country_name_ADJ: "Friedrichsfeldisch"
   german_florida_area_scripted_country_name: "Osterland" #Named for Easter- as Florida is a named after that.
   german_florida_area_scripted_country_name_ADJ: "Osterländisch"
@@ -135,11 +135,11 @@
   german_huaxyacac_area_scripted_country_name_ADJ: "Wahakisch"
   german_tochtepec_area_scripted_country_name: "Segenkreuz" 
   german_tochtepec_area_scripted_country_name_ADJ: "Segenkreuzisch"
-  german_michoacan_area_scripted_country_name: "Mitschoakanien" #transliteration, Historical - Tarascan actually used but considered offensive by locals
+  german_michoacan_area_scripted_country_name: "Mitschoakanien" #transliteration Historical - Tarascan actually used but considered offensive by locals
   german_michoacan_area_scripted_country_name_ADJ: "Mitschoakanisch"
   german_xilotepec_area_scripted_country_name: "Silberhöhen" #references silver mining
   german_xilotepec_area_scripted_country_name_ADJ: "Silberhöhisch"
-  german_xalisco_area_scripted_country_name: "Schalisko" #transliteration, important older spanish x = sh
+  german_xalisco_area_scripted_country_name: "Schalisko" #transliteration important older spanish x = sh
   german_xalisco_area_scripted_country_name_ADJ: "Schaliskoisch"
   german_mayaab_area_scripted_country_name: "Yukatanien" 
   german_mayaab_area_scripted_country_name_ADJ: "Yukatekische"
@@ -189,7 +189,7 @@
   german_amazon_area_scripted_country_name_ADJ: "Regenwäldisch"
   german_tocantins_area_scripted_country_name: "Tukantinien" #translation
   german_tocantins_area_scripted_country_name_ADJ: "Tukantinisch"
-  german_uruguay_area_scripted_country_name: "Gartental" #Historical settlement & colony, of North-German & Dutch origin.
+  german_uruguay_area_scripted_country_name: "Gartental" #Historical settlement & colony of North-German & Dutch origin.
   german_uruguay_area_scripted_country_name_ADJ: "Gartentalisch"
   german_mato_grosso_area_scripted_country_name: "Dichtwald" # 'Thick Forest'
   german_mato_grosso_area_scripted_country_name_ADJ: "Dichtwäldisch"
@@ -267,7 +267,7 @@
   german_sinu_area_scripted_country_name_ADJ: "Magdalenisch "
   german_suchiimma_area_scripted_country_name: "Neu-Nürnberg" #Historical failed settlement
   german_suchiimma_area_scripted_country_name_ADJ: "Neunürnbergisch"
-  german_caracas_area_scripted_country_name: "Welserland" #Failed, but real, german colony intended to be established (or Klein-Venedig)
+  german_caracas_area_scripted_country_name: "Welserland" #Failed but real german colony intended to be established (or Klein-Venedig)
   german_caracas_area_scripted_country_name_ADJ: "Welserisch"
   german_orinucu_area_scripted_country_name: "Orinoko " 
   german_orinucu_area_scripted_country_name_ADJ: "Orinokoisch"

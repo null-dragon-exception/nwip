@@ -8,14 +8,14 @@ german_greenland_area_scripted_country_name = { #Grönland, historical
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -39,14 +39,14 @@ german_quebec_area_scripted_country_name = { #Kebeck, transliteration
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -70,14 +70,14 @@ german_laurentian_area_scripted_country_name = { #Lorenzberge, germanized
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -101,14 +101,14 @@ german_lower_canada_area_scripted_country_name = { #Königsbergen, translation o
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -132,14 +132,14 @@ german_jamesie_area_scripted_country_name = { #Jakobsbucht, germanized
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -163,14 +163,14 @@ german_nunavik_area_scripted_country_name = { #Eisland,  'Land of Ice'
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -194,14 +194,14 @@ german_labrador_area_scripted_country_name = { #Dorschküste,  'Cod Coast'
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -225,14 +225,14 @@ german_newfoundland_area_scripted_country_name = { #Neufundland, translation
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -247,7 +247,7 @@ german_newfoundland_area_scripted_country_name = { #Neufundland, translation
     	location_trigger = {
     	}
     }
-german_prince_edward_island_area_scripted_country_name = { #Sankt-Heinrich-Insel, Named after German-born, Saint Heinrich ( Henry II ), canonized before 1337
+german_prince_edward_island_area_scripted_country_name = { #Sankt-Heinrich-Insel, Named after German-born Saint Heinrich ( Henry II ) canonized before 1337
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -256,14 +256,14 @@ german_prince_edward_island_area_scripted_country_name = { #Sankt-Heinrich-Insel
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -287,14 +287,14 @@ german_acadia_area_scripted_country_name = { #Akadien, transliteration
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -318,14 +318,14 @@ german_new_brunswick_area_scripted_country_name = { #Neubraunschweig, translatio
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -349,14 +349,14 @@ german_eastern_ontario_area_scripted_country_name = { #Neulüneburg, Based on ac
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -380,14 +380,14 @@ german_western_ontario_area_scripted_country_name = { #Neuhessen
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -411,14 +411,14 @@ german_northern_ontario_area_scripted_country_name = { #Georgsbucht
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -442,14 +442,14 @@ german_northwestern_ontario_area_scripted_country_name = { #Donnerbucht
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -473,14 +473,14 @@ german_greenstone_belt_area_scripted_country_name = { #Grünsteingürtel, transl
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -504,14 +504,14 @@ german_keewatin_area_scripted_country_name = { #Ruprechtsland, Prince Rupert Lan
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -535,14 +535,14 @@ german_cuba_area_scripted_country_name = { #Koabana, transliteration
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -566,14 +566,14 @@ german_hispaniola_area_scripted_country_name = { #Sankt Dominikien
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -597,14 +597,14 @@ german_lesser_antilles_area_scripted_country_name = { #Inseln des Wind, Based on
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -628,14 +628,14 @@ german_panama_area_scripted_country_name = { #Bannabien, Based on Guna name 'Ban
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -659,14 +659,14 @@ german_massachusetts_area_scripted_country_name = { #Algonkinien, see dutch
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -690,14 +690,14 @@ german_southern_new_england_area_scripted_country_name = { #Rotberg, see dutch
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -721,14 +721,14 @@ german_vermont_area_scripted_country_name = { #Grünberg, lit. translation
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -752,14 +752,14 @@ german_new_hampshire_area_scripted_country_name = { #Weißberg,  'White Mountain
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -783,14 +783,14 @@ german_maine_area_scripted_country_name = { #Aberginien, Historical name for Abe
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -814,14 +814,14 @@ german_hudson_area_scripted_country_name = { #Neumähren, References local morav
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -845,14 +845,14 @@ german_haudenosaunee_area_scripted_country_name = { #Irokesien, translation
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -876,14 +876,14 @@ german_new_jersey_area_scripted_country_name = { #Neuwineta
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -907,14 +907,14 @@ german_pennsylvania_area_scripted_country_name = { #Silvanien,  'Woodland'
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -938,14 +938,14 @@ german_westsylvania_area_scripted_country_name = { #Zeisbergien
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -969,14 +969,14 @@ german_maryland_area_scripted_country_name = { #Marienland, See Terra Mariana
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -1000,14 +1000,14 @@ german_virginia_area_scripted_country_name = { #Rolandien, Sir Roland is a heroi
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -1031,14 +1031,14 @@ german_west_virginia_area_scripted_country_name = { #Wandalien, Reference to the
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -1062,14 +1062,14 @@ german_north_carolina_area_scripted_country_name = { #Nordkarolinien
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -1084,7 +1084,7 @@ german_north_carolina_area_scripted_country_name = { #Nordkarolinien
     	location_trigger = {
     	}
     }
-german_south_carolina_area_scripted_country_name = { #Südkarolinien, Semi-transliterated, reinterpreted naming for Carolina, in reference to Emperor Charlemagne & Karlings, of the Holy Roman Empire.
+german_south_carolina_area_scripted_country_name = { #Südkarolinien, Semi-transliterated reinterpreted naming for Carolina in reference to Emperor Charlemagne & Karlings of the Holy Roman Empire.
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -1093,14 +1093,14 @@ german_south_carolina_area_scripted_country_name = { #Südkarolinien, Semi-trans
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -1115,7 +1115,7 @@ german_south_carolina_area_scripted_country_name = { #Südkarolinien, Semi-trans
     	location_trigger = {
     	}
     }
-german_georgia_us_area_scripted_country_name = { #Friedrichsfelden, Named after Friedrich I & Friedrich II, former Holy Roman Emperors + feld (field in german) since Georgia is renowned for it's fields & agricultural potential.
+german_georgia_us_area_scripted_country_name = { #Friedrichsfelden, Named after Friedrich I & Friedrich II former Holy Roman Emperors + feld (field in german) since Georgia is renowned for it's fields & agricultural potential.
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -1124,14 +1124,14 @@ german_georgia_us_area_scripted_country_name = { #Friedrichsfelden, Named after 
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -1155,14 +1155,14 @@ german_florida_area_scripted_country_name = { #Osterland, Named for Easter- as F
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -1186,14 +1186,14 @@ german_tennessee_area_scripted_country_name = { #Tänasi, transliteration
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -1217,14 +1217,14 @@ german_kentucky_area_scripted_country_name = { #Auland,  'Meadow Land'
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -1248,14 +1248,14 @@ german_ohio_area_scripted_country_name = { #Schawanesien, Shawnee
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -1279,14 +1279,14 @@ german_indiana_area_scripted_country_name = { #Maiamiland, Miami
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -1310,14 +1310,14 @@ german_michigan_area_scripted_country_name = { #Mischigen, transliteration
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -1341,14 +1341,14 @@ german_illinois_area_scripted_country_name = { #Inokenland, Inoca
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -1372,14 +1372,14 @@ german_wisconsin_area_scripted_country_name = { #Meskonien, see dutch
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -1403,14 +1403,14 @@ german_alabama_area_scripted_country_name = { #Alabamien, transliteration - old 
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -1434,14 +1434,14 @@ german_mississippi_area_scripted_country_name = { #Groß-Laufen, Renamed to refe
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -1465,14 +1465,14 @@ german_louisiana_area_scripted_country_name = { #Ludwigien, literal translation 
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -1496,14 +1496,14 @@ german_arkansas_area_scripted_country_name = { #Waschitaland, Ouachita
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -1527,14 +1527,14 @@ german_missouri_area_scripted_country_name = { #Missurien, After local Missouri 
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -1558,14 +1558,14 @@ german_iowa_area_scripted_country_name = { #Freimark,  'Free Boundary'
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -1589,14 +1589,14 @@ german_minnesota_area_scripted_country_name = { #Hundertseenland, references the
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -1620,14 +1620,14 @@ german_superior_area_scripted_country_name = { #Oberland, translation of "upper 
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -1651,14 +1651,14 @@ german_north_dakota_area_scripted_country_name = { #Nadowessien, Historical name
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -1682,14 +1682,14 @@ german_south_dakota_area_scripted_country_name = { #Schwarzberg, References 'Bla
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -1713,14 +1713,14 @@ german_central_plains_area_scripted_country_name = { #Windland, Kansa are known 
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -1744,14 +1744,14 @@ german_natahende_area_scripted_country_name = { #Zibola, Cibola
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -1775,14 +1775,14 @@ german_high_plains_area_scripted_country_name = { #Hohes Land
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -1806,14 +1806,14 @@ german_badlands_area_scripted_country_name = { #Ödland, translation for "barren
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -1837,14 +1837,14 @@ german_upper_missouri_area_scripted_country_name = { #Obermissurien
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -1868,14 +1868,14 @@ german_athabasca_area_scripted_country_name = { #Athapaskien
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -1899,14 +1899,14 @@ german_saskatchewan_area_scripted_country_name = { #Saskätschewan, transliterat
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -1930,14 +1930,14 @@ german_keewatin_n_area_scripted_country_name = { #Frostweiten
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -1961,14 +1961,14 @@ german_red_river_area_scripted_country_name = { #Blutwässer,  'Blood Water'
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -1992,14 +1992,14 @@ german_mexihko_area_scripted_country_name = { #Aztekenland
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -2023,14 +2023,14 @@ german_tlaxcala_area_scripted_country_name = { #Tlaskalenland,  'Tlaxcala land'
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -2054,14 +2054,14 @@ german_huaxyacac_area_scripted_country_name = { #Wahakien, transliteration
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -2085,14 +2085,14 @@ german_tochtepec_area_scripted_country_name = { #Segenkreuz
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -2107,7 +2107,7 @@ german_tochtepec_area_scripted_country_name = { #Segenkreuz
     	location_trigger = {
     	}
     }
-german_michoacan_area_scripted_country_name = { #Mitschoakanien, transliteration, Historical - Tarascan actually used but considered offensive by locals
+german_michoacan_area_scripted_country_name = { #Mitschoakanien, transliteration Historical - Tarascan actually used but considered offensive by locals
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -2116,14 +2116,14 @@ german_michoacan_area_scripted_country_name = { #Mitschoakanien, transliteration
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -2147,14 +2147,14 @@ german_xilotepec_area_scripted_country_name = { #Silberhöhen, references silver
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -2169,7 +2169,7 @@ german_xilotepec_area_scripted_country_name = { #Silberhöhen, references silver
     	location_trigger = {
     	}
     }
-german_xalisco_area_scripted_country_name = { #Schalisko, transliteration, important older spanish x = sh
+german_xalisco_area_scripted_country_name = { #Schalisko, transliteration important older spanish x = sh
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -2178,14 +2178,14 @@ german_xalisco_area_scripted_country_name = { #Schalisko, transliteration, impor
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -2209,14 +2209,14 @@ german_mayaab_area_scripted_country_name = { #Yukatanien
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -2240,14 +2240,14 @@ german_chilapan_area_scripted_country_name = { #Tschilapan
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -2271,14 +2271,14 @@ german_puuk_area_scripted_country_name = { #Kampetsche
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -2302,14 +2302,14 @@ german_chactemal_area_scripted_country_name = { #Schaktemal
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -2333,14 +2333,14 @@ german_peten_area_scripted_country_name = { #Monpanland, Mopan river
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -2364,14 +2364,14 @@ german_tezulutlan_area_scripted_country_name = { #Goathemalien
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -2395,14 +2395,14 @@ german_kuskatan_area_scripted_country_name = { #Tiefenblau,  'Deep See' -> OG Sp
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -2426,14 +2426,14 @@ german_imabite_area_scripted_country_name = { #Nikaragua
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -2457,14 +2457,14 @@ german_nekokiaw_area_scripted_country_name = { #Mimosien, reference to local 'Gu
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -2488,14 +2488,14 @@ german_zacatecas_area_scripted_country_name = { #Sakatekas, transliteration
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -2519,14 +2519,14 @@ german_baja_area_scripted_country_name = { #Niederkalifornien
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -2550,14 +2550,14 @@ german_tahejoc_area_scripted_country_name = { #Opataland
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -2581,14 +2581,14 @@ german_texas_area_scripted_country_name = { #Taischaland, transliteraion of táy
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -2612,14 +2612,14 @@ german_shiewhibak_area_scripted_country_name = { #Pimaland
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -2643,14 +2643,14 @@ german_alaxsxaq_area_scripted_country_name = { #Beringien
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -2674,14 +2674,14 @@ german_yukon_area_scripted_country_name = { #Jukonaland, based on local native o
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -2705,14 +2705,14 @@ german_columbia_interior_area_scripted_country_name = { #Inneres Land
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -2736,14 +2736,14 @@ german_california_area_scripted_country_name = { #Kalifornien
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -2767,14 +2767,14 @@ german_great_basin_area_scripted_country_name = { #Salzlakenlande
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -2798,14 +2798,14 @@ german_rockies_area_scripted_country_name = { #Felsengebirge
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -2829,14 +2829,14 @@ german_hawaii_area_scripted_country_name = { #Haweihi
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -2860,14 +2860,14 @@ german_cascadia_area_scripted_country_name = { #Kaskadenland
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -2891,14 +2891,14 @@ german_amazon_area_scripted_country_name = { #Regenwald
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -2922,14 +2922,14 @@ german_tocantins_area_scripted_country_name = { #Tukantinien, translation
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -2944,7 +2944,7 @@ german_tocantins_area_scripted_country_name = { #Tukantinien, translation
     	location_trigger = {
     	}
     }
-german_uruguay_area_scripted_country_name = { #Gartental, Historical settlement & colony, of North-German & Dutch origin.
+german_uruguay_area_scripted_country_name = { #Gartental, Historical settlement & colony of North-German & Dutch origin.
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -2953,14 +2953,14 @@ german_uruguay_area_scripted_country_name = { #Gartental, Historical settlement 
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -2984,14 +2984,14 @@ german_mato_grosso_area_scripted_country_name = { #Dichtwald,  'Thick Forest'
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -3015,14 +3015,14 @@ german_goias_area_scripted_country_name = { #Goldbergen, translation of Serra Do
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -3046,14 +3046,14 @@ german_maranhao_area_scripted_country_name = { #Sankt-Markus-Land, Based on Baí
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -3077,14 +3077,14 @@ german_piaui_area_scripted_country_name = { #Theresienland, Based on name of cap
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -3108,14 +3108,14 @@ german_ceara_area_scripted_country_name = { #Schönburg, see dutch
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -3139,14 +3139,14 @@ german_paraiba_area_scripted_country_name = { #Friedrichsland, see dutch
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -3170,14 +3170,14 @@ german_pernambuco_area_scripted_country_name = { #Neusiegen, see dutch
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -3201,14 +3201,14 @@ german_bahia_area_scripted_country_name = { #Neunassau, see dutch
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -3232,14 +3232,14 @@ german_espirito_santo_area_scripted_country_name = { #Neupommern, references loc
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -3263,14 +3263,14 @@ german_rio_de_janeiro_area_scripted_country_name = { #Jännermünd,  'January De
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -3294,14 +3294,14 @@ german_minas_gerais_area_scripted_country_name = { #Reichböden, Rich Ground' ->
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -3325,14 +3325,14 @@ german_sao_paulo_area_scripted_country_name = { #Sankt Paulus, translation
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -3356,14 +3356,14 @@ german_santa_catarina_area_scripted_country_name = { #Sankt Katharinen , transla
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -3387,14 +3387,14 @@ german_rio_grande_do_sul_area_scripted_country_name = { #Neuhunsrück , Referenc
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -3418,14 +3418,14 @@ german_bogota_area_scripted_country_name = { #Kazikenland,  'Land of Caciques' B
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -3449,14 +3449,14 @@ german_andes_area_scripted_country_name = { #Anden, Historical
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -3480,14 +3480,14 @@ german_quitu_area_scripted_country_name = { #Kitu
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -3511,14 +3511,14 @@ german_chala_area_scripted_country_name = { #Niederpiru
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -3542,14 +3542,14 @@ german_atacama_area_scripted_country_name = { #Wüstenrot
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -3573,14 +3573,14 @@ german_cuyo_area_scripted_country_name = { #Kujoland
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -3604,14 +3604,14 @@ german_yunga_area_scripted_country_name = { #Schwitzwald
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -3635,14 +3635,14 @@ german_puna_area_scripted_country_name = { #Salzlande
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -3666,14 +3666,14 @@ german_qullaw_area_scripted_country_name = { #Oberpiru
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -3697,14 +3697,14 @@ german_galapagos_area_scripted_country_name = { #Schildkröteninseln
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -3728,14 +3728,14 @@ german_chaco_area_scripted_country_name = { #Großschaku,  'Gran Chaco'
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -3759,14 +3759,14 @@ german_la_plata_area_scripted_country_name = { #Silberfluss, Historical German n
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -3790,14 +3790,14 @@ german_ngulumapu_area_scripted_country_name = { #Araukanien, Historical
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -3821,14 +3821,14 @@ german_pampa_area_scripted_country_name = { #Die Pampa, Historical
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -3852,14 +3852,14 @@ german_puelmapu_area_scripted_country_name = { #Schwarzfluss
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -3883,14 +3883,14 @@ german_patagonia_area_scripted_country_name = { #Patagonien, Historical
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -3914,14 +3914,14 @@ german_falklands_area_scripted_country_name = { #Malwinen , Historical
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -3945,14 +3945,14 @@ german_south_georgia_area_scripted_country_name = { #Klutschak-Inseln, Named for
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -3976,14 +3976,14 @@ german_rapa_nui_area_scripted_country_name = { #Osterinseln, Historical
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -4007,14 +4007,14 @@ german_charcas_area_scripted_country_name = { #Silberberg,  'Silver Mountain'
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -4038,14 +4038,14 @@ german_salta_de_tucuman_area_scripted_country_name = { #Sankt-Michaelis-Land,  '
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -4069,14 +4069,14 @@ german_cordoba_de_tucuman_area_scripted_country_name = { #Sankt-Martins-Land,  '
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -4100,14 +4100,14 @@ german_sinu_area_scripted_country_name = { #Magdalenien, Based on Rio Magdalena
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -4131,14 +4131,14 @@ german_suchiimma_area_scripted_country_name = { #Neu-Nürnberg, Historical faile
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -4153,7 +4153,7 @@ german_suchiimma_area_scripted_country_name = { #Neu-Nürnberg, Historical faile
     	location_trigger = {
     	}
     }
-german_caracas_area_scripted_country_name = { #Welserland, Failed, but real, german colony intended to be established (or Klein-Venedig)
+german_caracas_area_scripted_country_name = { #Welserland, Failed but real german colony intended to be established (or Klein-Venedig)
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -4162,14 +4162,14 @@ german_caracas_area_scripted_country_name = { #Welserland, Failed, but real, ger
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -4193,14 +4193,14 @@ german_orinucu_area_scripted_country_name = { #Orinoko
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -4224,14 +4224,14 @@ german_guayana_area_scripted_country_name = { #Neuhanau, Failed colonial scheme
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -4255,14 +4255,14 @@ german_northwest_coast_area_scripted_country_name = { #Koulischenküste
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -4286,14 +4286,14 @@ german_south_island_area_scripted_country_name = { #Neumünster
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	
@@ -4317,14 +4317,14 @@ german_north_island_area_scripted_country_name = { #Maorien
     		#}
     		OR = {
     			
-					court_language = language:german_language
-					culture.language = language:german_language
-					overlord ?= {
-						court_language = language:german_language
-					}
-					overlord ?= {
-						culture.language = language:german_language
-					}
+                court_language = language:german_language
+                culture.language = language:german_language
+                overlord ?= {
+                    court_language = language:german_language
+                }
+                overlord ?= {
+                    culture.language = language:german_language
+                }
     		}
     	}
     	

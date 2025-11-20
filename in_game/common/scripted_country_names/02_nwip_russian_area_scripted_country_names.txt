@@ -8,14 +8,14 @@ russian_greenland_area_scripted_country_name = { #Grumant, historical
     		#}
     		OR = {
     			
-					court_language = language:russian_language
-					culture.language = language:russian_language
-					overlord ?= {
-						court_language = language:russian_language
-					}
-					overlord ?= {
-						culture.language = language:russian_language
-					}
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
     		}
     	}
     	
@@ -39,14 +39,14 @@ russian_quebec_area_scripted_country_name = { #Bystrorech'ye, Rapid Water Land
     		#}
     		OR = {
     			
-					court_language = language:russian_language
-					culture.language = language:russian_language
-					overlord ?= {
-						court_language = language:russian_language
-					}
-					overlord ?= {
-						culture.language = language:russian_language
-					}
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
     		}
     	}
     	
@@ -61,7 +61,7 @@ russian_quebec_area_scripted_country_name = { #Bystrorech'ye, Rapid Water Land
     	location_trigger = {
     	}
     }
-russian_laurentian_area_scripted_country_name = { #Lavrentiya, translation based off of the English name
+russian_laurentian_area_scripted_country_name = { #Nevskaziya
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -70,14 +70,14 @@ russian_laurentian_area_scripted_country_name = { #Lavrentiya, translation based
     		#}
     		OR = {
     			
-					court_language = language:russian_language
-					culture.language = language:russian_language
-					overlord ?= {
-						court_language = language:russian_language
-					}
-					overlord ?= {
-						culture.language = language:russian_language
-					}
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
     		}
     	}
     	
@@ -101,14 +101,14 @@ russian_lower_canada_area_scripted_country_name = { #Nizhnyaya Kanada, translati
     		#}
     		OR = {
     			
-					court_language = language:russian_language
-					culture.language = language:russian_language
-					overlord ?= {
-						court_language = language:russian_language
-					}
-					overlord ?= {
-						culture.language = language:russian_language
-					}
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
     		}
     	}
     	
@@ -132,14 +132,14 @@ russian_labrador_area_scripted_country_name = { #Estoty
     		#}
     		OR = {
     			
-					court_language = language:russian_language
-					culture.language = language:russian_language
-					overlord ?= {
-						court_language = language:russian_language
-					}
-					overlord ?= {
-						culture.language = language:russian_language
-					}
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
     		}
     	}
     	
@@ -163,14 +163,14 @@ russian_newfoundland_area_scripted_country_name = { #Novaya Zemlya, transliterat
     		#}
     		OR = {
     			
-					court_language = language:russian_language
-					culture.language = language:russian_language
-					overlord ?= {
-						court_language = language:russian_language
-					}
-					overlord ?= {
-						culture.language = language:russian_language
-					}
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
     		}
     	}
     	
@@ -194,14 +194,14 @@ russian_acadia_area_scripted_country_name = { #Akadiya, name
     		#}
     		OR = {
     			
-					court_language = language:russian_language
-					culture.language = language:russian_language
-					overlord ?= {
-						court_language = language:russian_language
-					}
-					overlord ?= {
-						culture.language = language:russian_language
-					}
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
     		}
     	}
     	
@@ -209,6 +209,37 @@ russian_acadia_area_scripted_country_name = { #Akadiya, name
     	capital_trigger = {
     		OR = {
     			area = area:acadia_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+russian_greenstone_belt_area_scripted_country_name = { #Zelenokamen'ye
+    	# regular old country trigger
+    	country_trigger = {
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
+    		OR = {
+    			
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:greenstone_belt_area
     		}
     	}
     	
@@ -225,14 +256,14 @@ russian_keewatin_area_scripted_country_name = { #Kivatin, name
     		#}
     		OR = {
     			
-					court_language = language:russian_language
-					culture.language = language:russian_language
-					overlord ?= {
-						court_language = language:russian_language
-					}
-					overlord ?= {
-						culture.language = language:russian_language
-					}
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
     		}
     	}
     	
@@ -256,14 +287,14 @@ russian_cuba_area_scripted_country_name = { #Kuba, name
     		#}
     		OR = {
     			
-					court_language = language:russian_language
-					culture.language = language:russian_language
-					overlord ?= {
-						court_language = language:russian_language
-					}
-					overlord ?= {
-						culture.language = language:russian_language
-					}
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
     		}
     	}
     	
@@ -287,14 +318,14 @@ russian_hispaniola_area_scripted_country_name = { #Gaiti , name
     		#}
     		OR = {
     			
-					court_language = language:russian_language
-					culture.language = language:russian_language
-					overlord ?= {
-						court_language = language:russian_language
-					}
-					overlord ?= {
-						culture.language = language:russian_language
-					}
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
     		}
     	}
     	
@@ -318,14 +349,14 @@ russian_vermont_area_scripted_country_name = { #Prasinogory
     		#}
     		OR = {
     			
-					court_language = language:russian_language
-					culture.language = language:russian_language
-					overlord ?= {
-						court_language = language:russian_language
-					}
-					overlord ?= {
-						culture.language = language:russian_language
-					}
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
     		}
     	}
     	
@@ -349,14 +380,14 @@ russian_new_hampshire_area_scripted_country_name = { #Leucogory
     		#}
     		OR = {
     			
-					court_language = language:russian_language
-					culture.language = language:russian_language
-					overlord ?= {
-						court_language = language:russian_language
-					}
-					overlord ?= {
-						culture.language = language:russian_language
-					}
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
     		}
     	}
     	
@@ -380,14 +411,14 @@ russian_hudson_area_scripted_country_name = { #Novorossiya
     		#}
     		OR = {
     			
-					court_language = language:russian_language
-					culture.language = language:russian_language
-					overlord ?= {
-						court_language = language:russian_language
-					}
-					overlord ?= {
-						culture.language = language:russian_language
-					}
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
     		}
     	}
     	
@@ -411,14 +442,14 @@ russian_central_plains_area_scripted_country_name = { #Dikoe Pole
     		#}
     		OR = {
     			
-					court_language = language:russian_language
-					culture.language = language:russian_language
-					overlord ?= {
-						court_language = language:russian_language
-					}
-					overlord ?= {
-						culture.language = language:russian_language
-					}
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
     		}
     	}
     	
@@ -442,14 +473,14 @@ russian_natahende_area_scripted_country_name = { #Novaya Meksika, mangled this o
     		#}
     		OR = {
     			
-					court_language = language:russian_language
-					culture.language = language:russian_language
-					overlord ?= {
-						court_language = language:russian_language
-					}
-					overlord ?= {
-						culture.language = language:russian_language
-					}
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
     		}
     	}
     	
@@ -473,14 +504,14 @@ russian_high_plains_area_scripted_country_name = { #Novovostok
     		#}
     		OR = {
     			
-					court_language = language:russian_language
-					culture.language = language:russian_language
-					overlord ?= {
-						court_language = language:russian_language
-					}
-					overlord ?= {
-						culture.language = language:russian_language
-					}
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
     		}
     	}
     	
@@ -504,14 +535,14 @@ russian_badlands_area_scripted_country_name = { #Prigor'ye
     		#}
     		OR = {
     			
-					court_language = language:russian_language
-					culture.language = language:russian_language
-					overlord ?= {
-						court_language = language:russian_language
-					}
-					overlord ?= {
-						culture.language = language:russian_language
-					}
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
     		}
     	}
     	
@@ -535,14 +566,14 @@ russian_athabasca_area_scripted_country_name = { #Zamednov'ye
     		#}
     		OR = {
     			
-					court_language = language:russian_language
-					culture.language = language:russian_language
-					overlord ?= {
-						court_language = language:russian_language
-					}
-					overlord ?= {
-						culture.language = language:russian_language
-					}
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
     		}
     	}
     	
@@ -566,14 +597,14 @@ russian_saskatchewan_area_scripted_country_name = { #Velikiy Lug
     		#}
     		OR = {
     			
-					court_language = language:russian_language
-					culture.language = language:russian_language
-					overlord ?= {
-						court_language = language:russian_language
-					}
-					overlord ?= {
-						culture.language = language:russian_language
-					}
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
     		}
     	}
     	
@@ -597,14 +628,14 @@ russian_keewatin_n_area_scripted_country_name = { #Ryurikova Zemlya
     		#}
     		OR = {
     			
-					court_language = language:russian_language
-					culture.language = language:russian_language
-					overlord ?= {
-						court_language = language:russian_language
-					}
-					overlord ?= {
-						culture.language = language:russian_language
-					}
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
     		}
     	}
     	
@@ -628,14 +659,14 @@ russian_red_river_area_scripted_country_name = { #Kalashnikovye
     		#}
     		OR = {
     			
-					court_language = language:russian_language
-					culture.language = language:russian_language
-					overlord ?= {
-						court_language = language:russian_language
-					}
-					overlord ?= {
-						culture.language = language:russian_language
-					}
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
     		}
     	}
     	
@@ -659,14 +690,14 @@ russian_mexihko_area_scripted_country_name = { #Meksika, name of the country
     		#}
     		OR = {
     			
-					court_language = language:russian_language
-					culture.language = language:russian_language
-					overlord ?= {
-						court_language = language:russian_language
-					}
-					overlord ?= {
-						culture.language = language:russian_language
-					}
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
     		}
     	}
     	
@@ -690,14 +721,14 @@ russian_tlaxcala_area_scripted_country_name = { #Tlaskala , current name
     		#}
     		OR = {
     			
-					court_language = language:russian_language
-					culture.language = language:russian_language
-					overlord ?= {
-						court_language = language:russian_language
-					}
-					overlord ?= {
-						culture.language = language:russian_language
-					}
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
     		}
     	}
     	
@@ -721,14 +752,14 @@ russian_huaxyacac_area_scripted_country_name = { #Yuzhnoye Poberezhye
     		#}
     		OR = {
     			
-					court_language = language:russian_language
-					culture.language = language:russian_language
-					overlord ?= {
-						court_language = language:russian_language
-					}
-					overlord ?= {
-						culture.language = language:russian_language
-					}
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
     		}
     	}
     	
@@ -752,14 +783,14 @@ russian_baja_area_scripted_country_name = { #Ostrovye
     		#}
     		OR = {
     			
-					court_language = language:russian_language
-					culture.language = language:russian_language
-					overlord ?= {
-						court_language = language:russian_language
-					}
-					overlord ?= {
-						culture.language = language:russian_language
-					}
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
     		}
     	}
     	
@@ -783,14 +814,14 @@ russian_tahejoc_area_scripted_country_name = { #Lisyanskiya
     		#}
     		OR = {
     			
-					court_language = language:russian_language
-					culture.language = language:russian_language
-					overlord ?= {
-						court_language = language:russian_language
-					}
-					overlord ?= {
-						culture.language = language:russian_language
-					}
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
     		}
     	}
     	
@@ -814,14 +845,14 @@ russian_texas_area_scripted_country_name = { #Slavorossiya
     		#}
     		OR = {
     			
-					court_language = language:russian_language
-					culture.language = language:russian_language
-					overlord ?= {
-						court_language = language:russian_language
-					}
-					overlord ?= {
-						culture.language = language:russian_language
-					}
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
     		}
     	}
     	
@@ -845,14 +876,14 @@ russian_shiewhibak_area_scripted_country_name = { #Nadezhdovye
     		#}
     		OR = {
     			
-					court_language = language:russian_language
-					culture.language = language:russian_language
-					overlord ?= {
-						court_language = language:russian_language
-					}
-					overlord ?= {
-						culture.language = language:russian_language
-					}
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
     		}
     	}
     	
@@ -876,14 +907,14 @@ russian_alaxsxaq_area_scripted_country_name = { #Alyashka , historical
     		#}
     		OR = {
     			
-					court_language = language:russian_language
-					culture.language = language:russian_language
-					overlord ?= {
-						court_language = language:russian_language
-					}
-					overlord ?= {
-						culture.language = language:russian_language
-					}
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
     		}
     	}
     	
@@ -907,14 +938,14 @@ russian_yukon_area_scripted_country_name = { #Jukona
     		#}
     		OR = {
     			
-					court_language = language:russian_language
-					culture.language = language:russian_language
-					overlord ?= {
-						court_language = language:russian_language
-					}
-					overlord ?= {
-						culture.language = language:russian_language
-					}
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
     		}
     	}
     	
@@ -938,14 +969,14 @@ russian_columbia_interior_area_scripted_country_name = { #Zagorye
     		#}
     		OR = {
     			
-					court_language = language:russian_language
-					culture.language = language:russian_language
-					overlord ?= {
-						court_language = language:russian_language
-					}
-					overlord ?= {
-						culture.language = language:russian_language
-					}
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
     		}
     	}
     	
@@ -969,14 +1000,14 @@ russian_california_area_scripted_country_name = { #Rumyantsevye, Bodega Bay
     		#}
     		OR = {
     			
-					court_language = language:russian_language
-					culture.language = language:russian_language
-					overlord ?= {
-						court_language = language:russian_language
-					}
-					overlord ?= {
-						culture.language = language:russian_language
-					}
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
     		}
     	}
     	
@@ -1000,14 +1031,14 @@ russian_great_basin_area_scripted_country_name = { #Kamennoravn'ye
     		#}
     		OR = {
     			
-					court_language = language:russian_language
-					culture.language = language:russian_language
-					overlord ?= {
-						court_language = language:russian_language
-					}
-					overlord ?= {
-						culture.language = language:russian_language
-					}
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
     		}
     	}
     	
@@ -1031,14 +1062,14 @@ russian_rockies_area_scripted_country_name = { #Novoyugorskygory
     		#}
     		OR = {
     			
-					court_language = language:russian_language
-					culture.language = language:russian_language
-					overlord ?= {
-						court_language = language:russian_language
-					}
-					overlord ?= {
-						culture.language = language:russian_language
-					}
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
     		}
     	}
     	
@@ -1062,14 +1093,14 @@ russian_hawaii_area_scripted_country_name = { #Owhyhee, historical
     		#}
     		OR = {
     			
-					court_language = language:russian_language
-					culture.language = language:russian_language
-					overlord ?= {
-						court_language = language:russian_language
-					}
-					overlord ?= {
-						culture.language = language:russian_language
-					}
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
     		}
     	}
     	
@@ -1093,14 +1124,14 @@ russian_cascadia_area_scripted_country_name = { #Novositikhinye
     		#}
     		OR = {
     			
-					court_language = language:russian_language
-					culture.language = language:russian_language
-					overlord ?= {
-						court_language = language:russian_language
-					}
-					overlord ?= {
-						culture.language = language:russian_language
-					}
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
     		}
     	}
     	
@@ -1108,6 +1139,68 @@ russian_cascadia_area_scripted_country_name = { #Novositikhinye
     	capital_trigger = {
     		OR = {
     			area = area:cascadia_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+russian_amazon_area_scripted_country_name = { #Belovodye
+    	# regular old country trigger
+    	country_trigger = {
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
+    		OR = {
+    			
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:amazon_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+russian_acamama_area_scripted_country_name = { #Kitezh
+    	# regular old country trigger
+    	country_trigger = {
+            #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
+            #NOT = {
+    		#	any_primary_or_accepted_culture = { is_culture_native_american = yes }
+    		#}
+    		OR = {
+    			
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:acamama_area
     		}
     	}
     	
@@ -1124,14 +1217,14 @@ russian_northwest_coast_area_scripted_country_name = { #Stesnyonye Obstoyatel'st
     		#}
     		OR = {
     			
-					court_language = language:russian_language
-					culture.language = language:russian_language
-					overlord ?= {
-						court_language = language:russian_language
-					}
-					overlord ?= {
-						culture.language = language:russian_language
-					}
+                court_language = language:russian_language
+                culture.language = language:russian_language
+                overlord ?= {
+                    court_language = language:russian_language
+                }
+                overlord ?= {
+                    culture.language = language:russian_language
+                }
     		}
     	}
     	

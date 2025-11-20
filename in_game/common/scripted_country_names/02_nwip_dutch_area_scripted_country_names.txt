@@ -8,14 +8,10 @@ dutch_greenland_area_scripted_country_name = { #Groenland, historical
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -39,14 +35,10 @@ dutch_quebec_area_scripted_country_name = { #Kepeca, transliteration
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -70,14 +62,10 @@ dutch_laurentian_area_scripted_country_name = { #Noorderberghen, Northern Mounta
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -101,14 +89,10 @@ dutch_lower_canada_area_scripted_country_name = { #Nedercanada, historical
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -132,14 +116,10 @@ dutch_jamesie_area_scripted_country_name = { #Zilverbaay, Fictional non-religiou
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -163,14 +143,10 @@ dutch_nunavik_area_scripted_country_name = { #Ijssenoord, Icy north.
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -194,14 +170,10 @@ dutch_labrador_area_scripted_country_name = { #Labrador, historical
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -225,14 +197,10 @@ dutch_newfoundland_area_scripted_country_name = { #Overwater, Land across the wa
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -256,14 +224,10 @@ dutch_prince_edward_island_area_scripted_country_name = { #Prinseneiland, Prince
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -287,14 +251,10 @@ dutch_acadia_area_scripted_country_name = { #Accadia, historical
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -309,7 +269,7 @@ dutch_acadia_area_scripted_country_name = { #Accadia, historical
     	location_trigger = {
     	}
     }
-dutch_new_brunswick_area_scripted_country_name = { #Nieuw Domburg, After 'Domburg', coastal harbour in Zealand.
+dutch_new_brunswick_area_scripted_country_name = { #Nieuw Domburg, After 'Domburg' coastal harbour in Zealand.
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -318,14 +278,10 @@ dutch_new_brunswick_area_scripted_country_name = { #Nieuw Domburg, After 'Dombur
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -349,14 +305,10 @@ dutch_eastern_ontario_area_scripted_country_name = { #Oost Ontario, translation
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -380,14 +332,10 @@ dutch_western_ontario_area_scripted_country_name = { #West Ontario, translation
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -411,14 +359,10 @@ dutch_northern_ontario_area_scripted_country_name = { #Noord Ontario, translatio
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -442,14 +386,10 @@ dutch_northwestern_ontario_area_scripted_country_name = { #Noordwest Ontario, tr
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -473,14 +413,10 @@ dutch_greenstone_belt_area_scripted_country_name = { #Abitibania, After the loca
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -504,14 +440,10 @@ dutch_keewatin_area_scripted_country_name = { #Kiewietania, After local Kiwetin
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -535,14 +467,10 @@ dutch_cuba_area_scripted_country_name = { #Cuba, Historical
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -566,14 +494,10 @@ dutch_hispaniola_area_scripted_country_name = { #Batavia Eylandt, Similar to 'Hi
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -597,14 +521,10 @@ dutch_lesser_antilles_area_scripted_country_name = { #Bovenwindse Eilanden, Hist
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -628,14 +548,10 @@ dutch_panama_area_scripted_country_name = { #Panama, Historical
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -650,7 +566,7 @@ dutch_panama_area_scripted_country_name = { #Panama, Historical
     	location_trigger = {
     	}
     }
-dutch_massachusetts_area_scripted_country_name = { #Almouchicosen, Historical: derived from the French term 'Almouchiquois' coined by Samuel de Champlain 1613, referencing the Algonquian. Appears on all Dutch maps since then as 'Almouchicoesen' or '-cosen'.
+dutch_massachusetts_area_scripted_country_name = { #Almouchicosen, Historical: derived from the French term 'Almouchiquois' coined by Samuel de Champlain 1613 referencing the Algonquian. Appears on all Dutch maps since then as 'Almouchicoesen' or '-cosen'.
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -659,14 +575,10 @@ dutch_massachusetts_area_scripted_country_name = { #Almouchicosen, Historical: d
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -681,7 +593,7 @@ dutch_massachusetts_area_scripted_country_name = { #Almouchicosen, Historical: d
     	location_trigger = {
     	}
     }
-dutch_southern_new_england_area_scripted_country_name = { #Rodenbergh, Historical: navigator Adriaen Block named the area near modern day Newhaven 'Rodenbergh' in 1614. The harbour built there later was later also named Rodenbergh, until the English changed its name to Newhaven.
+dutch_southern_new_england_area_scripted_country_name = { #Rodenbergh, Historical: navigator Adriaen Block named the area near modern day Newhaven 'Rodenbergh' in 1614. The harbour built there later was later also named Rodenbergh until the English changed its name to Newhaven.
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -690,14 +602,10 @@ dutch_southern_new_england_area_scripted_country_name = { #Rodenbergh, Historica
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -712,7 +620,7 @@ dutch_southern_new_england_area_scripted_country_name = { #Rodenbergh, Historica
     	location_trigger = {
     	}
     }
-dutch_vermont_area_scripted_country_name = { #Missiskwia, Semi-Historical: Originally named after the Iroquois. While not the heartland of the Iroquois, the Dutch back then didn't really care. With actual contact when colonizing, the Dutch would name the region after the local Mazipskoiak/Missiquoi
+dutch_vermont_area_scripted_country_name = { #Missiskwia, Semi-Historical: Originally named after the Iroquois. While not the heartland of the Iroquois the Dutch back then didn't really care. With actual contact when colonizing the Dutch would name the region after the local Mazipskoiak/Missiquoi
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -721,14 +629,10 @@ dutch_vermont_area_scripted_country_name = { #Missiskwia, Semi-Historical: Origi
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -752,14 +656,10 @@ dutch_new_hampshire_area_scripted_country_name = { #Bergelandt, Land of mountain
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -774,7 +674,7 @@ dutch_new_hampshire_area_scripted_country_name = { #Bergelandt, Land of mountain
     	location_trigger = {
     	}
     }
-dutch_maine_area_scripted_country_name = { #Norumbega, Historical: on old maps the territory was named as 'Norumbega pars', named after the mythical city of Norumbega. 
+dutch_maine_area_scripted_country_name = { #Norumbega, Historical: on old maps the territory was named as 'Norumbega pars' named after the mythical city of Norumbega. 
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -783,14 +683,10 @@ dutch_maine_area_scripted_country_name = { #Norumbega, Historical: on old maps t
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -805,7 +701,7 @@ dutch_maine_area_scripted_country_name = { #Norumbega, Historical: on old maps t
     	location_trigger = {
     	}
     }
-dutch_hudson_area_scripted_country_name = { #Mauritia, Historical: the The Hudson river was named during Dutch rule as 'Mauritius' after Maurits of Orange, stadthouder of Holland and Zealand. Since the chance that the Dutch tag would have had a Maurits as a (former) ruler, this name is up for debate. Namesake of the island in the Indian Ocean also named after the same person. Alternatively, this region would be called Nieuw Amsterdam, named after the largest settlement.
+dutch_hudson_area_scripted_country_name = { #Mauritia, Historical: the The Hudson river was named during Dutch rule as 'Mauritius' after Maurits of Orange stadthouder of Holland and Zealand. Since the chance that the Dutch tag would have had a Maurits as a (former) ruler this name is up for debate. Namesake of the island in the Indian Ocean also named after the same person. Alternatively this region would be called Nieuw Amsterdam named after the largest settlement.
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -814,14 +710,10 @@ dutch_hudson_area_scripted_country_name = { #Mauritia, Historical: the The Hudso
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -836,7 +728,7 @@ dutch_hudson_area_scripted_country_name = { #Mauritia, Historical: the The Hudso
     	location_trigger = {
     	}
     }
-dutch_haudenosaunee_area_scripted_country_name = { #Irocoisia, Semi-Historical: originally, Vermont was erroneously named Irocoisia. To make ethnographically more accurate, it should encompass Haudenosaunee. After all Blaeu never visited the region, people settling it would.
+dutch_haudenosaunee_area_scripted_country_name = { #Irocoisia, Semi-Historical: originally Vermont was erroneously named Irocoisia. To make ethnographically more accurate it should encompass Haudenosaunee. After all Blaeu never visited the region people settling it would.
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -845,14 +737,10 @@ dutch_haudenosaunee_area_scripted_country_name = { #Irocoisia, Semi-Historical: 
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -867,7 +755,7 @@ dutch_haudenosaunee_area_scripted_country_name = { #Irocoisia, Semi-Historical: 
     	location_trigger = {
     	}
     }
-dutch_new_jersey_area_scripted_country_name = { #Pavonia, Historical: There were only few notable Dutch settlement, one of them being Pavonia, now Hoboken/Jersey City. It was named after Michiel Reyniersz Pauw, a local plantation owner. Pavonia being the latinized version of his surname 'Pauw'.
+dutch_new_jersey_area_scripted_country_name = { #Pavonia, Historical: There were only few notable Dutch settlement one of them being Pavonia now Hoboken/Jersey City. It was named after Michiel Reyniersz Pauw a local plantation owner. Pavonia being the latinized version of his surname 'Pauw'.
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -876,14 +764,10 @@ dutch_new_jersey_area_scripted_country_name = { #Pavonia, Historical: There were
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -898,7 +782,7 @@ dutch_new_jersey_area_scripted_country_name = { #Pavonia, Historical: There were
     	location_trigger = {
     	}
     }
-dutch_pennsylvania_area_scripted_country_name = { #Blommaertsbosch, Blommaert's forest. Named after Samuel Blommaert, alongside Minuit major shareholder in the Swedish company.
+dutch_pennsylvania_area_scripted_country_name = { #Blommaertsbosch, Blommaert's forest. Named after Samuel Blommaert alongside Minuit major shareholder in the Swedish company.
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -907,14 +791,10 @@ dutch_pennsylvania_area_scripted_country_name = { #Blommaertsbosch, Blommaert's 
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -938,14 +818,10 @@ dutch_westsylvania_area_scripted_country_name = { #Vrijbosch, Free Forest
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -960,7 +836,7 @@ dutch_westsylvania_area_scripted_country_name = { #Vrijbosch, Free Forest
     	location_trigger = {
     	}
     }
-dutch_maryland_area_scripted_country_name = { #Sint Michielsbaai, After Saint Michael, patron saint of the musketeers of Amsterdam.
+dutch_maryland_area_scripted_country_name = { #Sint Michielsbaai, After Saint Michael patron saint of the musketeers of Amsterdam.
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -969,14 +845,10 @@ dutch_maryland_area_scripted_country_name = { #Sint Michielsbaai, After Saint Mi
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -991,7 +863,7 @@ dutch_maryland_area_scripted_country_name = { #Sint Michielsbaai, After Saint Mi
     	location_trigger = {
     	}
     }
-dutch_virginia_area_scripted_country_name = { #Nederoranje, After 'Oranje', the stadtholders family of the Netherlands. "Lower Orange"
+dutch_virginia_area_scripted_country_name = { #Nederoranje, After 'Oranje' the stadtholders family of the Netherlands. "Lower Orange"
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -1000,14 +872,10 @@ dutch_virginia_area_scripted_country_name = { #Nederoranje, After 'Oranje', the 
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -1022,7 +890,7 @@ dutch_virginia_area_scripted_country_name = { #Nederoranje, After 'Oranje', the 
     	location_trigger = {
     	}
     }
-dutch_west_virginia_area_scripted_country_name = { #Overoranje, After 'Oranje', the stadtholders family of the Netherlands. "Higher Orange"
+dutch_west_virginia_area_scripted_country_name = { #Overoranje, After 'Oranje' the stadtholders family of the Netherlands. "Higher Orange"
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -1031,14 +899,10 @@ dutch_west_virginia_area_scripted_country_name = { #Overoranje, After 'Oranje', 
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -1062,14 +926,10 @@ dutch_north_carolina_area_scripted_country_name = { #Zandhoek, Sandy point
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -1093,14 +953,10 @@ dutch_south_carolina_area_scripted_country_name = { #Sint Andrieslandt, After sa
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -1124,14 +980,10 @@ dutch_georgia_us_area_scripted_country_name = { #Vrijborch, Free fortress
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -1146,7 +998,7 @@ dutch_georgia_us_area_scripted_country_name = { #Vrijborch, Free fortress
     	location_trigger = {
     	}
     }
-dutch_florida_area_scripted_country_name = { #Floralia, After the latin word for Flower, in line with 'Florida' but within Dutch terminology.
+dutch_florida_area_scripted_country_name = { #Floralia, After the latin word for Flower in line with 'Florida' but within Dutch terminology.
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -1155,14 +1007,10 @@ dutch_florida_area_scripted_country_name = { #Floralia, After the latin word for
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -1186,14 +1034,10 @@ dutch_tennessee_area_scripted_country_name = { #Tanasia, After the local Tanasi
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -1217,14 +1061,10 @@ dutch_kentucky_area_scripted_country_name = { #Wilderbosch, Wild Forest
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -1248,14 +1088,10 @@ dutch_ohio_area_scripted_country_name = { #Kanomakerslandt, Dutch name for land 
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -1279,14 +1115,10 @@ dutch_indiana_area_scripted_country_name = { #Nieuw Gelderlandt, After Gelderlan
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -1310,14 +1142,10 @@ dutch_michigan_area_scripted_country_name = { #Meerenlandt, Land of lakes
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -1341,14 +1169,10 @@ dutch_illinois_area_scripted_country_name = { #Illinoisia, After the Illinois/Il
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -1363,7 +1187,7 @@ dutch_illinois_area_scripted_country_name = { #Illinoisia, After the Illinois/Il
     	location_trigger = {
     	}
     }
-dutch_wisconsin_area_scripted_country_name = { #Meskonia, After local Meskonsing, same origin as Wisconsin
+dutch_wisconsin_area_scripted_country_name = { #Meskonia, After local Meskonsing same origin as Wisconsin
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -1372,14 +1196,10 @@ dutch_wisconsin_area_scripted_country_name = { #Meskonia, After local Meskonsing
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -1394,7 +1214,7 @@ dutch_wisconsin_area_scripted_country_name = { #Meskonia, After local Meskonsing
     	location_trigger = {
     	}
     }
-dutch_alabama_area_scripted_country_name = { #Van Peerelandt, After Abraham van Peere, founder of Guyana
+dutch_alabama_area_scripted_country_name = { #Van Peerelandt, After Abraham van Peere founder of Guyana
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -1403,14 +1223,10 @@ dutch_alabama_area_scripted_country_name = { #Van Peerelandt, After Abraham van 
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -1434,14 +1250,10 @@ dutch_mississippi_area_scripted_country_name = { #Rivierlandt, Riverland
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -1465,14 +1277,10 @@ dutch_louisiana_area_scripted_country_name = { #Brabantia, After the duchy of Br
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -1496,14 +1304,10 @@ dutch_arkansas_area_scripted_country_name = { #Akansalandt, After local Akansa
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -1527,14 +1331,10 @@ dutch_missouri_area_scripted_country_name = { #Missouria, After local Missouri/S
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -1558,14 +1358,10 @@ dutch_iowa_area_scripted_country_name = { #Vrijeveldt, Free fields
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -1580,7 +1376,7 @@ dutch_iowa_area_scripted_country_name = { #Vrijeveldt, Free fields
     	location_trigger = {
     	}
     }
-dutch_minnesota_area_scripted_country_name = { #Kiliaenia, After Kiliaen van Rensselaer. By the time anyone settled this, Kiliaen should be seen as one of the most influential figures in early Dutch overseas expansion.
+dutch_minnesota_area_scripted_country_name = { #Kiliaenia, After Kiliaen van Rensselaer. By the time anyone settled this Kiliaen should be seen as one of the most influential figures in early Dutch overseas expansion.
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -1589,14 +1385,10 @@ dutch_minnesota_area_scripted_country_name = { #Kiliaenia, After Kiliaen van Ren
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -1620,14 +1412,10 @@ dutch_superior_area_scripted_country_name = { #Bovenmeer, Translation
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -1651,14 +1439,10 @@ dutch_natahende_area_scripted_country_name = { #Proventia, From the latin word f
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -1682,14 +1466,10 @@ dutch_high_plains_area_scripted_country_name = { #Vredevlakte, Plain of peace
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -1713,14 +1493,10 @@ dutch_badlands_area_scripted_country_name = { #Woestberghe, Barren hills
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -1735,7 +1511,7 @@ dutch_badlands_area_scripted_country_name = { #Woestberghe, Barren hills
     	location_trigger = {
     	}
     }
-dutch_red_river_area_scripted_country_name = { #Bloedrivier, Translation of Blood River, sounds better than Rode Rivier/Roodrivier
+dutch_red_river_area_scripted_country_name = { #Bloedrivier, Translation of Blood River sounds better than Rode Rivier/Roodrivier
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -1744,14 +1520,10 @@ dutch_red_river_area_scripted_country_name = { #Bloedrivier, Translation of Bloo
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -1775,14 +1547,10 @@ dutch_maranhao_area_scripted_country_name = { #Alkmaaria, After the city of Alkm
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -1806,14 +1574,10 @@ dutch_ceara_area_scripted_country_name = { #Schoonenborch, Semi-historical: Fort
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -1837,14 +1601,10 @@ dutch_paraiba_area_scripted_country_name = { #Frederikslandt, Semi-historical: J
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -1859,7 +1619,7 @@ dutch_paraiba_area_scripted_country_name = { #Frederikslandt, Semi-historical: J
     	location_trigger = {
     	}
     }
-dutch_pernambuco_area_scripted_country_name = { #Mauritslandt, Semi-historical: Recife was known during Dutch rule as 'Mauritsstadt' but the captaincies kept the original Portuguese names. Mauritius and Mauritia already used on different places. This one is named after a different Maurits, however. 
+dutch_pernambuco_area_scripted_country_name = { #Mauritslandt, Semi-historical: Recife was known during Dutch rule as 'Mauritsstadt' but the captaincies kept the original Portuguese names. Mauritius and Mauritia already used on different places. This one is named after a different Maurits however. 
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -1868,14 +1628,10 @@ dutch_pernambuco_area_scripted_country_name = { #Mauritslandt, Semi-historical: 
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -1899,14 +1655,10 @@ dutch_bahia_area_scripted_country_name = { #Nassovia, Semi-historical: The fort 
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -1921,7 +1673,7 @@ dutch_bahia_area_scripted_country_name = { #Nassovia, Semi-historical: The fort 
     	location_trigger = {
     	}
     }
-dutch_espirito_santo_area_scripted_country_name = { #Nieuwe Hoop, New Hope, reference to the Cape of Good Hope
+dutch_espirito_santo_area_scripted_country_name = { #Nieuwe Hoop, New Hope reference to the Cape of Good Hope
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -1930,14 +1682,10 @@ dutch_espirito_santo_area_scripted_country_name = { #Nieuwe Hoop, New Hope, refe
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -1952,7 +1700,7 @@ dutch_espirito_santo_area_scripted_country_name = { #Nieuwe Hoop, New Hope, refe
     	location_trigger = {
     	}
     }
-dutch_rio_de_janeiro_area_scripted_country_name = { #Loncklandt, After Hendrick Lonck, navigator and important figure in the Dutch conquest of Brazil
+dutch_rio_de_janeiro_area_scripted_country_name = { #Loncklandt, After Hendrick Lonck navigator and important figure in the Dutch conquest of Brazil
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -1961,14 +1709,10 @@ dutch_rio_de_janeiro_area_scripted_country_name = { #Loncklandt, After Hendrick 
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -1992,14 +1736,10 @@ dutch_minas_gerais_area_scripted_country_name = { #Goudevelt, Gold fields
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -2014,7 +1754,7 @@ dutch_minas_gerais_area_scripted_country_name = { #Goudevelt, Gold fields
     	location_trigger = {
     	}
     }
-dutch_falklands_area_scripted_country_name = { #Valkenlandt, Literal translation of Falklands
+dutch_falklands_area_scripted_country_name = { #Sebaldeilanden, historical
     	# regular old country trigger
     	country_trigger = {
             #TODO this isn't quite working yet - it might crash the game during start depending on your last save...?
@@ -2023,14 +1763,10 @@ dutch_falklands_area_scripted_country_name = { #Valkenlandt, Literal translation
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -2054,14 +1790,10 @@ dutch_guayana_area_scripted_country_name = { #Suriname, Historical
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -2085,14 +1817,10 @@ dutch_southwestern_australia_area_scripted_country_name = { #Janszoonlandt
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -2116,14 +1844,10 @@ dutch_northwestern_australia_area_scripted_country_name = { #Nieuw-Holland
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -2147,14 +1871,10 @@ dutch_southeastern_australia_area_scripted_country_name = { #Nuytslandt
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -2178,14 +1898,10 @@ dutch_south_australia_area_scripted_country_name = { #Anthoonij van Diemenslandt
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -2209,14 +1925,10 @@ dutch_south_island_area_scripted_country_name = { #Nieuw Zeeland
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	
@@ -2240,14 +1952,10 @@ dutch_north_island_area_scripted_country_name = { #Statenlandt
     		#}
     		OR = {
     			
-					court_language = dialect:dutch_dialect
-					culture.dialect = dialect:dutch_dialect
-					overlord ?= {
-						court_language = dialect:dutch_dialect
-					}
-					overlord ?= {
-						culture.dialect = dialect:dutch_dialect
-					}
+                culture.dialect = dialect:dutch_dialect
+                overlord ?= {
+                    culture.dialect = dialect:dutch_dialect
+                }
     		}
     	}
     	

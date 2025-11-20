@@ -15,7 +15,7 @@ USA_f = {
 	}
     
     text = {
-		localization_key = USA_f_english_language #The Thirteen Colonies, American 
+		localization_key = USA_f_english_language #America, American 
 		trigger = {
 			OR = {
 				culture ?= { language ?= language:english_language }				
@@ -25,7 +25,7 @@ USA_f = {
 	}
     
     text = {
-		localization_key = USA_f_north_italian_language #Amerigia, Amerigano
+		localization_key = USA_f_north_italian_language #Vespuccia, Vespucciano
 		trigger = {
 			OR = {
 				culture ?= { language ?= language:north_italian_language }				
@@ -35,7 +35,7 @@ USA_f = {
 	}
     
     text = {
-		localization_key = USA_f_south_italian_language #Amerigia, Amerigano
+		localization_key = USA_f_south_italian_language #Vespuccia, Vespucciano
 		trigger = {
 			OR = {
 				culture ?= { language ?= language:south_italian_language }				
@@ -193,7 +193,7 @@ NES_f = {
 
 	
     text = {
-		localization_key = NES_f_portuguese_language #Grande México, Grande México
+		localization_key = NES_f_portuguese_language #Grande México, Grandemexicano
 		trigger = {
 			OR = {
 				culture ?= { language ?= language:portuguese_language }				
@@ -213,11 +213,41 @@ NES_f = {
 	}
     
     text = {
+		localization_key = NES_f_english_language #Great Masheecaw, Great Masheecawn
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:english_language }				
+				court_language ?= language:english_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NES_f_french_language #Gran Méksique, Gran Méksiqain
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:french_language }				
+				court_language ?= language:french_language
+			}
+		}
+	}
+    
+    text = {
 		localization_key = NES_f_german_language #Großmeschiko, Großmeschikaner
 		trigger = {
 			OR = {
 				culture ?= { language ?= language:german_language }				
 				court_language ?= language:german_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NES_f_polish_language #Wielkomeszyk, Wielkomeszyk
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:polish_language }				
+				court_language ?= language:polish_language
 			}
 		}
 	}
@@ -237,11 +267,41 @@ MEX_f = {
 
 	
     text = {
+		localization_key = MEX_f_portuguese_language #México, Mexicano
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:portuguese_language }				
+				court_language ?= language:portuguese_language
+			}
+		}
+	}
+    
+    text = {
 		localization_key = MEX_f_spanish_language #México, Mexicano
 		trigger = {
 			OR = {
 				culture ?= { language ?= language:spanish_language }				
 				court_language ?= language:spanish_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = MEX_f_english_language #Masheecaw, Masheecawn
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:english_language }				
+				court_language ?= language:english_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = MEX_f_french_language #Méksique, Méksiqain
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:french_language }				
+				court_language ?= language:french_language
 			}
 		}
 	}
@@ -262,6 +322,16 @@ MEX_f = {
 			OR = {
 				culture ?= { language ?= language:german_language }				
 				court_language ?= language:german_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = MEX_f_polish_language #Meszyk, Meszyk
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:polish_language }				
+				court_language ?= language:polish_language
 			}
 		}
 	}
@@ -296,6 +366,46 @@ BRZ_f = {
 			OR = {
 				culture ?= { language ?= language:spanish_language }				
 				court_language ?= language:spanish_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = BRZ_f_english_language #Hy-Brasyll, Brasyllan
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:english_language }				
+				court_language ?= language:english_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = BRZ_f_north_italian_language #Brasile, Brasiliani
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:north_italian_language }				
+				court_language ?= language:north_italian_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = BRZ_f_south_italian_language #Brasile, Brasiliani
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:south_italian_language }				
+				court_language ?= language:south_italian_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = BRZ_f_french_language #Brésil, Brésilien
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:french_language }				
+				court_language ?= language:french_language
 			}
 		}
 	}
@@ -385,6 +495,16 @@ LPL_f = {
 	}
     
     text = {
+		localization_key = LPL_f_french_language #Argentine, Argentin
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:french_language }				
+				court_language ?= language:french_language
+			}
+		}
+	}
+    
+    text = {
 		localization_key = LPL_f_german_language #Silberland, Silberländer
 		trigger = {
 			OR = {
@@ -424,6 +544,26 @@ CHA_f = {
 			OR = {
 				culture ?= { language ?= language:spanish_language }				
 				court_language ?= language:spanish_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = CHA_f_english_language #Chukisaca, Chukisacer
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:english_language }				
+				court_language ?= language:english_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = CHA_f_french_language #Haute-Bérou, Haute-Bérouvien
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:french_language }				
+				court_language ?= language:french_language
 			}
 		}
 	}
@@ -581,7 +721,7 @@ NUG_f = {
 
 	
     text = {
-		localization_key = NUG_f_portuguese_language #Nova Algarve, Novo Algarvio
+		localization_key = NUG_f_portuguese_language #Nova Algarve, Novoalgarvio
 		trigger = {
 			OR = {
 				culture ?= { language ?= language:portuguese_language }				
@@ -611,7 +751,7 @@ NUG_f = {
 	}
     
     text = {
-		localization_key = NUG_f_north_italian_language #Nuova Padania, Nuova Padania
+		localization_key = NUG_f_north_italian_language #Nuova Ravenna, Nuova Ravenna
 		trigger = {
 			OR = {
 				culture ?= { language ?= language:north_italian_language }				
@@ -621,7 +761,7 @@ NUG_f = {
 	}
     
     text = {
-		localization_key = NUG_f_south_italian_language #Nuova Padania, Nuova Padania
+		localization_key = NUG_f_south_italian_language #Nuova Ravenna, Nuova Ravenna
 		trigger = {
 			OR = {
 				culture ?= { language ?= language:south_italian_language }				
@@ -631,7 +771,7 @@ NUG_f = {
 	}
     
     text = {
-		localization_key = NUG_f_french_language #Nouvelle-Occitanie, Nouvelle-Occitanie
+		localization_key = NUG_f_french_language #Nouvelle-Lemovicie, Nouvelle-Lemosin
 		trigger = {
 			OR = {
 				culture ?= { language ?= language:french_language }				
@@ -685,6 +825,16 @@ VZL_f = {
 
 	
     text = {
+		localization_key = VZL_f_portuguese_language #Grão-Pântania, Grão-Pântania
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:portuguese_language }				
+				court_language ?= language:portuguese_language
+			}
+		}
+	}
+    
+    text = {
 		localization_key = VZL_f_spanish_language #Venezuela, Venezolano
 		trigger = {
 			OR = {
@@ -705,7 +855,7 @@ VZL_f = {
 	}
     
     text = {
-		localization_key = VZL_f_north_italian_language #Veneziola, Veneziola
+		localization_key = VZL_f_north_italian_language #Venezziola, Venezziolani
 		trigger = {
 			OR = {
 				culture ?= { language ?= language:north_italian_language }				
@@ -715,7 +865,7 @@ VZL_f = {
 	}
     
     text = {
-		localization_key = VZL_f_south_italian_language #Veneziola, Veneziola
+		localization_key = VZL_f_south_italian_language #Venezziola, Venezziolani
 		trigger = {
 			OR = {
 				culture ?= { language ?= language:south_italian_language }				
@@ -759,6 +909,16 @@ CHL_f = {
 
 	
     text = {
+		localization_key = CHL_f_portuguese_language #Chiri, Chirieno
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:portuguese_language }				
+				court_language ?= language:portuguese_language
+			}
+		}
+	}
+    
+    text = {
 		localization_key = CHL_f_spanish_language #Chile, Chileno
 		trigger = {
 			OR = {
@@ -774,6 +934,16 @@ CHL_f = {
 			OR = {
 				culture ?= { language ?= language:english_language }				
 				court_language ?= language:english_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = CHL_f_french_language #Chili, Chilien
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:french_language }				
+				court_language ?= language:french_language
 			}
 		}
 	}
@@ -803,7 +973,7 @@ NEN_f = {
 
 	
     text = {
-		localization_key = NEN_f_portuguese_language #Nova Lusitânia, Novo Lusitano
+		localization_key = NEN_f_portuguese_language #Nova Lusitânia, Novolusitano
 		trigger = {
 			OR = {
 				culture ?= { language ?= language:portuguese_language }				
@@ -843,7 +1013,7 @@ NEN_f = {
 	}
     
     text = {
-		localization_key = NEN_f_north_italian_language #Vespuccia, Vespuccia
+		localization_key = NEN_f_north_italian_language #Norvmbega, Norvmbegani
 		trigger = {
 			OR = {
 				culture ?= { language ?= language:north_italian_language }				
@@ -853,7 +1023,7 @@ NEN_f = {
 	}
     
     text = {
-		localization_key = NEN_f_south_italian_language #Vespuccia, Vespuccia
+		localization_key = NEN_f_south_italian_language #Norvmbega, Norvmbegani
 		trigger = {
 			OR = {
 				culture ?= { language ?= language:south_italian_language }				
@@ -863,7 +1033,7 @@ NEN_f = {
 	}
     
     text = {
-		localization_key = NEN_f_french_language #Nouvelle-Normandie, Nouvelle-Normandie
+		localization_key = NEN_f_french_language #Nouvelle-Normandie, Nouvelle-Normand
 		trigger = {
 			OR = {
 				culture ?= { language ?= language:french_language }				
@@ -907,7 +1077,7 @@ NYO_f = {
 
 	
     text = {
-		localization_key = NYO_f_portuguese_language #Porto Novo, Porto Novense
+		localization_key = NYO_f_portuguese_language #Porto Novo, Portonovense
 		trigger = {
 			OR = {
 				culture ?= { language ?= language:portuguese_language }				
@@ -937,7 +1107,7 @@ NYO_f = {
 	}
     
     text = {
-		localization_key = NYO_f_north_italian_language #Nuova Roma, Nuova Roma
+		localization_key = NYO_f_north_italian_language #Nuova Genova, Nuova Genova
 		trigger = {
 			OR = {
 				culture ?= { language ?= language:north_italian_language }				
@@ -947,7 +1117,7 @@ NYO_f = {
 	}
     
     text = {
-		localization_key = NYO_f_south_italian_language #Nuova Roma, Nuova Roma
+		localization_key = NYO_f_south_italian_language #Nuova Genova, Nuova Genova
 		trigger = {
 			OR = {
 				culture ?= { language ?= language:south_italian_language }				
@@ -957,7 +1127,7 @@ NYO_f = {
 	}
     
     text = {
-		localization_key = NYO_f_french_language #Nouvelle-Angoulême, Nouvelle-Angoulême
+		localization_key = NYO_f_french_language #Nouvelle-Angoulême, Nouvelle-Angoumoisin
 		trigger = {
 			OR = {
 				culture ?= { language ?= language:french_language }				
@@ -1036,6 +1206,26 @@ MAR_f = {
 			OR = {
 				culture ?= { language ?= language:english_language }				
 				court_language ?= language:english_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = MAR_f_north_italian_language #Tierra de Gracia, Tierra de Gracia
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:north_italian_language }				
+				court_language ?= language:north_italian_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = MAR_f_south_italian_language #Tierra de Gracia, Tierra de Gracia
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:south_italian_language }				
+				court_language ?= language:south_italian_language
 			}
 		}
 	}
@@ -1223,7 +1413,7 @@ CRB_f = {
 	}
     
     text = {
-		localization_key = CRB_f_north_italian_language #Caraibi, Caraibi
+		localization_key = CRB_f_north_italian_language #Antille, Antillano
 		trigger = {
 			OR = {
 				culture ?= { language ?= language:north_italian_language }				
@@ -1233,7 +1423,7 @@ CRB_f = {
 	}
     
     text = {
-		localization_key = CRB_f_south_italian_language #Caraibi, Caraibi
+		localization_key = CRB_f_south_italian_language #Antille, Antillano
 		trigger = {
 			OR = {
 				culture ?= { language ?= language:south_italian_language }				
@@ -1327,6 +1517,16 @@ AND_f = {
 	}
     
     text = {
+		localization_key = AND_f_french_language #Les Cordes, Cordien
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:french_language }				
+				court_language ?= language:french_language
+			}
+		}
+	}
+    
+    text = {
 		localization_key = AND_f_german_language #Anden, Andenländer
 		trigger = {
 			OR = {
@@ -1391,6 +1591,16 @@ FCA_f = {
 	}
     
     text = {
+		localization_key = FCA_f_french_language #Goathemala, Goathemalais
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:french_language }				
+				court_language ?= language:french_language
+			}
+		}
+	}
+    
+    text = {
 		localization_key = FCA_f_german_language #Mittelland, Mitteländler
 		trigger = {
 			OR = {
@@ -1425,7 +1635,7 @@ NMX_f = {
 
 	
     text = {
-		localization_key = NMX_f_portuguese_language #Rio Grande do México, Rio Grande do México
+		localization_key = NMX_f_portuguese_language #Rio Bravo do México, Rio Bravo do México
 		trigger = {
 			OR = {
 				culture ?= { language ?= language:portuguese_language }				
@@ -1445,11 +1655,21 @@ NMX_f = {
 	}
     
     text = {
-		localization_key = NMX_f_english_language #Arizona, Arizonan
+		localization_key = NMX_f_english_language #Shiprock, Shiprockian
 		trigger = {
 			OR = {
 				culture ?= { language ?= language:english_language }				
 				court_language ?= language:english_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NMX_f_french_language #Noveau-Méksique, Noveau-Méksiqain
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:french_language }				
+				court_language ?= language:french_language
 			}
 		}
 	}
@@ -1479,7 +1699,7 @@ LOU_f = {
 
 	
     text = {
-		localization_key = LOU_f_portuguese_language #Mississipi, Mississipi
+		localization_key = LOU_f_portuguese_language #Grande Rio, Grande Rio
 		trigger = {
 			OR = {
 				culture ?= { language ?= language:portuguese_language }				
@@ -1489,7 +1709,7 @@ LOU_f = {
 	}
     
     text = {
-		localization_key = LOU_f_spanish_language #La Luciana, Luciano
+		localization_key = LOU_f_spanish_language #La Luisiana, Luisiano
 		trigger = {
 			OR = {
 				culture ?= { language ?= language:spanish_language }				
@@ -1583,6 +1803,16 @@ CLF_f = {
 
 	
     text = {
+		localization_key = CLF_f_portuguese_language #As Califórnias, Californiano
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:portuguese_language }				
+				court_language ?= language:portuguese_language
+			}
+		}
+	}
+    
+    text = {
 		localization_key = CLF_f_spanish_language #Las Californias, Californiano
 		trigger = {
 			OR = {
@@ -1598,6 +1828,16 @@ CLF_f = {
 			OR = {
 				culture ?= { language ?= language:english_language }				
 				court_language ?= language:english_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = CLF_f_french_language #Les Californies, Californien
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:french_language }				
+				court_language ?= language:french_language
 			}
 		}
 	}
@@ -1672,6 +1912,16 @@ NTK_f = {
 			OR = {
 				culture ?= { language ?= language:french_language }				
 				court_language ?= language:french_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NTK_f_russian_language #Novositikhiniya, Novositikhiniya
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:russian_language }				
+				court_language ?= language:russian_language
 			}
 		}
 	}
@@ -1835,7 +2085,7 @@ BUA_f = {
 	}
     
     text = {
-		localization_key = BUA_f_spanish_language #Buenos Aires, Porteño
+		localization_key = BUA_f_spanish_language #Buenos Ayres, Porteño
 		trigger = {
 			OR = {
 				culture ?= { language ?= language:spanish_language }				
@@ -1855,7 +2105,7 @@ BUA_f = {
 	}
     
     text = {
-		localization_key = BUA_f_north_italian_language #Buonaria, Buonaria
+		localization_key = BUA_f_north_italian_language #Buonaria, Portegni
 		trigger = {
 			OR = {
 				culture ?= { language ?= language:north_italian_language }				
@@ -1865,7 +2115,7 @@ BUA_f = {
 	}
     
     text = {
-		localization_key = BUA_f_south_italian_language #Buonaria, Buonaria
+		localization_key = BUA_f_south_italian_language #Buonaria, Portegni
 		trigger = {
 			OR = {
 				culture ?= { language ?= language:south_italian_language }				
@@ -1875,7 +2125,7 @@ BUA_f = {
 	}
     
     text = {
-		localization_key = BUA_f_french_language #Bons Vents, Bons Vents
+		localization_key = BUA_f_french_language #Bon-Vent, Bonventien
 		trigger = {
 			OR = {
 				culture ?= { language ?= language:french_language }				
@@ -1949,7 +2199,7 @@ TAZ_f = {
 	}
     
     text = {
-		localization_key = TAZ_f_french_language #Île de Marion-Dufresne, Île de Marion-Dufresne
+		localization_key = TAZ_f_french_language #Île de Marion-Dufresne, Marion-Dufresnais
 		trigger = {
 			OR = {
 				culture ?= { language ?= language:french_language }				

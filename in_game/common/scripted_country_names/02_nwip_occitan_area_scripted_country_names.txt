@@ -8,14 +8,14 @@ occitan_laurentian_area_scripted_country_name = { #Llorençan
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -39,14 +39,14 @@ occitan_jamesie_area_scripted_country_name = { #Sant Jaume
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -70,14 +70,14 @@ occitan_nunavik_area_scripted_country_name = { #Nunavic
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -101,14 +101,14 @@ occitan_newfoundland_area_scripted_country_name = { #Terranova
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -132,14 +132,14 @@ occitan_prince_edward_island_area_scripted_country_name = { #Illa de Príncep
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -163,14 +163,14 @@ occitan_new_brunswick_area_scripted_country_name = { #Sant Joan
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -194,14 +194,14 @@ occitan_keewatin_area_scripted_country_name = { #Quevatin
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -225,14 +225,14 @@ occitan_hispaniola_area_scripted_country_name = { #Sant Domènec
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -256,14 +256,14 @@ occitan_massachusetts_area_scripted_country_name = { #Masasusets
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -287,14 +287,14 @@ occitan_vermont_area_scripted_country_name = { #Monvert
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -318,14 +318,14 @@ occitan_new_hampshire_area_scripted_country_name = { #Merimac
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -349,14 +349,14 @@ occitan_maine_area_scripted_country_name = { #Vabanac
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -380,14 +380,14 @@ occitan_haudenosaunee_area_scripted_country_name = { #Rodenosauni
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -411,14 +411,14 @@ occitan_new_jersey_area_scripted_country_name = { #Novas Balears
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -442,14 +442,14 @@ occitan_pennsylvania_area_scripted_country_name = { #Susqueran
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -473,14 +473,14 @@ occitan_westsylvania_area_scripted_country_name = { #Allegen
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -504,14 +504,14 @@ occitan_maryland_area_scripted_country_name = { #Santa Maria
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -535,14 +535,14 @@ occitan_west_virginia_area_scripted_country_name = { #Monogarrel
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -566,14 +566,14 @@ occitan_north_carolina_area_scripted_country_name = { #Sant Carles Nord
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -597,14 +597,14 @@ occitan_south_carolina_area_scripted_country_name = { #Sant Carles Sud
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -628,14 +628,14 @@ occitan_tennessee_area_scripted_country_name = { #Tenesi
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -659,14 +659,14 @@ occitan_kentucky_area_scripted_country_name = { #Guentac
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -690,14 +690,14 @@ occitan_ohio_area_scripted_country_name = { #Orio
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -721,14 +721,14 @@ occitan_illinois_area_scripted_country_name = { #Illina
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -752,14 +752,14 @@ occitan_wisconsin_area_scripted_country_name = { #Visconsin
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -783,14 +783,14 @@ occitan_mississippi_area_scripted_country_name = { #Misisip
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -814,14 +814,14 @@ occitan_louisiana_area_scripted_country_name = { #Loisian
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -845,14 +845,14 @@ occitan_arkansas_area_scripted_country_name = { #Arcansa
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -876,14 +876,14 @@ occitan_missouri_area_scripted_country_name = { #Misuri
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -907,14 +907,14 @@ occitan_iowa_area_scripted_country_name = { #Ayoa
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -938,14 +938,14 @@ occitan_central_plains_area_scripted_country_name = { #Cansas
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -969,14 +969,14 @@ occitan_minas_gerais_area_scripted_country_name = { #Mines Generals
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -1000,14 +1000,14 @@ occitan_nekokiaw_area_scripted_country_name = { #Necocal
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -1031,14 +1031,14 @@ occitan_baja_area_scripted_country_name = { #Baixa Califòrnia
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -1062,14 +1062,14 @@ occitan_alaxsxaq_area_scripted_country_name = { #Alasc
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -1093,14 +1093,14 @@ occitan_california_area_scripted_country_name = { #Califòrnia
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -1124,14 +1124,14 @@ occitan_para_area_scripted_country_name = { #Pará
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -1155,14 +1155,14 @@ occitan_maranhao_area_scripted_country_name = { #Maranyan
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -1186,14 +1186,14 @@ occitan_piaui_area_scripted_country_name = { #Pyaui
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -1217,14 +1217,14 @@ occitan_ceara_area_scripted_country_name = { #Cearà
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -1248,14 +1248,14 @@ occitan_paraiba_area_scripted_country_name = { #Paraib
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -1279,14 +1279,14 @@ occitan_pernambuco_area_scripted_country_name = { #Pernabuc
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -1310,14 +1310,14 @@ occitan_bahia_area_scripted_country_name = { #Badia de Tots Sants
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -1341,14 +1341,14 @@ occitan_espirito_santo_area_scripted_country_name = { #Esperit Sant
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -1372,14 +1372,14 @@ occitan_rio_de_janeiro_area_scripted_country_name = { #Riu de Gener
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -1403,14 +1403,14 @@ occitan_minas_gerais_area_scripted_country_name = { #Mines Generals
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -1434,14 +1434,14 @@ occitan_sao_paulo_area_scripted_country_name = { #Sant Pau
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -1465,14 +1465,14 @@ occitan_santa_catarina_area_scripted_country_name = { #Santa Catarina
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -1496,14 +1496,14 @@ occitan_rio_grande_do_sul_area_scripted_country_name = { #Riu Grand del Sud
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
@@ -1527,14 +1527,14 @@ occitan_la_plata_area_scripted_country_name = { #Riu Argent
     		#}
     		OR = {
     			
-					court_language = language:occitan_language
-					culture.language = language:occitan_language
-					overlord ?= {
-						court_language = language:occitan_language
-					}
-					overlord ?= {
-						culture.language = language:occitan_language
-					}
+                court_language = language:occitan_language
+                culture.language = language:occitan_language
+                overlord ?= {
+                    court_language = language:occitan_language
+                }
+                overlord ?= {
+                    culture.language = language:occitan_language
+                }
     		}
     	}
     	
