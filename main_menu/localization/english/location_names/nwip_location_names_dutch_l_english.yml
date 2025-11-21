@@ -5,20 +5,20 @@
  nehantuck.dutch_dialect: "Zeebroeck" #Nehantuck (Middlesex)
  quinnipiac.dutch_dialect: "Rodenbergh" #Quinnipiac (Newhaven)
  rippowam.dutch_dialect: "Pechquenakonck" #Rippowam (Fairfield)
- scatacook.dutch_dialect: "Bantam" #Scatacook (Litchfield), Can't find the official origin, but I assume named after the island Bantam which was held by the Dutch
+ scatacook.dutch_dialect: "Bantam" #Scatacook (Litchfield), Can't find the official origin but I assume named after the island Bantam which was held by the Dutch
  manhattan.dutch_dialect: "Nieuw Amsterdam" #Mannahatta (Manhattan), Post-recapture Nieuw Oranje
  tappan.dutch_dialect: "Blauvelt" #Tappan (Orangetown)
  nochpeem.dutch_dialect: "Vis Kille" #Nochpeem (Putnam)
  montauk.dutch_dialect: "Cromme Gouwe" #Montauk (Montauk)
  unquachog.dutch_dialect: "Gebroken Land" #Unquachog (Patchogue)
- massapequa.dutch_dialect: "Breuckelen" #Massapequa (Brooklyn), Found 4 relevant settlements: Breu(c)kelen (Brooklyn), Groenwyck (Green Wood) and Gravesant (Gravesend). Brooklyn being the most recognizable (and encompassing the other two nowadays), perhaps best to opt for Breuckelen
+ massapequa.dutch_dialect: "Breuckelen" #Massapequa (Brooklyn), Found 4 relevant settlements: Breu(c)kelen (Brooklyn) Groenwyck (Green Wood) and Gravesant (Gravesend). Brooklyn being the most recognizable (and encompassing the other two nowadays) perhaps best to opt for Breuckelen
  poughkeepsie.dutch_dialect: "Poughkeepsie" #U-puku-ipi-sing (Poughkeepsie)
  ponkhockie.dutch_dialect: "Kinderhoek" #Ponkhockie (Columbia)
  minisink.dutch_dialect: "Mahackamack" #Minisink (Sullivan)
- kitchawanc.dutch_dialect: "Esopus" #Esopus (Ulster), Original: Hooge Landt van Esopus, Wiltwyck being the largest settlement
- mahicannituck.dutch_dialect: "Beverwyck" #Mahicannituck (Albany), Part of the historical Renselaerswyck. Two options: 1. Name it Beverwyck or Fort Oranje. Fort Oranje as largest fort, replaced Fort Nassau, Willemstadt Post-recapture. Largest non military settlement: Beverwyck, now known as Albany 2. Name it West Renselaerswyck
+ kitchawanc.dutch_dialect: "Esopus" #Esopus (Ulster), Original: Hooge Landt van Esopus Wiltwyck being the largest settlement
+ mahicannituck.dutch_dialect: "Beverwyck" #Mahicannituck (Albany), Part of the historical Renselaerswyck. Two options: 1. Name it Beverwyck or Fort Oranje. Fort Oranje as largest fort replaced Fort Nassau Willemstadt Post-recapture. Largest non military settlement: Beverwyck now known as Albany 2. Name it West Renselaerswyck
  horicon.dutch_dialect: "Kahoos" #Horicon (Washington)
- esquatak.dutch_dialect: "t'Greyn Bos" #Esquatak (Renesselaer), Part of the historical Renselaerswyck. Two options: 1. Name it t' Greyn Bos, largest settlement in this area 2. Name it Oost Renselaerswyck
+ esquatak.dutch_dialect: "t'Greyn Bos" #Esquatak (Renesselaer), Part of the historical Renselaerswyck. Two options: 1. Name it t' Greyn Bos largest settlement in this area 2. Name it Oost Renselaerswyck
  lenape.dutch_dialect: "Kats Kil" #Lenape (Delhi), Original: Landt van Kats Kill
  raritan.dutch_dialect: "Pavonia" #Raritan ()
  hackensack.dutch_dialect: "Nederhorst" #Hackensack (Bergen), Original: Colonie van de Heer Nederhorst
@@ -29,6 +29,6 @@
  cohansey.dutch_dialect: "Varkens Kill" #Cohansey (Cumberland)
  amintonck.dutch_dialect: "Barnde Gat" #Amintonck ()
  assunpink.dutch_dialect: "Mageckqueskou" #Assunpink (Trenton)
- muscotnetcong.dutch_dialect: "Tweemolens" #Muscotnetcong (Morris), Not historical, name based on the two mills of Milfort and Bethlehem
+ muscotnetcong.dutch_dialect: "Tweemolens" #Muscotnetcong (Morris), Not historical name based on the two mills of Milfort and Bethlehem
  hopatcong.dutch_dialect: "Schoon Greyne Bosch" #Hopatcong (Sussex)
  pitaguari.dutch_dialect: "Schoonenborch" #Pitaguari (Fortaleza), name of the historical fort that was placed in the region during the Dutch conquest of Northeastern Brazil

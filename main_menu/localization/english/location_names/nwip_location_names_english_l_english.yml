@@ -12,7 +12,7 @@
  antigonish.english_language: "Dorchester" #Nalikitquniejk (Antigonish), 1784; Renamed to Antigonish in 1820s
  canso.english_language: "Guysborough" #Qamso'q (Guysborough), 1780s
  wikipoq.english_language: "Sherbrooke" #Wikipoq (Sherbrooke), 1805
- weljuik.english_language: "Sheet Harbour" #Weljuik (Sheet Harbour), Founded as Port North in 1784, renamed Sheet Harbour in 1818
+ weljuik.english_language: "Sheet Harbour" #Weljuik (Sheet Harbour), Founded as Port North in 1784 renamed Sheet Harbour in 1818
  jijkwtuk.english_language: "Kentville" #Jijkwtuk (Kentville), 1826
  cobequid.english_language: "Truro" #We'kopektik (Truro), 1761
  kennetook.english_language: "Windsor" #Knetkuk (Windsor), 1764
@@ -96,7 +96,7 @@
  nudarcha.english_language: "Westport" #Nudarcha (Kansas City), Independence for USA tag - also Fort Osage
  moingwena.english_language: "Fort Madison" #Moingwena (Burlington)
  coiracoentanon.english_language: "Pinhook" #Coircacoentanon (Cedar Rapids)
- xunantunich.english_language: "Belize" #Tipu (), Belize City would ideally be added as a separate location, and its indigenous name would be Holzuz
+ xunantunich.english_language: "Belize" #Tipu (), Belize City would ideally be added as a separate location and its indigenous name would be Holzuz
  tugumlepen.english_language: "Edinburg" #Tugumlepen (McAllen)
  estok_gna.english_language: "Fort Ringgold" #Esto'k Gna (Rio Grande City)
  cachopostales.english_language: "Camp Crawford" #Cachopostales (Laredo)
@@ -142,7 +142,7 @@
  chinchaga.english_language: "Fort St. John" #Chinchaga (Fort St. John), First Rocky Mountain Fort in 1794; first Fort St. John in 1805
  tsay_iona.english_language: "Fort Halkett" #Tsay'iona (), 1829
  ford_liard.english_language: "Ford Laird" #Acho Dene Koe (Fort Laird)
- atfalati.english_language: "Champoeg" #Atfalati (Tualatin), Historical town present here, very important
+ atfalati.english_language: "Champoeg" #Atfalati (Tualatin), Historical town present here very important
  chinook.english_language: "Fort George" #Chinook (Astoria), Founded as Fort Astoria in 1811 by the Americans; sold to the British in 1813 and renamed Fort George
  multnomah.english_language: "Fort Vancouver" #Multnomah (Portland), Established 1824-1825
  watlala.english_language: "Oregon City" #Watlala (Oregon City)
@@ -150,7 +150,7 @@
  akisq_nuk.english_language: "Kootenay House" #akisq'nuk (Invermere), 1807
  nisqually.english_language: "Fort Nisqually" #Nisqually (Olympia), 1833
  sto_lo.english_language: "Fort Hope" #Sto'lo (Chilliwack), 1848
- whonnock.english_language: "Fort Langley" #Whonnock (Vancouver), Fort Langley established in 1827 but close to the intersection of Whonnock, Sto'lo and Nuxwsa'aq
+ whonnock.english_language: "Fort Langley" #Whonnock (Vancouver), Fort Langley established in 1827 but close to the intersection of Whonnock Sto'lo and Nuxwsa'aq
  scqescilni.english_language: "Fort Spokane" #Scqescilni (Spokane), 1810
  chelan.english_language: "Fort Okanogan" #Chelan (Chelan), Established 1811
  enselxcin.english_language: "Fort Colvile" #Enselxcin (Grand Forks), 1825

@@ -258,31 +258,33 @@
  lages.portuguese_language: "Lages" #Lages (Lages)
  sao_joaquim.portuguese_language: "São Joaquim" #Sao Joaquim (São Joaquim)
  tubarao.portuguese_language: "Tubarão" #Tubá-Nharô (Tubarão)
- cruz_alta.portuguese_language: "Cruz Alta" #Cruz Alta (Santo Ângelo), Cruz Alta is a much modern city, Santo Ângelo is a 1700s jesuit reduction in this area.
- palmeira.portuguese_language: "Palmeira" #Palmeira (), refers to the city of Palmeira das Missões. Not a historical nor an important city
- nandeva.portuguese_language: "Alto Jacuí" #Ñandeva ()
+ cruz_alta.portuguese_language: "Santo Ângelo" #Ijuhy (Santo Ângelo), Change to more historical appropiate city name
+ palmeira.portuguese_language: "Palmeira das Missões" #Caapí (), Corrected name
+ nandeva.portuguese_language: "Alto Jacuí" #Upper Igaí (), River-related Name
  lagoa_vermelha.portuguese_language: "Lagoa Vermelha" #Lagoa Vermelha (Lagoa Vermelha)
- passo_fundo.portuguese_language: "Passo Fundo" #Passo Fundo (Passo Fundo)
- vacaria.portuguese_language: "Vacaria" #Vacaria (Vacaria)
- carijo.portuguese_language: "Mostardas" #Carijo ()
- piratinin.portuguese_language: "Piratini" #Piratinin (), > The Piratini river is not in this location. I would propose Canguçu
+ passo_fundo.portuguese_language: "Passo Fundo" #Curití (Passo Fundo)
+ vacaria.portuguese_language: "Vacaria" #Caamo (Vacaria)
+ carijo.portuguese_language: "Mostardas" #Mostardas ()
+ piratinin.portuguese_language: "Canguçu" #Canguçu (), Changed to the name of a city in this location
  piratini.portuguese_language: "Piratini" #Piratini ()
  jaguarao.portuguese_language: "Jaguarão" #Jaguarão ()
- cangucu.portuguese_language: "Canguçu" #Cangucu (), > Rio Grande is a more notable city
+ cangucu.portuguese_language: "Rio Grande" #Canguçu (), > Rio Grande is a more notable city
  chuy.portuguese_language: "Chuí" #Chuy ()
- mirim_lake.portuguese_language: "Lagoa Mirim" #Mirim Lake (Lagoa Mirim)
- negra_lagoon.portuguese_language: "Lagoa Negra" #Negra Lagoon ()
- icabaqua.portuguese_language: "Icabaquã" #Icabaqua (), > Should be Camaquã
- tupancireta.portuguese_language: "Tupanciretã" #Tupancireta (), ? random city. Santa Maria is much better
- umbu.portuguese_language: "Umbu" #Umbu (), Why not Rio Pardo?
- cacapava.portuguese_language: "Caçapava" #Caçapava (Caçapava do Sul), > Full name is Caçapava do Sul
- vacacai.portuguese_language: "Santa Maria" #Vacacai (Santa Maria), > Santa Maria is not in this location. Vacacaí or São Vicente are some cities
- tapes.portuguese_language: "Gravataí" #Tapes (Gravataí), ? old name of Canoas. Viamão or Porto Alegre are more historical meaninfull
- patos.portuguese_language: "Patos" #Patos (Patos), NO. Taquari is the river in this location.
- jacui.portuguese_language: "Jacui" #Jacui (Jacui), Works, but it is a small part of the Jacuí river. Lower Jacuí or Baixo Jacuí maybe?
- sao_leopoldo.portuguese_language: "São Leopoldo" #Sao Leopoldo (São Leopoldo), > Caxias do Sul is just as ahistorical and more centralized
- san_antonio_patrulha.portuguese_language: "Santo Antonio da Patrulha" #San Antonio da Patrulha (Santo Antonio da Patrulha)
- arroio.portuguese_language: "Conceição do Arroio" #Arroio (), If the name is too big, "Arroio" is OK
+ mirim_lake.portuguese_language: "Lagoa Mirim" #Lake Mirim (Lagoa Mirim)
+ mangueira_lake.portuguese_language: "Lake Mangueira" #Lake Mangueira (Lagoa Mangueira)
+ negra_lagoon.portuguese_language: "Lagoa Negra" #Lake Negra ()
+ icabaqua.portuguese_language: "Camaquã" #Icabaquã (), Corrected portuguese form
+ tupancireta.portuguese_language: "Santa Maria" #Ibitimirí (), Changed to relevant city
+ umbu.portuguese_language: "Rio Pardo" #Ibiticaray (), Changed to a city and river name
+ cacapava.portuguese_language: "Caçapava do Sul" #Caçapava (Caçapava do Sul), Changed to full name
+ vacacai.portuguese_language: "São Vicente" #Vacacaí (), Changed to a city in this location
+ tapes.portuguese_language: "Viamão" #Guaíba (Viamão), Changed to the most historically relevant name
+ patos.portuguese_language: "Taquari" #Tebicuary (), Changed to a city and river name
+ jacui.portuguese_language: "Baixo Jacuí" #Lower Igaí (Baixo Jacuí), Addapted to agree with location Upper Igaí although this name is used in reality
+ sao_leopoldo.portuguese_language: "Caxias do Sul" #Caaguá (Caxias do Sul), Changed to more representative name although very ahistorical
+ san_antonio_patrulha.portuguese_language: "Santo Antônio da Patrulha" #Santo Antônio da Patrulha (Santo Antônio da Patrulha), Corrected mispelling
+ arroio.portuguese_language: "Conceição do Arroio" #Taramandahy (), Changed to full name
+ ombu.portuguese_language: "Sacramento" #Ombu (Colonia del Sacramento)
  ibirapuita.portuguese_language: "Alegrete" #Ibirapuita ()
  cacequi.portuguese_language: "Cacequi" #Cacequi ()
  ibaje.portuguese_language: "Bagé" #Ibaje (), - could be called Santa Tecla instead

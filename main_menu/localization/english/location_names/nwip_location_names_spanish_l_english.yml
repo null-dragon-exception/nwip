@@ -7,7 +7,7 @@
  chawasha.spanish_language: "San Bernardo" #Chawasha ()
  opelousa.spanish_language: "Punta Cortada" #Opelousa ()
  ciwat.spanish_language: "Nueva Iberia" #Ciwat (Lafayette)
- calcasieu.spanish_language: "Los Adaes" #Calcasieu (Natchitoches), Ideally Los Adaes would be a separate location from Natchitoches, but currently both are in the same location
+ calcasieu.spanish_language: "Los Adaes" #Calcasieu (Natchitoches), Ideally Los Adaes would be a separate location from Natchitoches but currently both are in the same location
  ouachita.spanish_language: "Fuerte Miró" #Ouachita (Monroe)
  kisatchie.spanish_language: "El Rapido" #Kisatchie (Alexandria)
  catahoula.spanish_language: "Concordia" #Catahoula ()
@@ -21,10 +21,16 @@
  tlacopan.spanish_language: "Tacuba" #Tlacopan (Tacuba)
  cuauhnahuac.spanish_language: "Cuernavaca" #Cuauhnahuac (Cuernavaca)
  itzocan.spanish_language: "Izúcar" #Itzocan (Izúcar de Matamoros)
+ cuauhteopan.spanish_language: "Olinalá" #Olinallan ()
  yopitzinco.spanish_language: "Acapulco" #Yopitzinco (Acapulco)
+ tixtla.spanish_language: "Tixtla" #Tixtlan ()
+ chilapa.spanish_language: "Chilapa" #Chilapan (Chilapa de Alvarez)
+ tecoanapa.spanish_language: "Ayutla" #Ayotlan (Ayutla de los Libres)
+ ixtapan.spanish_language: "Ixtapa" #Ixtapan (Ixtapa)
  zacatollan.spanish_language: "Zacatula" #Zacatollan (Lazaro Cardenas)
  pachyohcan.spanish_language: "Pachuca" #Pachyohcan (Pachuca)
  tollantzinco.spanish_language: "Tulancingo" #Tollantzinco (Tulancingo)
+ tonameca.spanish_language: "Tonameca" #Tonamilcan (Santa María Tonameca)
  guiigu_yudxi.spanish_language: "Xalapa del Marqués" #Guiigu yudxi (Jalapa)
  tlachquiauhco.spanish_language: "Tlaxiaco" #Tlachquiauhco (Tlaxiaco)
  poctlan.spanish_language: "Putla" #Poctlan (Putla)
@@ -56,7 +62,7 @@
  quechula.spanish_language: "Quechula" #Quechollan ()
  ocosingo.spanish_language: "Ocosingo" #Ocotzinco ()
  tenamitl.spanish_language: "Comitán" #Tenamitl (Comitán de Domínguez)
- zinacantan.spanish_language: "Ciudad Real" #Zinacantan (San Cristóbal de las Casas), colonial-era name
+ zinacantan.spanish_language: "Ciudad Real" #Zinacantan (San Cristóbal de las Casas), colonial-era name of San Cristobal
  pochutla.spanish_language: "Pochutla" #Pochotlan (Perla de Acapulco)
  tonala_chiapas.spanish_language: "Tonalá" #Tonallan (Tonalá)
  napinaica.spanish_language: "Tuxtla" #Napiniaca (Chiapa de Corzo)
@@ -75,17 +81,17 @@
  bakhalal.spanish_language: "Bacalar" #Bakhalal (Bacalar)
  noh_peten.spanish_language: "Remedios" #Noj Petén (Flores)
  acasaguastlan.spanish_language: "Acasaguastlán" #Acacehuastlan ()
- cuauhtemallan.spanish_language: "Santiago de los Caballero de Guatemala" #Cuauhtemallan (), This was the original name of the first city of Guatemala, also called Antigua Guatemala, which served as the capital of the Captaincy General of Guatemala (a jurisdiction within the Viceroyalty of New Spain). Short name: Antigua Guatemala
+ cuauhtemallan.spanish_language: "Santiago de los Caballero de Guatemala" #Cuauhtemallan (), This was the original name of the first city of Guatemala also called Antigua Guatemala which served as the capital of the Captaincy General of Guatemala (a jurisdiction within the Viceroyalty of New Spain). Short name: Antigua Guatemala
  itzalku.spanish_language: "Sonsonate" #Itzalku (Izalco), Sonsonate more relevant in colonial period
  xelahuh.spanish_language: "Quetzaltenango" #Xelahuh (Quetzaltenango)
  itzcuintlan.spanish_language: "Escuintla" #Itzkwintlan (Escuintla)
- chinabajul.spanish_language: "Huehuetenango" #Zaculeu (Huehuetenango)
+ chinabajul.spanish_language: "Huehuetenango" #Saqulew (Huehuetenango)
  chama.spanish_language: "Cobán" #Chi Mon'a (Cobán)
  kajyub.spanish_language: "Rabinal" #Kajyub (Rabinal)
  toquegua.spanish_language: "Santo Tomás de Castilla" #Toquegua (Santo Tomás de Castilla)
  tecohtzincalpan.spanish_language: "Tegucigalpa" #Tecohtzincalpan (Tegucigalpa)
  ocotepec.spanish_language: "Ocotepeque" #Ocotepec (Ocotepeque)
- shalatenan.spanish_language: "Chalatenango" #Shalatenan (Chalatenango)
+ shalatenan.spanish_language: "Chalatenango" #Shalatenanku (Chalatenango)
  papayeca.spanish_language: "Trujillo" #Papayeca (Río Claro), Trujillo became the main town here
  kuskatan.spanish_language: "San Salvador" #Kuskatan ()
  cojutepeque.spanish_language: "Cojutepeque" #Kuxutepek (Cojutepeque)
@@ -135,16 +141,16 @@
  ucluelet.spanish_language: "Alberni" #Ucluelet (Port Alberni)
  maaqtusiis.spanish_language: "Santa Cruz de Nuca" #Mowachaht (Yuquot)
  yaanga.spanish_language: "Los Angeles" #Yaanga (Los Angeles), El Pueblo de la Reina de los Angeles
- multnomah.spanish_language: "El Vaciar" #Multnomah (Portland), translation of The Clearing, another historical name used for Portland prior to 1844
- cruz_alta.spanish_language: "Santo Ángel Custodio OR Santo Ángel" #Cruz Alta (Santo Ângelo)
- palmeira.spanish_language: "San Carlos" #Palmeira ()
- nandeva.spanish_language: "San Joaquín" #Ñandeva ()
- passo_fundo.spanish_language: "Santa Teresa" #Passo Fundo (Passo Fundo)
- mirim_lake.spanish_language: "Laguna Merin" #Mirim Lake (Lagoa Mirim)
- negra_lagoon.spanish_language: "Laguna Negra" #Negra Lagoon ()
- tupancireta.spanish_language: "Santos Cosme y Damián" #Tupancireta ()
- umbu.spanish_language: "Jesús Maria" #Umbu ()
- vacacai.spanish_language: "San José" #Vacacai (Santa Maria)
+ multnomah.spanish_language: "El Vaciar" #Multnomah (Portland), translation of The Clearing another historical name used for Portland prior to 1844
+ cruz_alta.spanish_language: "Santo Ángel Custodio" #Ijuhy (Santo Ângelo)
+ palmeira.spanish_language: "San Carlos" #Caapí ()
+ nandeva.spanish_language: "San Joaquín" #Upper Igaí ()
+ passo_fundo.spanish_language: "Santa Teresa" #Curití (Passo Fundo)
+ mirim_lake.spanish_language: "Laguna Merin" #Lake Mirim (Lagoa Mirim)
+ negra_lagoon.spanish_language: "Laguna Negra" #Lake Negra ()
+ tupancireta.spanish_language: "Santos Cosme y Damián" #Ibitimirí ()
+ umbu.spanish_language: "Jesús Maria" #Ibiticaray ()
+ vacacai.spanish_language: "San José" #Vacacaí ()
  huancapampa.spanish_language: "Huancabamba" #Huancapampa (Huancabamba)
  rimaq.spanish_language: "Lima" #Rimaq ()
  ishma.spanish_language: "Lurín" #Ishma ()

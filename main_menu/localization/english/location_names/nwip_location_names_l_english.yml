@@ -467,7 +467,7 @@
  kinozhesipi: "Kinozhesipi" #
  pikwakanagan: "Pikwanagan" #
  petawawa: "Petawawa" #
- napanee: "Napanee" #Napanee, # Still called Napanee, or well Greater Napanee.
+ napanee: "Napanee" #Napanee, # Still called Napanee or well Greater Napanee.
  ganneious: "Ganneious" #
  ganaraska: "Ganaraska" #
  quinte: "Quinte" #
@@ -1159,7 +1159,7 @@
  tappan: "Tappan" #Orangetown
  nochpeem: "Nochpeem" #Putnam
  montauk: "Montauk" #Montauk
- unquachog: "Unquachog" #Patchogue, (Could be several names to be here, the Unquachog were based on a misconception that Long Island was filled with several tribes and Patchogue is the closest modern translation to that)
+ unquachog: "Unquachog" #Patchogue, (Could be several names to be here the Unquachog were based on a misconception that Long Island was filled with several tribes and Patchogue is the closest modern translation to that)
  massapequa: "Massapequa" #Brooklyn, (This one is odd because it's meant to be Brooklyn but there is a Massapequa irl that is not within the province)
  poughkeepsie: "U-puku-ipi-sing" #Poughkeepsie
  ponkhockie: "Ponkhockie" #Columbia
@@ -1172,13 +1172,13 @@
  canajoharie: "Canajoharie" #Montgomery
  saratoga: "Serachtague" #Saratoga
  schenectady: "Schaunaughtada" #Schenectady , (not Schenectady per se but a name for the general area of Albany)
- teionontatatie: "Tionontatatie" #, (no idea, only thing that comes up is a native group in Ontario, will check map for general area)
+ teionontatatie: "Tionontatatie" #, (no idea only thing that comes up is a native group in Ontario will check map for general area)
  oneonta: "Oneonta" #Oneonta
  ticonderoga: "Tekontaroken" #Ticonderoga
  itekiatonhniarikon: "Itekiatohniarikon" #, (no clue)
  oskennonton: "Oskennonton" #Clinton
  oronia: "Oronia" #
- oneyotdehaga: "Oneyotdehaga" #, (This is another name for the Oneida People, not a place)
+ oneyotdehaga: "Oneyotdehaga" #, (This is another name for the Oneida People not a place)
  kawenote: "Kawenote" #Hadley
  tsiietsenhtha: "Tsi Ietsenhtha" #Plattsburgh
  adirondacks: "Ratiron:tacks" #, (no clue)
@@ -2365,19 +2365,19 @@
  amaticoztitlan: "Amacozac" #Amacuzac
  tlapan: "Totomixtlahuacan" #Totomixtlahuaca, misplaced
  ometepec: "Ometepec" #Ometepec
- oapan: "Tlachinollan" #Tlapa de Comonfort, misplaced. Tlachinollan is the pre-Aztec name of Tlapa
+ oapan: "Tlachinollan" #Tlapa de Comonfort, misplaced. Tlachinollan is the pre-Aztec polity Tlapa being only an Aztec garrison
  jicayan: "Jicayan" #Jicayan
  zacatepec: "Zacatepec" #
  yohualtepec: "Acatlan" #Acatlan de Osorio, wrong location - Yohualtepec refers to San Juan Ihualtepec
- huajuapan: "Huajuapan" #Huajuapan de Leon, You can keep the short name Huajuapan
+ huajuapan: "Huaxoapan" #Huajuapan de Leon, You can keep the short name Huajuapan
  silacayoapam: "Yohualtepec" #San Juan Ihualtepec
  chiautla: "Chiauhtlan" #Chiautla de Tapia
- cuauhteopan: "Cuauhteopan" #
+ cuauhteopan: "Olinallan" #
  tlazcozauhtitlan: "Tlalcozauhtitlan" #
- yopitzinco: "Yopitzinco" #Acapulco, Yopitzinco was not a specific settlement, but the area to the north and east of Acapulco that was outside Aztec/Mexica control 
- tixtla: "Tixtla" #
- chilapa: "Chilapa" #Chilapa de Alvarez
- tecoanapa: "Ayutla" #Ayutla de los Libres, after the Aztec province
+ yopitzinco: "Yopitzinco" #Acapulco, Yopitzinco was not a specific settlement but the area to the north and east of Acapulco that was outside Aztec/Mexica control 
+ tixtla: "Tixtlan" #
+ chilapa: "Chilapan" #Chilapa de Alvarez
+ tecoanapa: "Ayotlan" #Ayutla de los Libres, after the Aztec province
  cihuatlan: "Cihuatlan" #Rancho Alegre del Llano, the prehispanic town of Cihuatlan is not to be confused with Zihuatanejo
  tecpan: "Tecpan" #Tecpan de Galeana
  ixtapan: "Ixtapan" #Ixtapa
@@ -2396,7 +2396,7 @@
  tututepec: "Tututepec" #
  coatlan: "Coatlan" #
  cuauhtolco: "Cuauhtolco" #Santa María Huatulco
- tonameca: "Tonameca" #Santa María Tonameca
+ tonameca: "Tonamilcan" #Santa María Tonameca
  manialtepec: "Manialtepec" #San José Manialtepec
  comitlan: "Comitlan" #
  juchatengo: "Xochiatenco" #San Pedro Juchatengo
@@ -2462,12 +2462,12 @@
  tonala_coatzacoalco: "Tonallan" #Tonalá
  cuauhtochco: "Cuauhtochco" #, see here; located to the north of Carrillo Puerto along the Atoyac River
  ahuilizapan: "Ahuilizapan" #Orizaba
- otlaquiquixtla: "Otlaquiquixtla" #Huatusco de Chicuellar, The prehispanic Cuauhtochco does not correspond with the modern Huatusco, as the Spaniards mistakenly applied the name of the province to this settlement.
+ otlaquiquixtla: "Otlaquiquixtla" #Huatusco de Chicuellar, The prehispanic Cuauhtochco does not correspond with the modern Huatusco as the Spaniards mistakenly applied the name of the province to this settlement.
  zongolica: "Tzoncoliuhcan" #Zongolica
  cempoala: "Cempoallan" #
  itzcalpan: "Itzcalpan" #
  xicochimalco: "Xicochimalco" #
- quiahuiztlan: "Quiahuiztlan" #Actopan?? / Quiahuiztlan archaeological zone, This is the area where Cortés landed and founded the first city, called Villa Rica de la Vera Cruz, later Veracruz. However, some time later it had to be moved to the current port of Veracruz.
+ quiahuiztlan: "Quiahuiztlan" #Actopan, (Quiahuiztlan archaeological zone) This is the area where Cortés landed and founded the first city called Villa Rica de la Vera Cruz later Veracruz. However some time later it had to be moved to the current port of Veracruz.
  tizatlan: "Tizatlan" #
  tepeticpac: "Tepeticpac" #
  ocotelolco: "Ocotelolco" #
@@ -2584,7 +2584,7 @@
  ozuluama: "Ozuluama" #
  panuco: "Panuco" #Panuco
  tamtoc: "Tamtoc" #
- quechula: "Quechollan" #, underneath Nezahualcoyotl/Malpaso reservoir, roughly south-southwest of Raudales Malpaso
+ quechula: "Quechollan" #, underneath Nezahualcoyotl/Malpaso reservoir roughly south-southwest of Raudales Malpaso
  ocosingo: "Ocotzinco" #
  lakam_tun: "Lakam Tun" #, on Laguna Miramar (west side?)
  tenamitl: "Tenamitl" #Comitán de Domínguez
@@ -2598,7 +2598,7 @@
  huehuetan: "Huehuetan" #
  chimalapa_jungle: "Chimalapa Jungle" #
  baak: "Lakamha" #Palenque
- cupilco: "Cupilco" #José María Pino Suárez, there were two prehispanic Cupilcos in the region - one here, another in the modern town of Cupilco
+ cupilco: "Cupilco" #José María Pino Suárez, there were two prehispanic Cupilcos in the region - one here another in the modern town of Cupilco
  zahuatan: "Zahuatan" #Jahuacapa
  tatahuitalpan: "Usumatzintan" #
  mayapan: "Màayapáan" #Mayapán
@@ -2676,7 +2676,7 @@
  zapaluta: "Zapaluta" #La Trinitaria
  tzunun_kaab: "Tz'unun Kaab" #San Miguel Uspantán
  otzoya: "Otzoyá" #Totonicapán
- chinabajul: "Zaculeu" #Huehuetenango
+ chinabajul: "Saqulew" #Huehuetenango
  pismachi: "Pismachiʼ" #Santa Cruz del Quiché
  cuchumatanes_mountains: "Cuchumatanes Mountains" #
  chama: "Chi Mon'a" #Cobán
@@ -2694,7 +2694,7 @@
  ocotepec: "Ocotepec" #Ocotepeque
  opoa: "Opoa" #
  cururu: "Cururu" #
- shalatenan: "Shalatenan" #Chalatenango
+ shalatenan: "Shalatenanku" #Chalatenango
  chinda: "Chinda" #
  naco: "Naco" #
  yoro: "Yoro" #
@@ -3926,7 +3926,7 @@
  grass_creek: "Héetíii'e'éiite" #
  hot_springs: "Xonoúú'oo'" #
  quuiich: "Quuiich" #
- yaquina: "Yaquina" #Yaquina/Newport, The name is retained for the Bay, but the big city in the area is called Newport
+ yaquina: "Yaquina" #Newport, The name Yaquina is retained for the Bay but the big city in the area is called Newport
  umpqua: "Umpqua" #
  kalapuya: "Kalapuya" #
  south_molala: "South Molala" #
@@ -3936,10 +3936,10 @@
  south_cascade: "Cascade" #
  central_cascade: "Cascade" #
  tillamook: "Tillamook" #Tillamook, Still a settlement
- atfalati: "Atfalati" #Tualatin, Direct translation, there are other settlements in the area but this is the one that should be retained, Salem could be used.
+ atfalati: "Atfalati" #Tualatin, Direct translation there are other settlements in the area but this is the one that should be retained Salem could be used.
  chinook: "Chinook" #Astoria, Should only be used by Americans
  multnomah: "Multnomah" #Portland, Portland was only chosen as the name in 1844 following a coin toss. Should NOT be used.
- watlala: "Watlala" #Oregon City, Technically Gresham is here too but it was settled after the timeframe, also technically named after the group in Skamania but picking more prominent sites here
+ watlala: "Watlala" #Oregon City, Technically Gresham is here too but it was settled after the timeframe also technically named after the group in Skamania but picking more prominent sites here
  stlpulmsh: "Stlpulmsh" #
  chehalis: "Chehalis" #
  chala_at: "Chala'at" #
@@ -4946,32 +4946,32 @@
  sambaqui: "Sambaqui" #
  iaguarauna: "Iaguarauna" #
  nononai_forest: "Nononai Forest" #
- cruz_alta: "Cruz Alta" #Santo Ângelo, Cruz Alta is a much modern city, Santo Angelo is a 1700s jesuit reduction
- palmeira: "Palmeira" #
- nandeva: "Ñandeva" #
+ cruz_alta: "Ijuhy" #Santo Ângelo, Change to more historical appropiate city name
+ palmeira: "Caapí" #
+ nandeva: "Upper Igaí" #
  lagoa_vermelha: "Lagoa Vermelha" #Lagoa Vermelha
- passo_fundo: "Passo Fundo" #Passo Fundo
- vacaria: "Vacaria" #Vacaria
- carijo: "Carijo" #
- piratinin: "Piratinin" #
+ passo_fundo: "Curití" #Passo Fundo
+ vacaria: "Caamo" #Vacaria
+ carijo: "Mostardas" #
+ piratinin: "Canguçu" #
  piratini: "Piratini" #
  jaguarao: "Jaguarão" #
- cangucu: "Cangucu" #
+ cangucu: "Canguçu" #
  chuy: "Chuy" #
- mirim_lake: "Mirim Lake" #Lagoa Mirim
- mangueira_lake: "Mangueira Lake" #Lagoa Mangueira
- negra_lagoon: "Negra Lagoon" #
- icabaqua: "Icabaqua" #
- tupancireta: "Tupancireta" #
- umbu: "Umbu" #
+ mirim_lake: "Lake Mirim" #Lagoa Mirim
+ mangueira_lake: "Lake Mangueira" #Lagoa Mangueira
+ negra_lagoon: "Lake Negra" #
+ icabaqua: "Icabaquã" #
+ tupancireta: "Ibitimirí" #
+ umbu: "Ibiticaray" #
  cacapava: "Caçapava" #Caçapava do Sul
- vacacai: "Vacacai" #Santa Maria
- tapes: "Tapes" #Gravataí
- patos: "Patos" #Patos
- jacui: "Jacui" #Jacui
- sao_leopoldo: "Sao Leopoldo" #São Leopoldo
- san_antonio_patrulha: "San Antonio da Patrulha" #Santo Antonio da Patrulha
- arroio: "Arroio" #
+ vacacai: "Vacacaí" #
+ tapes: "Guaíba" #Viamão
+ patos: "Tebicuary" #
+ jacui: "Lower Igaí" #Baixo Jacuí
+ sao_leopoldo: "Caaguá" #Caxias do Sul
+ san_antonio_patrulha: "Santo Antônio da Patrulha" #Santo Antônio da Patrulha, Corrected mispelling
+ arroio: "Taramandahy" #
  buzare_point: "Buzare Point" #
  approuage_mouth: "Approuage Mouth" #
  cassipore_mouth: "Cassipore Mouth" #
@@ -5057,8 +5057,8 @@
  western_atlantic_high_sea46: "Western Atlantic" #
  grande_floripa_bay: "Grande Floripa Bay" #
  santa_catarina_island: "Santa Catarina Island" #
- imarui_lagoon: "Imarui Lagoon" #
- sombrio_lagoon: "Sombrio Lagoon" #
+ imarui_lagoon: "Lake Imarui" #
+ sombrio_lagoon: "Lake Sombrio" #
  western_atlantic_high_sea47: "Western Atlantic" #
  western_atlantic_high_sea48: "Western Atlantic" #
  guancavilca: "Guancavilca" #
@@ -5117,7 +5117,7 @@
  chira: "Chira" #
  nariguala: "Narihuala" #
  nunura: "Nunura" #
- xllang: "Ñampaxllæc" #Lambayeque, Xllang' is the Mochica word for sun, not a place
+ xllang: "Ñampaxllæc" #Lambayeque, Xllang' is the Mochica word for sun not a place
  ayahuacas: "Ayahuaca" #, remove plural -s
  guayacundo: "Guayacundo" #
  apurlec: "Apurlec" #
@@ -5371,12 +5371,12 @@
  chumbivilcas: "Chumpi Willka" #
  maukallaqta: "Maukallaqta" #
  waqrapukara: "Waqrapukara" #
- pikillaqta: "Pikillaqta" #
+ pikillaqta: "Chuqipukyu" #
  qusqu: "Qusqu" #
  pisaq: "Pisaq" #
  paucartambo: "Pawqar Tampu" #
  urupampa: "Urupampa" #
- quillarumiyoc: "Quillarumiyoc" #
+ quillarumiyoc: "Killarumiyuq" #
  sahuasiray_mountains: "Sahuasiray Mountains" #
  salkantay_mountains: "Salkantay Mountains" #
  yanatile: "Yanatile" #
@@ -6022,11 +6022,11 @@
  western_atlantic_high_sea52: "Western Atlantic High Sea" #
  santa_maria_cape: "Santa Maria Cape" #
  polonio_cape: "Polonio Cape" #
- barros_lagoon: "Barros Lagoon" #
- peixe_lagoon: "Peixe Lagoon" #
+ barros_lagoon: "Lake Barros" #
+ peixe_lagoon: "Lake Peixe" #
  patos_coast: "Patos Coast" #
  patos_lagoon: "Patos Lagoon" #
- mirim_lagoon: "Mirim Lagoon" #
+ mirim_lagoon: "Lake Mirim" #
  western_atlantic_high_sea49: "Western Atlantic" #
  western_atlantic_high_sea50: "Western Atlantic" #
  western_atlantic_high_sea51: "Western Atlantic" #
