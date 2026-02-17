@@ -42,7 +42,7 @@ lucayo = { #https://en.wikipedia.org/wiki/Lucayan_people
 }
 
 ciboney = { #https://en.wikipedia.org/wiki/Ciboney
-	language = ciguayo_language
+	language = taino_language
 	
 	color = map_ciboney
 	
