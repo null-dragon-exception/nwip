@@ -1,0 +1,39 @@
+﻿ktunaxa_language = {
+
+	color = map_ktunaxan
+
+	male_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+		Tsanda Tsiri Uakusi Uetsini       
+	}
+	female_names = {
+		Arameni Atzimba Auanda Erendirani Ireri Itzigueri Itzuri Janikua Lime Parhi Tamarhu
+		Tariarani Tinskani Tsipekua Xarhini       
+	}
+	dynasty_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+	}
+	lowborn = {
+	}
+
+}
+
+algic_language = {
+
+	color = map_algic
+
+	male_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+		Tsanda Tsiri Uakusi Uetsini       
+	}
+	female_names = {
+		Arameni Atzimba Auanda Erendirani Ireri Itzigueri Itzuri Janikua Lime Parhi Tamarhu
+		Tariarani Tinskani Tsipekua Xarhini       
+	}
+	dynasty_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+	}
+	lowborn = {
+	}
+
+}``

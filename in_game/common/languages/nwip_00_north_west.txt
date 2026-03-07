@@ -1,0 +1,259 @@
+﻿tillamook_language = {
+	color = map_tillamook_salish
+	family = salishan_language_family
+	# Default Paradox's Salishan Names
+	male_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+		Tsanda Tsiri Uakusi Uetsini
+	}
+	female_names = {
+		Arameni Atzimba Auanda Erendirani Ireri Itzigueri Itzuri Janikua Lime Parhi Tamarhu
+		Tariarani Tinskani Tsipekua Xarhini
+	}
+	dynasty_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+	}
+	lowborn = {
+	}
+}
+
+nuxalk_language = {
+	color = map_nuxalk_salish
+	family = salishan_language_family
+	# Default Paradox's Salishan Names
+	male_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+		Tsanda Tsiri Uakusi Uetsini
+	}
+	female_names = {
+		Arameni Atzimba Auanda Erendirani Ireri Itzigueri Itzuri Janikua Lime Parhi Tamarhu
+		Tariarani Tinskani Tsipekua Xarhini
+	}
+	dynasty_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+	}
+	lowborn = {
+	}
+}
+
+southern_salish_language = {
+	color = map_southern_salish
+	family = salishan_language_family
+	# Default Paradox's Salishan Names
+	male_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+		Tsanda Tsiri Uakusi Uetsini
+	}
+	female_names = {
+		Arameni Atzimba Auanda Erendirani Ireri Itzigueri Itzuri Janikua Lime Parhi Tamarhu
+		Tariarani Tinskani Tsipekua Xarhini
+	}
+	dynasty_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+	}
+	lowborn = {
+	}
+}
+
+northern_salish_language = {
+	color = map_northern_salish
+	family = salishan_language_family
+	# Default Paradox's Salishan Names
+	male_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+		Tsanda Tsiri Uakusi Uetsini
+	}
+	female_names = {
+		Arameni Atzimba Auanda Erendirani Ireri Itzigueri Itzuri Janikua Lime Parhi Tamarhu
+		Tariarani Tinskani Tsipekua Xarhini
+	}
+	dynasty_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+	}
+	lowborn = {
+	}
+}
+
+central_salish_language = {
+	color = map_central_salish
+	family = salishan_language_family
+	# Default Paradox's Salishan Names
+	male_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+		Tsanda Tsiri Uakusi Uetsini
+	}
+	female_names = {
+		Arameni Atzimba Auanda Erendirani Ireri Itzigueri Itzuri Janikua Lime Parhi Tamarhu
+		Tariarani Tinskani Tsipekua Xarhini
+	}
+	dynasty_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+	}
+	lowborn = {
+	}
+}
+
+tsamosan_language = {
+	color = map_tsamosan_salish
+	family = salishan_language_family
+	# Default Paradox's Salishan Names
+	male_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+		Tsanda Tsiri Uakusi Uetsini
+	}
+	female_names = {
+		Arameni Atzimba Auanda Erendirani Ireri Itzigueri Itzuri Janikua Lime Parhi Tamarhu
+		Tariarani Tinskani Tsipekua Xarhini
+	}
+	dynasty_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+	}
+	lowborn = {
+	}
+}
+
+northern_wakashan_language = {
+	color = map_northern_wakashan
+	family = wakasan_language_family
+	# Default Paradox's Wakashan Names
+	male_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+		Tsanda Tsiri Uakusi Uetsini
+	}
+	female_names = {
+		Arameni Atzimba Auanda Erendirani Ireri Itzigueri Itzuri Janikua Lime Parhi Tamarhu
+		Tariarani Tinskani Tsipekua Xarhini
+	}
+	dynasty_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+	}
+	lowborn = {
+	}
+}
+
+southern_wakashan_language = {
+	color = map_southern_wakashan
+	family = wakasan_language_family
+	# Default Paradox's Wakashan Names
+	male_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+		Tsanda Tsiri Uakusi Uetsini
+	}
+	female_names = {
+		Arameni Atzimba Auanda Erendirani Ireri Itzigueri Itzuri Janikua Lime Parhi Tamarhu
+		Tariarani Tinskani Tsipekua Xarhini
+	}
+	dynasty_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+	}
+	lowborn = {
+	}
+}
+
+northern_athabaskan_language = {
+	color = map_northern_nadene
+	family = nadene_language_family
+	male_names = {
+		#Navajo
+		Altsoba Anaba Dezba Doba Doli Haloke Hazhoni Kai Kaibah Manaba Nanabah
+		Nascha Nizhona Nizhoni Sakhyo Tahnazbah Atsidi Bisahalani Bizhoshi Hosteen Kilchii
+		Klah Nabahe Nantai Sani Tahoma Toh_Yah Totsoni Tsela
+
+		Sitahle Oahtekah Ahzaah Kootzzah Moketaveto Ohtoahnesotowheo Harkkahome Munamenek Otoahnisto Mahvipah Choseta
+		Nahtan Konzhontaco Bazheech Tillaka Chacon Dasoda-Hae Cochise Delshay Goyaale Juh
+	}
+	female_names = {
+		#Navajo
+		Altsoba Anaba Dezba Doba Doli Haloke Hazhoni Kai Kaibah Manaba Nanabah
+		Nascha Nizhona Nizhoni Sakhyo Tahnazbah Atsidi Bisahalani Bizhoshi Hosteen Kilchii
+		Klah Nabahe Nantai Sani Tahoma Toh_Yah Totsoni Tsela
+
+		Dahteste Ilthgozay Gouyen Lozen Tohayea
+	}
+	dynasty_names = {
+
+	}
+	lowborn = {
+	}
+}
+
+southern_athabaskan_language = {
+	color = map_southern_nadene
+	family = nadene_language_family
+	male_names = {
+		#Navajo
+		Altsoba Anaba Dezba Doba Doli Haloke Hazhoni Kai Kaibah Manaba Nanabah
+		Nascha Nizhona Nizhoni Sakhyo Tahnazbah Atsidi Bisahalani Bizhoshi Hosteen Kilchii
+		Klah Nabahe Nantai Sani Tahoma Toh_Yah Totsoni Tsela
+
+		Sitahle Oahtekah Ahzaah Kootzzah Moketaveto Ohtoahnesotowheo Harkkahome Munamenek Otoahnisto Mahvipah Choseta
+		Nahtan Konzhontaco Bazheech Tillaka Chacon Dasoda-Hae Cochise Delshay Goyaale Juh
+	}
+	female_names = {
+		#Navajo
+		Altsoba Anaba Dezba Doba Doli Haloke Hazhoni Kai Kaibah Manaba Nanabah
+		Nascha Nizhona Nizhoni Sakhyo Tahnazbah Atsidi Bisahalani Bizhoshi Hosteen Kilchii
+		Klah Nabahe Nantai Sani Tahoma Toh_Yah Totsoni Tsela
+
+		Dahteste Ilthgozay Gouyen Lozen Tohayea
+	}
+	dynasty_names = {
+
+	}
+	lowborn = {
+	}
+}
+
+pacific_athabaskan_language = {
+	color = map_pacific_nadene
+	family = nadene_language_family
+	male_names = {
+		#Navajo
+		Altsoba Anaba Dezba Doba Doli Haloke Hazhoni Kai Kaibah Manaba Nanabah
+		Nascha Nizhona Nizhoni Sakhyo Tahnazbah Atsidi Bisahalani Bizhoshi Hosteen Kilchii
+		Klah Nabahe Nantai Sani Tahoma Toh_Yah Totsoni Tsela
+
+		Sitahle Oahtekah Ahzaah Kootzzah Moketaveto Ohtoahnesotowheo Harkkahome Munamenek Otoahnisto Mahvipah Choseta
+		Nahtan Konzhontaco Bazheech Tillaka Chacon Dasoda-Hae Cochise Delshay Goyaale Juh
+	}
+	female_names = {
+		#Navajo
+		Altsoba Anaba Dezba Doba Doli Haloke Hazhoni Kai Kaibah Manaba Nanabah
+		Nascha Nizhona Nizhoni Sakhyo Tahnazbah Atsidi Bisahalani Bizhoshi Hosteen Kilchii
+		Klah Nabahe Nantai Sani Tahoma Toh_Yah Totsoni Tsela
+
+		Dahteste Ilthgozay Gouyen Lozen Tohayea
+	}
+	dynasty_names = {
+
+	}
+	lowborn = {
+	}
+}
+
+tlingit_language = {
+	color = map_tlingit_nadene
+	family = nadene_language_family
+	male_names = {
+		#Navajo
+		Altsoba Anaba Dezba Doba Doli Haloke Hazhoni Kai Kaibah Manaba Nanabah
+		Nascha Nizhona Nizhoni Sakhyo Tahnazbah Atsidi Bisahalani Bizhoshi Hosteen Kilchii
+		Klah Nabahe Nantai Sani Tahoma Toh_Yah Totsoni Tsela
+
+		Sitahle Oahtekah Ahzaah Kootzzah Moketaveto Ohtoahnesotowheo Harkkahome Munamenek Otoahnisto Mahvipah Choseta
+		Nahtan Konzhontaco Bazheech Tillaka Chacon Dasoda-Hae Cochise Delshay Goyaale Juh
+	}
+	female_names = {
+		#Navajo
+		Altsoba Anaba Dezba Doba Doli Haloke Hazhoni Kai Kaibah Manaba Nanabah
+		Nascha Nizhona Nizhoni Sakhyo Tahnazbah Atsidi Bisahalani Bizhoshi Hosteen Kilchii
+		Klah Nabahe Nantai Sani Tahoma Toh_Yah Totsoni Tsela
+
+		Dahteste Ilthgozay Gouyen Lozen Tohayea
+	}
+	dynasty_names = {
+
+	}
+	lowborn = {
+	}
+}

@@ -1,0 +1,842 @@
+tututni_culture = { #https://en.wikipedia.org/wiki/Tututni
+	language = pacific_athabaskan_language
+
+	color = map_tututni
+
+	tags = { native_american_tag north_american_gfx american_gfx central_plains_coa_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		nadene_group
+	}
+}
+
+tolowa_culture = { #https://en.wikipedia.org/wiki/Tolowa
+	language = pacific_athabaskan_language
+
+	color = map_tolowa
+
+	tags = { native_american_tag north_american_gfx american_gfx central_plains_coa_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		nadene_group
+	}
+}
+
+tsnungwe_culture = { #https://en.wikipedia.org/wiki/Tsnungwe
+	language = pacific_athabaskan_language
+
+	color = map_tsnungwe
+
+	tags = { native_american_tag north_american_gfx american_gfx central_plains_coa_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		nadene_group
+	}
+}
+
+mattole_culture = {
+	language = pacific_athabaskan_language
+
+	color = map_mattole
+
+	tags = { native_american_tag north_american_gfx american_gfx central_plains_coa_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		nadene_group
+	}
+}
+
+nongatl_culture = {
+	language = pacific_athabaskan_language
+
+	color = map_nongatl
+
+	tags = { native_american_tag north_american_gfx american_gfx central_plains_coa_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		nadene_group
+	}
+}
+
+hupa_culture = { #https://en.wikipedia.org/wiki/Hupa
+	language = pacific_athabaskan_language
+
+	color = map_hupa
+
+	tags = { native_american_tag north_american_gfx american_gfx central_plains_coa_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		nadene_group
+	}
+}
+
+takelma_culture = { #https://en.wikipedia.org/wiki/Takelma
+	language = outer_penutian_language
+
+	color = map_takelma
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		penutian_group
+	}
+}
+
+patwin_culture = {
+	language = outer_penutian_language
+
+	color = map_patwin
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		penutian_group
+	}
+}
+
+ohlone_culture = {
+	language = outer_penutian_language
+
+	color = map_ohlone
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		penutian_group
+	}
+}
+
+kalapuyan_culture = { #https://en.wikipedia.org/wiki/Kalapuya
+	language = outer_penutian_language
+
+	color = map_kalapuyan
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		penutian_group
+	}
+}
+
+chinook_culture = { #https://en.wikipedia.org/wiki/Chinookan_peoples
+	language = outer_penutian_language
+
+	color = map_chinook
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		penutian_group
+	}
+}
+
+alsea_culture = { #https://en.wikipedia.org/wiki/Alsea
+	language = outer_penutian_language
+
+	color = map_alsea
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		salishan_group
+	}
+}
+
+coos_culture = { #https://en.wikipedia.org/wiki/Coos_people
+	language = outer_penutian_language
+
+	color = map_coosian
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		penutian_group
+	}
+}
+
+molalla_culture = {
+	language = outer_penutian_language
+
+	color = map_molalla
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		penutian_group
+	}
+}
+
+miwok_culture = {
+	language = inner_penutian_language
+
+	color = map_miwok
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		penutian_group
+	}
+}
+
+north_valley_yokut_culture = {
+	language = inner_penutian_language
+
+	color = map_north_valley_yokut
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		penutian_group
+	}
+}
+
+south_valley_yokut_culture = {
+	language = inner_penutian_language
+
+	color = map_south_valley_yokut
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		penutian_group
+	}
+}
+
+foothill_yokut_culture = {
+	language = inner_penutian_language
+
+	color = map_foothill_yokut
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		penutian_group
+	}
+}
+
+tulumni_culture = {
+	language = inner_penutian_language
+
+	color = map_tulumni
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		penutian_group
+	}
+}
+
+maiduan_culture = {
+	language = inner_penutian_language
+
+	color = map_maiduan
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		penutian_group
+	}
+}
+
+nisenan_culture = {
+	language = inner_penutian_language
+
+	color = map_nisenan
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		penutian_group
+	}
+}
+
+koyoongkawi_culture = {
+	language = inner_penutian_language
+
+	color = map_koyoongkawi
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		penutian_group
+	}
+}
+
+wintuan_culture = {
+	language = inner_penutian_language
+
+	color = map_wintuan
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		penutian_group
+	}
+}
+
+nomlaki_culture = {
+	language = inner_penutian_language
+
+	color = map_nomlaki
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		penutian_group
+	}
+}
+
+ewksikni_culture = {
+	language = inner_penutian_language
+
+	color = map_ewksikni
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		penutian_group
+	}
+}
+
+modokni_culture = {
+	language = inner_penutian_language
+
+	color = map_modokni
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		penutian_group
+	}
+}
+
+sahaptin_culture = {
+	language = inner_penutian_language
+
+	color = map_sahaptin
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		penutian_group
+	}
+}
+
+yakama_culture = {
+	language = inner_penutian_language
+
+	color = map_yakama
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		penutian_group
+	}
+}
+
+nimiipuu_culture = {
+	language = inner_penutian_language
+
+	color = map_nimiipuu
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		penutian_group
+	}
+}
+
+palouse_culture = {
+	language = inner_penutian_language
+
+	color = map_palouse
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		penutian_group
+	}
+}
+
+willetpoos_culture = {
+	language = inner_penutian_language
+
+	color = map_willetpoos
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		penutian_group
+	}
+}
+
+karuk_culture = {
+	language = northern_hokan_language
+
+	color = map_karuk
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		hokan_group
+	}
+}
+
+waashiw_culture = {
+	language = northern_hokan_language
+
+	color = map_waashiw
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		hokan_group
+	}
+}
+
+achomawi_culture = {
+	language = northern_hokan_language
+
+	color = map_achomawi
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		hokan_group
+	}
+}
+
+shastan_culture = {
+	language = northern_hokan_language
+
+	color = map_shastan
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		hokan_group
+	}
+}
+
+pomo_culture = { #https://en.wikipedia.org/wiki/Pomo
+	language = yuman_hokan_language
+
+	color = map_pomo
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		hokan_group
+	}
+}
+
+salinan_culture = { #https://en.wikipedia.org/wiki/Salinan
+	language = yuman_hokan_language
+
+	color = map_salinan
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		penutian_group
+	}
+}
+
+cochimi_culture = { #https://en.wikipedia.org/wiki/Cochim%C3%AD
+	language = cochimi_hokan_language
+
+	color = map_cochimi
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		hokan_group
+	}
+}
+
+cocopa_culture = { #Xawiƚƚ Kwñchawaay  https://en.wikipedia.org/wiki/Cocopah
+	language = yuman_hokan_language
+
+	color = map_cocopa
+
+	tags = { native_american_tag north_american_gfx american_gfx pueblo_coa_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		hokan_group
+	}
+}
+
+xalychidom_culture = { #https://en.wikipedia.org/wiki/Halchidhoma
+	language = yuman_hokan_language
+
+	color = map_xalychidom
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		hokan_group
+	}
+}
+
+quechan_culture = { #https://en.wikipedia.org/wiki/Quechan
+	language = yuman_hokan_language
+
+	color = map_quechan
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		hokan_group
+	}
+}
+
+piipaash_culture = { #https://en.wikipedia.org/wiki/Maricopa_people
+	language = yuman_hokan_language
+
+	color = map_piipaash
+
+	tags = { native_american_tag north_american_gfx american_gfx pueblo_coa_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		hokan_group
+	}
+}
+
+guaicura_culture = {  #https://en.wikipedia.org/wiki/Guaycura_people
+	language = waikuri_yukian_language
+
+	color = map_guaicura
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		hokan_group
+	}
+}
+
+kiliwa_culture = { #Ko'leew https://en.wikipedia.org/wiki/Kiliwa_people
+	language = yuman_hokan_language
+
+	color = map_kiliwa
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		hokan_group
+	}
+}
+
+kumiai_culture = { #kumeyaay https://en.wikipedia.org/wiki/Kumeyaay
+	language = yuman_hokan_language
+
+	color = map_kumiai
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		hokan_group
+	}
+}
+
+mongui_culture = {
+	language = cochimi_hokan_language
+
+	color = map_mongui
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		hokan_group
+	}
+}
+
+hohokam_culture = { #https://en.wikipedia.org/wiki/Hohokam
+	language = tepiman_utoaztecan_language
+
+	color = map_hohokam
+
+	tags = { native_american_tag north_american_gfx american_gfx pueblo_coa_gfx }
+
+	culture_groups = {
+		puebloan_group
+		hokan_group
+	}
+
+	opinions = {
+	}
+
+}
+
+paipai_culture = { #https://en.wikipedia.org/wiki/Paipai_people
+	language = yuman_hokan_language
+
+	color = map_paipai
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		hokan_group
+	}
+}
+
+pericu_culture = { #https://en.wikipedia.org/wiki/Peric%C3%BAes
+	language = pericu_yukian_language
+
+	color = map_pericu
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		hokan_group
+	}
+}
+
+seri_culture = { #https://en.wikipedia.org/wiki/Seri_people
+	language = comcaac_language
+
+	color = map_seri
+
+	tags = { native_american_tag north_american_gfx american_gfx pueblo_coa_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		hokan_group
+	}
+}
+
+yavapai_culture = { #https://en.wikipedia.org/wiki/Yavapai
+	language = yuman_hokan_language
+
+	color = map_yavapai
+
+	tags = { native_american_tag north_american_gfx american_gfx pueblo_coa_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		hokan_group
+	}
+}
+
+hualapai_culture = { #https://en.wikipedia.org/wiki/Hualapai
+	language = yuman_hokan_language
+
+	color = map_hualapai
+
+	tags = { native_american_tag north_american_gfx american_gfx pueblo_coa_gfx }
+
+	culture_groups = {
+		puebloan_group
+		hokan_group
+	}
+
+	opinions = {
+	}
+
+}
+
+guasave_culture = {  #https://es.wikipedia.org/wiki/Guasaves
+	language = tarahumaran_utoaztecan_language
+
+	color = map_guasave
+
+	tags = { native_american_tag north_american_gfx american_gfx sinaloa_coa_gfx }
+
+	opinions = {
+	}
+	culture_groups = {
+		yutonahua_group
+	}
+}
+
+yuki_culture = { #https://en.wikipedia.org/wiki/Yuki_people
+	language = yuki_yukian_language
+
+	color = map_yuki
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		yuki_group
+	}
+}
+
+wappo_culture = { #https://en.wikipedia.org/wiki/Wappo
+	language = wappo_yukian_language
+
+	color = map_wappo
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		yuki_group
+	}
+}
+
+chumash_culture = { #https://en.wikipedia.org/wiki/Chumash_people
+	language = chumashan_yukian_language
+
+	color = map_chumash
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		chumashan_group
+	}
+}

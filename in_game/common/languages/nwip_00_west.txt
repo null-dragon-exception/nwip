@@ -1,0 +1,285 @@
+inner_penutian_language = {
+	color = map_inner_penutian
+	family = penutian_language_family
+	male_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+		Tsanda Tsiri Uakusi Uetsini
+	}
+	female_names = {
+		Arameni Atzimba Auanda Erendirani Ireri Itzigueri Itzuri Janikua Lime Parhi Tamarhu
+		Tariarani Tinskani Tsipekua Xarhini
+	}
+	dynasty_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+	}
+	lowborn = {
+	}
+}
+
+outer_penutian_language = {
+	color = map_outer_penutian
+	family = penutian_language_family
+	male_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+		Tsanda Tsiri Uakusi Uetsini
+	}
+	female_names = {
+		Arameni Atzimba Auanda Erendirani Ireri Itzigueri Itzuri Janikua Lime Parhi Tamarhu
+		Tariarani Tinskani Tsipekua Xarhini
+	}
+	dynasty_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+	}
+	lowborn = {
+	}
+}
+
+northern_hokan_language = {
+	color = map_northern_hokan
+	family = hokan_language_family
+	male_names = {
+		#Seri
+		Zaaj_acaiila Paailc_haacot Xpanohax Hasixp Haxol_iihom Xapoo_eaah Hajhax Cyazim Sacpatix
+		Haanc Hatquisa Taaij_it Xniizc Tacata Heeme Hast_hax Soosni_itaa
+		#Words, not really Names
+		Tejueg Kuak Kabiak Nauwi Huipe Wami Waki Ethat Epang Konga Tasi
+		Cala Rimarai Hwat Akal Acit Kauwak Humok Supap Serap Apa Yesak
+		Inya Hexa Erkah Kwakwas Kwinyir Asitam Xuwaga Humuga Hopa Thetrapa
+		Pakri Ahat Inyaa Hala Aha Nyimsava Agwatheg Ahwotiga Inyaga Mecil Hauwak
+		Hamiik Minuk Seltipum Nickume Yisko That Hulaa Ehaa Kwal Xnyiil
+		Chin Huak Chepap Sarap Ikuch Sinya Hut Enya Hallai Ha
+		Sinyaok Xatk Xalyaa Axa Nyimasava Kwesam Hwetam Nilyig Seto Havik
+		Hamok Chumpap Tharap Iipa Thinyaaak Hatchoq Anya Halya Nyamasav Aqwath
+		Ahwat Anyaaily Acitdek Kowuk Homuk
+	}
+	female_names = {
+		#Seri
+		Zaaj_acaiila Paailc_haacot Xpanohax Hasixp Haxol_iihom Xapoo_eaah Hajhax Cyazim Sacpatix
+		Haanc Hatquisa Taaij_it Xniizc Tacata Heeme Hast_hax Soosni_itaa
+		#Words, not really Names
+		Tejueg Kuak Kabiak Nauwi Huipe Wami Waki Ethat Epang Konga Tasi
+		Cala Rimarai Hwat Akal Acit Kauwak Humok Supap Serap Apa Yesak
+		Inya Hexa Erkah Kwakwas Kwinyir Asitam Xuwaga Humuga Hopa Thetrapa
+		Pakri Ahat Inyaa Hala Aha Nyimsava Agwatheg Ahwotiga Inyaga Mecil Hauwak
+		Hamiik Minuk Seltipum Nickume Yisko That Hulaa Ehaa Kwal Xnyiil
+		Chin Huak Chepap Sarap Ikuch Sinya Hut Enya Hallai Ha
+		Sinyaok Xatk Xalyaa Axa Nyimasava Kwesam Hwetam Nilyig Seto Havik
+		Hamok Chumpap Tharap Iipa Thinyaaak Hatchoq Anya Halya Nyamasav Aqwath
+		Ahwat Anyaaily Acitdek Kowuk Homuk
+	}
+	dynasty_names = {
+
+	}
+	lowborn = {
+	}
+}
+
+yuman_hokan_language = {
+	color = map_yuman_hokan
+	family = hokan_language_family
+	male_names = {
+		#Seri
+		Zaaj_acaiila Paailc_haacot Xpanohax Hasixp Haxol_iihom Xapoo_eaah Hajhax Cyazim Sacpatix
+		Haanc Hatquisa Taaij_it Xniizc Tacata Heeme Hast_hax Soosni_itaa
+		#Words, not really Names
+		Tejueg Kuak Kabiak Nauwi Huipe Wami Waki Ethat Epang Konga Tasi
+		Cala Rimarai Hwat Akal Acit Kauwak Humok Supap Serap Apa Yesak
+		Inya Hexa Erkah Kwakwas Kwinyir Asitam Xuwaga Humuga Hopa Thetrapa
+		Pakri Ahat Inyaa Hala Aha Nyimsava Agwatheg Ahwotiga Inyaga Mecil Hauwak
+		Hamiik Minuk Seltipum Nickume Yisko That Hulaa Ehaa Kwal Xnyiil
+		Chin Huak Chepap Sarap Ikuch Sinya Hut Enya Hallai Ha
+		Sinyaok Xatk Xalyaa Axa Nyimasava Kwesam Hwetam Nilyig Seto Havik
+		Hamok Chumpap Tharap Iipa Thinyaaak Hatchoq Anya Halya Nyamasav Aqwath
+		Ahwat Anyaaily Acitdek Kowuk Homuk
+	}
+	female_names = {
+		#Seri
+		Zaaj_acaiila Paailc_haacot Xpanohax Hasixp Haxol_iihom Xapoo_eaah Hajhax Cyazim Sacpatix
+		Haanc Hatquisa Taaij_it Xniizc Tacata Heeme Hast_hax Soosni_itaa
+		#Words, not really Names
+		Tejueg Kuak Kabiak Nauwi Huipe Wami Waki Ethat Epang Konga Tasi
+		Cala Rimarai Hwat Akal Acit Kauwak Humok Supap Serap Apa Yesak
+		Inya Hexa Erkah Kwakwas Kwinyir Asitam Xuwaga Humuga Hopa Thetrapa
+		Pakri Ahat Inyaa Hala Aha Nyimsava Agwatheg Ahwotiga Inyaga Mecil Hauwak
+		Hamiik Minuk Seltipum Nickume Yisko That Hulaa Ehaa Kwal Xnyiil
+		Chin Huak Chepap Sarap Ikuch Sinya Hut Enya Hallai Ha
+		Sinyaok Xatk Xalyaa Axa Nyimasava Kwesam Hwetam Nilyig Seto Havik
+		Hamok Chumpap Tharap Iipa Thinyaaak Hatchoq Anya Halya Nyamasav Aqwath
+		Ahwat Anyaaily Acitdek Kowuk Homuk
+	}
+	dynasty_names = {
+
+	}
+	lowborn = {
+	}
+}
+
+cochimi_hokan_language = {
+	color = map_cochimi_hokan
+	family = hokan_language_family
+	male_names = {
+		#Seri
+		Zaaj_acaiila Paailc_haacot Xpanohax Hasixp Haxol_iihom Xapoo_eaah Hajhax Cyazim Sacpatix
+		Haanc Hatquisa Taaij_it Xniizc Tacata Heeme Hast_hax Soosni_itaa
+		#Words, not really Names
+		Tejueg Kuak Kabiak Nauwi Huipe Wami Waki Ethat Epang Konga Tasi
+		Cala Rimarai Hwat Akal Acit Kauwak Humok Supap Serap Apa Yesak
+		Inya Hexa Erkah Kwakwas Kwinyir Asitam Xuwaga Humuga Hopa Thetrapa
+		Pakri Ahat Inyaa Hala Aha Nyimsava Agwatheg Ahwotiga Inyaga Mecil Hauwak
+		Hamiik Minuk Seltipum Nickume Yisko That Hulaa Ehaa Kwal Xnyiil
+		Chin Huak Chepap Sarap Ikuch Sinya Hut Enya Hallai Ha
+		Sinyaok Xatk Xalyaa Axa Nyimasava Kwesam Hwetam Nilyig Seto Havik
+		Hamok Chumpap Tharap Iipa Thinyaaak Hatchoq Anya Halya Nyamasav Aqwath
+		Ahwat Anyaaily Acitdek Kowuk Homuk
+	}
+	female_names = {
+		#Seri
+		Zaaj_acaiila Paailc_haacot Xpanohax Hasixp Haxol_iihom Xapoo_eaah Hajhax Cyazim Sacpatix
+		Haanc Hatquisa Taaij_it Xniizc Tacata Heeme Hast_hax Soosni_itaa
+		#Words, not really Names
+		Tejueg Kuak Kabiak Nauwi Huipe Wami Waki Ethat Epang Konga Tasi
+		Cala Rimarai Hwat Akal Acit Kauwak Humok Supap Serap Apa Yesak
+		Inya Hexa Erkah Kwakwas Kwinyir Asitam Xuwaga Humuga Hopa Thetrapa
+		Pakri Ahat Inyaa Hala Aha Nyimsava Agwatheg Ahwotiga Inyaga Mecil Hauwak
+		Hamiik Minuk Seltipum Nickume Yisko That Hulaa Ehaa Kwal Xnyiil
+		Chin Huak Chepap Sarap Ikuch Sinya Hut Enya Hallai Ha
+		Sinyaok Xatk Xalyaa Axa Nyimasava Kwesam Hwetam Nilyig Seto Havik
+		Hamok Chumpap Tharap Iipa Thinyaaak Hatchoq Anya Halya Nyamasav Aqwath
+		Ahwat Anyaaily Acitdek Kowuk Homuk
+	}
+	dynasty_names = {
+
+	}
+	lowborn = {
+	}
+}
+
+yuki_yukian_language = {
+	color = map_yuki_yukian
+	family = yukian_language_family
+	male_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+		Tsanda Tsiri Uakusi Uetsini
+	}
+	female_names = {
+		Arameni Atzimba Auanda Erendirani Ireri Itzigueri Itzuri Janikua Lime Parhi Tamarhu
+		Tariarani Tinskani Tsipekua Xarhini
+	}
+	dynasty_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+	}
+	lowborn = {
+	}
+}
+
+wappo_yukian_language = {
+	color = map_wappo_yukian
+	family = yukian_language_family
+	male_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+		Tsanda Tsiri Uakusi Uetsini
+	}
+	female_names = {
+		Arameni Atzimba Auanda Erendirani Ireri Itzigueri Itzuri Janikua Lime Parhi Tamarhu
+		Tariarani Tinskani Tsipekua Xarhini
+	}
+	dynasty_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+	}
+	lowborn = {
+	}
+}
+
+chumashan_yukian_language = {
+	color = map_chumashan_yukian
+	family = yukian_language_family
+	male_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+		Tsanda Tsiri Uakusi Uetsini
+	}
+	female_names = {
+		Arameni Atzimba Auanda Erendirani Ireri Itzigueri Itzuri Janikua Lime Parhi Tamarhu
+		Tariarani Tinskani Tsipekua Xarhini
+	}
+	dynasty_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+	}
+	lowborn = {
+	}
+}
+
+waikuri_yukian_language = {
+	color = map_waikuri_yukian
+	family = yukian_language_family
+	male_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+		Tsanda Tsiri Uakusi Uetsini
+	}
+	female_names = {
+		Arameni Atzimba Auanda Erendirani Ireri Itzigueri Itzuri Janikua Lime Parhi Tamarhu
+		Tariarani Tinskani Tsipekua Xarhini
+	}
+	dynasty_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+	}
+	lowborn = {
+	}
+}
+
+pericu_yukian_language = {
+	color = map_pericu_yukian
+	family = yukian_language_family
+	male_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+		Tsanda Tsiri Uakusi Uetsini
+	}
+	female_names = {
+		Arameni Atzimba Auanda Erendirani Ireri Itzigueri Itzuri Janikua Lime Parhi Tamarhu
+		Tariarani Tinskani Tsipekua Xarhini
+	}
+	dynasty_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+	}
+	lowborn = {
+	}
+}
+
+comcaac_language = {
+	color = map_comcaac_language
+
+	male_names = {
+		#Seri
+		Zaaj_acaiila Paailc_haacot Xpanohax Hasixp Haxol_iihom Xapoo_eaah Hajhax Cyazim Sacpatix
+		Haanc Hatquisa Taaij_it Xniizc Tacata Heeme Hast_hax Soosni_itaa
+		#Words, not really Names
+		Tejueg Kuak Kabiak Nauwi Huipe Wami Waki Ethat Epang Konga Tasi
+		Cala Rimarai Hwat Akal Acit Kauwak Humok Supap Serap Apa Yesak
+		Inya Hexa Erkah Kwakwas Kwinyir Asitam Xuwaga Humuga Hopa Thetrapa
+		Pakri Ahat Inyaa Hala Aha Nyimsava Agwatheg Ahwotiga Inyaga Mecil Hauwak
+		Hamiik Minuk Seltipum Nickume Yisko That Hulaa Ehaa Kwal Xnyiil
+		Chin Huak Chepap Sarap Ikuch Sinya Hut Enya Hallai Ha
+		Sinyaok Xatk Xalyaa Axa Nyimasava Kwesam Hwetam Nilyig Seto Havik
+		Hamok Chumpap Tharap Iipa Thinyaaak Hatchoq Anya Halya Nyamasav Aqwath
+		Ahwat Anyaaily Acitdek Kowuk Homuk
+	}
+	female_names = {
+		#Seri
+		Zaaj_acaiila Paailc_haacot Xpanohax Hasixp Haxol_iihom Xapoo_eaah Hajhax Cyazim Sacpatix
+		Haanc Hatquisa Taaij_it Xniizc Tacata Heeme Hast_hax Soosni_itaa
+		#Words, not really Names
+		Tejueg Kuak Kabiak Nauwi Huipe Wami Waki Ethat Epang Konga Tasi
+		Cala Rimarai Hwat Akal Acit Kauwak Humok Supap Serap Apa Yesak
+		Inya Hexa Erkah Kwakwas Kwinyir Asitam Xuwaga Humuga Hopa Thetrapa
+		Pakri Ahat Inyaa Hala Aha Nyimsava Agwatheg Ahwotiga Inyaga Mecil Hauwak
+		Hamiik Minuk Seltipum Nickume Yisko That Hulaa Ehaa Kwal Xnyiil
+		Chin Huak Chepap Sarap Ikuch Sinya Hut Enya Hallai Ha
+		Sinyaok Xatk Xalyaa Axa Nyimasava Kwesam Hwetam Nilyig Seto Havik
+		Hamok Chumpap Tharap Iipa Thinyaaak Hatchoq Anya Halya Nyamasav Aqwath
+		Ahwat Anyaaily Acitdek Kowuk Homuk
+	}
+	dynasty_names = {
+
+	}
+	lowborn = {
+	}
+}

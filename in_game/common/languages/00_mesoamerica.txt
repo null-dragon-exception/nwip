@@ -1,0 +1,241 @@
+﻿purepecha_language = {
+
+	color = map_tarascan
+
+	male_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+		Tsanda Tsiri Uakusi Uetsini       
+	}
+	female_names = {
+		Arameni Atzimba Auanda Erendirani Ireri Itzigueri Itzuri Janikua Lime Parhi Tamarhu
+		Tariarani Tinskani Tsipekua Xarhini       
+	}
+	dynasty_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+	}
+	lowborn = {
+	}
+
+}
+
+otopamean_language = { #https://en.wikipedia.org/wiki/Oto-Pamean_languages
+
+	color = map_xaltocan
+
+	family = otomanguean_language_family
+
+	male_names = {
+		#Otomi
+		Joy Tzibi Ndahji Dehje Doshihjto Chala Shedi Hjitzi Mahjitzi Guy Shikja
+		Mahjki Mahjkime Urosha Shina Hjiadi Zzana Ishi Kjahjpi Nzzoya Dahjta
+		Ubida Madi
+	}
+	female_names = {
+		#Otomi
+		Joy Tzibi Ndahji Dehje Doshihjto Chala Shedi Hjitzi Mahjitzi Guy Shikja
+		Mahjki Mahjkime Urosha Shina Hjiadi Zzana Ishi Kjahjpi Nzzoya Dahjta
+		Ubida Madi
+	}
+	dynasty_names = {
+		#Otomi
+		Joy Tzibi Ndahji Dehje Doshihjto Chala Shedi Hjitzi Mahjitzi Guy Shikja
+		Mahjki Mahjkime Urosha Shina Hjiadi Zzana Ishi Kjahjpi Nzzoya Dahjta
+		Ubida Madi
+	}
+	lowborn = {
+	}
+
+}
+
+cuitlatec_language = { #https://en.wikipedia.org/wiki/Cuitlatec_language
+
+	color = map_cuitlatec
+
+	male_names = {
+		#Otomi
+		Joy Tzibi Ndahji Dehje Doshihjto Chala Shedi Hjitzi Mahjitzi Guy Shikja
+		Mahjki Mahjkime Urosha Shina Hjiadi Zzana Ishi Kjahjpi Nzzoya Dahjta
+		Ubida Madi
+	}
+	female_names = {
+		#Otomi
+		Joy Tzibi Ndahji Dehje Doshihjto Chala Shedi Hjitzi Mahjitzi Guy Shikja
+		Mahjki Mahjkime Urosha Shina Hjiadi Zzana Ishi Kjahjpi Nzzoya Dahjta
+		Ubida Madi
+	}
+	dynasty_names = {
+		#Otomi
+		Joy Tzibi Ndahji Dehje Doshihjto Chala Shedi Hjitzi Mahjitzi Guy Shikja
+		Mahjki Mahjkime Urosha Shina Hjiadi Zzana Ishi Kjahjpi Nzzoya Dahjta
+		Ubida Madi
+	}
+	lowborn = {
+	}
+
+}
+
+eastern_otomanguean_language = { #https://en.wikipedia.org/wiki/Oto-Manguean_languages#Eastern_branch
+
+	color = map_zapotec
+
+	family = otomanguean_language_family
+
+	male_names = {
+		#Zapotec
+		Besia Lazdao Kanaaxa Kanasha Ya'A Nduvi Xhila Shila Anu Kuaa Koo_Kuxi
+		Koo_Kushi Yaba Rhoyej Yibedao Zix Zish Belhj Banhez Yej
+		Xdan Shdan Nhisdao Berhinque Tangolu Bejo Gonhia Gobiz Binhe Yelha Ihio
+		Quexha Quesha
+		#Mixtec
+		Isu Ita_Ii Ita_Tii Kachi Kimi_Tuu Saa_Ii Tachi Yoko_Itu Yoo_Tsaa Yuku_Inu Yuu_Vii  
+	}
+	female_names = {
+		#Zapotec
+		Besia Lazdao Kanaaxa Kanasha Ya'A Nduvi Xhila Shila Anu Kuaa Koo_Kuxi
+		Koo_Kushi Yaba Rhoyej Yibedao Zix Zish Belhj Banhez Yej
+		Xdan Shdan Nhisdao Berhinque Tangolu Bejo Gonhia Gobiz Binhe Yelha Ihio
+		Quexha Quesha
+		#Mixtec
+		Isu Ita_Ii Ita_Tii Kachi Kimi_Tuu Saa_Ii Tachi Yoko_Itu Yoo_Tsaa Yuku_Inu Yuu_Vii  
+	}
+	dynasty_names = {
+		#Zapotec
+		Besia Lazdao Kanaaxa Kanasha Ya'A Nduvi Xhila Shila Anu Kuaa Koo_Kuxi
+		Koo_Kushi Yaba Rhoyej Yibedao Zix Zish Belhj Banhez Yej
+		Xdan Shdan Nhisdao Berhinque Tangolu Bejo Gonhia Gobiz Binhe Yelha Ihio
+		Quexha Quesha
+		#Mixtec
+		Isu Ita_Ii Ita_Tii Kachi Kimi_Tuu Saa_Ii Tachi Yoko_Itu Yoo_Tsaa Yuku_Inu Yuu_Vii  
+	}
+	lowborn = {
+	}
+
+}
+
+chontal_language = { #https://en.wikipedia.org/wiki/Guerrero_Chontal_language
+
+	color = map_chontal
+
+	family = chontal_language_family
+
+	male_names = { #Unknown
+		#Zapotec
+		Besia Lazdao Kanaaxa Kanasha Ya'A Nduvi Xhila Shila Anu Kuaa Koo_Kuxi
+		Koo_Kushi Yaba Rhoyej Yibedao Zix Zish Belhj Banhez Yej
+		Xdan Shdan Nhisdao Berhinque Tangolu Bejo Gonhia Gobiz Binhe Yelha Ihio
+		Quexha Quesha
+		#Mixtec
+		Isu Ita_Ii Ita_Tii Kachi Kimi_Tuu Saa_Ii Tachi Yoko_Itu Yoo_Tsaa Yuku_Inu Yuu_Vii  
+	}
+	female_names = { #Unknown
+		#Zapotec
+		Besia Lazdao Kanaaxa Kanasha Ya'A Nduvi Xhila Shila Anu Kuaa Koo_Kuxi
+		Koo_Kushi Yaba Rhoyej Yibedao Zix Zish Belhj Banhez Yej
+		Xdan Shdan Nhisdao Berhinque Tangolu Bejo Gonhia Gobiz Binhe Yelha Ihio
+		Quexha Quesha
+		#Mixtec
+		Isu Ita_Ii Ita_Tii Kachi Kimi_Tuu Saa_Ii Tachi Yoko_Itu Yoo_Tsaa Yuku_Inu Yuu_Vii  
+	}
+	dynasty_names = { #Unknown
+		#Zapotec
+		Besia Lazdao Kanaaxa Kanasha Ya'A Nduvi Xhila Shila Anu Kuaa Koo_Kuxi
+		Koo_Kushi Yaba Rhoyej Yibedao Zix Zish Belhj Banhez Yej
+		Xdan Shdan Nhisdao Berhinque Tangolu Bejo Gonhia Gobiz Binhe Yelha Ihio
+		Quexha Quesha
+		#Mixtec
+		Isu Ita_Ii Ita_Tii Kachi Kimi_Tuu Saa_Ii Tachi Yoko_Itu Yoo_Tsaa Yuku_Inu Yuu_Vii  
+	}
+	lowborn = {
+	}
+
+}
+
+totozoquean_language = {
+
+	color = map_totonac
+
+	male_names = {
+		Aktzin Qolu Aktzu Aqapun Akapun Akgapun Chamaqxkulit Chichini
+		Chichina Ikpaxkiyan Ixlimuh Jun Kakchin Kamtzumat Katsina Catzinah Kaxtlawanat Caxtlahuanat Kinaku
+		Quinakuh Kinakuhkan Kinana Quinanah Kintzeh Quinceh Kintse Kintzikan Kintiku Kintlat Kintzumat
+		Kintsumat Kistaku Quistacu Kixanat Quixanat Klaqatiyan Kuxi Cushi Kushi Lannaku
+		Taskiwi Tzumat Lantsumat Xanat Lanxanat Likatsin Lilatamat Limilhsen Limin Limuksun Lipaxawan
+		Lipaxaw Lipaxkin Listakni Litliwaqe Malanah Manixna Manixnah Manqanah Mapaqsina Maqastakna Matunkuna
+		Tierna Staku Staranka Stalanka Starenka Suja Jilina Tajsen Talhtzi
+		Talhtsi Tantsasnat Tasikunala Taxanan Taxtunu Taxtuna Tiku Tiyat Tlawanah Tsasnah
+		Tzasna Nakuh Tzikan Tsican      
+	}
+	female_names = {
+		Aktzin Qolu Aktzu Aqapun Akapun Akgapun Chamaqxkulit Chichini
+		Chichina Ikpaxkiyan Ixlimuh Jun Kakchin Kamtzumat Katsina Catzinah Kaxtlawanat Caxtlahuanat Kinaku
+		Quinakuh Kinakuhkan Kinana Quinanah Kintzeh Quinceh Kintse Kintzikan Kintiku Kintlat Kintzumat
+		Kintsumat Kistaku Quistacu Kixanat Quixanat Klaqatiyan Kuxi Cushi Kushi Lannaku
+		Taskiwi Tzumat Lantsumat Xanat Lanxanat Likatsin Lilatamat Limilhsen Limin Limuksun Lipaxawan
+		Lipaxaw Lipaxkin Listakni Litliwaqe Malanah Manixna Manixnah Manqanah Mapaqsina Maqastakna Matunkuna
+		Tierna Staku Staranka Stalanka Starenka Suja Jilina Tajsen Talhtzi
+		Talhtsi Tantsasnat Tasikunala Taxanan Taxtunu Taxtuna Tiku Tiyat Tlawanah Tsasnah
+		Tzasna Nakuh Tzikan Tsican      
+	}
+	dynasty_names = {
+		Chichina Ikpaxkiyan Ixlimuh Jun Kakchin Kamtzumat Katsina Catzinah Kaxtlawanat Caxtlahuanat Kinaku
+		Quinakuh Kinakuhkan Kinana Quinanah Kintzeh Quinceh Kintse Kintzikan Kintiku Kintlat Kintzumat
+	}
+	lowborn = {
+	}
+
+}
+
+maya_language = {
+
+	color = map_maya
+
+	male_names = {
+		Abatwaleh Ajatlab Ajib Ahib Alabel Alwa Alhua Bahtsik Bajtzic Chakam Chalpadh
+		Chapik Chojol Chohol Dhubax Dhutzlab Ejat Ehath Exobtsis Ich Ichamal Idhidh
+		It Ith Iyalab Jidhtal Jomkan Homcam Judhum Hudhum Kamal Kaylal
+		Kitsa Quitza Kuitol Labidh Oklek Qclec Oth Pachkil Padhum Tam
+		Taam Tayja Tayha Tenchin Tsidhan Tsunun Tzunun Tujub Tuhub TzumTe Unuph
+		Watsib Huatzib Wehnek Huejnek  
+		Yunuen Yaxkin Cadmael Pakal Abund Kaax Itzamna Kinich Smoke Ixpiyacoc
+		Bembe Hagen Eadric Xmucane Tadeas Chan Ahaw Jasaw Batz Kan Apoxpalon
+		Paxbolonacha Izamna Ajtzak Acan Ah-Ciliz Acalan Taavi Hunaphpu Aapo Xbalanque Xibalba
+		Hunahpu Popol Cabrakan Vucub Zipacna Chaac Babajide Hadwin Balam Kukulkan
+		Kawiil                  
+	}
+	female_names = {
+		Abatwaleh Ajatlab Ajib Ahib Alabel Alwa Alhua Bahtsik Bajtzic Chakam Chalpadh
+		Chapik Chojol Chohol Dhubax Dhutzlab Ejat Ehath Exobtsis Ich Ichamal Idhidh
+		It Ith Iyalab Jidhtal Jomkan Homcam Judhum Hudhum Kamal Kaylal
+		Kitsa Quitza Kuitol Labidh Oklek Qclec Oth Pachkil Padhum Tam
+		Taam Tayja Tayha Tenchin Tsidhan Tsunun Tzunun Tujub Tuhub TzumTe Unuph
+		Watsib Huatzib Wehnek Huejnek   
+		Yolotli Itzel Yuritzi Abarrane Abi Abha Yatzil Tikal Nymphaea Ixchel
+		Sancite Nicte Itzy Sacnicte Atziri Xelha Chichen Yohl Tecumbalam Colel Patli
+		Xoc Ixazaluoh Xpiayoc Xmucane Sak_Kuk Akna Chimalmat Zyanya       
+	}
+	dynasty_names = {
+		Kitsa Quitza Kuitol Labidh Oklek Qclec Oth Pachkil Padhum Tam
+		Taam Tayja Tayha Tenchin Tsidhan Tsunun Tzunun Tujub Tuhub TzumTe Unuph
+		Ac Au Baas Bacab Bak Balam Batun Caamal Cab Camal Can
+		Canche Canek Canul Catzim Cauich Ceh Cen Cetz Cex Chable Chac
+		Chale Chan Cay Che Chhel Chi Chim Chu Chuc Cime Cob
+		Cocom Coh Cool Couoh Cu Cupul Cutz Dzab Dzal Dzib Dzul
+		Ek Euan Hau Hiz Huchim Iz Kantun Katu Keb Kej Ku
+		Kutz Kuyoc Maaz Maty May Maz Mex Miis Moh Mucuy Na
+		Pol Poot Pot Puc Puch Tah Tamay Tul Tun Tuz Tzab
+		Tzama Tzek Uc Ucan Uicab Uitz Uxul Witzil Xiu Xol Xool
+		Yah Yam Yoc        
+	}
+	lowborn = {
+		Ac Au Baas Bacab Bak Balam Batun Caamal Cab Camal Can
+		Canche Canek Canul Catzim Cauich Ceh Cen Cetz Cex Chable Chac
+		Chale Chan Cay Che Chhel Chi Chim Chu Chuc Cime Cob
+		Cocom Coh Cool Couoh Cu Cupul Cutz Dzab Dzal Dzib Dzul
+		Ek Euan Hau Hiz Huchim Iz Kantun Katu Keb Kej Ku
+		Kutz Kuyoc Maaz Maty May Maz Mex Miis Moh Mucuy Na
+		Pol Poot Pot Puc Puch Tah Tamay Tul Tun Tuz Tzab
+		Tzama Tzek Uc Ucan Uicab Uitz Uxul Witzil Xiu Xol Xool
+		Yah Yam Yoc        
+	}
+
+}

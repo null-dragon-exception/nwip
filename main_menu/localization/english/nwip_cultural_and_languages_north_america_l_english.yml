@@ -1,0 +1,49 @@
+﻿l_english:
+  # North West
+    # Salishan
+ salishan_language_family: "Salishan"
+ tillamook_language: "Tillamook"
+ nuxalk_language: "Nuxalk"
+ southern_salish_language: "Southern Salishan"
+ northern_salish_language: "Northern Salishan"
+ central_salish_language: "Central Salishan"
+ tsamosan_language: "Tsamosan"
+    # Wakashan
+ wakashan_language_family: "Wakashan"
+ northern_wakashan_language: "Northern Wakashan"
+ southern_wakashan_language: "Southern Wakashan"
+ # West
+    # Na-dene
+ nadene_language_family: "Na-dené"
+ northern_athabaskan_language: "Northern Athabaskan"
+ southern_athabaskan_language: "Southern Athabaskan"
+ pacific_athabaskan_language: "Pacific Athabaskan"
+ tlingit_language: "Tlingit"
+     # Penutian
+ penutian_language_family: "Penutian"
+ inner_penutian_language: "Inner Penutian"
+ outer_penutian_language: "Outer Penutian"
+    # Hokan
+ hokan_language_family: "Hokan"
+ northern_hokan_language: "Northern Hokan"
+ yuman_hokan_language: "Yuman"
+ cochimi_hokan_language: "Cochimí"
+    # Yukian
+ yukian_language_family: "Yukian"
+ yuki_yukian_language: "Yuki"
+ wappo_yukian_language: "Wappo"
+ chumashan_yukian_language: "Chumashan"
+ waikuri_yukian_language: "Guaycura"
+ pericu_yukian_language: "Pericú"
+    # Comcaac/Seri
+ comcaac_language: "Cmiique Iitom"
+   # Utoaztecan
+ utoaztecan_language_family: "Utoaztecan"
+ numic_utoaztecan_language: "Numic"
+ takic_utoaztecan_language: "Takic"
+ tepiman_utoaztecan_language: "Tepiman"
+ tarahumaran_utoaztecan_language: "Tarahumaran"
+ cahitan_utoaztecan_language: "Cahitan"
+ coracholan_utoaztecan_language: "Corachol"
+ nahuan_utoaztecan_language: "Nahuan"
+ opatan_utoaztecan_language: "Opata"

@@ -1,0 +1,355 @@
+
+nuuchi_culture = { #https://en.wikipedia.org/wiki/Ute_people
+	language = numic_utoaztecan_language
+
+	color = map_nuuchi
+
+	tags = { native_american_tag north_american_gfx american_gfx central_plains_coa_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		nuuchi_nuwu_group
+	}
+}
+
+dine_culture = { #https://en.wikipedia.org/wiki/Navajo
+	language = southern_athabaskan_language
+
+	color = map_dine
+
+	tags = { native_american_tag north_american_gfx american_gfx central_plains_coa_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		nadene_group
+	}
+}
+
+nuwuvi_culture = {
+	language = numic_utoaztecan_language
+
+	color = map_nuwuvi
+
+	tags = { native_american_tag north_american_gfx american_gfx central_plains_coa_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		nuuchi_nuwu_group
+	}
+}
+
+nuwuvu_culture = {
+	language = numic_utoaztecan_language
+
+	color = map_nuwuvu
+
+	tags = { native_american_tag north_american_gfx american_gfx central_plains_coa_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		nuuchi_nuwu_group
+	}
+}
+
+kawaiisu_culture = {
+	language = numic_utoaztecan_language
+
+	color = map_kawaiisu
+
+	tags = { native_american_tag north_american_gfx american_gfx central_plains_coa_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		nuuchi_nuwu_group
+	}
+}
+
+agaideka_culture = {
+	language = numic_utoaztecan_language
+
+	color = map_agaideka
+
+	tags = { native_american_tag north_american_gfx american_gfx central_plains_coa_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		shoshoni_group
+	}
+}
+
+tukudeka_culture = {
+	language = numic_utoaztecan_language
+
+	color = map_tukudeka
+
+	tags = { native_american_tag north_american_gfx american_gfx central_plains_coa_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		shoshoni_group
+	}
+}
+
+bannock_culture = {
+	language = numic_utoaztecan_language
+
+	color = map_bannock
+
+	tags = { native_american_tag north_american_gfx american_gfx central_plains_coa_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		shoshoni_group
+	}
+}
+
+kuccuntikka_culture = {
+	language = numic_utoaztecan_language
+
+	color = map_kuccuntikka
+
+	tags = { native_american_tag north_american_gfx american_gfx central_plains_coa_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		shoshoni_group
+	}
+}
+
+penkwitikka_culture = {
+	language = numic_utoaztecan_language
+
+	color = map_penkwitikka
+
+	tags = { native_american_tag north_american_gfx american_gfx central_plains_coa_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		shoshoni_group
+	}
+}
+
+kusiutta_culture = {
+	language = numic_utoaztecan_language
+
+	color = map_kusiutta
+
+	tags = { native_american_tag north_american_gfx american_gfx central_plains_coa_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		shoshoni_group
+	}
+}
+
+tetadeka_culture = {
+	language = numic_utoaztecan_language
+
+	color = map_tetadeka
+
+	tags = { native_american_tag north_american_gfx american_gfx central_plains_coa_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		shoshoni_group
+	}
+}
+
+haivodika_culture = {
+	language = numic_utoaztecan_language
+
+	color = map_haivodika
+
+	tags = { native_american_tag north_american_gfx american_gfx central_plains_coa_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		shoshoni_group
+	}
+}
+
+watatikka_culture = {
+	language = numic_utoaztecan_language
+
+	color = map_watatikka
+
+	tags = { native_american_tag north_american_gfx american_gfx central_plains_coa_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		shoshoni_group
+	}
+}
+
+wiyimpihtikka_culture = {
+	language = numic_utoaztecan_language
+
+	color = map_wiyimpihtikka
+
+	tags = { north_american_gfx american_gfx central_plains_coa_gfx }
+
+	opinions = {
+	}
+
+}
+
+numu_culture = {
+	language = numic_utoaztecan_language
+
+	color = map_numu
+
+	tags = { native_american_tag north_american_gfx american_gfx central_plains_coa_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		shoshoni_group
+	}
+}
+
+monachi_culture = {
+	language = numic_utoaztecan_language
+
+	color = map_monachi
+
+	tags = { native_american_tag north_american_gfx american_gfx central_plains_coa_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		paiute_group
+	}
+}
+
+taaqtam_culture = {
+	language = takic_utoaztecan_language
+
+	color = map_taaqtam
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		takic_group
+	}
+}
+
+timbisha_culture = {
+	language = numic_utoaztecan_language
+
+	color = map_timbisha
+
+	tags = { north_american_gfx american_gfx }
+
+
+	opinions = {
+	}
+
+}
+
+taxliswet_culture = {
+	language = takic_utoaztecan_language
+
+	color = map_taxliswet
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		takic_group
+	}
+}
+
+tongva_culture = { #https://en.wikipedia.org/wiki/Tongva
+	language = takic_utoaztecan_language
+
+	color = map_tongva
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		takic_group
+	}
+}
+
+ktunaxa_culture = {
+	language = ktunaxa_language
+
+	color = map_ktunaxa
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		ktunaxa_group
+	}
+}
+
+yurok_culture = { #https://en.wikipedia.org/wiki/Yurok
+	language = algic_language
+
+	color = map_yurok
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		algic_group
+	}
+}
+
+wiyot_culture = {
+	language = algic_language
+
+	color = map_wiyot
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		algic_group
+	}
+}

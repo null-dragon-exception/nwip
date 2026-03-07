@@ -1,0 +1,21 @@
+﻿salishan_language_family = {
+	color = map_salishan_language_family
+}
+penutian_language_family = {
+	color = map_penutian_language_family
+}
+wakasan_language_family = {
+	color = map_wakashan_language_family
+}
+nadene_language_family = {
+	color = map_nadene_language_family
+}
+hokan_language_family = {
+	color = map_hokan_language_family
+}
+yukian_language_family = {
+	color = map_yukian_language_family
+}
+utoaztecan_language_family = {
+	color = map_utoaztecan_language_family
+}

@@ -1,0 +1,50 @@
+colors = {
+	map_hokan_language_family = rgb { 180 076 067 }
+	map_northern_hokan = rgb { 180 110 067 }
+	map_yuman_hokan = rgb { 180 090 067 }
+	map_cochimi_hokan = rgb { 180 60 067 }
+
+	map_penutian_language_family = rgb { 219 44 21 }
+	map_outer_penutian = rgb { 219 60 21 }
+	map_inner_penutian = rgb { 219 90 21 }
+
+	map_salishan_language_family = rgb { 097 053 085 }
+	map_tillamook_salish = rgb { 110 053 085 }
+	map_nuxalk_salish = rgb { 070 053 085 }
+	map_southern_salish = rgb { 090 070 085 }
+	map_northern_salish = rgb { 097 053 070 }
+	map_central_salish = rgb { 097 080 085 }
+	map_tsamosan_salish = rgb { 097 045 085 }
+
+	map_wakashan_language_family = rgb { 210 155 55 }
+	map_northern_wakashan = rgb { 210 155 0 }
+	map_southern_wakashan = rgb { 210 155 80 }
+
+	map_nadene_language_family = rgb { 168 252 27 }
+	map_northern_nadene = rgb { 220 252 27 }
+	map_southern_nadene = rgb { 130 252 27 }
+	map_pacific_nadene = rgb { 200 252 27 }
+	map_tlingit_nadene = rgb { 100 252 27 }
+
+	map_yukian_language_family = rgb { 210 10 15 }
+	map_wappo_yukian = rgb { 210 10 40 }
+	map_yuki_yukian = rgb { 210 10 60 }
+	map_chumashan_yukian = rgb { 210 0 0 }
+	map_waikuri_yukian = rgb { 210 30 30 }
+	map_pericu_yukian = rgb { 210 30 60 }
+
+	map_comcaac_language = rgb { 124 62 208 }
+
+	map_utoaztecan_language_family = rgb { 197 107 218 }
+	map_numic_utoaztecan = rgb { 197 140 218 }
+	map_takic_utoaztecan = rgb { 197 107 240 }
+	map_tepiman_utoaztecan = rgb { 197 140 240 }
+	map_tarahumaran_utoaztecan = rgb { 197 160 230 }
+	map_cahitan_utoaztecan = rgb { 197 175 255 }
+	map_coracholan_utoaztecan = rgb { 197 107 200 }
+	map_nahuan_utoaztecan = rgb { 197 127 228 }
+	map_opatan_utoaztecan = rgb { 197 127 249 }
+
+	map_coahuilteco = rgb { 010 100 000 }
+}
+

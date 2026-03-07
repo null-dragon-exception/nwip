@@ -1,0 +1,422 @@
+﻿#Salishan
+chehalis_culture = {
+	language = tsamosan_language
+
+	color = map_chehalis
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		salishan_group
+	}
+}
+
+tillamook_culture = {
+	language = tillamook_language
+
+	color = map_tillamook
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		salishan_group
+	}
+}
+
+lushootseed_culture = {
+	language = central_salish_language
+
+	color = map_lushootseed
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		salishan_group
+	}
+}
+
+twana_culture = { #https://en.wikipedia.org/wiki/Twana
+	language = central_salish_language
+
+	color = map_twana
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		salishan_group
+	}
+}
+
+halkomelem_culture = { #https://en.wikipedia.org/wiki/Halkomelem
+	language = central_salish_language
+
+	color = map_halkomelem
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		salishan_group
+	}
+}
+
+sklallam_culture = { #https://en.wikipedia.org/wiki/Klallam_people
+	language = central_salish_language
+
+	color = map_sklallam
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		salishan_group
+	}
+}
+
+saanich_culture = { #https://en.wikipedia.org/wiki/Saanich_people
+	language = central_salish_language
+
+	color = map_saanich
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		salishan_group
+	}
+}
+
+lummi_culture = { #https://en.wikipedia.org/wiki/Lummi_Nation
+	language = central_salish_language
+
+	color = map_lummi
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		salishan_group
+	}
+}
+
+squamish_culture = {
+	language = central_salish_language
+
+	color = map_squamish
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		salishan_group
+	}
+}
+
+k_omoks_culture = {
+	language = central_salish_language
+
+	color = map_k_omoks
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		salishan_group
+	}
+}
+
+saleesh_culture = {
+	language = southern_salish_language
+
+	color = map_saleesh
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		salishan_group
+	}
+}
+
+alene_culture = {
+	language = southern_salish_language
+
+	color = map_alene
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		salishan_group
+	}
+}
+
+kalispel_culture = {
+	language = southern_salish_language
+
+	color = map_kalispel
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		salishan_group
+	}
+}
+
+sinkiuse_culture = {
+	language = southern_salish_language
+
+	color = map_sinkiuse
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		salishan_group
+	}
+}
+
+spokane_culture = {
+	language = southern_salish_language
+
+	color = map_spokane
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		salishan_group
+	}
+}
+
+okanagan_culture = {
+	language = southern_salish_language
+
+	color = map_okanagan
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		salishan_group
+	}
+}
+
+sinixt_culture = {
+	language = southern_salish_language
+
+	color = map_sinixt
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		salishan_group
+	}
+}
+
+lillooet_culture = {
+	language = northern_salish_language
+
+	color = map_lillooet
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		salishan_group
+	}
+}
+
+nlakapamuk_culture = {
+	language = northern_salish_language
+
+	color = map_nlakapamuk
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		salishan_group
+	}
+}
+
+shuswap_culture = {
+	language = northern_salish_language
+
+	color = map_shuswap
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		salishan_group
+	}
+}
+
+nuxalc_culture = {
+	language = nuxalk_language
+
+	color = map_nuxalc
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		salishan_group
+	}
+}
+
+# Wakashan
+
+makah_culture = {
+	language = southern_wakashan_language
+
+	color = map_makah
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		wakashan_group
+	}
+}
+
+nootka_culture = {
+	language = southern_wakashan_language
+
+	color = map_nootka
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		wakashan_group
+	}
+}
+
+kwakiutl_culture = {
+	language = northern_wakashan_language
+
+	color = map_kwakiutl
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		wakashan_group
+	}
+}
+
+oowekyala_culture = {
+	language = northern_wakashan_language
+
+	color = map_oowekyala
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		wakashan_group
+	}
+}
+
+heiltsuk_culture = {
+	language = northern_wakashan_language
+
+	color = map_heiltsuk
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		wakashan_group
+	}
+}
+
+haisla_culture = {
+	language = northern_wakashan_language
+
+	color = map_haisla
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		wakashan_group
+	}
+}
+
+chilcotin_culture = {
+	language = northern_athabaskan_language
+
+	color = map_chilcotin
+
+	tags = { native_american_tag north_american_gfx american_gfx central_plains_coa_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		nadene_group
+	}
+}

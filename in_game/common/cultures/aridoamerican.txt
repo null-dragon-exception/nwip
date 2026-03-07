@@ -1,0 +1,504 @@
+﻿
+acaxee_culture = { #https://en.wikipedia.org/wiki/Acaxee 
+	language = tarahumaran_utoaztecan_language
+	
+	color = map_acaxee
+	
+	tags = { native_american_tag north_american_gfx american_gfx sinaloa_coa_gfx }
+
+	opinions = {
+	}
+	
+	culture_groups = {
+		yutonahua_group
+	}
+}
+
+guarijio_culture = { #Macurawe  https://en.wikipedia.org/wiki/Guarijio_people
+	language = tarahumaran_utoaztecan_language
+	
+	color = map_guarijio
+	
+	tags = { native_american_tag north_american_gfx american_gfx pueblo_coa_gfx }
+
+	opinions = {
+	}
+	
+	culture_groups = {
+		yutonahua_group
+	}
+}
+
+huichol_culture = { #Wixárikas #https://en.wikipedia.org/wiki/Huichol 
+	language = coracholan_utoaztecan_language
+	
+	color = map_huichol
+	
+	tags = { native_american_tag north_american_gfx american_gfx aztec_coa_gfx }
+
+	opinions = {
+	}
+	
+	culture_groups = {
+		yutonahua_group
+	}
+}
+
+naayeri_culture = { #https://en.wikipedia.org/wiki/Cora_people
+	language = coracholan_utoaztecan_language
+	
+	color = map_naayeri
+	
+	tags = { native_american_tag north_american_gfx american_gfx aztec_coa_gfx }
+
+	opinions = {
+	}
+	
+	culture_groups = {
+		yutonahua_group
+	}
+}
+
+mayo_culture = { #Yoreme  https://en.wikipedia.org/wiki/Mayo_people
+	language = cahitan_utoaztecan_language
+	
+	color = map_mayo
+	
+	tags = { native_american_tag north_american_gfx american_gfx sinaloa_coa_gfx pueblo_coa_gfx }
+
+	opinions = {
+	}
+	
+	culture_groups = {
+		yutonahua_group
+	}
+}
+
+opata_culture = { #https://en.wikipedia.org/wiki/Opata_people
+	language = opatan_utoaztecan_language
+	
+	color = map_opata
+	
+	tags = { native_american_tag north_american_gfx american_gfx pueblo_coa_gfx }
+
+	opinions = {
+	}
+	
+	culture_groups = {
+		yutonahua_group
+	}
+}
+
+pima_culture = { #Othama  https://en.wikipedia.org/wiki/Akimel_O%27odham
+	language = tepiman_utoaztecan_language
+	
+	color = map_pima
+	
+	tags = { native_american_tag north_american_gfx american_gfx pueblo_coa_gfx }
+
+	opinions = {
+	}
+	
+	culture_groups = {
+		yutonahua_group
+	}
+}
+
+raramuri_culture = { #https://en.wikipedia.org/wiki/Rar%C3%A1muri
+	language = tarahumaran_utoaztecan_language
+	
+	color = map_raramuri
+	
+	tags = { native_american_tag north_american_gfx american_gfx pueblo_coa_gfx }
+
+	opinions = {
+	}
+	
+	culture_groups = {
+		yutonahua_group
+	}
+}
+
+yaqui_culture = { #Yoreme https://en.wikipedia.org/wiki/Yaqui
+	language = cahitan_utoaztecan_language
+	
+	color = map_yaqui
+	
+	tags = { native_american_tag north_american_gfx american_gfx pueblo_coa_gfx }
+
+	opinions = {
+	}
+	
+	culture_groups = {
+		yutonahua_group
+	}
+}
+
+hopi_culture = { #https://en.wikipedia.org/wiki/Hopi
+	language = numic_utoaztecan_language
+	
+	color = map_hopi
+	
+	tags = { native_american_tag north_american_gfx american_gfx pueblo_coa_gfx }
+
+	culture_groups = {
+		puebloan_group
+		yutonahua_group
+	}
+
+	opinions = {
+	}
+	
+}
+
+zuni_culture = {#https://en.wikipedia.org/wiki/Zuni_people
+	language = zuni_language
+	
+	color = map_zuni
+	
+	tags = { native_american_tag north_american_gfx american_gfx pueblo_coa_gfx }
+
+	culture_groups = {
+		puebloan_group
+		zuni_group
+	}
+
+	opinions = {
+	}
+	
+}
+
+keres_culture = { #https://en.wikipedia.org/wiki/Keres_people
+	language = keres_language
+	
+	color = map_teypana
+	
+	tags = { native_american_tag north_american_gfx american_gfx pueblo_coa_gfx }
+
+	culture_groups = {
+		puebloan_group
+		keres_group
+	}
+
+	opinions = {
+	}
+	
+}
+
+tanoan_culture = {  #https://en.wikipedia.org/wiki/Tanoan_languages
+	language = tanoan_language
+	
+	color = map_tanoan
+	
+	tags = { native_american_tag north_american_gfx american_gfx pueblo_coa_gfx }
+
+	culture_groups = {
+		puebloan_group
+		tanoan_group
+	}
+
+	opinions = {
+	}
+	
+}
+
+totorame_culture = {  #https://indigenousmexico.org/sinaloa/the-original-indigenous-people-of-sinaloa/
+	language = coracholan_utoaztecan_language
+	
+	color = map_totorame
+	
+	tags = { native_american_tag north_american_gfx american_gfx sinaloa_coa_gfx }
+
+	opinions = {
+	}
+	culture_groups = {
+		yutonahua_group
+	}
+}
+
+xixime_culture = {  #https://en.wikipedia.org/wiki/Xiximes
+	language = tarahumaran_utoaztecan_language
+	
+	color = map_xixime
+	
+	tags = { native_american_tag north_american_gfx american_gfx sinaloa_coa_gfx }
+
+	opinions = {
+	}
+	culture_groups = {
+		yutonahua_group
+	}
+}
+
+tahue_culture = {  #https://es.wikipedia.org/wiki/Tahues
+	language = tarahumaran_utoaztecan_language
+	
+	color = map_tahue
+	
+	tags = { native_american_tag north_american_gfx american_gfx sinaloa_coa_gfx }
+
+	opinions = {
+	}
+	culture_groups = {
+		yutonahua_group
+	}
+}
+
+tepehuan_culture = {  #https://en.wikipedia.org/wiki/Tepehu%C3%A1n #O'dam
+	language = tepiman_utoaztecan_language
+	
+	color = map_tepehuan
+	
+	tags = { native_american_tag north_american_gfx american_gfx sinaloa_coa_gfx }
+
+	opinions = {
+	}
+	culture_groups = {
+		yutonahua_group
+	}
+}
+
+yoli_culture = {  #https://es.wikipedia.org/wiki/Conchos
+	language = tarahumaran_utoaztecan_language
+	
+	color = map_yoli
+	
+	tags = { native_american_tag north_american_gfx american_gfx pueblo_coa_gfx }
+
+	opinions = {
+	}
+	culture_groups = {
+		yutonahua_group
+	}
+}
+
+xumani_culture = {  #https://en.wikipedia.org/wiki/Jumanos
+	language = southern_athabaskan_language
+	
+	color = map_xumani
+	
+	tags = { native_american_tag north_american_gfx american_gfx pueblo_coa_gfx }
+
+	opinions = {
+	}
+	culture_groups = {
+		yutonahua_group
+	}
+}
+
+toboso_culture = { #https://es.wikipedia.org/wiki/Tobosos
+	language = southern_athabaskan_language
+	
+	color = map_toboso
+	
+	tags = { native_american_tag north_american_gfx american_gfx chichimec_coa_gfx }
+
+	opinions = {
+	}
+	culture_groups = {
+		yutonahua_group
+	}
+}
+
+irritila_culture = { #https://es.wikipedia.org/wiki/Irritila
+	language = nahuan_utoaztecan_language
+	
+	color = map_irritila
+	
+	tags = { native_american_tag north_american_gfx american_gfx chichimec_coa_gfx }
+
+	opinions = {
+	}
+	culture_groups = {
+		nahua_group
+	}
+}
+
+coahuilteco_culture = { #https://es.wikipedia.org/wiki/Coahuiltecos
+	language = coahuilteco_language
+	
+	color = map_coahuilteco
+	
+	tags = { native_american_tag north_american_gfx american_gfx huastec_coa_gfx }
+
+	opinions = {
+	}
+	culture_groups = {
+		coahuilteco_group
+	}
+}
+
+tamauliteco_culture = { #https://es.wikipedia.org/wiki/Tamaulitecos
+	language = coahuilteco_language
+	
+	color = map_tamauliteco
+	
+	tags = { native_american_tag north_american_gfx american_gfx huastec_coa_gfx }
+
+	opinions = {
+	}
+	culture_groups = {
+		coahuilteco_group
+	}
+}
+
+caddo_culture = { #https://en.wikipedia.org/wiki/Caddo
+	language = caddoan_language
+	
+	color = map_caddo
+	
+	tags = { native_american_tag north_american_gfx american_gfx gulf_mississippi_coa_gfx }
+
+	opinions = {
+	}
+	culture_groups = {
+		caddoan_group
+	}
+}
+
+kitsai_culture = { #K'itaish #https://en.wikipedia.org/wiki/Kichai_people
+	language = caddoan_language
+	
+	color = map_kitsai
+	
+	tags = { native_american_tag north_american_gfx american_gfx gulf_mississippi_coa_gfx }
+
+	opinions = {
+	}
+	culture_groups = {
+		caddoan_group
+	}
+}
+
+karankawa_culture = { #https://en.wikipedia.org/wiki/Karankawa_people
+	language = coahuilteco_language
+	
+	color = map_karankawa
+	
+	tags = { native_american_tag north_american_gfx american_gfx huastec_coa_gfx }
+
+	opinions = {
+	}
+	culture_groups = {
+		coahuilteco_group
+	}
+}
+
+comecrudo_culture = { #Esto'k Gna #https://en.wikipedia.org/wiki/Comecrudan_languages
+	language = coahuilteco_language
+	
+	color = map_comecrudo
+	
+	tags = { native_american_tag north_american_gfx american_gfx huastec_coa_gfx }
+
+	opinions = {
+	}
+	culture_groups = {
+		coahuilteco_group
+	}
+}
+
+atakapa_culture = { #Ishak #https://en.wikipedia.org/wiki/Atakapa
+	language = atakapa_language
+	
+	color = map_atakapa
+	
+	tags = { native_american_tag north_american_gfx american_gfx gulf_mississippi_coa_gfx }
+
+	opinions = {
+	}
+	culture_groups = {
+		atakapa_group
+	}
+}
+
+quasmigdo_culture = { #Bidai #https://en.wikipedia.org/wiki/Bidai
+	language = atakapa_language
+	
+	color = map_quasmigdo
+	
+	tags = { native_american_tag north_american_gfx american_gfx gulf_mississippi_coa_gfx }
+
+	opinions = {
+	}
+	culture_groups = {
+		atakapa_group
+	}
+}
+
+ancestral_pueblo_culture = { #Hisatsinom  #https://en.wikipedia.org/wiki/Ancestral_Puebloans
+	language = southern_athabaskan_language
+	
+	color = map_ancestral_pueblo
+	
+	tags = { native_american_tag north_american_gfx american_gfx pueblo_coa_gfx }
+
+	opinions = {
+	}
+	
+	culture_groups = {
+		yutonahua_group
+	}
+}
+
+#Cultures that will migrate into the region
+
+#lepai_nde_culture = { #Lépai-Ndé #https://en.wikipedia.org/wiki/Lipan_Apache_people
+#	language = southern_athabaskan_dialect
+#	
+#	color = map_lepai_nde
+#	
+#	tags = { north_american_gfx american_gfx }
+
+#	ethnicities = {
+#		10 = american_ethnicity
+#	}
+#	
+#	opinions = {
+#	}
+#}
+
+#ndee_culture = { #Ndee  #https://en.wikipedia.org/wiki/Western_Apache_people
+#	language = southern_athabaskan_dialect
+#	
+#	color = map_ndee
+#	
+#	tags = { north_american_gfx american_gfx }
+
+#	ethnicities = {
+#		10 = american_ethnicity
+#	}
+#	
+#	opinions = {
+#	}
+#}
+
+#mescalero_culture = { #Naa'dahéõdé #https://en.wikipedia.org/wiki/Mescalero
+#	language = southern_athabaskan_dialect
+#	
+#	color = map_mescalero
+#	
+#	tags = { north_american_gfx american_gfx }
+
+#	ethnicities = {
+#		10 = american_ethnicity
+#	}
+#	
+#	opinions = {
+#	}
+#}
+
+#tonkawa_culture = { #https://en.wikipedia.org/wiki/Tonkawa
+#	language = tonkawa_language
+#	
+#	color = map_tonkawa
+#	
+#	tags = { north_american_gfx american_gfx }
+
+#	ethnicities = {
+#		10 = american_ethnicity
+#	}
+#	
+#	opinions = {
+#	}
+#}
